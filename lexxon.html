@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!-- This work is composed of four parts, each of which are licensed differently.
+ a) The code (comprised of lexxon.html, lexxon.css, and lexxon.js) is licensed under the 
+  Attribution-NonCommercial Creative Commons License (https://creativecommons.org/licenses/by-nc/4.0/)
+  which permits derivative works which credit the original author. However, derivative works
+  are not permitted to use the name "Lexxon" or its logo.
+ b) Redistribution of the logo is not permitted. 
+ c) The Bible verses, drawn from Berea Standard Bible (https://bereanbible.com/), remain
+    subject to the distribution terms of that text.
+ e) The Strongs lexicons, drawn from https://github.com/openscriptures/strongs, remain
+    subject to the distribution terms of the source. 
+    
+    - memphisbarbecue (https://github.com/memphisbarbecue/)-->
+<html>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="lexxon.css"/>
+    <script src="lexxon.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body onload="pageLoad()" id ="body">
+    <div class="header" style="position:relative; top:0vh;height:15vh;">
+        <img src="images/lexxon.png"  style="left:0;width: 200px; min-width: 200px"/>
+        <div style="width:40vw;position:absolute;right:10vw; top:5vh;">
+            <div class="header_btn" onclick="stats()">Stats</div>
+            <div class="header_btn" onclick="info()">Info</div> 
+        </div>       
+    </div>
+    <div class="guessbar" style="text-align:center; position:relative;top:0vh">
+      <div class="guessdot " id="guessdot1" ></div>
+      <div class="guessdot " id="guessdot2" ></div>
+      <div class="guessdot " id="guessdot3" ></div>
+      <div class="guessdot " id="guessdot4" ></div>
+    </div>
+    <div class="slideshow-container" style="position:relative;top:0vh;width:95vw;max-width:1000px;height:30vh">
+
+        <!-- Full-width images with number and caption text -->
+        <div class="mySlides fade ">
+          <div class="text" id="text1">Caption Text</div>
+        </div>
+      
+        <div class="mySlides fade">
+          <div class="text" id="text2">Caption Two</div>
+        </div>
+      
+        <div class="mySlides fade">
+          <div class="text" id="text3">Caption Three</div>
+        </div>
+        <div class="mySlides fade">
+            <div class="text" id="text4">Caption Four</div>
+          </div>
+        <!-- Next and previous buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      </div>
+      <br>
+      
+      <!-- The dots/circles -->
+      <div class="dotbar" style="text-align:center; position:relative;top:0vh">
+        <div class="dot inactive" id="dot1" onclick="currentSlide(1)"></div>
+        <div class="dot inactive" id="dot2" onclick="currentSlide(2)"></div>
+        <div class="dot inactive" id="dot3" onclick="currentSlide(3)"></div>
+        <div class="dot inactive" id="dot4" onclick="currentSlide(4)"></div>
+      </div>
+      <div style="top:0vh;width:95vw;height:30vh; position: relative; margin:auto;">
+        <div id = "wordslot_0" class="wordslot"><div id="wordbutton_0" class="wordbutton" onmousedown="registerWordButtonClick(0)" onmouseover="define(0)"></div><div id="wordhelp_0" class="definition_button"onmousedown="define(0)" >?</div><div id="wordhelp_0" class="check_button"onmousedown="check(0)" >Check</div></div>
+        <div id = "wordslot_1" class="wordslot"><div id="wordbutton_1" class="wordbutton" onmousedown="registerWordButtonClick(1)" onmouseover="define(1)"></div><div id="wordhelp_1" class="definition_button"onmousedown="define(1)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(1)" >Check</div></div>
+        <div id = "wordslot_2"class="wordslot"><div id="wordbutton_2" class="wordbutton" onmousedown="registerWordButtonClick(2)" onmouseover="define(2)"></div><div id="wordhelp_2" class="definition_button"onmousedown="define(2)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(2)" >Check</div></div>
+        <div id = "wordslot_3" class="wordslot"><div id="wordbutton_3" class="wordbutton" onmousedown="registerWordButtonClick(3)"onmouseover="define(3)"></div><div id="wordhelp_3" class="definition_button"onmousedown="define(3)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(3)" >Check</div></div>
+
+        <div id = "wordslot_4"class="wordslot"><div id="wordbutton_4" class="wordbutton" onmousedown="registerWordButtonClick(4)" onmouseover="define(4)"  ></div><div id="wordhelp_4" class="definition_button"onmousedown="define(4)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(4)" >Check</div></div>
+      </div>
+      <div style="top:0vh;width:90vw;height:10vh; margin: auto; position:relative">
+        <div id ="def_panel"></div>
+      </div>
+    
+</body>
+</html>
+
