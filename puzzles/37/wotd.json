@@ -1,209 +1,263 @@
 {
     "wotd": {
-        "number": 3367,
-        "lemma": "\u03bc\u03b7\u03b4\u1f73\u03bd",
-        "xlit": "m\u0113d\u00e9n",
-        "pronunciation": "may-den'",
-        "description": " not even one (man, woman, thing)",
-        "pspeech": "Adj-DMS"
+        "number": 4159,
+        "lemma": "\u03c0\u1f79\u03b8\u03b5\u03bd",
+        "xlit": "p\u00f3then",
+        "pronunciation": "poth'-en",
+        "description": " from which (as\n interrogative) or what (as relative) place, state, source or\n cause",
+        "pspeech": "Adv"
     },
     "verses": [
         {
-            "verse_no": 27040,
-            "verse_ref": "Acts 4:17",
+            "verse_no": 26357,
+            "verse_ref": "John 7:28",
             "verse_data": [
                 {
-                    "BSB Version": " But ",
-                    "Str Grk": 235.0,
-                    "lemma": "\u1f00\u03bb\u03bb\u2019",
-                    "xlit": "all\u2019"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 2443.0,
-                    "lemma": "\u1f35\u03bd\u03b1",
-                    "xlit": "hina"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3361.0,
-                    "lemma": "\u03bc\u1f74",
-                    "xlit": "m\u0113"
-                },
-                {
-                    "BSB Version": " keep [this message] from spreading ",
-                    "Str Grk": 1268.0,
-                    "lemma": "\u03b4\u03b9\u03b1\u03bd\u03b5\u03bc\u03b7\u03b8\u1fc7",
-                    "xlit": "dianem\u0113th\u0113"
-                },
-                {
-                    "BSB Version": " any further ",
-                    "Str Grk": 4119.0,
-                    "lemma": "\u03c0\u03bb\u03b5\u1fd6\u03bf\u03bd",
-                    "xlit": "pleion"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c0\u1f76",
-                    "xlit": "epi"
-                },
-                {
-                    "BSB Version": " among ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " people ",
-                    "Str Grk": 2992.0,
-                    "lemma": "\u03bb\u03b1\u03cc\u03bd",
-                    "xlit": "laon"
-                },
-                {
-                    "BSB Version": " we must warn ",
-                    "Str Grk": 546.0,
-                    "lemma": "\u1f00\u03c0\u03b5\u03b9\u03bb\u03b7\u03c3\u03ce\u03bc\u03b5\u03b8\u03b1",
-                    "xlit": "apeil\u0113s\u014dmetha"
-                },
-                {
-                    "BSB Version": " them ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "autois"
-                },
-                {
-                    "BSB Version": " not ",
-                    "Str Grk": 3371.0,
-                    "lemma": "\u03bc\u03b7\u03ba\u03ad\u03c4\u03b9",
-                    "xlit": "m\u0113keti"
-                },
-                {
-                    "BSB Version": " to speak ",
-                    "Str Grk": 2980.0,
-                    "lemma": "\u03bb\u03b1\u03bb\u03b5\u1fd6\u03bd",
-                    "xlit": "lalein"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 3367.0,
-                    "lemma": "\u03bc\u03b7\u03b4\u03b5\u03bd\u1f76",
-                    "xlit": "m\u0113deni"
-                },
-                {
-                    "BSB Version": " anyone ",
-                    "Str Grk": 444.0,
-                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd",
-                    "xlit": "anthr\u014dp\u014dn"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c0\u1f76",
-                    "xlit": "epi"
-                },
-                {
-                    "BSB Version": " this ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u1ff3",
-                    "xlit": "tout\u014d"
+                    "BSB Version": " Then ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " name ",
-                    "Str Grk": 3686.0,
-                    "lemma": "\u1f40\u03bd\u03cc\u03bc\u03b1\u03c4\u03b9",
-                    "xlit": "onomati"
-                }
-            ],
-            "verse_text": "But that it might not spread further on among the people, let us warn them to speak no longer to <i>any</i> man in this name.\""
-        },
-        {
-            "verse_no": 28371,
-            "verse_ref": "1 Corinthians 1:7",
-            "verse_data": [
-                {
-                    "BSB Version": " Therefore ",
-                    "Str Grk": 5620.0,
-                    "lemma": "\u1f65\u03c3\u03c4\u03b5",
-                    "xlit": "h\u014dste"
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
                 },
                 {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
+                    "BSB Version": " still teaching ",
+                    "Str Grk": 1321.0,
+                    "lemma": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03c9\u03bd",
+                    "xlit": "didask\u014dn"
                 },
                 {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3361.0,
-                    "lemma": "\u03bc\u1f74",
-                    "xlit": "m\u0113"
-                },
-                {
-                    "BSB Version": " do not lack ",
-                    "Str Grk": 5302.0,
-                    "lemma": "\u1f51\u03c3\u03c4\u03b5\u03c1\u03b5\u1fd6\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "hystereisthai"
-                },
-                {
-                    "BSB Version": " . . . ",
+                    "BSB Version": " in ",
                     "Str Grk": 1722.0,
                     "lemma": "\u1f10\u03bd",
                     "xlit": "en"
                 },
                 {
-                    "BSB Version": " [any] ",
-                    "Str Grk": 3367.0,
-                    "lemma": "\u03bc\u03b7\u03b4\u03b5\u03bd\u1f76",
-                    "xlit": "m\u0113deni"
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
                 },
                 {
-                    "BSB Version": " spiritual gift ",
-                    "Str Grk": 5486.0,
-                    "lemma": "\u03c7\u03b1\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03b9",
-                    "xlit": "charismati"
+                    "BSB Version": " temple [courts] ",
+                    "Str Grk": 2411.0,
+                    "lemma": "\u1f31\u03b5\u03c1\u1ff7",
+                    "xlit": "hier\u014d"
                 },
                 {
-                    "BSB Version": " as you eagerly await ",
-                    "Str Grk": 553.0,
-                    "lemma": "\u1f00\u03c0\u03b5\u03ba\u03b4\u03b5\u03c7\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
-                    "xlit": "apekdechomenous"
+                    "BSB Version": " cried out ",
+                    "Str Grk": 2896.0,
+                    "lemma": "\u1f1c\u03ba\u03c1\u03b1\u03be\u03b5\u03bd",
+                    "xlit": "Ekraxen"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03c9\u03bd",
+                    "xlit": "leg\u014dn"
+                },
+                {
+                    "BSB Version": " You know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03bf\u1f34\u03b4\u03b1\u03c4\u03b5",
+                    "xlit": "oidate"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 2504.0,
+                    "lemma": "\u039a\u1f00\u03bc\u1f72",
+                    "xlit": "Kame"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " you know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03bf\u1f34\u03b4\u03b1\u03c4\u03b5",
+                    "xlit": "oidate"
+                },
+                {
+                    "BSB Version": " where ",
+                    "Str Grk": 4159.0,
+                    "lemma": "\u03c0\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "pothen"
+                },
+                {
+                    "BSB Version": " I am {from} ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f30\u03bc\u03af",
+                    "xlit": "eimi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " I have not come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f10\u03bb\u03ae\u03bb\u03c5\u03b8\u03b1",
+                    "xlit": "el\u0113lytha"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u2019",
+                    "xlit": "ap\u2019"
+                },
+                {
+                    "BSB Version": " My own accord ",
+                    "Str Grk": 1683.0,
+                    "lemma": "\u1f10\u03bc\u03b1\u03c5\u03c4\u03bf\u1fe6",
+                    "xlit": "emautou"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u2019",
+                    "xlit": "all\u2019"
+                },
+                {
+                    "BSB Version": " He who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " sent ",
+                    "Str Grk": 3992.0,
+                    "lemma": "\u03c0\u03ad\u03bc\u03c8\u03b1\u03c2",
+                    "xlit": "pempsas"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f14\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " true ",
+                    "Str Grk": 228.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1f78\u03c2",
+                    "xlit": "al\u0113thinos"
+                },
+                {
+                    "BSB Version": " You ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "hymeis"
+                },
+                {
+                    "BSB Version": " {do} not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03bf\u1f34\u03b4\u03b1\u03c4\u03b5",
+                    "xlit": "oidate"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43\u03bd",
+                    "xlit": "hon"
+                }
+            ],
+            "verse_text": "Therefore Jesus cried out in the temple, teaching and saying, \"You know Me and you know where I am from. And I have not come of Myself, but the <i>One</i> having sent Me is true, whom you do not know."
+        },
+        {
+            "verse_no": 24937,
+            "verse_ref": "Luke 1:43",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " why ",
+                    "Str Grk": 4159.0,
+                    "lemma": "\u03c0\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "pothen"
+                },
+                {
+                    "BSB Version": " am I ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " so [honored] ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
                 },
                 {
                     "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " revelation ",
-                    "Str Grk": 602.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03ac\u03bb\u03c5\u03c8\u03b9\u03bd",
-                    "xlit": "apokalypsin"
+                    "BSB Version": " mother ",
+                    "Str Grk": 3384.0,
+                    "lemma": "\u03bc\u03ae\u03c4\u03b7\u03c1",
+                    "xlit": "m\u0113t\u0113r"
                 },
                 {
-                    "BSB Version": " of our ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
-                    "xlit": "h\u0113m\u014dn"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " of ",
                     "Str Grk": 3588.0,
                     "lemma": "\u03c4\u03bf\u1fe6",
                     "xlit": "tou"
+                },
+                {
+                    "BSB Version": " my ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
                 },
                 {
                     "BSB Version": " Lord ",
@@ -212,47 +266,204 @@
                     "xlit": "Kyriou"
                 },
                 {
-                    "BSB Version": " Jesus ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
-                    "xlit": "I\u0113sou"
+                    "BSB Version": " should come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f14\u03bb\u03b8\u1fc3",
+                    "xlit": "elth\u0113"
                 },
                 {
-                    "BSB Version": " Christ ",
-                    "Str Grk": 5547.0,
-                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
-                    "xlit": "Christou"
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u03ad",
+                    "xlit": "eme"
                 }
             ],
-            "verse_text": "so as for you not to be lacking in <i>any</i> gift as you eagerly await the revelation of our Lord Jesus Christ,"
+            "verse_text": "And from where <i>is</i> this to me, that the mother of my Lord should come to me?"
         },
         {
-            "verse_no": 28593,
-            "verse_ref": "1 Corinthians 10:25",
+            "verse_no": 26093,
+            "verse_ref": "John 1:48",
             "verse_data": [
                 {
-                    "BSB Version": " Eat ",
-                    "Str Grk": 2068.0,
-                    "lemma": "\u1f10\u03c3\u03b8\u03af\u03b5\u03c4\u03b5",
-                    "xlit": "esthiete"
+                    "BSB Version": " How ",
+                    "Str Grk": 4159.0,
+                    "lemma": "\u03a0\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "Pothen"
                 },
                 {
-                    "BSB Version": " anything ",
-                    "Str Grk": 3956.0,
-                    "lemma": "\u03a0\u1fb6\u03bd",
-                    "xlit": "Pan"
+                    "BSB Version": " do You know ",
+                    "Str Grk": 1097.0,
+                    "lemma": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03b5\u03b9\u03c2",
+                    "xlit": "gin\u014dskeis"
+                },
+                {
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " Nathanael ",
+                    "Str Grk": 3482.0,
+                    "lemma": "\u039d\u03b1\u03b8\u03b1\u03bd\u03b1\u03ae\u03bb",
+                    "xlit": "Nathana\u0113l"
+                },
+                {
+                    "BSB Version": " asked ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u039b\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "Legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " replied ",
+                    "Str Grk": 611.0,
+                    "lemma": "\u1f08\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+                    "xlit": "Apekrith\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " Before ",
+                    "Str Grk": 4253.0,
+                    "lemma": "\u03a0\u03c1\u1f78",
+                    "xlit": "Pro"
+                },
+                {
+                    "BSB Version": " Philip ",
+                    "Str Grk": 5376.0,
+                    "lemma": "\u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03bd",
+                    "xlit": "Philippon"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78",
-                    "xlit": "to"
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " sold ",
-                    "Str Grk": 4453.0,
-                    "lemma": "\u03c0\u03c9\u03bb\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03bd",
-                    "xlit": "p\u014dloumenon"
+                    "BSB Version": " called ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "ph\u014dn\u0113sai"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03b5",
+                    "xlit": "se"
+                },
+                {
+                    "BSB Version": " I saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u03b5\u1f36\u03b4\u03cc\u03bd",
+                    "xlit": "eidon"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03b5",
+                    "xlit": "se"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f44\u03bd\u03c4\u03b1",
+                    "xlit": "onta"
+                },
+                {
+                    "BSB Version": " under ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u1f78",
+                    "xlit": "hypo"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " fig tree ",
+                    "Str Grk": 4808.0,
+                    "lemma": "\u03c3\u03c5\u03ba\u1fc6\u03bd",
+                    "xlit": "syk\u0113n"
+                }
+            ],
+            "verse_text": "Nathanael says to Him, \"From where do You know me?\" Jesus answered and said to him, \"Before Philip calling you, you being under the fig tree, I saw you.\""
+        },
+        {
+            "verse_no": 23667,
+            "verse_ref": "Matthew 15:33",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " disciples ",
+                    "Str Grk": 3101.0,
+                    "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03af",
+                    "xlit": "math\u0113tai"
+                },
+                {
+                    "BSB Version": " replied ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "legousin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " Where ",
+                    "Str Grk": 4159.0,
+                    "lemma": "\u03a0\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "Pothen"
                 },
                 {
                     "BSB Version": " in ",
@@ -261,156 +472,89 @@
                     "xlit": "en"
                 },
                 {
-                    "BSB Version": " [the] meat market ",
-                    "Str Grk": 3111.0,
-                    "lemma": "\u03bc\u03b1\u03ba\u03ad\u03bb\u03bb\u1ff3",
-                    "xlit": "makell\u014d"
+                    "BSB Version": " this desolate place ",
+                    "Str Grk": 2047.0,
+                    "lemma": "\u1f10\u03c1\u03b7\u03bc\u03af\u1fb3",
+                    "xlit": "er\u0113mia"
                 },
                 {
-                    "BSB Version": " without ",
-                    "Str Grk": 3367.0,
-                    "lemma": "\u03bc\u03b7\u03b4\u1f72\u03bd",
-                    "xlit": "m\u0113den"
+                    "BSB Version": " could we [find] ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
                 },
                 {
-                    "BSB Version": " raising questions ",
-                    "Str Grk": 350.0,
-                    "lemma": "\u1f00\u03bd\u03b1\u03ba\u03c1\u03af\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "anakrinontes"
+                    "BSB Version": " enough ",
+                    "Str Grk": 5118.0,
+                    "lemma": "\u03c4\u03bf\u03c3\u03bf\u1fe6\u03c4\u03bf\u03b9",
+                    "xlit": "tosoutoi"
                 },
                 {
-                    "BSB Version": " of ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
+                    "BSB Version": " bread ",
+                    "Str Grk": 740.0,
+                    "lemma": "\u1f04\u03c1\u03c4\u03bf\u03b9",
+                    "xlit": "artoi"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
+                    "BSB Version": " vvv ",
+                    "Str Grk": 5620.0,
+                    "lemma": "\u1f65\u03c3\u03c4\u03b5",
+                    "xlit": "h\u014dste"
                 },
                 {
-                    "BSB Version": " conscience ",
-                    "Str Grk": 4893.0,
-                    "lemma": "\u03c3\u03c5\u03bd\u03b5\u03af\u03b4\u03b7\u03c3\u03b9\u03bd",
-                    "xlit": "syneid\u0113sin"
+                    "BSB Version": " to feed ",
+                    "Str Grk": 5526.0,
+                    "lemma": "\u03c7\u03bf\u03c1\u03c4\u03ac\u03c3\u03b1\u03b9",
+                    "xlit": "chortasai"
+                },
+                {
+                    "BSB Version": " such a large ",
+                    "Str Grk": 5118.0,
+                    "lemma": "\u03c4\u03bf\u03c3\u03bf\u1fe6\u03c4\u03bf\u03bd",
+                    "xlit": "tosouton"
+                },
+                {
+                    "BSB Version": " crowd ",
+                    "Str Grk": 3793.0,
+                    "lemma": "\u1f44\u03c7\u03bb\u03bf\u03bd",
+                    "xlit": "ochlon"
                 }
             ],
-            "verse_text": "Eat everything being sold in <i>the</i> meat market, inquiring nothing on account of conscience,"
-        },
-        {
-            "verse_no": 25039,
-            "verse_ref": "Luke 3:13",
-            "verse_data": [
-                {
-                    "BSB Version": " Collect ",
-                    "Str Grk": 4238.0,
-                    "lemma": "\u03c0\u03c1\u03ac\u03c3\u03c3\u03b5\u03c4\u03b5",
-                    "xlit": "prassete"
-                },
-                {
-                    "BSB Version": " no ",
-                    "Str Grk": 3367.0,
-                    "lemma": "\u039c\u03b7\u03b4\u1f72\u03bd",
-                    "xlit": "M\u0113den"
-                },
-                {
-                    "BSB Version": " more than ",
-                    "Str Grk": 4119.0,
-                    "lemma": "\u03c0\u03bb\u03ad\u03bf\u03bd",
-                    "xlit": "pleon"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 3844.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u1f70",
-                    "xlit": "para"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78",
-                    "xlit": "to"
-                },
-                {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
-                    "xlit": "hymin"
-                },
-                {
-                    "BSB Version": " are authorized ",
-                    "Str Grk": 1299.0,
-                    "lemma": "\u03b4\u03b9\u03b1\u03c4\u03b5\u03c4\u03b1\u03b3\u03bc\u03ad\u03bd\u03bf\u03bd",
-                    "xlit": "diatetagmenon"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f49",
-                    "xlit": "Ho"
-                },
-                {
-                    "BSB Version": " he answered ",
-                    "Str Grk": 2036.0,
-                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
-                    "xlit": "eipen"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 4314.0,
-                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
-                    "xlit": "pros"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u03cd\u03c2",
-                    "xlit": "autous"
-                }
-            ],
-            "verse_text": "And he said to them, \"Collect nothing more beyond that having been appointed to you.\""
+            "verse_text": "And the disciples say to Him, \"From where <i>will be</i> to us in a secluded place so many loaves, as so great a crowd to satisfy?\""
         }
     ],
     "other_words": [
         {
-            "number": 2980,
-            "lemma": "\u03bb\u03b1\u03bb\u1f73\u03c9",
-            "xlit": "lal\u00e9\u014d",
-            "pronunciation": "lal-eh'-o",
-            "description": " to talk, i.e. utter\n words",
-            "pspeech": "V-PPA-GMS"
+            "number": 1321,
+            "lemma": "\u03b4\u03b9\u03b4\u1f71\u03c3\u03ba\u03c9",
+            "xlit": "did\u00e1sk\u014d",
+            "pronunciation": "did-as'-ko",
+            "description": " to\n teach (in the same broad application)",
+            "pspeech": "V-PPA-NMS"
         },
         {
-            "number": 5486,
-            "lemma": "\u03c7\u1f71\u03c1\u03b9\u03c3\u03bc\u03b1",
-            "xlit": "ch\u00e1risma",
-            "pronunciation": "khar'-is-mah",
-            "description": " a (divine) gratuity, i.e. deliverance (from danger or\n passion); (specially), a (spiritual) endowment, i.e. (subjectively)\n religious qualification, or (objectively) miraculous faculty",
-            "pspeech": "N-ANS"
+            "number": 3384,
+            "lemma": "\u03bc\u1f75\u03c4\u03b7\u03c1",
+            "xlit": "m\u1e17t\u0113r",
+            "pronunciation": "may'-tare",
+            "description": " a \"mother\" (literally or figuratively,\n immediate or remote)",
+            "pspeech": "N-GFS"
         },
         {
-            "number": 3956,
-            "lemma": "\u03c0\u1fb6\u03c2",
-            "xlit": "p\u00e2s",
-            "pronunciation": "pas",
-            "description": " all,\n any, every, the whole",
-            "pspeech": "Adj-NFP"
+            "number": 5455,
+            "lemma": "\u03c6\u03c9\u03bd\u1f73\u03c9",
+            "xlit": "ph\u014dn\u00e9\u014d",
+            "pronunciation": "fo-neh'-o",
+            "description": " to emit a sound (animal, human or instrumental); by\n implication, to address in words or by name, also in imitation",
+            "pspeech": "V-AIA-3S"
         },
         {
-            "number": 2036,
-            "lemma": "\u1f14\u03c0\u03c9",
-            "xlit": "\u00e9p\u014d",
-            "pronunciation": "ep'-o",
-            "description": " to speak or say (by word or\n writing)",
-            "pspeech": "V-AIA-3P"
+            "number": 3793,
+            "lemma": "\u1f44\u03c7\u03bb\u03bf\u03c2",
+            "xlit": "\u00f3chlos",
+            "pronunciation": "okh'los",
+            "description": " a throng (as borne\n along); by implication, the rabble; by extension, a class of people;\n figuratively, a riot",
+            "pspeech": "N-NMP"
         }
     ]
 }

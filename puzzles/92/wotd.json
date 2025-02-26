@@ -1,132 +1,16 @@
 {
     "wotd": {
-        "number": 1961,
-        "lemma": "\u1f10\u03c0\u03b9\u03bc\u1f73\u03bd\u03c9",
-        "xlit": "epim\u00e9n\u014d",
-        "pronunciation": "ep-ee-men'-o",
-        "description": " to stay over, i.e. remain (figuratively,\n persevere)",
-        "pspeech": "V-IIA-3P"
+        "number": 5007,
+        "lemma": "\u03c4\u1f71\u03bb\u03b1\u03bd\u03c4\u03bf\u03bd",
+        "xlit": "t\u00e1lanton",
+        "pronunciation": "tal'-an-ton",
+        "description": " a balance (as supporting weights), i.e. (by\n implication) a certain weight (and thence a coin or rather sum of\n money) or \"talent\"",
+        "pspeech": "N-GNP"
     },
     "verses": [
         {
-            "verse_no": 27912,
-            "verse_ref": "Acts 28:12",
-            "verse_data": [
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " Putting in ",
-                    "Str Grk": 2609.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03c7\u03b8\u03ad\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "katachthentes"
-                },
-                {
-                    "BSB Version": " at ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " Syracuse ",
-                    "Str Grk": 4946.0,
-                    "lemma": "\u03a3\u03c5\u03c1\u03b1\u03ba\u03bf\u03cd\u03c3\u03b1\u03c2",
-                    "xlit": "Syrakousas"
-                },
-                {
-                    "BSB Version": " we stayed there ",
-                    "Str Grk": 1961.0,
-                    "lemma": "\u1f10\u03c0\u03b5\u03bc\u03b5\u03af\u03bd\u03b1\u03bc\u03b5\u03bd",
-                    "xlit": "epemeinamen"
-                },
-                {
-                    "BSB Version": " three ",
-                    "Str Grk": 5140.0,
-                    "lemma": "\u03c4\u03c1\u03b5\u1fd6\u03c2",
-                    "xlit": "treis"
-                },
-                {
-                    "BSB Version": " days ",
-                    "Str Grk": 2250.0,
-                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
-                    "xlit": "h\u0113meras"
-                }
-            ],
-            "verse_text": "And having put in at Syracuse, we stayed three days,"
-        },
-        {
-            "verse_no": 28070,
-            "verse_ref": "Romans 6:1",
-            "verse_data": [
-                {
-                    "BSB Version": " What ",
-                    "Str Grk": 5101.0,
-                    "lemma": "\u03a4\u03af",
-                    "xlit": "Ti"
-                },
-                {
-                    "BSB Version": " then ",
-                    "Str Grk": 3767.0,
-                    "lemma": "\u03bf\u1f56\u03bd",
-                    "xlit": "oun"
-                },
-                {
-                    "BSB Version": " shall we say ",
-                    "Str Grk": 2046.0,
-                    "lemma": "\u1f10\u03c1\u03bf\u1fe6\u03bc\u03b5\u03bd",
-                    "xlit": "eroumen"
-                },
-                {
-                    "BSB Version": " Shall we continue ",
-                    "Str Grk": 1961.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03bc\u03ad\u03bd\u03c9\u03bc\u03b5\u03bd",
-                    "xlit": "epimen\u014dmen"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " in sin ",
-                    "Str Grk": 266.0,
-                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03af\u1fb3",
-                    "xlit": "hamartia"
-                },
-                {
-                    "BSB Version": " so that ",
-                    "Str Grk": 2443.0,
-                    "lemma": "\u1f35\u03bd\u03b1",
-                    "xlit": "hina"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f21",
-                    "xlit": "h\u0113"
-                },
-                {
-                    "BSB Version": " grace ",
-                    "Str Grk": 5485.0,
-                    "lemma": "\u03c7\u03ac\u03c1\u03b9\u03c2",
-                    "xlit": "charis"
-                },
-                {
-                    "BSB Version": " may increase ",
-                    "Str Grk": 4121.0,
-                    "lemma": "\u03c0\u03bb\u03b5\u03bf\u03bd\u03ac\u03c3\u1fc3",
-                    "xlit": "pleonas\u0113"
-                }
-            ],
-            "verse_text": "What then will we say? Shall we continue in sin that grace may abound?"
-        },
-        {
-            "verse_no": 26389,
-            "verse_ref": "John 8:7",
+            "verse_no": 24031,
+            "verse_ref": "Matthew 25:22",
             "verse_data": [
                 {
                     "BSB Version": " - ",
@@ -135,34 +19,155 @@
                     "xlit": "de"
                 },
                 {
-                    "BSB Version": " When ",
-                    "Str Grk": 5613.0,
-                    "lemma": "\u1f69\u03c2",
-                    "xlit": "H\u014ds"
+                    "BSB Version": " The [servant] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " they continued ",
-                    "Str Grk": 1961.0,
-                    "lemma": "\u1f10\u03c0\u03ad\u03bc\u03b5\u03bd\u03bf\u03bd",
-                    "xlit": "epemenon"
+                    "BSB Version": " [who had received] the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
                 },
                 {
-                    "BSB Version": " to question ",
-                    "Str Grk": 2065.0,
-                    "lemma": "\u1f10\u03c1\u03c9\u03c4\u1ff6\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "er\u014dt\u014dntes"
+                    "BSB Version": " two ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
                 },
                 {
-                    "BSB Version": " Him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
-                    "xlit": "auton"
+                    "BSB Version": " talents ",
+                    "Str Grk": 5007.0,
+                    "lemma": "\u03c4\u03ac\u03bb\u03b1\u03bd\u03c4\u03b1",
+                    "xlit": "talanta"
                 },
                 {
-                    "BSB Version": " He straightened up ",
-                    "Str Grk": 352.0,
-                    "lemma": "\u1f00\u03bd\u1f73\u03ba\u03c5\u03c8\u03b5\u03bd",
-                    "xlit": "anekypsen"
+                    "BSB Version": " also ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " came ",
+                    "Str Grk": 4334.0,
+                    "lemma": "\u03a0\u03c1\u03bf\u03c3\u03b5\u03bb\u03b8\u1f7c\u03bd",
+                    "xlit": "Proselth\u014dn"
+                },
+                {
+                    "BSB Version": " [and] said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " Master ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03b5",
+                    "xlit": "Kyrie"
+                },
+                {
+                    "BSB Version": " you entrusted ",
+                    "Str Grk": 3860.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03ba\u03b1\u03c2",
+                    "xlit": "pared\u014dkas"
+                },
+                {
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " {with} two ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
+                },
+                {
+                    "BSB Version": " talents ",
+                    "Str Grk": 5007.0,
+                    "lemma": "\u03c4\u03ac\u03bb\u03b1\u03bd\u03c4\u03ac",
+                    "xlit": "talanta"
+                },
+                {
+                    "BSB Version": " See ",
+                    "Str Grk": 2400.0,
+                    "lemma": "\u1f34\u03b4\u03b5",
+                    "xlit": "ide"
+                },
+                {
+                    "BSB Version": " I have gained ",
+                    "Str Grk": 2770.0,
+                    "lemma": "\u1f10\u03ba\u03ad\u03c1\u03b4\u03b7\u03c3\u03b1",
+                    "xlit": "ekerd\u0113sa"
+                },
+                {
+                    "BSB Version": " two ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 5007.0,
+                    "lemma": "\u03c4\u03ac\u03bb\u03b1\u03bd\u03c4\u03b1",
+                    "xlit": "talanta"
+                },
+                {
+                    "BSB Version": " more ",
+                    "Str Grk": 243.0,
+                    "lemma": "\u1f04\u03bb\u03bb\u03b1",
+                    "xlit": "alla"
+                }
+            ],
+            "verse_text": "And the <i>one</i> with the two talents, also having come said, 'Master, you did deliver to me two talents. Behold, I have gained two talents more.'"
+        },
+        {
+            "verse_no": 24033,
+            "verse_ref": "Matthew 25:24",
+            "verse_data": [
+                {
+                    "BSB Version": " Finally ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " the [servant] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " who had received ",
+                    "Str Grk": 2983.0,
+                    "lemma": "\u03b5\u1f30\u03bb\u03b7\u03c6\u1f7c\u03c2",
+                    "xlit": "eil\u0113ph\u014ds"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " one ",
+                    "Str Grk": 1520.0,
+                    "lemma": "\u1f13\u03bd",
+                    "xlit": "hen"
+                },
+                {
+                    "BSB Version": " talent ",
+                    "Str Grk": 5007.0,
+                    "lemma": "\u03c4\u03ac\u03bb\u03b1\u03bd\u03c4\u03bf\u03bd",
+                    "xlit": "talanton"
+                },
+                {
+                    "BSB Version": " came ",
+                    "Str Grk": 4334.0,
+                    "lemma": "\u03a0\u03c1\u03bf\u03c3\u03b5\u03bb\u03b8\u1f7c\u03bd",
+                    "xlit": "Proselth\u014dn"
                 },
                 {
                     "BSB Version": " and ",
@@ -177,77 +182,88 @@
                     "xlit": "eipen"
                 },
                 {
-                    "BSB Version": " to them ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "autois"
+                    "BSB Version": " Master ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03b5",
+                    "xlit": "Kyrie"
                 },
                 {
-                    "BSB Version": " [Let] him who is ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f49",
-                    "xlit": "Ho"
+                    "BSB Version": " I knew ",
+                    "Str Grk": 1097.0,
+                    "lemma": "\u1f14\u03b3\u03bd\u03c9\u03bd",
+                    "xlit": "egn\u014dn"
                 },
                 {
-                    "BSB Version": " without sin ",
-                    "Str Grk": 361.0,
-                    "lemma": "\u1f00\u03bd\u03b1\u03bc\u03ac\u03c1\u03c4\u03b7\u03c4\u03bf\u03c2",
-                    "xlit": "anamart\u0113tos"
-                },
-                {
-                    "BSB Version": " among you ",
+                    "BSB Version": " - ",
                     "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
-                    "xlit": "hym\u014dn"
+                    "lemma": "\u03c3\u03b5",
+                    "xlit": "se"
                 },
                 {
-                    "BSB Version": " [be] the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
                 },
                 {
-                    "BSB Version": " first ",
-                    "Str Grk": 4413.0,
-                    "lemma": "\u03c0\u03c1\u1ff6\u03c4\u03bf\u03c2",
-                    "xlit": "pr\u014dtos"
+                    "BSB Version": " you are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f36",
+                    "xlit": "ei"
                 },
                 {
-                    "BSB Version": " to cast ",
-                    "Str Grk": 906.0,
-                    "lemma": "\u03b2\u03b1\u03bb\u03ad\u03c4\u03c9",
-                    "xlit": "balet\u014d"
+                    "BSB Version": " a hard ",
+                    "Str Grk": 4642.0,
+                    "lemma": "\u03c3\u03ba\u03bb\u03b7\u03c1\u1f78\u03c2",
+                    "xlit": "skl\u0113ros"
                 },
                 {
-                    "BSB Version": " a stone ",
-                    "Str Grk": 3037.0,
-                    "lemma": "\u03bb\u03af\u03b8\u03bf\u03bd",
-                    "xlit": "lithon"
+                    "BSB Version": " man ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+                    "xlit": "anthr\u014dpos"
                 },
                 {
-                    "BSB Version": " at ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c0\u2019",
-                    "xlit": "ep\u2019"
+                    "BSB Version": " reaping ",
+                    "Str Grk": 2325.0,
+                    "lemma": "\u03b8\u03b5\u03c1\u03af\u03b6\u03c9\u03bd",
+                    "xlit": "theriz\u014dn"
                 },
                 {
-                    "BSB Version": " her ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1fc7",
-                    "xlit": "aut\u0113"
-                }
-            ],
-            "verse_text": "But as they continued asking Him, having lifted Himself up, also He said to them, \"The <i>one</i> sinless among you, let him cast the first stone at her.\""
-        },
-        {
-            "verse_no": 28784,
-            "verse_ref": "1 Corinthians 16:7",
-            "verse_data": [
+                    "BSB Version": " where ",
+                    "Str Grk": 3699.0,
+                    "lemma": "\u1f45\u03c0\u03bf\u03c5",
+                    "xlit": "hopou"
+                },
                 {
-                    "BSB Version": " For ",
-                    "Str Grk": 1063.0,
-                    "lemma": "\u03b3\u1f70\u03c1",
-                    "xlit": "gar"
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " you have not sown ",
+                    "Str Grk": 4687.0,
+                    "lemma": "\u1f14\u03c3\u03c0\u03b5\u03b9\u03c1\u03b1\u03c2",
+                    "xlit": "espeiras"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " gathering ",
+                    "Str Grk": 4863.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03ac\u03b3\u03c9\u03bd",
+                    "xlit": "synag\u014dn"
+                },
+                {
+                    "BSB Version": " where ",
+                    "Str Grk": 3606.0,
+                    "lemma": "\u1f45\u03b8\u03b5\u03bd",
+                    "xlit": "hothen"
                 },
                 {
                     "BSB Version": " vvv ",
@@ -256,143 +272,235 @@
                     "xlit": "ou"
                 },
                 {
-                    "BSB Version": " I do not want ",
-                    "Str Grk": 2309.0,
-                    "lemma": "\u03b8\u03ad\u03bb\u03c9",
-                    "xlit": "thel\u014d"
+                    "BSB Version": " you have not scattered seed ",
+                    "Str Grk": 1287.0,
+                    "lemma": "\u03b4\u03b9\u03b5\u03c3\u03ba\u03cc\u03c1\u03c0\u03b9\u03c3\u03b1\u03c2",
+                    "xlit": "dieskorpisas"
+                }
+            ],
+            "verse_text": "And the <i>one</i> having received the one talent, having come, also said, 'Master, I knew you, that you are a hard man, reaping where you did not sow, and gathering from where you did not scatter."
+        },
+        {
+            "verse_no": 23752,
+            "verse_ref": "Matthew 18:24",
+            "verse_data": [
+                {
+                    "BSB Version": " As ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
                 },
                 {
-                    "BSB Version": " to see ",
-                    "Str Grk": 3708.0,
-                    "lemma": "\u1f30\u03b4\u03b5\u1fd6\u03bd",
-                    "xlit": "idein"
+                    "BSB Version": " he ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
                 },
                 {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
+                    "BSB Version": " began ",
+                    "Str Grk": 756.0,
+                    "lemma": "\u1f00\u03c1\u03be\u03b1\u03bc\u03ad\u03bd\u03bf\u03c5",
+                    "xlit": "arxamenou"
                 },
                 {
-                    "BSB Version": " now ",
-                    "Str Grk": 737.0,
-                    "lemma": "\u1f04\u03c1\u03c4\u03b9",
-                    "xlit": "arti"
+                    "BSB Version": " the settlements ",
+                    "Str Grk": 4868.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03b1\u03af\u03c1\u03b5\u03b9\u03bd",
+                    "xlit": "synairein"
                 },
                 {
-                    "BSB Version": " [only] in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
+                    "BSB Version": " a ",
+                    "Str Grk": 1520.0,
+                    "lemma": "\u03b5\u1f37\u03c2",
+                    "xlit": "heis"
                 },
                 {
-                    "BSB Version": " passing ",
-                    "Str Grk": 3938.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03cc\u03b4\u1ff3",
-                    "xlit": "parod\u014d"
+                    "BSB Version": " debtor ",
+                    "Str Grk": 3781.0,
+                    "lemma": "\u1f40\u03c6\u03b5\u03b9\u03bb\u03ad\u03c4\u03b7\u03c2",
+                    "xlit": "opheilet\u0113s"
+                },
+                {
+                    "BSB Version": " owing ten thousand ",
+                    "Str Grk": 3463.0,
+                    "lemma": "\u03bc\u03c5\u03c1\u03af\u03c9\u03bd",
+                    "xlit": "myri\u014dn"
+                },
+                {
+                    "BSB Version": " talents ",
+                    "Str Grk": 5007.0,
+                    "lemma": "\u03c4\u03b1\u03bb\u03ac\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "talant\u014dn"
+                },
+                {
+                    "BSB Version": " was brought ",
+                    "Str Grk": 4374.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b7\u03bd\u03ad\u03c7\u03b8\u03b7",
+                    "xlit": "pros\u0113nechth\u0113"
+                },
+                {
+                    "BSB Version": " to him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                }
+            ],
+            "verse_text": "And he having begun to settle, one was brought to him, a debtor of ten thousand talents."
+        },
+        {
+            "verse_no": 24024,
+            "verse_ref": "Matthew 25:15",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 1063.0,
-                    "lemma": "\u03b3\u1f70\u03c1",
-                    "xlit": "gar"
+                    "Str Grk": 3303.0,
+                    "lemma": "\u03bc\u1f72\u03bd",
+                    "xlit": "men"
                 },
                 {
-                    "BSB Version": " I hope ",
-                    "Str Grk": 1679.0,
-                    "lemma": "\u1f10\u03bb\u03c0\u03af\u03b6\u03c9",
-                    "xlit": "elpiz\u014d"
+                    "BSB Version": " To one ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1fa7",
+                    "xlit": "h\u014d"
                 },
                 {
-                    "BSB Version": " to spend ",
-                    "Str Grk": 1961.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03bc\u03b5\u1fd6\u03bd\u03b1\u03b9",
-                    "xlit": "epimeinai"
+                    "BSB Version": " he gave ",
+                    "Str Grk": 1325.0,
+                    "lemma": "\u1f14\u03b4\u03c9\u03ba\u03b5\u03bd",
+                    "xlit": "ed\u014dken"
                 },
                 {
-                    "BSB Version": " some ",
-                    "Str Grk": 5100.0,
-                    "lemma": "\u03c4\u03b9\u03bd\u1f70",
-                    "xlit": "tina"
+                    "BSB Version": " five ",
+                    "Str Grk": 4002.0,
+                    "lemma": "\u03c0\u03ad\u03bd\u03c4\u03b5",
+                    "xlit": "pente"
                 },
                 {
-                    "BSB Version": " time ",
-                    "Str Grk": 5550.0,
-                    "lemma": "\u03c7\u03c1\u03cc\u03bd\u03bf\u03bd",
-                    "xlit": "chronon"
+                    "BSB Version": " talents ",
+                    "Str Grk": 5007.0,
+                    "lemma": "\u03c4\u03ac\u03bb\u03b1\u03bd\u03c4\u03b1",
+                    "xlit": "talanta"
                 },
                 {
-                    "BSB Version": " with ",
-                    "Str Grk": 4314.0,
-                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
-                    "xlit": "pros"
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
                 },
                 {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
+                    "BSB Version": " to [another] ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1fa7",
+                    "xlit": "h\u014d"
                 },
                 {
-                    "BSB Version": " if ",
-                    "Str Grk": 1437.0,
-                    "lemma": "\u1f10\u1f70\u03bd",
-                    "xlit": "ean"
+                    "BSB Version": " two [talents] ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
                 },
                 {
-                    "BSB Version": " the ",
+                    "BSB Version": " and ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " to [another] ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1fa7",
+                    "xlit": "h\u014d"
+                },
+                {
+                    "BSB Version": " one [talent] ",
+                    "Str Grk": 1520.0,
+                    "lemma": "\u1f15\u03bd",
+                    "xlit": "hen"
+                },
+                {
+                    "BSB Version": " each ",
+                    "Str Grk": 1538.0,
+                    "lemma": "\u1f11\u03ba\u03ac\u03c3\u03c4\u1ff3",
+                    "xlit": "hekast\u014d"
+                },
+                {
+                    "BSB Version": " according to ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u1f70",
+                    "xlit": "kata"
+                },
+                {
+                    "BSB Version": " his own ",
+                    "Str Grk": 2398.0,
+                    "lemma": "\u1f30\u03b4\u03af\u03b1\u03bd",
+                    "xlit": "idian"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
                 },
                 {
-                    "BSB Version": " Lord ",
-                    "Str Grk": 2962.0,
-                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03c2",
-                    "xlit": "Kyrios"
+                    "BSB Version": " ability ",
+                    "Str Grk": 1411.0,
+                    "lemma": "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b9\u03bd",
+                    "xlit": "dynamin"
                 },
                 {
-                    "BSB Version": " permits ",
-                    "Str Grk": 2010.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03c4\u03c1\u03ad\u03c8\u1fc3",
-                    "xlit": "epitreps\u0113"
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " he went on his journey ",
+                    "Str Grk": 589.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03b4\u03ae\u03bc\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "aped\u0113m\u0113sen"
                 }
             ],
-            "verse_text": "For I do not want to see you now in passing; for I hope to remain a certain time with you, if the Lord permits."
+            "verse_text": "And indeed to one he gave five talents; and to one, two; and to one, one; to each according to his own ability. And he left the region immediately."
         }
     ],
     "other_words": [
         {
-            "number": 2609,
-            "lemma": "\u03ba\u03b1\u03c4\u1f71\u03b3\u03c9",
-            "xlit": "kat\u00e1g\u014d",
-            "pronunciation": "kat-ag'-o",
-            "description": " to lead down; specially, to moor a vessel",
-            "pspeech": "V-APA-NMP"
+            "number": 243,
+            "lemma": "\u1f04\u03bb\u03bb\u03bf\u03c2",
+            "xlit": "\u00e1llos",
+            "pronunciation": "al'-los",
+            "description": " \"else,\" i.e. different (in many applications)",
+            "pspeech": "Adj-GFS"
         },
         {
-            "number": 2046,
-            "lemma": "\u1f10\u03c1\u1f73\u03c9",
-            "xlit": "er\u00e9\u014d",
-            "pronunciation": "er-eh'-o",
-            "description": " an alternate for ",
-            "pspeech": "V-APP-NNS"
-        },
-        {
-            "number": 906,
-            "lemma": "\u03b2\u1f71\u03bb\u03bb\u03c9",
-            "xlit": "b\u00e1ll\u014d",
-            "pronunciation": "bal'-lo",
-            "description": " to throw (in various applications, more or less\n violent or intense)",
-            "pspeech": "V-PIM/P-3S"
-        },
-        {
-            "number": 737,
-            "lemma": "\u1f04\u03c1\u03c4\u03b9",
-            "xlit": "\u00e1rti",
-            "pronunciation": "ar'-tee",
-            "description": " just now",
+            "number": 3699,
+            "lemma": "\u1f45\u03c0\u03bf\u03c5",
+            "xlit": "h\u00f3pou",
+            "pronunciation": "hop'-oo",
+            "description": " what(-ever) where, i.e. at whichever spot",
             "pspeech": "Adv"
+        },
+        {
+            "number": 756,
+            "lemma": "\u1f04\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "\u00e1rchomai",
+            "pronunciation": "ar'-khom-ahee",
+            "description": " to\n commence (in order of time)",
+            "pspeech": "V-AIM-3S"
+        },
+        {
+            "number": 2398,
+            "lemma": "\u1f34\u03b4\u03b9\u03bf\u03c2",
+            "xlit": "\u00eddios",
+            "pronunciation": "id'-ee-os",
+            "description": " pertaining to self, i.e. one's own; by\n implication, private or separate",
+            "pspeech": "Adj-AFS"
         }
     ]
 }
