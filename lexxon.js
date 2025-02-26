@@ -133,6 +133,9 @@ function info() {
   if (found_all) {
     generateExplanationOverlay(winning = true)
   }
+  else if(this.game_state["guesses_left"] == 0){
+    generateExplanationOverlay(winning = false)
+  }
   else {
     generateOverlayFrameText(info_text)
   }
@@ -545,6 +548,9 @@ function check() {
     }
   }
   if (found_all) {
+    info()
+  }
+  if(this.game_state["guesses_left"] == 0){
     info()
   }
   /*win*/
