@@ -21,7 +21,7 @@ body{
 }
 .popup{
   height:90vh;
-    width:90vw;
+  width:90vw;
 }
 .logo_popup{
   height:30vh;
@@ -30,9 +30,22 @@ body{
 }
 .header{
   z-index:  0;
-  position:absolute;
   width:100vw;
+  position:relative; 
+  top:0vh;
+  height:15vh;
  
+}
+#pageLogo{
+  left:0;
+  width: 200px;
+  min-width: 200px
+}
+.shortcut_div{
+  width:40vw;
+  position:absolute;
+  right:10vw; 
+  top:5vh;
 }
 #overlay{
   height:90vh;
@@ -43,7 +56,6 @@ body{
   background-color: rgba(0,0,0,0.7);
   border-radius: 10px;
   z-index: 1;
-  position:absolute;
   backdrop-filter: blur(7px);
   color:white;
   text-align: center;
@@ -96,10 +108,14 @@ body{
 
   
 }
-.slideshow-container {
+.scripture_slideshow {
   position: relative;
   margin: auto;
   background-color: #FFFFFF;
+  top:0vh;
+  width:95vw;
+  max-width:1000px;
+  height:30vh
 }
 .prev, .next {
   cursor: pointer;
@@ -127,37 +143,55 @@ body{
   height: 8vh;
 
   vertical-align: middle;
-  margin: 0 2px;
   border-radius: 1vh;
   display: inline-block;
   transition: background-color 0.6s ease;
-  width:22%;
+  width:23.25%;
   }
-  .dotbar{
+  .verse_shortcut_bar{
     margin:auto;
-    width:95vw;
+    width:96vw;
     max-width: 1000px;
+    text-align:center; 
+    position:relative;
+    top:0vh
+  }
+  .guessbar{
+    text-align:center; 
+    position:relative;
+    top:0vh
   }
   .guessdot{
     height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #000;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #000;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
   }
+
 .wordslot{
   margin:auto;
   position:relative;
   top:5px;
-  width:95vw;
+  width:100%;
   max-width:1000px;
   height:5vh;
   
 }
+.make_selection{
+  height:10vh;
+  text-align: center;
+  vertical-align:middle;
+
+  border-radius: 3vh;
+  border-style: solid;
+  border-width: 3px;
+  
+}
 .wordbutton{
-  width:60%;
+  width:100%;
   height:5vh;
   border-radius: 1vh;
   border-width: 2px;
@@ -166,42 +200,13 @@ body{
   float:left;
   border-style: solid;
   text-align:center;
-}
-.verse1border{
-  margin:auto;
-  border: 3px;
-  border-color: #0089d0;
-}
-.verse2border{
-  border-radius: 1vh;
-  border-color: #0db14b;
-}
-.verse3border{
-  border-radius: 1vh;
-  border-color: #CC004c;
-}
-.verse4border{
-  border-radius: 1vh;
-  border-color: #6460aa;
-}
-.verse1filled{
-  background-color: #0089d0;
-}
-.verse2filled{
-   background-color: #0db14b;
-}
-.verse3filled{
-  background-color: #cc004c;
-}
-.verse4filled{
-  background-color: #6460aa;
+  vertical-align:middle;
+
 }
 .definition_button, .check_button{
   position:relative;
   width:15%;
   height:5vh;
-  
-
   border-width: 2px;
   border-radius:1vh;
   margin-left:0px;
@@ -230,9 +235,138 @@ body{
   from {opacity: .4}
   to {opacity: 1}
 }
+.word_disappear {
+  animation-name: word_disappear;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+@keyframes word_disappear {
+  from{height:5vh;
+      border-width:2px;
+    opacity:1;}
+  to{height:0vh;
+  border-width:0px;
+  opacity:0;}
+}
+.found_word_appear{
+  animation-name: found_word_appear;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+@keyframes found_word_appear{
+  from{
+      opacity:0;
+      
+  }
+    to{
+      opacity:1;
+    }
+}
 .mySlides {
   display: none;
   width:100%;
   height:100%;
 }
+.selection_controls{
+  top:0vh;
+  width:95vw;
+  height:30vh;
+  max-width: 1000px;
+  margin:auto;
+}
+.word_controls{
+  top:0vh;
+  width:59vw;
+  height:30vh;
+  max-width:600px;
+  position: relative;
+  float:left;
+}
+.submit_controls{
+  top:0vh; 
+  max-width:350px; 
+  width:35vw; 
+  height:30vh; 
+  position:relative;
+  float:right
+}
+#w_in_v_span{
+  width:100%;
+  height:100%;
+  align-content:center;
+  display:inline-block;
+}
+#w_in_wotd_span{
+  width:100%;
+  height:100%; 
+  align-content:center;
+  display:inline-block;
+}
+.submit_div{
+  text-align: center;
+  vertical-align:middle;
 
+  background-color:#FFFFFF; 
+  height:5vh;
+  border-radius: 3vh; 
+  border-style: solid;
+}
+#submit_span{
+  width:100%;
+  height:100%;
+  color:grey;
+  align-content:center;
+  display:inline-block
+}
+.def_div{
+  top:0vh;
+  width:95vw;
+  max-width:1000px;
+  height:10vh; 
+  margin: auto; 
+  position:relative
+}
+.word_indicator{
+  bottom:2px;
+  position:absolute;
+  right:2px;
+  opacity: 1;
+  width:25vw;
+  max-width:250px;
+  height:5vh;
+ 
+}
+.wotd_indicator{
+  bottom:2px;
+  position:absolute;
+  left:2px;
+  max-width:250px;
+  opacity: 1;
+  
+
+  width:25vw;
+  height:5vh;
+}
+#word_indicator_span{
+  width:100%;
+  height:100%; 
+  align-content:center;
+  display:inline-block;
+}
+
+.explanation_verse_data_item{
+  border-radius: 5px;
+  display:inline-block;
+  color:black;
+  padding:5px;
+  margin:5px;
+
+}
+a:link {
+  color: lightblue;
+}
+
+/* visited link */
+a:visited {
+  color: lightblue;
+}

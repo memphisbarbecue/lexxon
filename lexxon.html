@@ -22,20 +22,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body onload="pageLoad()" id ="body">
-    <div class="header" style="position:relative; top:0vh;height:15vh;">
-        <img src="images/lexxon.png"  style="left:0;width: 200px; min-width: 200px"/>
-        <div style="width:40vw;position:absolute;right:10vw; top:5vh;">
+    <div class="header">
+        <img id="pageLogo" src="images/lexxon.png"/>
+        <div class="shortcut_div">
             <div class="header_btn" onclick="stats()">Stats</div>
             <div class="header_btn" onclick="info()">Info</div> 
         </div>       
     </div>
-    <div class="guessbar" style="text-align:center; position:relative;top:0vh">
-      <div class="guessdot " id="guessdot1" ></div>
-      <div class="guessdot " id="guessdot2" ></div>
-      <div class="guessdot " id="guessdot3" ></div>
-      <div class="guessdot " id="guessdot4" ></div>
+    <div class="guessbar">
+      <div class="guessdot" id="guessdot1" ></div>
+      <div class="guessdot" id="guessdot2" ></div>
+      <div class="guessdot" id="guessdot3" ></div>
+      <div class="guessdot" id="guessdot4" ></div>
     </div>
-    <div class="slideshow-container" style="position:relative;top:0vh;width:95vw;max-width:1000px;height:30vh">
+    <div class="scripture_slideshow">
 
         <!-- Full-width images with number and caption text -->
         <div class="mySlides fade ">
@@ -58,22 +58,44 @@
       </div>
       <br>
       
-      <!-- The dots/circles -->
-      <div class="dotbar" style="text-align:center; position:relative;top:0vh">
+    <!-- Verse shortcuts-->
+      <div class="verse_shortcut_bar">
         <div class="dot inactive" id="dot1" onclick="currentSlide(1)"></div>
         <div class="dot inactive" id="dot2" onclick="currentSlide(2)"></div>
         <div class="dot inactive" id="dot3" onclick="currentSlide(3)"></div>
         <div class="dot inactive" id="dot4" onclick="currentSlide(4)"></div>
       </div>
-      <div style="top:0vh;width:95vw;height:30vh; position: relative; margin:auto;">
-        <div id = "wordslot_0" class="wordslot"><div id="wordbutton_0" class="wordbutton" onmousedown="registerWordButtonClick(0)" onmouseover="define(0)"></div><div id="wordhelp_0" class="definition_button"onmousedown="define(0)" >?</div><div id="wordhelp_0" class="check_button"onmousedown="check(0)" >Check</div></div>
-        <div id = "wordslot_1" class="wordslot"><div id="wordbutton_1" class="wordbutton" onmousedown="registerWordButtonClick(1)" onmouseover="define(1)"></div><div id="wordhelp_1" class="definition_button"onmousedown="define(1)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(1)" >Check</div></div>
-        <div id = "wordslot_2"class="wordslot"><div id="wordbutton_2" class="wordbutton" onmousedown="registerWordButtonClick(2)" onmouseover="define(2)"></div><div id="wordhelp_2" class="definition_button"onmousedown="define(2)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(2)" >Check</div></div>
-        <div id = "wordslot_3" class="wordslot"><div id="wordbutton_3" class="wordbutton" onmousedown="registerWordButtonClick(3)"onmouseover="define(3)"></div><div id="wordhelp_3" class="definition_button"onmousedown="define(3)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(3)" >Check</div></div>
-
-        <div id = "wordslot_4"class="wordslot"><div id="wordbutton_4" class="wordbutton" onmousedown="registerWordButtonClick(4)" onmouseover="define(4)"  ></div><div id="wordhelp_4" class="definition_button"onmousedown="define(4)">?</div><div id="wordhelp_0" class="check_button"onmousedown="check(4)" >Check</div></div>
-      </div>
-      <div style="top:0vh;width:90vw;height:10vh; margin: auto; position:relative">
+      <div class="selection_controls">
+        <div class="word_controls">
+          <div id = "wordslot_0" class="wordslot">
+            <div id="wordbutton_0" class="wordbutton" onmousedown="define(0);registerWordButtonClick(0)" onmouseover="define(0)"></div>
+          </div>
+          <div id = "wordslot_1" class="wordslot">
+            <div id="wordbutton_1" class="wordbutton" onmousedown="define(1);registerWordButtonClick(1)" onmouseover="define(1)"></div>
+          </div>
+          <div id = "wordslot_2"class="wordslot">
+            <div id="wordbutton_2" class="wordbutton" onmousedown="define(2);registerWordButtonClick(2)" onmouseover="define(2)"></div>
+          </div>
+          <div id = "wordslot_3" class="wordslot">
+            <div id="wordbutton_3" class="wordbutton" onmousedown="define(3);registerWordButtonClick(3)" onmouseover="define(3)"></div>
+          </div>
+          <div id = "wordslot_4"class="wordslot">
+            <div id="wordbutton_4" class="wordbutton" onmousedown="define(4);registerWordButtonClick(4)" onmouseover="define(4)"  ></div>
+          </div>
+        </div>
+        <div class="submit_controls">
+          <div class="make_selection" id="w_in_v_div" onmousedown="targetSelect(0)"">
+            <span id ="w_in_v_span" onclick="">Select a word</span>
+          </div>
+          <div class="make_selection" id="w_in_wotd_div" onmousedown="targetSelect(1)"">
+            <span id ="w_in_wotd_span"></span>
+          </div>
+          <div class="submit_div" id="submit" onmousedown="check()">
+            <span id="submit_span">Submit</span>
+          </div>
+        </div>
+    </div>
+      <div class = "def_div">
         <div id ="def_panel"></div>
       </div>
     
