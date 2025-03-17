@@ -1,0 +1,601 @@
+{
+    "wotd": {
+        "number": 1689,
+        "lemma": "\u1f10\u03bc\u03b2\u03bb\u1f73\u03c0\u03c9",
+        "xlit": "embl\u00e9p\u014d",
+        "pronunciation": "em-blep'-o",
+        "description": " to look on, i.e. (relatively) to observe fixedly,\n or (absolutely) to discern clearly",
+        "kjv_def": "behold, gaze up, look upon,\n (could) see.",
+        "pspeech": "V-AMA-2P"
+    },
+    "verses": [
+        {
+            "verse_no": 26087,
+            "verse_ref": "John 1:42",
+            "verse_data": [
+                {
+                    "BSB Version": " [Andrew] brought ",
+                    "Str Grk": 71.0,
+                    "lemma": "\u1f24\u03b3\u03b1\u03b3\u03b5\u03bd",
+                    "xlit": "\u0112gagen"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03bd",
+                    "xlit": "I\u0113soun"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " [who] ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " looked at ",
+                    "Str Grk": 1689.0,
+                    "lemma": "\u1f10\u03bc\u03b2\u03bb\u03ad\u03c8\u03b1\u03c2",
+                    "xlit": "emblepsas"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " [and] said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " You ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03a3\u1f7a",
+                    "xlit": "Sy"
+                },
+                {
+                    "BSB Version": " are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f36",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " Simon ",
+                    "Str Grk": 4613.0,
+                    "lemma": "\u03a3\u03af\u03bc\u03c9\u03bd",
+                    "xlit": "Sim\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " son ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03c5\u1f31\u1f78\u03c2",
+                    "xlit": "huios"
+                },
+                {
+                    "BSB Version": " of John ",
+                    "Str Grk": 2491.0,
+                    "lemma": "\u1f38\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5",
+                    "xlit": "I\u014dannou"
+                },
+                {
+                    "BSB Version": " You ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u1f7a",
+                    "xlit": "sy"
+                },
+                {
+                    "BSB Version": " will be called ",
+                    "Str Grk": 2564.0,
+                    "lemma": "\u03ba\u03bb\u03b7\u03b8\u03ae\u03c3\u1fc3",
+                    "xlit": "kl\u0113th\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " Cephas ",
+                    "Str Grk": 2786.0,
+                    "lemma": "\u039a\u03b7\u03c6\u1fb6\u03c2",
+                    "xlit": "K\u0113phas"
+                },
+                {
+                    "BSB Version": " (which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " is translated as ",
+                    "Str Grk": 2059.0,
+                    "lemma": "\u1f11\u03c1\u03bc\u03b7\u03bd\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "herm\u0113neuetai"
+                },
+                {
+                    "BSB Version": " Peter) ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2",
+                    "xlit": "Petros"
+                }
+            ],
+            "verse_text": "He led him to Jesus. Having looked at him, Jesus said, \"You are Simon the son of Jonah. You will be called Cephas\" (which means Peter)."
+        },
+        {
+            "verse_no": 27716,
+            "verse_ref": "Acts 22:11",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " Because ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f69\u03c2",
+                    "xlit": "H\u014ds"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " brilliance ",
+                    "Str Grk": 1391.0,
+                    "lemma": "\u03b4\u03cc\u03be\u03b7\u03c2",
+                    "xlit": "dox\u0113s"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u03bf\u03c5",
+                    "xlit": "ekeinou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " light ",
+                    "Str Grk": 5457.0,
+                    "lemma": "\u03c6\u03c9\u03c4\u1f78\u03c2",
+                    "xlit": "ph\u014dtos"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " had blinded me ",
+                    "Str Grk": 1689.0,
+                    "lemma": "\u1f10\u03bd\u03ad\u03b2\u03bb\u03b5\u03c0\u03bf\u03bd",
+                    "xlit": "eneblepon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u1f78",
+                    "xlit": "hypo"
+                },
+                {
+                    "BSB Version": " my companions ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 4895.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03cc\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "synont\u014dn"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f26\u03bb\u03b8\u03bf\u03bd",
+                    "xlit": "\u0113lthon"
+                },
+                {
+                    "BSB Version": " led me by the hand ",
+                    "Str Grk": 5496.0,
+                    "lemma": "\u03c7\u03b5\u03b9\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "cheirag\u014dgoumenos"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " Damascus ",
+                    "Str Grk": 1154.0,
+                    "lemma": "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03cc\u03bd",
+                    "xlit": "Damaskon"
+                }
+            ],
+            "verse_text": "And while I could not see from the brightness of that light, I came to Damascus, being led by the hand by those being with me."
+        },
+        {
+            "verse_no": 24526,
+            "verse_ref": "Mark 8:25",
+            "verse_data": [
+                {
+                    "BSB Version": " Once again ",
+                    "Str Grk": 1534.0,
+                    "lemma": "\u0395\u1f36\u03c4\u03b1",
+                    "xlit": "Eita"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " [Jesus] placed ",
+                    "Str Grk": 2007.0,
+                    "lemma": "\u1f10\u03c0\u03ad\u03b8\u03b7\u03ba\u03b5\u03bd",
+                    "xlit": "epeth\u0113ken"
+                },
+                {
+                    "BSB Version": " [His] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " hands ",
+                    "Str Grk": 5495.0,
+                    "lemma": "\u03c7\u03b5\u1fd6\u03c1\u03b1\u03c2",
+                    "xlit": "cheiras"
+                },
+                {
+                    "BSB Version": " on ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " [the man\u2019s] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " eyes ",
+                    "Str Grk": 3788.0,
+                    "lemma": "\u1f40\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u1f7a\u03c2",
+                    "xlit": "ophthalmous"
+                },
+                {
+                    "BSB Version": " and when ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " he opened them ",
+                    "Str Grk": 1227.0,
+                    "lemma": "\u03b4\u03b9\u03ad\u03b2\u03bb\u03b5\u03c8\u03b5\u03bd",
+                    "xlit": "dieblepsen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [his sight] was restored ",
+                    "Str Grk": 600.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03ba\u03b1\u03c4\u03ad\u03c3\u03c4\u03b7",
+                    "xlit": "apekatest\u0113"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " he could see ",
+                    "Str Grk": 1689.0,
+                    "lemma": "\u1f10\u03bd\u03ad\u03b2\u03bb\u03b5\u03c0\u03b5\u03bd",
+                    "xlit": "eneblepen"
+                },
+                {
+                    "BSB Version": " everything ",
+                    "Str Grk": 537.0,
+                    "lemma": "\u1f05\u03c0\u03b1\u03bd\u03c4\u03b1",
+                    "xlit": "hapanta"
+                },
+                {
+                    "BSB Version": " clearly ",
+                    "Str Grk": 5081.0,
+                    "lemma": "\u03c4\u03b7\u03bb\u03b1\u03c5\u03b3\u1ff6\u03c2",
+                    "xlit": "t\u0113laug\u014ds"
+                }
+            ],
+            "verse_text": "Then He laid the hands upon his eyes again, and he opened his eyes and was restored, and he began to see everything clearly."
+        },
+        {
+            "verse_no": 24610,
+            "verse_ref": "Mark 10:21",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f49",
+                    "xlit": "Ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " looked at ",
+                    "Str Grk": 1689.0,
+                    "lemma": "\u1f10\u03bc\u03b2\u03bb\u03ad\u03c8\u03b1\u03c2",
+                    "xlit": "emblepsas"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " loved ",
+                    "Str Grk": 25.0,
+                    "lemma": "\u1f20\u03b3\u03ac\u03c0\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "\u0113gap\u0113sen"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " to him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " [There is] one thing ",
+                    "Str Grk": 1520.0,
+                    "lemma": "\u1f1d\u03bd",
+                    "xlit": "Hen"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03b5",
+                    "xlit": "se"
+                },
+                {
+                    "BSB Version": " lack ",
+                    "Str Grk": 5302.0,
+                    "lemma": "\u1f51\u03c3\u03c4\u03b5\u03c1\u03b5\u1fd6",
+                    "xlit": "hysterei"
+                },
+                {
+                    "BSB Version": " Go ",
+                    "Str Grk": 5217.0,
+                    "lemma": "\u1f55\u03c0\u03b1\u03b3\u03b5",
+                    "xlit": "hypage"
+                },
+                {
+                    "BSB Version": " sell ",
+                    "Str Grk": 4453.0,
+                    "lemma": "\u03c0\u03ce\u03bb\u03b7\u03c3\u03bf\u03bd",
+                    "xlit": "p\u014dl\u0113son"
+                },
+                {
+                    "BSB Version": " everything ",
+                    "Str Grk": 3745.0,
+                    "lemma": "\u1f45\u03c3\u03b1",
+                    "xlit": "hosa"
+                },
+                {
+                    "BSB Version": " you own ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f14\u03c7\u03b5\u03b9\u03c2",
+                    "xlit": "echeis"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " give ",
+                    "Str Grk": 1325.0,
+                    "lemma": "\u03b4\u1f78\u03c2",
+                    "xlit": "dos"
+                },
+                {
+                    "BSB Version": " to the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " poor ",
+                    "Str Grk": 4434.0,
+                    "lemma": "\u03c0\u03c4\u03c9\u03c7\u03bf\u1fd6\u03c2",
+                    "xlit": "pt\u014dchois"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " you will have ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f15\u03be\u03b5\u03b9\u03c2",
+                    "xlit": "hexeis"
+                },
+                {
+                    "BSB Version": " treasure ",
+                    "Str Grk": 2344.0,
+                    "lemma": "\u03b8\u03b7\u03c3\u03b1\u03c5\u03c1\u1f78\u03bd",
+                    "xlit": "th\u0113sauron"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " heaven ",
+                    "Str Grk": 3772.0,
+                    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u1ff7",
+                    "xlit": "ouran\u014d"
+                },
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " come ",
+                    "Str Grk": 1204.0,
+                    "lemma": "\u03b4\u03b5\u1fe6\u03c1\u03bf",
+                    "xlit": "deuro"
+                },
+                {
+                    "BSB Version": " follow ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b5\u03b9",
+                    "xlit": "akolouthei"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                }
+            ],
+            "verse_text": "And Jesus, having looked upon him, loved him and said to him, \"One thing to you is lacking: Go, sell as much as you have, and give to the poor, and you will have treasure in heaven; and come, follow Me.\""
+        }
+    ],
+    "other_words": [
+        {
+            "number": 4613,
+            "lemma": "\u03a3\u1f77\u03bc\u03c9\u03bd",
+            "xlit": "S\u00edm\u014dn",
+            "pronunciation": "see'-mone",
+            "description": " Simon (i.e. Shimon), the name of nine\n Israelites",
+            "kjv_def": "Simon.",
+            "pspeech": "N-AMS"
+        },
+        {
+            "number": 2064,
+            "lemma": "\u1f14\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "\u00e9rchomai",
+            "pronunciation": "er'-khom-ahee",
+            "description": "\n\n to come or go (in a great variety of applications, literally and \n figuratively)",
+            "kjv_def": "accompany, appear, bring, come, enter, fall out, go,\n grow, X light, X next, pass, resort, be set.",
+            "pspeech": "V-AIA-1P"
+        },
+        {
+            "number": 1534,
+            "lemma": "\u03b5\u1f36\u03c4\u03b1",
+            "xlit": "e\u00eeta",
+            "pronunciation": "i'-tah",
+            "description": " a particle of succession (in time or logical\n enumeration), then, moreover",
+            "kjv_def": "after that(-ward), furthermore, then.",
+            "pspeech": "Adv"
+        },
+        {
+            "number": 1325,
+            "lemma": "\u03b4\u1f77\u03b4\u03c9\u03bc\u03b9",
+            "xlit": "d\u00edd\u014dmi",
+            "pronunciation": "did'-o-mee",
+            "description": " to give (used in a very wide application,\n properly, or by implication, literally or figuratively; greatly\n modified by the connection)",
+            "kjv_def": "adventure, bestow, bring forth, commit,\n deliver (up), give, grant, hinder, make, minister, number, offer, have\n power, put, receive, set, shew, smite (+ with the hand), strike (+\n with the palm of the hand), suffer, take, utter, yield.",
+            "pspeech": "V-FIA-1S"
+        }
+    ]
+}
