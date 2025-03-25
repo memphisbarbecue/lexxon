@@ -1,349 +1,229 @@
 {
     "wotd": {
-        "number": 2923,
-        "lemma": "\u03ba\u03c1\u03b9\u03c4\u1f75\u03c2",
-        "xlit": "krit\u1e17s",
-        "pronunciation": "kree-tace'",
-        "description": " a judge (genitive case or specially)",
-        "kjv_def": "judge.",
-        "pspeech": "N-DMS"
+        "number": 3551,
+        "lemma": "\u03bd\u1f79\u03bc\u03bf\u03c2",
+        "xlit": "n\u00f3mos",
+        "pronunciation": "nom'-os",
+        "kjv_def": "law.",
+        "pspeech": "N-AMS",
+        "description": " law (through the idea of prescriptive usage), genitive case (regulation), specially, (of Moses (including the volume); also of the Gospel), or figuratively (a principle)"
     },
     "verses": [
         {
-            "verse_no": 30236,
-            "verse_ref": "Hebrews 12:23",
+            "verse_no": 28113,
+            "verse_ref": "Romans 7:21",
             "verse_data": [
                 {
-                    "BSB Version": " in joyful assembly ",
-                    "Str Grk": 3831.0,
-                    "lemma": "\u03c0\u03b1\u03bd\u03b7\u03b3\u03cd\u03c1\u03b5\u03b9",
-                    "xlit": "pan\u0113gyrei"
+                    "BSB Version": " So ",
+                    "Str Grk": 686.0,
+                    "lemma": "\u1f04\u03c1\u03b1",
+                    "xlit": "ara"
+                },
+                {
+                    "BSB Version": " [this is] the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " principle ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03bd",
+                    "xlit": "nomon"
+                },
+                {
+                    "BSB Version": " I have discovered ",
+                    "Str Grk": 2147.0,
+                    "lemma": "\u0395\u1f51\u03c1\u03af\u03c3\u03ba\u03c9",
+                    "xlit": "Heurisk\u014d"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " [to the] congregation ",
-                    "Str Grk": 1577.0,
-                    "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u1fb3",
-                    "xlit": "ekkl\u0113sia"
-                },
-                {
-                    "BSB Version": " of [the] firstborn ",
-                    "Str Grk": 4416.0,
-                    "lemma": "\u03c0\u03c1\u03c9\u03c4\u03bf\u03c4\u03cc\u03ba\u03c9\u03bd",
-                    "xlit": "pr\u014dtotok\u014dn"
-                },
-                {
-                    "BSB Version": " enrolled ",
-                    "Str Grk": 583.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03bd\u03c9\u03bd",
-                    "xlit": "apogegrammen\u014dn"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " heaven ",
-                    "Str Grk": 3772.0,
-                    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fd6\u03c2",
-                    "xlit": "ouranois"
-                },
-                {
-                    "BSB Version": " [You have come] ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " to God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u1ff7",
-                    "xlit": "The\u014d"
-                },
-                {
-                    "BSB Version": " [the] Judge ",
-                    "Str Grk": 2923.0,
-                    "lemma": "\u039a\u03c1\u03b9\u03c4\u1fc7",
-                    "xlit": "Krit\u0113"
-                },
-                {
-                    "BSB Version": " of all ",
-                    "Str Grk": 3956.0,
-                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
-                    "xlit": "pant\u014dn"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " to [the] spirits ",
-                    "Str Grk": 4151.0,
-                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c3\u03b9",
-                    "xlit": "pneumasi"
-                },
-                {
-                    "BSB Version": " of [the] righteous ",
-                    "Str Grk": 1342.0,
-                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03af\u03c9\u03bd",
-                    "xlit": "dikai\u014dn"
-                },
-                {
-                    "BSB Version": " made perfect ",
-                    "Str Grk": 5048.0,
-                    "lemma": "\u03c4\u03b5\u03c4\u03b5\u03bb\u03b5\u03b9\u03c9\u03bc\u03ad\u03bd\u03c9\u03bd",
-                    "xlit": "tetelei\u014dmen\u014dn"
-                }
-            ],
-            "verse_text": "and <i>to the</i> assembly, to <i>the</i> church of <i>the</i> firstborn having been enrolled in <i>the</i> heavens, and to God <i>the</i> judge of all, and to <i>the</i> spirits of <i>the</i> righteous having been perfected,"
-        },
-        {
-            "verse_no": 27302,
-            "verse_ref": "Acts 10:42",
-            "verse_data": [
-                {
-                    "BSB Version": " And ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " He commanded ",
-                    "Str Grk": 3853.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03ae\u03b3\u03b3\u03b5\u03b9\u03bb\u03b5\u03bd",
-                    "xlit": "par\u0113ngeilen"
-                },
-                {
-                    "BSB Version": " us ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
-                    "xlit": "h\u0113min"
-                },
-                {
-                    "BSB Version": " to preach ",
-                    "Str Grk": 2784.0,
-                    "lemma": "\u03ba\u03b7\u03c1\u03cd\u03be\u03b1\u03b9",
-                    "xlit": "k\u0113ryxai"
-                },
-                {
-                    "BSB Version": " to the ",
                     "Str Grk": 3588.0,
                     "lemma": "\u03c4\u1ff7",
                     "xlit": "t\u014d"
                 },
                 {
-                    "BSB Version": " people ",
-                    "Str Grk": 2992.0,
-                    "lemma": "\u03bb\u03b1\u1ff7",
-                    "xlit": "la\u014d"
+                    "BSB Version": " When I ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u03bf\u1f76",
+                    "xlit": "emoi"
                 },
                 {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " want ",
+                    "Str Grk": 2309.0,
+                    "lemma": "\u03b8\u03ad\u03bb\u03bf\u03bd\u03c4\u03b9",
+                    "xlit": "thelonti"
                 },
                 {
-                    "BSB Version": " to testify ",
-                    "Str Grk": 1263.0,
-                    "lemma": "\u03b4\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03cd\u03c1\u03b1\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "diamartyrasthai"
+                    "BSB Version": " to do ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03b5\u1fd6\u03bd",
+                    "xlit": "poiein"
                 },
                 {
-                    "BSB Version": " that ",
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 2570.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u1f78\u03bd",
+                    "xlit": "kalon"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3754.0,
                     "lemma": "\u1f45\u03c4\u03b9",
                     "xlit": "hoti"
                 },
                 {
-                    "BSB Version": " He ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03bf\u1f57\u03c4\u03cc\u03c2",
-                    "xlit": "houtos"
-                },
-                {
-                    "BSB Version": " is ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
-                    "xlit": "estin"
-                },
-                {
-                    "BSB Version": " the [One] ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " appointed ",
-                    "Str Grk": 3724.0,
-                    "lemma": "\u1f61\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2",
-                    "xlit": "h\u014drismenos"
-                },
-                {
-                    "BSB Version": " by ",
-                    "Str Grk": 5259.0,
-                    "lemma": "\u1f51\u03c0\u1f78",
-                    "xlit": "hypo"
-                },
-                {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
                 },
                 {
-                    "BSB Version": " God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
-                    "xlit": "Theou"
+                    "BSB Version": " evil ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u1f78\u03bd",
+                    "xlit": "kakon"
                 },
                 {
-                    "BSB Version": " to judge ",
-                    "Str Grk": 2923.0,
-                    "lemma": "\u039a\u03c1\u03b9\u03c4\u1f74\u03c2",
-                    "xlit": "Krit\u0113s"
+                    "BSB Version": " is right there with ",
+                    "Str Grk": 3873.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ac\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9",
+                    "xlit": "parakeitai"
                 },
                 {
-                    "BSB Version": " [the] living ",
-                    "Str Grk": 2198.0,
-                    "lemma": "\u03b6\u03ce\u03bd\u03c4\u03c9\u03bd",
-                    "xlit": "z\u014dnt\u014dn"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " [the] dead ",
-                    "Str Grk": 3498.0,
-                    "lemma": "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd",
-                    "xlit": "nekr\u014dn"
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u03bf\u1f76",
+                    "xlit": "emoi"
                 }
             ],
-            "verse_text": "And He instructed us to proclaim to the people and to testify fully that He is the <i>One</i> having been appointed by God <i>as</i> judge of <i>the</i> living and <i>the</i> dead."
+            "verse_text": "So I find the principle in my desiring to do good, that evil is present with me."
         },
         {
-            "verse_no": 27573,
-            "verse_ref": "Acts 18:15",
+            "verse_no": 27976,
+            "verse_ref": "Romans 2:13",
             "verse_data": [
                 {
-                    "BSB Version": " But ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "BSB Version": " For [it is] ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
                 },
                 {
-                    "BSB Version": " since ",
-                    "Str Grk": 1487.0,
-                    "lemma": "\u03b5\u1f30",
-                    "xlit": "ei"
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
                 },
                 {
-                    "BSB Version": " it is ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
-                    "xlit": "estin"
-                },
-                {
-                    "BSB Version": " a dispute ",
-                    "Str Grk": 2213.0,
-                    "lemma": "\u03b6\u03b7\u03c4\u03ae\u03bc\u03b1\u03c4\u03ac",
-                    "xlit": "z\u0113t\u0113mata"
-                },
-                {
-                    "BSB Version": " about ",
-                    "Str Grk": 4012.0,
-                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
-                    "xlit": "peri"
-                },
-                {
-                    "BSB Version": " words ",
-                    "Str Grk": 3056.0,
-                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c5",
-                    "xlit": "logou"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " names ",
-                    "Str Grk": 3686.0,
-                    "lemma": "\u1f40\u03bd\u03bf\u03bc\u03ac\u03c4\u03c9\u03bd",
-                    "xlit": "onomat\u014dn"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " vvv ",
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
                 },
                 {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 2596.0,
-                    "lemma": "\u03ba\u03b1\u03b8\u2019",
-                    "xlit": "kath\u2019"
+                    "BSB Version": " hearers ",
+                    "Str Grk": 202.0,
+                    "lemma": "\u1f00\u03ba\u03c1\u03bf\u03b1\u03c4\u03b1\u1f76",
+                    "xlit": "akroatai"
                 },
                 {
-                    "BSB Version": " your own ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
-                },
-                {
-                    "BSB Version": " law ",
+                    "BSB Version": " of [the] law ",
                     "Str Grk": 3551.0,
                     "lemma": "\u03bd\u03cc\u03bc\u03bf\u03c5",
                     "xlit": "nomou"
                 },
                 {
-                    "BSB Version": " settle [it] ",
-                    "Str Grk": 3708.0,
-                    "lemma": "\u1f44\u03c8\u03b5\u03c3\u03b8\u03b5",
-                    "xlit": "opsesthe"
+                    "BSB Version": " [who are] righteous ",
+                    "Str Grk": 1342.0,
+                    "lemma": "\u03b4\u03af\u03ba\u03b1\u03b9\u03bf\u03b9",
+                    "xlit": "dikaioi"
                 },
                 {
-                    "BSB Version": " yourselves ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u03af",
-                    "xlit": "autoi"
+                    "BSB Version": " before ",
+                    "Str Grk": 3844.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u1f70",
+                    "xlit": "para"
                 },
                 {
-                    "BSB Version": " I ",
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1ff7",
+                    "xlit": "The\u014d"
+                },
+                {
+                    "BSB Version": " but [it is] ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u2019",
+                    "xlit": "all\u2019"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " doers ",
+                    "Str Grk": 4163.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03b7\u03c4\u03b1\u1f76",
+                    "xlit": "poi\u0113tai"
+                },
+                {
+                    "BSB Version": " of [the] law ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03c5",
+                    "xlit": "nomou"
+                },
+                {
+                    "BSB Version": " [who] will be declared righteous ",
+                    "Str Grk": 1344.0,
+                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03c9\u03b8\u03ae\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "dikai\u014dth\u0113sontai"
+                }
+            ],
+            "verse_text": "for not the hearers of <i>the</i> Law <i>are</i> righteous with God; but the doers of <i>the</i> Law will be justified."
+        },
+        {
+            "verse_no": 29153,
+            "verse_ref": "Galatians 4:21",
+            "verse_data": [
+                {
+                    "BSB Version": " Tell ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u039b\u03ad\u03b3\u03b5\u03c4\u03ad",
+                    "xlit": "Legete"
+                },
+                {
+                    "BSB Version": " me ",
                     "Str Grk": 1473.0,
-                    "lemma": "\u1f10\u03b3\u1f7c",
-                    "xlit": "eg\u014d"
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
                 },
                 {
-                    "BSB Version": " refuse ",
-                    "Str Grk": 1014.0,
-                    "lemma": "\u03b2\u03bf\u03cd\u03bb\u03bf\u03bc\u03b1\u03b9",
-                    "xlit": "boulomai"
+                    "BSB Version": " [you] who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
                 },
                 {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 3756.0,
-                    "lemma": "\u03bf\u1f50",
-                    "xlit": "ou"
+                    "BSB Version": " want ",
+                    "Str Grk": 2309.0,
+                    "lemma": "\u03b8\u03ad\u03bb\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "thelontes"
                 },
                 {
                     "BSB Version": " to be ",
@@ -352,124 +232,136 @@
                     "xlit": "einai"
                 },
                 {
-                    "BSB Version": " a judge ",
-                    "Str Grk": 2923.0,
-                    "lemma": "\u03ba\u03c1\u03b9\u03c4\u1f74\u03c2",
-                    "xlit": "krit\u0113s"
+                    "BSB Version": " under ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u1f78",
+                    "xlit": "hypo"
                 },
                 {
-                    "BSB Version": " of such things ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03c9\u03bd",
-                    "xlit": "tout\u014dn"
-                }
-            ],
-            "verse_text": "But if it is a question about a word, and names, and in reference to your law, you will see <i>to it</i> yourselves. I resolve not to be a judge of these things.\""
-        },
-        {
-            "verse_no": 30298,
-            "verse_ref": "James 2:4",
-            "verse_data": [
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " [the] law ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03bd",
+                    "xlit": "nomon"
                 },
                 {
                     "BSB Version": " vvv ",
                     "Str Grk": 3756.0,
-                    "lemma": "\u03bf\u1f50",
-                    "xlit": "ou"
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
                 },
                 {
-                    "BSB Version": " have you not discriminated ",
-                    "Str Grk": 1252.0,
-                    "lemma": "\u03b4\u03b9\u03b5\u03ba\u03c1\u03af\u03b8\u03b7\u03c4\u03b5",
-                    "xlit": "diekrith\u0113te"
+                    "BSB Version": " do you not understand [what] ",
+                    "Str Grk": 191.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03cd\u03b5\u03c4\u03b5",
+                    "xlit": "akouete"
                 },
                 {
-                    "BSB Version": " among ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
                 },
                 {
-                    "BSB Version": " yourselves ",
-                    "Str Grk": 1438.0,
-                    "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "heautois"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " become ",
-                    "Str Grk": 1096.0,
-                    "lemma": "\u1f10\u03b3\u03ad\u03bd\u03b5\u03c3\u03b8\u03b5",
-                    "xlit": "egenesthe"
-                },
-                {
-                    "BSB Version": " judges [with] ",
-                    "Str Grk": 2923.0,
-                    "lemma": "\u03ba\u03c1\u03b9\u03c4\u03b1\u1f76",
-                    "xlit": "kritai"
-                },
-                {
-                    "BSB Version": " evil ",
-                    "Str Grk": 4190.0,
-                    "lemma": "\u03c0\u03bf\u03bd\u03b7\u03c1\u1ff6\u03bd",
-                    "xlit": "pon\u0113r\u014dn"
-                },
-                {
-                    "BSB Version": " thoughts ",
-                    "Str Grk": 1261.0,
-                    "lemma": "\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u1ff6\u03bd",
-                    "xlit": "dialogism\u014dn"
+                    "BSB Version": " law [says] ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03bd",
+                    "xlit": "nomon"
                 }
             ],
-            "verse_text": "then have you not made a distinction among yourselves and have become judges <i>with</i> evil thoughts?"
+            "verse_text": "Tell me, those wishing to be under <i>the</i> Law, do you do not listen to the Law?"
+        },
+        {
+            "verse_no": 28020,
+            "verse_ref": "Romans 3:28",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " we maintain that ",
+                    "Str Grk": 3049.0,
+                    "lemma": "\u03bb\u03bf\u03b3\u03b9\u03b6\u03cc\u03bc\u03b5\u03b8\u03b1",
+                    "xlit": "logizometha"
+                },
+                {
+                    "BSB Version": " a man ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bd",
+                    "xlit": "anthr\u014dpon"
+                },
+                {
+                    "BSB Version": " is justified ",
+                    "Str Grk": 1344.0,
+                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u1fe6\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "dikaiousthai"
+                },
+                {
+                    "BSB Version": " by faith ",
+                    "Str Grk": 4102.0,
+                    "lemma": "\u03c0\u03af\u03c3\u03c4\u03b5\u03b9",
+                    "xlit": "pistei"
+                },
+                {
+                    "BSB Version": " apart from ",
+                    "Str Grk": 5565.0,
+                    "lemma": "\u03c7\u03c9\u03c1\u1f76\u03c2",
+                    "xlit": "ch\u014dris"
+                },
+                {
+                    "BSB Version": " works ",
+                    "Str Grk": 2041.0,
+                    "lemma": "\u1f14\u03c1\u03b3\u03c9\u03bd",
+                    "xlit": "erg\u014dn"
+                },
+                {
+                    "BSB Version": " of the law ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03c5",
+                    "xlit": "nomou"
+                }
+            ],
+            "verse_text": "Therefore we reckon a man to be justified by faith apart from works of the Law."
         }
     ],
     "other_words": [
         {
-            "number": 5048,
-            "lemma": "\u03c4\u03b5\u03bb\u03b5\u03b9\u1f79\u03c9",
-            "xlit": "telei\u00f3\u014d",
-            "pronunciation": "tel-i-o'-o",
-            "description": " to complete, i.e. (literally) accomplish, or (figuratively)\n consummate (in character)",
-            "kjv_def": "consecrate, finish, fulfil, make) perfect.",
-            "pspeech": "V-APA-GMP"
+            "number": 2556,
+            "lemma": "\u03ba\u03b1\u03ba\u1f79\u03c2",
+            "xlit": "kak\u00f3s",
+            "pronunciation": "kak-os'",
+            "kjv_def": "bad, evil, harm, ill, noisome, wicked.",
+            "pspeech": "Adj-AMP",
+            "description": " worthless (intrinsically, such; whereas \u03c0\u03bf\u03bd\u03b7\u03c1\u1f79\u03c2(pon\u0113r\u00f3s) properly refers to effects), i.e. (subjectively) depraved, or (objectively) injurious"
         },
         {
-            "number": 3498,
-            "lemma": "\u03bd\u03b5\u03ba\u03c1\u1f79\u03c2",
-            "xlit": "nekr\u00f3s",
-            "pronunciation": "nek-ros'",
-            "description": " dead (literally or\n figuratively; also as noun)",
-            "kjv_def": "dead.",
-            "pspeech": "Adj-AMP"
+            "number": 1342,
+            "lemma": "\u03b4\u1f77\u03ba\u03b1\u03b9\u03bf\u03c2",
+            "xlit": "d\u00edkaios",
+            "pronunciation": "dik'-ah-yos",
+            "kjv_def": "just, meet, right(-eous).",
+            "pspeech": "Adj-NMS",
+            "description": " equitable (in character or act); by implication, innocent, holy (absolutely or relatively)"
         },
         {
-            "number": 3551,
-            "lemma": "\u03bd\u1f79\u03bc\u03bf\u03c2",
-            "xlit": "n\u00f3mos",
-            "pronunciation": "nom'-os",
-            "description": " law (through the idea of prescriptive usage), genitive case\n (regulation), specially, (of Moses (including the volume); also of the\n Gospel), or figuratively (a principle)",
-            "kjv_def": "law.",
-            "pspeech": "N-AMS"
+            "number": 191,
+            "lemma": "\u1f00\u03ba\u03bf\u1f7b\u03c9",
+            "xlit": "ako\u00fa\u014d",
+            "pronunciation": "ak-oo'-o",
+            "kjv_def": "give (in the) audience\n (of), come (to the ears), (shall) hear(-er, -ken), be noised, be\n reported, understand.",
+            "pspeech": "V-APA-NMS",
+            "description": " to hear (in various senses)"
         },
         {
-            "number": 1261,
-            "lemma": "\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u1f79\u03c2",
-            "xlit": "dialogism\u00f3s",
-            "pronunciation": "dee-al-og-is-mos'",
-            "description": " discussion, i.e. (internal) consideration (by implication,\n purpose), or (external) debate",
-            "kjv_def": "dispute, doubtful(-ing), imagination,\n reasoning, thought.",
-            "pspeech": "N-NMP"
+            "number": 3049,
+            "lemma": "\u03bb\u03bf\u03b3\u1f77\u03b6\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "log\u00edzomai",
+            "pronunciation": "log-id'-zom-ahee",
+            "kjv_def": "conclude, (ac-)count (of), + despise, esteem,\n impute, lay, number, reason, reckon, suppose, think (on).",
+            "pspeech": "V-AIP-3S",
+            "description": " to take an inventory, i.e. estimate (literally or figuratively)"
         }
     ]
 }

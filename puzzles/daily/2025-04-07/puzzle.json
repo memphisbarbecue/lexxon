@@ -1,259 +1,119 @@
 {
     "wotd": {
-        "number": 5011,
-        "lemma": "\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u1f79\u03c2",
-        "xlit": "tapein\u00f3s",
-        "pronunciation": "tap-i-nos'",
-        "description": " depressed, i.e. (figuratively) humiliated (in\n circumstances or disposition)",
-        "kjv_def": "base, cast down, humble, of low degree\n (estate), lowly.",
-        "pspeech": "Adj-NMS"
+        "number": 5509,
+        "lemma": "\u03c7\u03b9\u03c4\u1f7d\u03bd",
+        "xlit": "chit\u1e53n",
+        "pronunciation": "khee-tone'",
+        "kjv_def": "clothes, coat, garment.",
+        "pspeech": "N-AMS",
+        "description": " a tunic or shirt"
     },
     "verses": [
         {
-            "verse_no": 23489,
-            "verse_ref": "Matthew 11:29",
+            "verse_no": 30696,
+            "verse_ref": "Jude 1:23",
             "verse_data": [
-                {
-                    "BSB Version": " Take ",
-                    "Str Grk": 142.0,
-                    "lemma": "\u1f04\u03c1\u03b1\u03c4\u03b5",
-                    "xlit": "arate"
-                },
-                {
-                    "BSB Version": " My ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u03bc\u03bf\u03c5",
-                    "xlit": "mou"
-                },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " yoke ",
-                    "Str Grk": 2218.0,
-                    "lemma": "\u03b6\u03c5\u03b3\u03cc\u03bd",
-                    "xlit": "zygon"
-                },
-                {
-                    "BSB Version": " upon ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c6\u2019",
-                    "xlit": "eph\u2019"
-                },
-                {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " learn ",
-                    "Str Grk": 3129.0,
-                    "lemma": "\u03bc\u03ac\u03b8\u03b5\u03c4\u03b5",
-                    "xlit": "mathete"
-                },
-                {
-                    "BSB Version": " from ",
-                    "Str Grk": 575.0,
-                    "lemma": "\u1f00\u03c0\u2019",
-                    "xlit": "ap\u2019"
-                },
-                {
-                    "BSB Version": " Me ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f10\u03bc\u03bf\u1fe6",
-                    "xlit": "emou"
-                },
-                {
-                    "BSB Version": " for ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " I am ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u03b5\u1f30\u03bc\u03b9",
-                    "xlit": "eimi"
-                },
-                {
-                    "BSB Version": " gentle ",
-                    "Str Grk": 4239.0,
-                    "lemma": "\u03c0\u03c1\u03b1\u03b0\u03c2",
-                    "xlit": "praus"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " humble ",
-                    "Str Grk": 5011.0,
-                    "lemma": "\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u1f78\u03c2",
-                    "xlit": "tapeinos"
-                },
-                {
-                    "BSB Version": " [in] ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " heart ",
-                    "Str Grk": 2588.0,
-                    "lemma": "\u03ba\u03b1\u03c1\u03b4\u03af\u1fb3",
-                    "xlit": "kardia"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " you will find ",
-                    "Str Grk": 2147.0,
-                    "lemma": "\u03b5\u1f51\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5",
-                    "xlit": "heur\u0113sete"
-                },
-                {
-                    "BSB Version": " rest ",
-                    "Str Grk": 372.0,
-                    "lemma": "\u1f00\u03bd\u03ac\u03c0\u03b1\u03c5\u03c3\u03b9\u03bd",
-                    "xlit": "anapausin"
-                },
-                {
-                    "BSB Version": " [for] ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03b1\u1fd6\u03c2",
-                    "xlit": "tais"
-                },
-                {
-                    "BSB Version": " your ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
-                    "xlit": "hym\u014dn"
-                },
-                {
-                    "BSB Version": " souls ",
-                    "Str Grk": 5590.0,
-                    "lemma": "\u03c8\u03c5\u03c7\u03b1\u1fd6\u03c2",
-                    "xlit": "psychais"
-                }
-            ],
-            "verse_text": "Take My yoke upon you and learn from Me, for I am gentle and humble <i>in</i> heart, and you will find rest <i>for</i> your souls."
-        },
-        {
-            "verse_no": 28923,
-            "verse_ref": "2 Corinthians 7:6",
-            "verse_data": [
-                {
-                    "BSB Version": " But ",
-                    "Str Grk": 235.0,
-                    "lemma": "\u1f00\u03bb\u03bb\u2019",
-                    "xlit": "all\u2019"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u1f78\u03c2",
-                    "xlit": "Theos"
-                },
-                {
-                    "BSB Version": " who ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " comforts ",
-                    "Str Grk": 3870.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u1ff6\u03bd",
-                    "xlit": "parakal\u014dn"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "tous"
-                },
-                {
-                    "BSB Version": " downcast ",
-                    "Str Grk": 5011.0,
-                    "lemma": "\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03bf\u1f7a\u03c2",
-                    "xlit": "tapeinous"
-                },
-                {
-                    "BSB Version": " comforted ",
-                    "Str Grk": 3870.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03b5\u03ba\u03ac\u03bb\u03b5\u03c3\u03b5\u03bd",
-                    "xlit": "parekalesen"
-                },
-                {
-                    "BSB Version": " us ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f21\u03bc\u1fb6\u03c2",
-                    "xlit": "h\u0113mas"
-                },
-                {
-                    "BSB Version": " by ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " arrival ",
-                    "Str Grk": 3952.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u1fb3",
-                    "xlit": "parousia"
-                },
-                {
-                    "BSB Version": " of Titus ",
-                    "Str Grk": 5103.0,
-                    "lemma": "\u03a4\u03af\u03c4\u03bf\u03c5",
-                    "xlit": "Titou"
-                }
-            ],
-            "verse_text": "But God, the <i>One</i> comforting the downcast, encouraged us by the coming of Titus,"
-        },
-        {
-            "verse_no": 28973,
-            "verse_ref": "2 Corinthians 10:1",
-            "verse_data": [
-                {
-                    "BSB Version": " Now ",
                     "Str Grk": 1161.0,
                     "lemma": "\u03b4\u1f72",
                     "xlit": "de"
                 },
                 {
+                    "BSB Version": " save ",
+                    "Str Grk": 4982.0,
+                    "lemma": "\u03c3\u1ff4\u03b6\u03b5\u03c4\u03b5",
+                    "xlit": "s\u014dzete"
+                },
+                {
+                    "BSB Version": " others ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03bf\u1f53\u03c2",
+                    "xlit": "hous"
+                },
+                {
+                    "BSB Version": " by snatching [them] ",
+                    "Str Grk": 726.0,
+                    "lemma": "\u1f01\u03c1\u03c0\u03ac\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "harpazontes"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " [the] fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u1f78\u03c2",
+                    "xlit": "pyros"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " to still others ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03bf\u1f53\u03c2",
+                    "xlit": "hous"
+                },
+                {
+                    "BSB Version": " show mercy ",
+                    "Str Grk": 1653.0,
+                    "lemma": "\u1f10\u03bb\u03b5\u1fb6\u03c4\u03b5",
+                    "xlit": "eleate"
+                },
+                {
+                    "BSB Version": " [ tempered ] with ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " fear ",
+                    "Str Grk": 5401.0,
+                    "lemma": "\u03c6\u03cc\u03b2\u1ff3",
+                    "xlit": "phob\u014d"
+                },
+                {
+                    "BSB Version": " hating ",
+                    "Str Grk": 3404.0,
+                    "lemma": "\u03bc\u03b9\u03c3\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "misountes"
+                },
+                {
+                    "BSB Version": " even ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " clothing ",
+                    "Str Grk": 5509.0,
+                    "lemma": "\u03c7\u03b9\u03c4\u1ff6\u03bd\u03b1",
+                    "xlit": "chit\u014dna"
+                },
+                {
+                    "BSB Version": " stained ",
+                    "Str Grk": 4695.0,
+                    "lemma": "\u1f10\u03c3\u03c0\u03b9\u03bb\u03c9\u03bc\u03ad\u03bd\u03bf\u03bd",
+                    "xlit": "espil\u014dmenon"
+                },
+                {
                     "BSB Version": " by ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
                 },
                 {
                     "BSB Version": " the ",
@@ -262,10 +122,47 @@
                     "xlit": "t\u0113s"
                 },
                 {
-                    "BSB Version": " mildness ",
-                    "Str Grk": 4240.0,
-                    "lemma": "\u03c0\u03c1\u03b1\u03b0\u03c4\u03b7\u03c4\u03bf\u03c2",
-                    "xlit": "praut\u0113tos"
+                    "BSB Version": " flesh ",
+                    "Str Grk": 4561.0,
+                    "lemma": "\u03c3\u03b1\u03c1\u03ba\u1f78\u03c2",
+                    "xlit": "sarkos"
+                }
+            ],
+            "verse_text": "and save others, snatching <i>them</i> out of <i>the</i> fire; and show mercy to others with fear, hating even the clothing having been stained by the flesh."
+        },
+        {
+            "verse_no": 23275,
+            "verse_ref": "Matthew 5:40",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " if someone ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " wants ",
+                    "Str Grk": 2309.0,
+                    "lemma": "\u03b8\u03ad\u03bb\u03bf\u03bd\u03c4\u03af",
+                    "xlit": "thelonti"
+                },
+                {
+                    "BSB Version": " to sue ",
+                    "Str Grk": 2919.0,
+                    "lemma": "\u03ba\u03c1\u03b9\u03b8\u1fc6\u03bd\u03b1\u03b9",
+                    "xlit": "krith\u0113nai"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03b9",
+                    "xlit": "soi"
                 },
                 {
                     "BSB Version": " and ",
@@ -274,173 +171,161 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " gentleness ",
-                    "Str Grk": 1932.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03b5\u03b9\u03ba\u03b5\u03af\u03b1\u03c2",
-                    "xlit": "epieikeias"
+                    "BSB Version": " take ",
+                    "Str Grk": 2983.0,
+                    "lemma": "\u03bb\u03b1\u03b2\u03b5\u1fd6\u03bd",
+                    "xlit": "labein"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
                 },
                 {
-                    "BSB Version": " of Christ ",
-                    "Str Grk": 5547.0,
-                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
-                    "xlit": "Christou"
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
                 },
                 {
-                    "BSB Version": " I appeal ",
-                    "Str Grk": 3870.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u1ff6",
-                    "xlit": "parakal\u014d"
+                    "BSB Version": " tunic ",
+                    "Str Grk": 5509.0,
+                    "lemma": "\u03c7\u03b9\u03c4\u1ff6\u03bd\u03ac",
+                    "xlit": "chit\u014dna"
+                },
+                {
+                    "BSB Version": " let him have ",
+                    "Str Grk": 863.0,
+                    "lemma": "\u1f04\u03c6\u03b5\u03c2",
+                    "xlit": "aphes"
                 },
                 {
                     "BSB Version": " . . . ",
                     "Str Grk": 846.0,
-                    "lemma": "\u0391\u1f50\u03c4\u1f78\u03c2",
-                    "xlit": "Autos"
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
                 },
                 {
-                    "BSB Version": " to you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
+                    "BSB Version": " [your] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
                 },
                 {
-                    "BSB Version": " I ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f10\u03b3\u1f7c",
-                    "xlit": "eg\u014d"
+                    "BSB Version": " cloak ",
+                    "Str Grk": 2440.0,
+                    "lemma": "\u1f31\u03bc\u03ac\u03c4\u03b9\u03bf\u03bd",
+                    "xlit": "himation"
                 },
                 {
-                    "BSB Version": " Paul ",
-                    "Str Grk": 3972.0,
-                    "lemma": "\u03a0\u03b1\u1fe6\u03bb\u03bf\u03c2",
-                    "xlit": "Paulos"
+                    "BSB Version": " as well ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                }
+            ],
+            "verse_text": "And to the one willing to sue you and to take your tunic, yield to him the cloak as well."
+        },
+        {
+            "verse_no": 23428,
+            "verse_ref": "Matthew 10:10",
+            "verse_data": [
+                {
+                    "BSB Version": " [Take] no ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
                 },
                 {
-                    "BSB Version": " who ",
-                    "Str Grk": 3739.0,
-                    "lemma": "\u1f43\u03c2",
-                    "xlit": "hos"
+                    "BSB Version": " bag ",
+                    "Str Grk": 4082.0,
+                    "lemma": "\u03c0\u03ae\u03c1\u03b1\u03bd",
+                    "xlit": "p\u0113ran"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3303.0,
-                    "lemma": "\u03bc\u1f72\u03bd",
-                    "xlit": "men"
-                },
-                {
-                    "BSB Version": " [am] humble ",
-                    "Str Grk": 5011.0,
-                    "lemma": "\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u1f78\u03c2",
-                    "xlit": "tapeinos"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 2596.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u1f70",
-                    "xlit": "kata"
-                },
-                {
-                    "BSB Version": " when face to face ",
-                    "Str Grk": 4383.0,
-                    "lemma": "\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03bd",
-                    "xlit": "pros\u014dpon"
-                },
-                {
-                    "BSB Version": " with ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
-                    "xlit": "hymin"
-                },
-                {
-                    "BSB Version": " but ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " bold ",
-                    "Str Grk": 2292.0,
-                    "lemma": "\u03b8\u03b1\u03c1\u03c1\u1ff6",
-                    "xlit": "tharr\u014d"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " for ",
                     "Str Grk": 1519.0,
                     "lemma": "\u03b5\u1f30\u03c2",
                     "xlit": "eis"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
+                    "BSB Version": " [the] road ",
+                    "Str Grk": 3598.0,
+                    "lemma": "\u1f41\u03b4\u1f78\u03bd",
+                    "xlit": "hodon"
                 },
                 {
-                    "BSB Version": " when away ",
-                    "Str Grk": 548.0,
-                    "lemma": "\u1f00\u03c0\u1f7c\u03bd",
-                    "xlit": "ap\u014dn"
-                }
-            ],
-            "verse_text": "Now I, Paul, myself exhort you by the meekness and gentleness of Christ, <i>I</i> who indeed as to appearance <i>am</i> humble among you, but being absent am bold toward you."
-        },
-        {
-            "verse_no": 30276,
-            "verse_ref": "James 1:9",
-            "verse_data": [
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "BSB Version": " or ",
+                    "Str Grk": 3366.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u1f72",
+                    "xlit": "m\u0113de"
                 },
                 {
-                    "BSB Version": " The ",
+                    "BSB Version": " second ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
+                },
+                {
+                    "BSB Version": " tunic ",
+                    "Str Grk": 5509.0,
+                    "lemma": "\u03c7\u03b9\u03c4\u1ff6\u03bd\u03b1\u03c2",
+                    "xlit": "chit\u014dnas"
+                },
+                {
+                    "BSB Version": " or ",
+                    "Str Grk": 3366.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u1f72",
+                    "xlit": "m\u0113de"
+                },
+                {
+                    "BSB Version": " sandals ",
+                    "Str Grk": 5266.0,
+                    "lemma": "\u1f51\u03c0\u03bf\u03b4\u03ae\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "hypod\u0113mata"
+                },
+                {
+                    "BSB Version": " or ",
+                    "Str Grk": 3366.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u1f72",
+                    "xlit": "m\u0113de"
+                },
+                {
+                    "BSB Version": " staff ",
+                    "Str Grk": 4464.0,
+                    "lemma": "\u1fe5\u03ac\u03b2\u03b4\u03bf\u03bd",
+                    "xlit": "rhabdon"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
                     "lemma": "\u1f41",
                     "xlit": "ho"
                 },
                 {
-                    "BSB Version": " brother ",
-                    "Str Grk": 80.0,
-                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1f78\u03c2",
-                    "xlit": "adelphos"
+                    "BSB Version": " worker ",
+                    "Str Grk": 2040.0,
+                    "lemma": "\u1f10\u03c1\u03b3\u03ac\u03c4\u03b7\u03c2",
+                    "xlit": "ergat\u0113s"
                 },
                 {
-                    "BSB Version": " - ",
+                    "BSB Version": " [is] worthy ",
+                    "Str Grk": 514.0,
+                    "lemma": "\u1f04\u03be\u03b9\u03bf\u03c2",
+                    "xlit": "axios"
+                },
+                {
+                    "BSB Version": " of ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " in humble circumstances ",
-                    "Str Grk": 5011.0,
-                    "lemma": "\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u1f78\u03c2",
-                    "xlit": "tapeinos"
-                },
-                {
-                    "BSB Version": " should exult ",
-                    "Str Grk": 2744.0,
-                    "lemma": "\u039a\u03b1\u03c5\u03c7\u03ac\u03c3\u03b8\u03c9",
-                    "xlit": "Kauchasth\u014d"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
                 },
                 {
                     "BSB Version": " his ",
@@ -449,57 +334,106 @@
                     "xlit": "autou"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
-                },
-                {
-                    "BSB Version": " high position ",
-                    "Str Grk": 5311.0,
-                    "lemma": "\u1f55\u03c8\u03b5\u03b9",
-                    "xlit": "hypsei"
+                    "BSB Version": " provisions ",
+                    "Str Grk": 5160.0,
+                    "lemma": "\u03c4\u03c1\u03bf\u03c6\u1fc6\u03c2",
+                    "xlit": "troph\u0113s"
                 }
             ],
-            "verse_text": "But let the brother of low degree boast in his exaltation,"
+            "verse_text": "nor provision-bag for <i>the</i> way, nor two tunics, nor sandals, nor a staff; for the workman <i>is</i> worthy of his provisions."
+        },
+        {
+            "verse_no": 24417,
+            "verse_ref": "Mark 6:9",
+            "verse_data": [
+                {
+                    "BSB Version": " [and] ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " to wear ",
+                    "Str Grk": 5265.0,
+                    "lemma": "\u1f51\u03c0\u03bf\u03b4\u03b5\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+                    "xlit": "hypodedemenous"
+                },
+                {
+                    "BSB Version": " sandals ",
+                    "Str Grk": 4547.0,
+                    "lemma": "\u03c3\u03b1\u03bd\u03b4\u03ac\u03bb\u03b9\u03b1",
+                    "xlit": "sandalia"
+                },
+                {
+                    "BSB Version": " [but] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1746.0,
+                    "lemma": "\u1f10\u03bd\u03b4\u03cd\u03c3\u03b7\u03c3\u03b8\u03b5",
+                    "xlit": "endys\u0113sthe"
+                },
+                {
+                    "BSB Version": " a second ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
+                },
+                {
+                    "BSB Version": " tunic ",
+                    "Str Grk": 5509.0,
+                    "lemma": "\u03c7\u03b9\u03c4\u1ff6\u03bd\u03b1\u03c2",
+                    "xlit": "chit\u014dnas"
+                }
+            ],
+            "verse_text": "but wearing sandals, and do not put on two tunics."
         }
     ],
     "other_words": [
         {
-            "number": 2147,
-            "lemma": "\u03b5\u1f51\u03c1\u1f77\u03c3\u03ba\u03c9",
-            "xlit": "heur\u00edsk\u014d",
-            "pronunciation": "hyoo-ris'-ko",
-            "description": "\n\n to find (literally or figuratively)",
-            "kjv_def": "find, get, obtain, perceive,\n see.",
-            "pspeech": "V-AIP-3S"
+            "number": 5401,
+            "lemma": "\u03c6\u1f79\u03b2\u03bf\u03c2",
+            "xlit": "ph\u00f3bos",
+            "pronunciation": "fob'-os",
+            "kjv_def": "be\n afraid, + exceedingly, fear, terror.",
+            "pspeech": "N-GMS",
+            "description": " alarm or fright"
         },
         {
-            "number": 2316,
-            "lemma": "\u03b8\u03b5\u1f79\u03c2",
-            "xlit": "the\u00f3s",
-            "pronunciation": "theh'-os",
-            "description": " a deity, especially (with ",
-            "kjv_def": "X exceeding,\n God, god(-ly, -ward).",
-            "pspeech": "N-NMS"
+            "number": 2983,
+            "lemma": "\u03bb\u03b1\u03bc\u03b2\u1f71\u03bd\u03c9",
+            "xlit": "lamb\u00e1n\u014d",
+            "pronunciation": "lam-ban'-o",
+            "kjv_def": "accept, + be amazed,\n assay, attain, bring, X when I call, catch, come on (X unto), +\n forget, have, hold, obtain, receive (X after), take (away, up).",
+            "pspeech": "V-ANA",
+            "description": " while \u1f15\u03bb\u03bb\u03bf\u03bc\u03b1\u03b9(h\u00e9llomai) is more violent, to seize or remove))"
         },
         {
-            "number": 5547,
-            "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f79\u03c2",
-            "xlit": "Christ\u00f3s",
-            "pronunciation": "khris-tos'",
-            "description": " anointed, i.e. the Messiah, an epithet of Jesus",
-            "kjv_def": "Christ.",
-            "pspeech": "N-GMS"
+            "number": 4464,
+            "lemma": "\u1fe5\u1f71\u03b2\u03b4\u03bf\u03c2",
+            "xlit": "rh\u00e1bdos",
+            "pronunciation": "hrab'-dos",
+            "kjv_def": "rod, sceptre, staff.",
+            "pspeech": "N-AFS",
+            "description": " a stick or wand (as a cudgel, a cane or a baton of royalty)"
         },
         {
-            "number": 80,
-            "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1f79\u03c2",
-            "xlit": "adelph\u00f3s",
-            "pronunciation": "ad-el-fos'",
-            "description": " a brother\n (literally or figuratively) near or remote (much like ",
-            "kjv_def": "brother.",
-            "pspeech": "N-AMP"
+            "number": 1746,
+            "lemma": "\u1f10\u03bd\u03b4\u1f7b\u03c9",
+            "xlit": "end\u00fd\u014d",
+            "pronunciation": "en-doo'-o",
+            "kjv_def": "array, clothe (with),\n endue, have (put) on.",
+            "pspeech": "V-ASM-2P",
+            "description": " to invest with clothing (literally or figuratively)"
         }
     ]
 }

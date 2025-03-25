@@ -1,180 +1,247 @@
 {
     "wotd": {
-        "number": 1586,
-        "lemma": "\u1f10\u03ba\u03bb\u1f73\u03b3\u03bf\u03bc\u03b1\u03b9",
-        "xlit": "ekl\u00e9gomai",
-        "pronunciation": "ek-leg'-om-ahee",
-        "description": " to\n select",
-        "kjv_def": "make choice, choose (out), chosen.",
-        "pspeech": "V-AIM-3S"
+        "number": 2518,
+        "lemma": "\u03ba\u03b1\u03b8\u03b5\u1f7b\u03b4\u03c9",
+        "xlit": "kathe\u00fad\u014d",
+        "pronunciation": "kath-yoo'-do",
+        "kjv_def": "(be\n a-)sleep.",
+        "pspeech": "V-IIA-3S",
+        "description": " to lie down to rest, i.e. (by implication) to fall asleep (literally or figuratively)"
     },
     "verses": [
         {
-            "verse_no": 26926,
-            "verse_ref": "Acts 1:2",
+            "verse_no": 24795,
+            "verse_ref": "Mark 14:40",
             "verse_data": [
                 {
-                    "BSB Version": " until ",
-                    "Str Grk": 891.0,
-                    "lemma": "\u1f04\u03c7\u03c1\u03b9",
-                    "xlit": "achri"
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " again ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " [Jesus] returned ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f10\u03bb\u03b8\u1f7c\u03bd",
+                    "xlit": "elth\u014dn"
+                },
+                {
+                    "BSB Version": " [and] found ",
+                    "Str Grk": 2147.0,
+                    "lemma": "\u03b5\u1f57\u03c1\u03b5\u03bd",
+                    "xlit": "heuren"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " sleeping ",
+                    "Str Grk": 2518.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u03b5\u03cd\u03b4\u03bf\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "katheudontas"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " eyes ",
+                    "Str Grk": 3788.0,
+                    "lemma": "\u1f40\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u1f76",
+                    "xlit": "ophthalmoi"
+                },
+                {
+                    "BSB Version": " were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03c3\u03b1\u03bd",
+                    "xlit": "\u0113san"
+                },
+                {
+                    "BSB Version": " heavy ",
+                    "Str Grk": 2599.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03b2\u03b1\u03c1\u03c5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "katabarynomenoi"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " they did not know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u1f94\u03b4\u03b5\u03b9\u03c3\u03b1\u03bd",
+                    "xlit": "\u0113deisan"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03c4\u03af",
+                    "xlit": "ti"
+                },
+                {
+                    "BSB Version": " to answer ",
+                    "Str Grk": 611.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03c1\u03b9\u03b8\u1ff6\u03c3\u03b9\u03bd",
+                    "xlit": "apokrith\u014dsin"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                }
+            ],
+            "verse_text": "And again having returned, he found them sleeping. For their the eyes were heavy, and they did not know what they should answer Him."
+        },
+        {
+            "verse_no": 23404,
+            "verse_ref": "Matthew 9:24",
+            "verse_data": [
+                {
+                    "BSB Version": " Go away ",
+                    "Str Grk": 402.0,
+                    "lemma": "\u1f08\u03bd\u03b1\u03c7\u03c9\u03c1\u03b5\u1fd6\u03c4\u03b5",
+                    "xlit": "Anach\u014dreite"
+                },
+                {
+                    "BSB Version": " He told them ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u1f14\u03bb\u03b5\u03b3\u03b5\u03bd",
+                    "xlit": "elegen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " girl ",
+                    "Str Grk": 2877.0,
+                    "lemma": "\u03ba\u03bf\u03c1\u03ac\u03c3\u03b9\u03bf\u03bd",
+                    "xlit": "korasion"
+                },
+                {
+                    "BSB Version": " is not dead ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 599.0,
+                    "lemma": "\u1f00\u03c0\u03ad\u03b8\u03b1\u03bd\u03b5\u03bd",
+                    "xlit": "apethanen"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " asleep ",
+                    "Str Grk": 2518.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u03b5\u03cd\u03b4\u03b5\u03b9",
+                    "xlit": "katheudei"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " they laughed at ",
+                    "Str Grk": 2606.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b5\u03b3\u03ad\u03bb\u03c9\u03bd",
+                    "xlit": "kategel\u014dn"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                }
+            ],
+            "verse_text": "He says, \"Go away, for the girl is not dead, but sleeps.\" And they began to laugh at Him."
+        },
+        {
+            "verse_no": 24014,
+            "verse_ref": "Matthew 25:5",
+            "verse_data": [
+                {
+                    "BSB Version": " [When] ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
                 },
                 {
                     "BSB Version": " the ",
-                    "Str Grk": 3739.0,
-                    "lemma": "\u1f27\u03c2",
-                    "xlit": "h\u0113s"
-                },
-                {
-                    "BSB Version": " day ",
-                    "Str Grk": 2250.0,
-                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
-                    "xlit": "h\u0113meras"
-                },
-                {
-                    "BSB Version": " He was taken up [to heaven] ",
-                    "Str Grk": 353.0,
-                    "lemma": "\u1f00\u03bd\u03b5\u03bb\u03ae\u03bc\u03c6\u03b8\u03b7",
-                    "xlit": "anel\u0113mphth\u0113"
-                },
-                {
-                    "BSB Version": " after giving instructions ",
-                    "Str Grk": 1781.0,
-                    "lemma": "\u1f10\u03bd\u03c4\u03b5\u03b9\u03bb\u03ac\u03bc\u03b5\u03bd\u03bf\u03c2",
-                    "xlit": "enteilamenos"
-                },
-                {
-                    "BSB Version": " through ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
-                },
-                {
-                    "BSB Version": " [the] Holy ",
-                    "Str Grk": 40.0,
-                    "lemma": "\u1f09\u03b3\u03af\u03bf\u03c5",
-                    "xlit": "Hagiou"
-                },
-                {
-                    "BSB Version": " Spirit ",
-                    "Str Grk": 4151.0,
-                    "lemma": "\u03a0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2",
-                    "xlit": "Pneumatos"
-                },
-                {
-                    "BSB Version": " to the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " apostles ",
-                    "Str Grk": 652.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03c3\u03c4\u03cc\u03bb\u03bf\u03b9\u03c2",
-                    "xlit": "apostolois"
+                    "BSB Version": " bridegroom ",
+                    "Str Grk": 3566.0,
+                    "lemma": "\u03bd\u03c5\u03bc\u03c6\u03af\u03bf\u03c5",
+                    "xlit": "nymphiou"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3739.0,
-                    "lemma": "\u03bf\u1f53\u03c2",
-                    "xlit": "hous"
+                    "BSB Version": " was delayed ",
+                    "Str Grk": 5549.0,
+                    "lemma": "\u03c7\u03c1\u03bf\u03bd\u03af\u03b6\u03bf\u03bd\u03c4\u03bf\u03c2",
+                    "xlit": "chronizontos"
                 },
                 {
-                    "BSB Version": " He had chosen ",
-                    "Str Grk": 1586.0,
-                    "lemma": "\u1f10\u03be\u03b5\u03bb\u03ad\u03be\u03b1\u03c4\u03bf",
-                    "xlit": "exelexato"
-                }
-            ],
-            "verse_text": "until the day He was taken up, having given orders by <i>the</i> Holy Spirit to the apostles whom He had chosen,"
-        },
-        {
-            "verse_no": 27468,
-            "verse_ref": "Acts 15:25",
-            "verse_data": [
-                {
-                    "BSB Version": " [So] we all agreed ",
-                    "Str Grk": 1380.0,
-                    "lemma": "\u1f14\u03b4\u03bf\u03be\u03b5\u03bd",
-                    "xlit": "edoxen"
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u1fb6\u03c3\u03b1\u03b9",
+                    "xlit": "pasai"
                 },
                 {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 1096.0,
-                    "lemma": "\u03b3\u03b5\u03bd\u03bf\u03bc\u03ad\u03bd\u03bf\u03b9\u03c2",
-                    "xlit": "genomenois"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 3661.0,
-                    "lemma": "\u1f41\u03bc\u03bf\u03b8\u03c5\u03bc\u03b1\u03b4\u1f78\u03bd",
-                    "xlit": "homothymadon"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
-                    "xlit": "h\u0113min"
-                },
-                {
-                    "BSB Version": " to choose ",
-                    "Str Grk": 1586.0,
-                    "lemma": "\u1f10\u03ba\u03bb\u03b5\u03be\u03b1\u03bc\u03ad\u03bd\u03bf\u03b9\u03c2",
-                    "xlit": "eklexamenois"
-                },
-                {
-                    "BSB Version": " men ",
-                    "Str Grk": 435.0,
-                    "lemma": "\u1f04\u03bd\u03b4\u03c1\u03b1\u03c2",
-                    "xlit": "andras"
-                },
-                {
-                    "BSB Version": " to send ",
-                    "Str Grk": 3992.0,
-                    "lemma": "\u03c0\u03ad\u03bc\u03c8\u03b1\u03b9",
-                    "xlit": "pempsai"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 4314.0,
-                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
-                    "xlit": "pros"
-                },
-                {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
-                },
-                {
-                    "BSB Version": " along with ",
-                    "Str Grk": 4862.0,
-                    "lemma": "\u03c3\u1f7a\u03bd",
-                    "xlit": "syn"
-                },
-                {
-                    "BSB Version": " our ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
-                    "xlit": "h\u0113m\u014dn"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
-                },
-                {
-                    "BSB Version": " beloved ",
-                    "Str Grk": 27.0,
-                    "lemma": "\u1f00\u03b3\u03b1\u03c0\u03b7\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "agap\u0113tois"
-                },
-                {
-                    "BSB Version": " Barnabas ",
-                    "Str Grk": 921.0,
-                    "lemma": "\u0392\u03b1\u03c1\u03bd\u03ac\u03b2\u1fb3",
-                    "xlit": "Barnaba"
+                    "BSB Version": " they all became drowsy ",
+                    "Str Grk": 3573.0,
+                    "lemma": "\u1f10\u03bd\u03cd\u03c3\u03c4\u03b1\u03be\u03b1\u03bd",
+                    "xlit": "enystaxan"
                 },
                 {
                     "BSB Version": " and ",
@@ -183,18 +250,60 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " Paul ",
-                    "Str Grk": 3972.0,
-                    "lemma": "\u03a0\u03b1\u03cd\u03bb\u1ff3",
-                    "xlit": "Paul\u014d"
+                    "BSB Version": " fell asleep ",
+                    "Str Grk": 2518.0,
+                    "lemma": "\u1f10\u03ba\u03ac\u03b8\u03b5\u03c5\u03b4\u03bf\u03bd",
+                    "xlit": "ekatheudon"
                 }
             ],
-            "verse_text": "it seemed good to us, having come with one accord, having chosen men to send to you with our beloved Barnabas and Paul,"
+            "verse_text": "And the bridegroom tarrying, they all became drowsy and were sleeping."
         },
         {
-            "verse_no": 26328,
-            "verse_ref": "John 6:70",
+            "verse_no": 25298,
+            "verse_ref": "Luke 8:52",
             "verse_data": [
+                {
+                    "BSB Version": " Meanwhile ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " everyone ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "pantes"
+                },
+                {
+                    "BSB Version": " was weeping ",
+                    "Str Grk": 2799.0,
+                    "lemma": "\u1f14\u03ba\u03bb\u03b1\u03b9\u03bf\u03bd",
+                    "xlit": "eklaion"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " mourning for ",
+                    "Str Grk": 2875.0,
+                    "lemma": "\u1f10\u03ba\u03cc\u03c0\u03c4\u03bf\u03bd\u03c4\u03bf",
+                    "xlit": "ekoptonto"
+                },
+                {
+                    "BSB Version": " her ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03ae\u03bd",
+                    "xlit": "aut\u0113n"
+                },
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
@@ -202,346 +311,93 @@
                     "xlit": "ho"
                 },
                 {
-                    "BSB Version": " Jesus ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
-                    "xlit": "I\u0113sous"
+                    "BSB Version": " [Jesus] said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
                 },
                 {
-                    "BSB Version": " answered ",
-                    "Str Grk": 611.0,
-                    "lemma": "\u1f08\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
-                    "xlit": "Apekrith\u0113"
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u039c\u1f74",
+                    "xlit": "M\u0113"
                 },
                 {
-                    "BSB Version": " them ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "autois"
+                    "BSB Version": " Stop weeping ",
+                    "Str Grk": 2799.0,
+                    "lemma": "\u03ba\u03bb\u03b1\u03af\u03b5\u03c4\u03b5",
+                    "xlit": "klaiete"
                 },
                 {
-                    "BSB Version": " {Have} I ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f10\u03b3\u1f7c",
-                    "xlit": "eg\u014d"
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
                 },
                 {
-                    "BSB Version": " not ",
+                    "BSB Version": " vvv ",
                     "Str Grk": 3756.0,
-                    "lemma": "\u039f\u1f50\u03ba",
-                    "xlit": "Ouk"
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
                 },
                 {
-                    "BSB Version": " chosen ",
-                    "Str Grk": 1586.0,
-                    "lemma": "\u1f10\u03be\u03b5\u03bb\u03b5\u03be\u03ac\u03bc\u03b7\u03bd",
-                    "xlit": "exelexam\u0113n"
+                    "BSB Version": " she is not dead ",
+                    "Str Grk": 599.0,
+                    "lemma": "\u1f00\u03c0\u03ad\u03b8\u03b1\u03bd\u03b5\u03bd",
+                    "xlit": "apethanen"
                 },
                 {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "tous"
-                },
-                {
-                    "BSB Version": " Twelve ",
-                    "Str Grk": 1427.0,
-                    "lemma": "\u03b4\u03ce\u03b4\u03b5\u03ba\u03b1",
-                    "xlit": "d\u014ddeka"
-                },
-                {
-                    "BSB Version": " Yet ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " one ",
-                    "Str Grk": 1520.0,
-                    "lemma": "\u03b5\u1f37\u03c2",
-                    "xlit": "heis"
-                },
-                {
-                    "BSB Version": " of ",
-                    "Str Grk": 1537.0,
-                    "lemma": "\u1f10\u03be",
-                    "xlit": "ex"
-                },
-                {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
-                    "xlit": "hym\u014dn"
-                },
-                {
-                    "BSB Version": " is ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
-                    "xlit": "estin"
-                },
-                {
-                    "BSB Version": " a devil ",
-                    "Str Grk": 1228.0,
-                    "lemma": "\u03b4\u03b9\u03ac\u03b2\u03bf\u03bb\u03cc\u03c2",
-                    "xlit": "diabolos"
+                    "BSB Version": " asleep ",
+                    "Str Grk": 2518.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u03b5\u03cd\u03b4\u03b5\u03b9",
+                    "xlit": "katheudei"
                 }
             ],
-            "verse_text": "Jesus answered them, \"Did I not choose you, the Twelve? And one of you is a devil!\""
-        },
-        {
-            "verse_no": 27465,
-            "verse_ref": "Acts 15:22",
-            "verse_data": [
-                {
-                    "BSB Version": " Then ",
-                    "Str Grk": 5119.0,
-                    "lemma": "\u03a4\u03cc\u03c4\u03b5",
-                    "xlit": "Tote"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
-                },
-                {
-                    "BSB Version": " apostles ",
-                    "Str Grk": 652.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03c3\u03c4\u03cc\u03bb\u03bf\u03b9\u03c2",
-                    "xlit": "apostolois"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
-                },
-                {
-                    "BSB Version": " elders ",
-                    "Str Grk": 4245.0,
-                    "lemma": "\u03c0\u03c1\u03b5\u03c3\u03b2\u03c5\u03c4\u03ad\u03c1\u03bf\u03b9\u03c2",
-                    "xlit": "presbyterois"
-                },
-                {
-                    "BSB Version": " with ",
-                    "Str Grk": 4862.0,
-                    "lemma": "\u03c3\u1f7a\u03bd",
-                    "xlit": "syn"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " whole ",
-                    "Str Grk": 3650.0,
-                    "lemma": "\u1f45\u03bb\u1fc3",
-                    "xlit": "hol\u0113"
-                },
-                {
-                    "BSB Version": " church ",
-                    "Str Grk": 1577.0,
-                    "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u1fb3",
-                    "xlit": "ekkl\u0113sia"
-                },
-                {
-                    "BSB Version": " decided ",
-                    "Str Grk": 1380.0,
-                    "lemma": "\u1f14\u03b4\u03bf\u03be\u03b5",
-                    "xlit": "edoxe"
-                },
-                {
-                    "BSB Version": " to select ",
-                    "Str Grk": 1586.0,
-                    "lemma": "\u1f10\u03ba\u03bb\u03b5\u03be\u03b1\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
-                    "xlit": "eklexamenous"
-                },
-                {
-                    "BSB Version": " men ",
-                    "Str Grk": 435.0,
-                    "lemma": "\u1f04\u03bd\u03b4\u03c1\u03b1\u03c2",
-                    "xlit": "andras"
-                },
-                {
-                    "BSB Version": " from among ",
-                    "Str Grk": 1537.0,
-                    "lemma": "\u1f10\u03be",
-                    "xlit": "ex"
-                },
-                {
-                    "BSB Version": " them ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
-                    "xlit": "aut\u014dn"
-                },
-                {
-                    "BSB Version": " to send ",
-                    "Str Grk": 3992.0,
-                    "lemma": "\u03c0\u03ad\u03bc\u03c8\u03b1\u03b9",
-                    "xlit": "pempsai"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " Antioch ",
-                    "Str Grk": 490.0,
-                    "lemma": "\u1f08\u03bd\u03c4\u03b9\u03cc\u03c7\u03b5\u03b9\u03b1\u03bd",
-                    "xlit": "Antiocheian"
-                },
-                {
-                    "BSB Version": " with ",
-                    "Str Grk": 4862.0,
-                    "lemma": "\u03c3\u1f7a\u03bd",
-                    "xlit": "syn"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
-                },
-                {
-                    "BSB Version": " Paul ",
-                    "Str Grk": 3972.0,
-                    "lemma": "\u03a0\u03b1\u03cd\u03bb\u1ff3",
-                    "xlit": "Paul\u014d"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " Barnabas ",
-                    "Str Grk": 921.0,
-                    "lemma": "\u0392\u03b1\u03c1\u03bd\u03ac\u03b2\u1fb3",
-                    "xlit": "Barnaba"
-                },
-                {
-                    "BSB Version": " [They chose] Judas ",
-                    "Str Grk": 2455.0,
-                    "lemma": "\u1f38\u03bf\u03cd\u03b4\u03b1\u03bd",
-                    "xlit": "Ioudan"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " called ",
-                    "Str Grk": 2564.0,
-                    "lemma": "\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03bd",
-                    "xlit": "kaloumenon"
-                },
-                {
-                    "BSB Version": " Barsabbas ",
-                    "Str Grk": 923.0,
-                    "lemma": "\u0392\u03b1\u03c1\u03c3\u03b1\u03b2\u03b2\u1fb6\u03bd",
-                    "xlit": "Barsabban"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " Silas ",
-                    "Str Grk": 4609.0,
-                    "lemma": "\u03a3\u03b9\u03bb\u1fb6\u03bd",
-                    "xlit": "Silan"
-                },
-                {
-                    "BSB Version": " [two] leaders ",
-                    "Str Grk": 2233.0,
-                    "lemma": "\u1f21\u03b3\u03bf\u03c5\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
-                    "xlit": "h\u0113goumenous"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 435.0,
-                    "lemma": "\u1f04\u03bd\u03b4\u03c1\u03b1\u03c2",
-                    "xlit": "andras"
-                },
-                {
-                    "BSB Version": " among ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
-                },
-                {
-                    "BSB Version": " brothers ",
-                    "Str Grk": 80.0,
-                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u03bf\u1fd6\u03c2",
-                    "xlit": "adelphois"
-                }
-            ],
-            "verse_text": "Then it seemed good to the apostles and to the elders, with the whole church, having chosen out from them, to send men to Antioch with Paul and Barnabas: Judas called Barsabbas and Silas, leading men among the brothers,"
+            "verse_text": "And all were weeping and mourning for her. But He said, \"Do not weep; for she is not dead, but sleeps.\""
         }
     ],
     "other_words": [
         {
-            "number": 4151,
-            "lemma": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
-            "xlit": "pne\u00fbma",
-            "pronunciation": "pnyoo'-mah",
-            "description": " a current of air, i.e. breath (blast) or a breeze; by\n analogy or figuratively, a spirit, i.e. (human) the rational soul, (by\n implication) vital principle, mental disposition, etc., or\n (superhuman) an angel, demon, or (divine) God, Christ's spirit, the\n Holy Spirit",
-            "kjv_def": "ghost, life, spirit(-ual, -ually), mind.",
-            "pspeech": "N-GNS"
+            "number": 3788,
+            "lemma": "\u1f40\u03c6\u03b8\u03b1\u03bb\u03bc\u1f79\u03c2",
+            "xlit": "ophthalm\u00f3s",
+            "pronunciation": "of-thal-mos'",
+            "kjv_def": "eye,\n sight.",
+            "pspeech": "N-NMS",
+            "description": " the eye (literally or figuratively); by implication, vision; figuratively, envy (from the jealous side-glance)"
         },
         {
-            "number": 27,
-            "lemma": "\u1f00\u03b3\u03b1\u03c0\u03b7\u03c4\u1f79\u03c2",
-            "xlit": "agap\u0113t\u00f3s",
-            "pronunciation": "ag-ap-ay-tos'",
-            "description": " beloved",
-            "kjv_def": "(dearly, well) beloved, dear.",
-            "pspeech": "Adj-NMS"
+            "number": 402,
+            "lemma": "\u1f00\u03bd\u03b1\u03c7\u03c9\u03c1\u1f73\u03c9",
+            "xlit": "anach\u014dr\u00e9\u014d",
+            "pronunciation": "an-akh-o-reh'-o",
+            "kjv_def": "depart, give place, go (turn) aside,\n withdraw self.",
+            "pspeech": "V-AIA-3P",
+            "description": " to retire"
         },
         {
-            "number": 3756,
-            "lemma": "\u03bf\u1f50\u03c7",
-            "xlit": "ouch",
-            "pronunciation": "ookh",
-            "description": " the absolute negative (compare ",
-            "kjv_def": "+ long, nay, neither, never, no (X man), none, (can-)not, +\n nothing, + special, un(-worthy), when, + without, + yet but.",
-            "pspeech": "Adv"
+            "number": 3566,
+            "lemma": "\u03bd\u03c5\u03bc\u03c6\u1f77\u03bf\u03c2",
+            "xlit": "nymph\u00edos",
+            "pronunciation": "noom-fee'-os",
+            "kjv_def": "bridegroom.",
+            "pspeech": "N-NMS",
+            "description": " a bride-groom (literally or figuratively)"
         },
         {
-            "number": 3650,
-            "lemma": "\u1f45\u03bb\u03bf\u03c2",
-            "xlit": "h\u00f3los",
-            "pronunciation": "hol'-os",
-            "description": " \"whole\" or \"all\", i.e. complete (in extent, amount,\n time or degree), especially (neuter) as noun or adverb",
-            "kjv_def": "all,\n altogether, every whit, + throughout, whole.",
-            "pspeech": "Adj-NNS"
+            "number": 3361,
+            "lemma": "\u03bc\u1f75",
+            "xlit": "m\u1e17",
+            "pronunciation": "may",
+            "kjv_def": "any but (that), X forbear, + God forbid, +\n lack, lest, neither, never, no (X wise in), none, nor, (can-)not,\n nothing, that not, un(-taken), without.",
+            "pspeech": "Adv",
+            "description": " (adverb) not, (conjunction) lest; also (as an interrogative implying a negative answer (whereas \u03bf\u1f50\u03c7(ouch) expects an affirmative one)) whether"
         }
     ]
 }

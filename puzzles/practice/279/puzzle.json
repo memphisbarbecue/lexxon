@@ -1,0 +1,559 @@
+{
+    "wotd": {
+        "number": 3855,
+        "lemma": "\u03c0\u03b1\u03c1\u1f71\u03b3\u03c9",
+        "xlit": "par\u00e1g\u014d",
+        "pronunciation": "par-ag'-o",
+        "kjv_def": "depart, pass (away, by, forth).",
+        "pspeech": "V-PPA-NMS",
+        "description": " to lead near, i.e. (reflexively or intransitively) to go along or away"
+    },
+    "verses": [
+        {
+            "verse_no": 28519,
+            "verse_ref": "1 Corinthians 7:31",
+            "verse_data": [
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " those who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " use ",
+                    "Str Grk": 5530.0,
+                    "lemma": "\u03c7\u03c1\u03ce\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "chr\u014dmenoi"
+                },
+                {
+                    "BSB Version": " the things of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " [this] world ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u03bf\u03bd",
+                    "xlit": "kosmon"
+                },
+                {
+                    "BSB Version": " as if ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " not dependent on them ",
+                    "Str Grk": 2710.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03c7\u03c1\u03ce\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "katachr\u014dmenoi"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5",
+                    "xlit": "toutou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " world ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u03bf\u03c5",
+                    "xlit": "kosmou"
+                },
+                {
+                    "BSB Version": " [in its] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " present form ",
+                    "Str Grk": 4976.0,
+                    "lemma": "\u03c3\u03c7\u1fc6\u03bc\u03b1",
+                    "xlit": "sch\u0113ma"
+                },
+                {
+                    "BSB Version": " is passing away ",
+                    "Str Grk": 3855.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ac\u03b3\u03b5\u03b9",
+                    "xlit": "paragei"
+                }
+            ],
+            "verse_text": "and those using the world, as not using <i>it</i> as their own. For the present form of this world is passing away."
+        },
+        {
+            "verse_no": 30559,
+            "verse_ref": "1 John 2:8",
+            "verse_data": [
+                {
+                    "BSB Version": " Then again ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " I am also writing ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03c1\u03ac\u03c6\u03c9",
+                    "xlit": "graph\u014d"
+                },
+                {
+                    "BSB Version": " to you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " a new ",
+                    "Str Grk": 2537.0,
+                    "lemma": "\u03ba\u03b1\u03b9\u03bd\u1f74\u03bd",
+                    "xlit": "kain\u0113n"
+                },
+                {
+                    "BSB Version": " commandment ",
+                    "Str Grk": 1785.0,
+                    "lemma": "\u1f10\u03bd\u03c4\u03bf\u03bb\u1f74\u03bd",
+                    "xlit": "entol\u0113n"
+                },
+                {
+                    "BSB Version": " which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f45",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " true ",
+                    "Str Grk": 227.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u1f72\u03c2",
+                    "xlit": "al\u0113thes"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " and also ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " darkness ",
+                    "Str Grk": 4653.0,
+                    "lemma": "\u03c3\u03ba\u03bf\u03c4\u03af\u03b1",
+                    "xlit": "skotia"
+                },
+                {
+                    "BSB Version": " is fading ",
+                    "Str Grk": 3855.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ac\u03b3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "paragetai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " true ",
+                    "Str Grk": 228.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1f78\u03bd",
+                    "xlit": "al\u0113thinon"
+                },
+                {
+                    "BSB Version": " light ",
+                    "Str Grk": 5457.0,
+                    "lemma": "\u03c6\u1ff6\u03c2",
+                    "xlit": "ph\u014ds"
+                },
+                {
+                    "BSB Version": " is already ",
+                    "Str Grk": 2235.0,
+                    "lemma": "\u1f24\u03b4\u03b7",
+                    "xlit": "\u0113d\u0113"
+                },
+                {
+                    "BSB Version": " shining ",
+                    "Str Grk": 5316.0,
+                    "lemma": "\u03c6\u03b1\u03af\u03bd\u03b5\u03b9",
+                    "xlit": "phainei"
+                }
+            ],
+            "verse_text": "Again, I am writing a new commandment to you, which is true in Him and in you, because the darkness is passing away and the true light already shines."
+        },
+        {
+            "verse_no": 24232,
+            "verse_ref": "Mark 1:16",
+            "verse_data": [
+                {
+                    "BSB Version": " As ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " [Jesus] was walking ",
+                    "Str Grk": 3855.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ac\u03b3\u03c9\u03bd",
+                    "xlit": "parag\u014dn"
+                },
+                {
+                    "BSB Version": " beside ",
+                    "Str Grk": 3844.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u1f70",
+                    "xlit": "para"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " Sea ",
+                    "Str Grk": 2281.0,
+                    "lemma": "\u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1\u03bd",
+                    "xlit": "thalassan"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " of Galilee ",
+                    "Str Grk": 1056.0,
+                    "lemma": "\u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03af\u03b1\u03c2",
+                    "xlit": "Galilaias"
+                },
+                {
+                    "BSB Version": " He saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u03b5\u1f36\u03b4\u03b5\u03bd",
+                    "xlit": "eiden"
+                },
+                {
+                    "BSB Version": " Simon ",
+                    "Str Grk": 4613.0,
+                    "lemma": "\u03a3\u03af\u03bc\u03c9\u03bd\u03b1",
+                    "xlit": "Sim\u014dna"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " [his] ",
+                    "Str Grk": 4613.0,
+                    "lemma": "\u03a3\u03af\u03bc\u03c9\u03bd\u03bf\u03c2",
+                    "xlit": "Sim\u014dnos"
+                },
+                {
+                    "BSB Version": " brother ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1f78\u03bd",
+                    "xlit": "adelphon"
+                },
+                {
+                    "BSB Version": " Andrew ",
+                    "Str Grk": 406.0,
+                    "lemma": "\u1f08\u03bd\u03b4\u03c1\u03ad\u03b1\u03bd",
+                    "xlit": "Andrean"
+                },
+                {
+                    "BSB Version": " They were casting a net ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f00\u03bc\u03c6\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "amphiballontas"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " sea ",
+                    "Str Grk": 2281.0,
+                    "lemma": "\u03b8\u03b1\u03bb\u03ac\u03c3\u03c3\u1fc3",
+                    "xlit": "thalass\u0113"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " they were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03c3\u03b1\u03bd",
+                    "xlit": "\u0113san"
+                },
+                {
+                    "BSB Version": " fishermen ",
+                    "Str Grk": 231.0,
+                    "lemma": "\u1f01\u03bb\u03b9\u03b5\u1fd6\u03c2",
+                    "xlit": "halieis"
+                }
+            ],
+            "verse_text": "And passing by the Sea of Galilee, He saw Simon and Andrew, the brother of Simon, casting a net into the sea; for they were fishermen."
+        },
+        {
+            "verse_no": 24275,
+            "verse_ref": "Mark 2:14",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " As He was walking along ",
+                    "Str Grk": 3855.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ac\u03b3\u03c9\u03bd",
+                    "xlit": "parag\u014dn"
+                },
+                {
+                    "BSB Version": " He saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u03b5\u1f36\u03b4\u03b5\u03bd",
+                    "xlit": "eiden"
+                },
+                {
+                    "BSB Version": " Levi ",
+                    "Str Grk": 3018.0,
+                    "lemma": "\u039b\u03b5\u03c5\u1f76\u03bd",
+                    "xlit": "Leuin"
+                },
+                {
+                    "BSB Version": " [son] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of Alphaeus ",
+                    "Str Grk": 256.0,
+                    "lemma": "\u1f09\u03bb\u03c6\u03b1\u03af\u03bf\u03c5",
+                    "xlit": "Halphaiou"
+                },
+                {
+                    "BSB Version": " sitting ",
+                    "Str Grk": 2521.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u03ae\u03bc\u03b5\u03bd\u03bf\u03bd",
+                    "xlit": "kath\u0113menon"
+                },
+                {
+                    "BSB Version": " at ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " tax booth ",
+                    "Str Grk": 5058.0,
+                    "lemma": "\u03c4\u03b5\u03bb\u03ce\u03bd\u03b9\u03bf\u03bd",
+                    "xlit": "tel\u014dnion"
+                },
+                {
+                    "BSB Version": " Follow ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f08\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b5\u03b9",
+                    "xlit": "Akolouthei"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " He told ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [Levi] got up ",
+                    "Str Grk": 450.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c3\u03c4\u1f70\u03c2",
+                    "xlit": "anastas"
+                },
+                {
+                    "BSB Version": " [and] followed ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f20\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "\u0113kolouth\u0113sen"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                }
+            ],
+            "verse_text": "And passing on, He saw Levi the <i>son</i> of Alphaeus sitting at the tax booth, and says to him, \"Follow Me.\" And having arisen, he followed Him."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 3361,
+            "lemma": "\u03bc\u1f75",
+            "xlit": "m\u1e17",
+            "pronunciation": "may",
+            "kjv_def": "any but (that), X forbear, + God forbid, +\n lack, lest, neither, never, no (X wise in), none, nor, (can-)not,\n nothing, that not, un(-taken), without.",
+            "pspeech": "Adv",
+            "description": " (adverb) not, (conjunction) lest; also (as an interrogative implying a negative answer (whereas \u03bf\u1f50\u03c7(ouch) expects an affirmative one)) whether"
+        },
+        {
+            "number": 228,
+            "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1f79\u03c2",
+            "xlit": "al\u0113thin\u00f3s",
+            "pronunciation": "al-ay-thee-nos'",
+            "kjv_def": "true.",
+            "pspeech": "Adj-ANS",
+            "description": " truthful"
+        },
+        {
+            "number": 406,
+            "lemma": "\u1f08\u03bd\u03b4\u03c1\u1f73\u03b1\u03c2",
+            "xlit": "Andr\u00e9as",
+            "pronunciation": "an-dreh'-as",
+            "kjv_def": "Andrew.",
+            "pspeech": "N-AMS",
+            "description": " manly; Andreas, an Israelite"
+        },
+        {
+            "number": 2521,
+            "lemma": "\u03ba\u1f71\u03b8\u03b7\u03bc\u03b1\u03b9",
+            "xlit": "k\u00e1th\u0113mai",
+            "pronunciation": "kath'-ay-mahee",
+            "kjv_def": "dwell, sit (by, down).",
+            "pspeech": "V-PPM/P-NMS",
+            "description": " and  (to sit; akin to the base of \u1f11\u03b4\u03c1\u03b1\u1fd6\u03bf\u03c2(hedra\u00eeos)); to sit down; figuratively, to remain, reside"
+        }
+    ]
+}

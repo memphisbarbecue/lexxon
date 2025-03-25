@@ -1,0 +1,619 @@
+{
+    "wotd": {
+        "number": 5151,
+        "lemma": "\u03c4\u03c1\u1f77\u03c2",
+        "xlit": "tr\u00eds",
+        "pronunciation": "trece",
+        "kjv_def": "three times, thrice.",
+        "pspeech": "Adv",
+        "description": " three times"
+    },
+    "verses": [
+        {
+            "verse_no": 24827,
+            "verse_ref": "Mark 14:72",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " immediately ",
+                    "Str Grk": 2112.0,
+                    "lemma": "\u03b5\u1f50\u03b8\u1f7a\u03c2",
+                    "xlit": "euthys"
+                },
+                {
+                    "BSB Version": " [the] rooster ",
+                    "Str Grk": 220.0,
+                    "lemma": "\u1f00\u03bb\u03ad\u03ba\u03c4\u03c9\u03c1",
+                    "xlit": "alekt\u014dr"
+                },
+                {
+                    "BSB Version": " crowed ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u1f10\u03c6\u03ce\u03bd\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "eph\u014dn\u0113sen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " a second time ",
+                    "Str Grk": 1208.0,
+                    "lemma": "\u03b4\u03b5\u03c5\u03c4\u03ad\u03c1\u03bf\u03c5",
+                    "xlit": "deuterou"
+                },
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2",
+                    "xlit": "Petros"
+                },
+                {
+                    "BSB Version": " remembered ",
+                    "Str Grk": 363.0,
+                    "lemma": "\u1f00\u03bd\u03b5\u03bc\u03bd\u03ae\u03c3\u03b8\u03b7",
+                    "xlit": "anemn\u0113sth\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " word ",
+                    "Str Grk": 4487.0,
+                    "lemma": "\u1fe5\u1fc6\u03bc\u03b1",
+                    "xlit": "rh\u0113ma"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " had spoken ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " to him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " Before ",
+                    "Str Grk": 4250.0,
+                    "lemma": "\u03a0\u03c1\u1f76\u03bd",
+                    "xlit": "Prin"
+                },
+                {
+                    "BSB Version": " [the] rooster ",
+                    "Str Grk": 220.0,
+                    "lemma": "\u1f00\u03bb\u03ad\u03ba\u03c4\u03bf\u03c1\u03b1",
+                    "xlit": "alektora"
+                },
+                {
+                    "BSB Version": " crows ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "ph\u014dn\u0113sai"
+                },
+                {
+                    "BSB Version": " twice ",
+                    "Str Grk": 1364.0,
+                    "lemma": "\u03b4\u1f76\u03c2",
+                    "xlit": "dis"
+                },
+                {
+                    "BSB Version": " you will deny ",
+                    "Str Grk": 533.0,
+                    "lemma": "\u1f00\u03c0\u03b1\u03c1\u03bd\u03ae\u03c3\u1fc3",
+                    "xlit": "aparn\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " three times ",
+                    "Str Grk": 5151.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03c2",
+                    "xlit": "tris"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " he broke down ",
+                    "Str Grk": 1911.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03b2\u03b1\u03bb\u1f7c\u03bd",
+                    "xlit": "epibal\u014dn"
+                },
+                {
+                    "BSB Version": " [and] wept ",
+                    "Str Grk": 2799.0,
+                    "lemma": "\u1f14\u03ba\u03bb\u03b1\u03b9\u03b5\u03bd",
+                    "xlit": "eklaien"
+                }
+            ],
+            "verse_text": "And immediately a rooster crowed for the second time. And Peter remembered the word that Jesus had said to him, \"Before <i>the</i> rooster crows twice, you will deny Me three times.\" And having broken down, he began to weep."
+        },
+        {
+            "verse_no": 25926,
+            "verse_ref": "Luke 22:61",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03c2",
+                    "xlit": "Kyrios"
+                },
+                {
+                    "BSB Version": " turned ",
+                    "Str Grk": 4762.0,
+                    "lemma": "\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u1f76\u03c2",
+                    "xlit": "strapheis"
+                },
+                {
+                    "BSB Version": " [and] looked at ",
+                    "Str Grk": 1689.0,
+                    "lemma": "\u1f10\u03bd\u03ad\u03b2\u03bb\u03b5\u03c8\u03b5\u03bd",
+                    "xlit": "eneblepsen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u1ff3",
+                    "xlit": "Petr\u014d"
+                },
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2",
+                    "xlit": "Petros"
+                },
+                {
+                    "BSB Version": " remembered ",
+                    "Str Grk": 5279.0,
+                    "lemma": "\u1f51\u03c0\u03b5\u03bc\u03bd\u03ae\u03c3\u03b8\u03b7",
+                    "xlit": "hypemn\u0113sth\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " word ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c5",
+                    "xlit": "logou"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+                    "xlit": "Kyriou"
+                },
+                {
+                    "BSB Version": " had spoken ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " to him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " Before ",
+                    "Str Grk": 4250.0,
+                    "lemma": "\u03a0\u03c1\u1f76\u03bd",
+                    "xlit": "Prin"
+                },
+                {
+                    "BSB Version": " [the] rooster ",
+                    "Str Grk": 220.0,
+                    "lemma": "\u1f00\u03bb\u03ad\u03ba\u03c4\u03bf\u03c1\u03b1",
+                    "xlit": "alektora"
+                },
+                {
+                    "BSB Version": " crows ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "ph\u014dn\u0113sai"
+                },
+                {
+                    "BSB Version": " today ",
+                    "Str Grk": 4594.0,
+                    "lemma": "\u03c3\u03ae\u03bc\u03b5\u03c1\u03bf\u03bd",
+                    "xlit": "s\u0113meron"
+                },
+                {
+                    "BSB Version": " you will deny ",
+                    "Str Grk": 533.0,
+                    "lemma": "\u1f00\u03c0\u03b1\u03c1\u03bd\u03ae\u03c3\u1fc3",
+                    "xlit": "aparn\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " three times ",
+                    "Str Grk": 5151.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03c2",
+                    "xlit": "tris"
+                }
+            ],
+            "verse_text": "And having turned, the Lord looked at Peter, and Peter remembered the word of the Lord, how He had said to him, \"Before <i>the</i> rooster crows today, you will deny Me three times.\""
+        },
+        {
+            "verse_no": 25899,
+            "verse_ref": "Luke 22:34",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f49",
+                    "xlit": "Ho"
+                },
+                {
+                    "BSB Version": " [Jesus] replied ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " I tell ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u039b\u03ad\u03b3\u03c9",
+                    "xlit": "Leg\u014d"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03b9",
+                    "xlit": "soi"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03b5",
+                    "xlit": "Petre"
+                },
+                {
+                    "BSB Version": " [the] rooster ",
+                    "Str Grk": 220.0,
+                    "lemma": "\u1f00\u03bb\u03ad\u03ba\u03c4\u03c9\u03c1",
+                    "xlit": "alekt\u014dr"
+                },
+                {
+                    "BSB Version": " {will} not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " crow ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u03ae\u03c3\u03b5\u03b9",
+                    "xlit": "ph\u014dn\u0113sei"
+                },
+                {
+                    "BSB Version": " today ",
+                    "Str Grk": 4594.0,
+                    "lemma": "\u03c3\u03ae\u03bc\u03b5\u03c1\u03bf\u03bd",
+                    "xlit": "s\u0113meron"
+                },
+                {
+                    "BSB Version": " until ",
+                    "Str Grk": 2193.0,
+                    "lemma": "\u1f15\u03c9\u03c2",
+                    "xlit": "he\u014ds"
+                },
+                {
+                    "BSB Version": " you have denied ",
+                    "Str Grk": 533.0,
+                    "lemma": "\u1f00\u03c0\u03b1\u03c1\u03bd\u03ae\u03c3\u1fc3",
+                    "xlit": "aparn\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " three times ",
+                    "Str Grk": 5151.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03c2",
+                    "xlit": "tris"
+                },
+                {
+                    "BSB Version": " that you know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03b5\u1f30\u03b4\u03ad\u03bd\u03b1\u03b9",
+                    "xlit": "eidenai"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                }
+            ],
+            "verse_text": "And He said, \"I tell you Peter, <i>the</i> rooster will not crow today until you will deny three times knowing Me.\""
+        },
+        {
+            "verse_no": 24130,
+            "verse_ref": "Matthew 26:75",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2",
+                    "xlit": "Petros"
+                },
+                {
+                    "BSB Version": " remembered ",
+                    "Str Grk": 3403.0,
+                    "lemma": "\u1f10\u03bc\u03bd\u03ae\u03c3\u03b8\u03b7",
+                    "xlit": "emn\u0113sth\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " word [that] ",
+                    "Str Grk": 4487.0,
+                    "lemma": "\u1fe5\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "rh\u0113matos"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " had spoken ",
+                    "Str Grk": 2046.0,
+                    "lemma": "\u03b5\u1f30\u03c1\u03b7\u03ba\u03cc\u03c4\u03bf\u03c2",
+                    "xlit": "eir\u0113kotos"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " Before ",
+                    "Str Grk": 4250.0,
+                    "lemma": "\u03a0\u03c1\u1f76\u03bd",
+                    "xlit": "Prin"
+                },
+                {
+                    "BSB Version": " [the] rooster ",
+                    "Str Grk": 220.0,
+                    "lemma": "\u1f00\u03bb\u03ad\u03ba\u03c4\u03bf\u03c1\u03b1",
+                    "xlit": "alektora"
+                },
+                {
+                    "BSB Version": " crows ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "ph\u014dn\u0113sai"
+                },
+                {
+                    "BSB Version": " you will deny ",
+                    "Str Grk": 533.0,
+                    "lemma": "\u1f00\u03c0\u03b1\u03c1\u03bd\u03ae\u03c3\u1fc3",
+                    "xlit": "aparn\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " three times ",
+                    "Str Grk": 5151.0,
+                    "lemma": "\u03c4\u03c1\u1f76\u03c2",
+                    "xlit": "tris"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " he went ",
+                    "Str Grk": 1831.0,
+                    "lemma": "\u1f10\u03be\u03b5\u03bb\u03b8\u1f7c\u03bd",
+                    "xlit": "exelth\u014dn"
+                },
+                {
+                    "BSB Version": " outside ",
+                    "Str Grk": 1854.0,
+                    "lemma": "\u1f14\u03be\u03c9",
+                    "xlit": "ex\u014d"
+                },
+                {
+                    "BSB Version": " [and] wept ",
+                    "Str Grk": 2799.0,
+                    "lemma": "\u1f14\u03ba\u03bb\u03b1\u03c5\u03c3\u03b5\u03bd",
+                    "xlit": "eklausen"
+                },
+                {
+                    "BSB Version": " bitterly ",
+                    "Str Grk": 4090.0,
+                    "lemma": "\u03c0\u03b9\u03ba\u03c1\u1ff6\u03c2",
+                    "xlit": "pikr\u014ds"
+                }
+            ],
+            "verse_text": "And Peter remembered the word of Jesus, He having said, \"Before <i>the</i> rooster crowing, you will deny Me three times.\" And having gone out, he wept bitterly."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2112,
+            "lemma": "\u03b5\u1f50\u03b8\u1f73\u03c9\u03c2",
+            "xlit": "euth\u00e9\u014ds",
+            "pronunciation": "yoo-theh'-oce",
+            "kjv_def": "anon, as soon as,\n forthwith, immediately, shortly, straightway.",
+            "pspeech": "Adv",
+            "description": " directly, i.e. at once or soon"
+        },
+        {
+            "number": 4762,
+            "lemma": "\u03c3\u03c4\u03c1\u1f73\u03c6\u03c9",
+            "xlit": "str\u00e9ph\u014d",
+            "pronunciation": "stref'-o",
+            "kjv_def": "convert, turn (again, back\n again, self, self about).",
+            "pspeech": "V-AMA-2S",
+            "description": " to twist, i.e. turn quite around or reverse (literally or figuratively)"
+        },
+        {
+            "number": 1492,
+            "lemma": "\u03b5\u1f34\u03b4\u03c9",
+            "xlit": "e\u00edd\u014d",
+            "pronunciation": "i'-do",
+            "kjv_def": "be aware, behold, X can (+ not tell), consider, (have)\n know(-ledge), look (on), perceive, see, be sure, tell, understand,\n wish, wot.",
+            "pspeech": "V-RIA-3S",
+            "description": " used only in certain past tenses, the others being borrowed from the equivalent \u1f40\u03c0\u03c4\u1f71\u03bd\u03bf\u03bc\u03b1\u03b9(opt\u00e1nomai) and \u1f41\u03c1\u1f71\u03c9(hor\u00e1\u014d); properly, to see (literally or figuratively); by implication, (in the perfect tense only) to know"
+        },
+        {
+            "number": 2046,
+            "lemma": "\u1f10\u03c1\u1f73\u03c9",
+            "xlit": "er\u00e9\u014d",
+            "pronunciation": "er-eh'-o",
+            "kjv_def": "call, say, speak (of), tell.",
+            "pspeech": "V-APP-NNS",
+            "description": " an alternate for \u1f14\u03c0\u03c9(\u00e9p\u014d) in certain tenses; to utter, i.e. speak or say"
+        }
+    ]
+}

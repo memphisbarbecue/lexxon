@@ -1,18 +1,145 @@
 {
     "wotd": {
-        "number": 2621,
-        "lemma": "\u03ba\u03b1\u03c4\u1f71\u03ba\u03b5\u03b9\u03bc\u03b1\u03b9",
-        "xlit": "kat\u00e1keimai",
-        "pronunciation": "kat-ak'-i-mahee",
-        "description": " to lie down, i.e. (by implication) be sick;\n specially, to recline at a meal",
-        "kjv_def": "keep, lie, sit at meat (down).",
-        "pspeech": "V-IIM/P-3S"
+        "number": 4202,
+        "lemma": "\u03c0\u03bf\u03c1\u03bd\u03b5\u1f77\u03b1",
+        "xlit": "porne\u00eda",
+        "pronunciation": "por-ni'-ah",
+        "kjv_def": "fornication.",
+        "pspeech": "N-GFS",
+        "description": " harlotry (including adultery and incest); figuratively, idolatry"
     },
     "verses": [
         {
-            "verse_no": 26217,
-            "verse_ref": "John 5:6",
+            "verse_no": 28490,
+            "verse_ref": "1 Corinthians 7:2",
             "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " because ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " [there is so much] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " sexual immorality ",
+                    "Str Grk": 4202.0,
+                    "lemma": "\u03c0\u03bf\u03c1\u03bd\u03b5\u03af\u03b1\u03c2",
+                    "xlit": "porneias"
+                },
+                {
+                    "BSB Version": " each man ",
+                    "Str Grk": 1538.0,
+                    "lemma": "\u1f15\u03ba\u03b1\u03c3\u03c4\u03bf\u03c2",
+                    "xlit": "hekastos"
+                },
+                {
+                    "BSB Version": " should have ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f10\u03c7\u03ad\u03c4\u03c9",
+                    "xlit": "echet\u014d"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 1438.0,
+                    "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+                    "xlit": "heautou"
+                },
+                {
+                    "BSB Version": " [own] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " wife ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1",
+                    "xlit": "gynaika"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " each woman ",
+                    "Str Grk": 1538.0,
+                    "lemma": "\u1f11\u03ba\u03ac\u03c3\u03c4\u03b7",
+                    "xlit": "hekast\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f10\u03c7\u03ad\u03c4\u03c9",
+                    "xlit": "echet\u014d"
+                },
+                {
+                    "BSB Version": " [her] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " own ",
+                    "Str Grk": 2398.0,
+                    "lemma": "\u1f34\u03b4\u03b9\u03bf\u03bd",
+                    "xlit": "idion"
+                },
+                {
+                    "BSB Version": " husband ",
+                    "Str Grk": 435.0,
+                    "lemma": "\u1f04\u03bd\u03b4\u03c1\u03b1",
+                    "xlit": "andra"
+                }
+            ],
+            "verse_text": "But because of sexual immorality, let each man have his <i>own</i> wife, and let each woman have the own husband."
+        },
+        {
+            "verse_no": 29044,
+            "verse_ref": "2 Corinthians 12:21",
+            "verse_data": [
+                {
+                    "BSB Version": " [I am afraid that] ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " when I come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f10\u03bb\u03b8\u03cc\u03bd\u03c4\u03bf\u03c2",
+                    "xlit": "elthontos"
+                },
+                {
+                    "BSB Version": " again ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " my ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
@@ -20,28 +147,34 @@
                     "xlit": "ho"
                 },
                 {
-                    "BSB Version": " When Jesus ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
-                    "xlit": "I\u0113sous"
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03c2",
+                    "xlit": "Theos"
                 },
                 {
-                    "BSB Version": " saw ",
-                    "Str Grk": 3708.0,
-                    "lemma": "\u1f30\u03b4\u1f7c\u03bd",
-                    "xlit": "id\u014dn"
+                    "BSB Version": " will humble ",
+                    "Str Grk": 5013.0,
+                    "lemma": "\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03ce\u03c3\u1fc3",
+                    "xlit": "tapein\u014ds\u0113"
                 },
                 {
-                    "BSB Version": " him ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf\u03bd",
-                    "xlit": "touton"
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
                 },
                 {
-                    "BSB Version": " lying [there] ",
-                    "Str Grk": 2621.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf\u03bd",
-                    "xlit": "katakeimenon"
+                    "BSB Version": " before ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
                 },
                 {
                     "BSB Version": " and ",
@@ -50,376 +183,31 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " realized ",
-                    "Str Grk": 1097.0,
-                    "lemma": "\u03b3\u03bd\u03bf\u1f7a\u03c2",
-                    "xlit": "gnous"
-                },
-                {
-                    "BSB Version": " that ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " he had spent ",
-                    "Str Grk": 2192.0,
-                    "lemma": "\u1f14\u03c7\u03b5\u03b9",
-                    "xlit": "echei"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 2235.0,
-                    "lemma": "\u1f24\u03b4\u03b7",
-                    "xlit": "\u0113d\u0113"
-                },
-                {
-                    "BSB Version": " a long ",
-                    "Str Grk": 4183.0,
-                    "lemma": "\u03c0\u03bf\u03bb\u1f7a\u03bd",
-                    "xlit": "polyn"
-                },
-                {
-                    "BSB Version": " time [in this condition] ",
-                    "Str Grk": 5550.0,
-                    "lemma": "\u03c7\u03c1\u03cc\u03bd\u03bf\u03bd",
-                    "xlit": "chronon"
-                },
-                {
-                    "BSB Version": " He asked ",
-                    "Str Grk": 3004.0,
-                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
-                    "xlit": "legei"
-                },
-                {
-                    "BSB Version": " him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
-                    "xlit": "aut\u014d"
-                },
-                {
-                    "BSB Version": " Do you want ",
-                    "Str Grk": 2309.0,
-                    "lemma": "\u0398\u03ad\u03bb\u03b5\u03b9\u03c2",
-                    "xlit": "Theleis"
-                },
-                {
-                    "BSB Version": " to get ",
-                    "Str Grk": 1096.0,
-                    "lemma": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "genesthai"
-                },
-                {
-                    "BSB Version": " well ",
-                    "Str Grk": 5199.0,
-                    "lemma": "\u1f51\u03b3\u03b9\u1f74\u03c2",
-                    "xlit": "hygi\u0113s"
-                }
-            ],
-            "verse_text": "Jesus, having seen him lying and having known that he has been a long time already, says to him, \"Do you desire to become well?\""
-        },
-        {
-            "verse_no": 25233,
-            "verse_ref": "Luke 7:37",
-            "verse_data": [
-                {
-                    "BSB Version": " When ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 2400.0,
-                    "lemma": "\u1f30\u03b4\u03bf\u1f7a",
-                    "xlit": "idou"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3748.0,
-                    "lemma": "\u1f25\u03c4\u03b9\u03c2",
-                    "xlit": "h\u0113tis"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03bd",
-                    "xlit": "\u0113n"
-                },
-                {
-                    "BSB Version": " a sinful ",
-                    "Str Grk": 268.0,
-                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u03cc\u03c2",
-                    "xlit": "hamart\u014dlos"
-                },
-                {
-                    "BSB Version": " woman ",
-                    "Str Grk": 1135.0,
-                    "lemma": "\u03b3\u03c5\u03bd\u1f74",
-                    "xlit": "gyn\u0113"
-                },
-                {
-                    "BSB Version": " from ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " [that] ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " town ",
-                    "Str Grk": 4172.0,
-                    "lemma": "\u03c0\u03cc\u03bb\u03b5\u03b9",
-                    "xlit": "polei"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " learned ",
-                    "Str Grk": 1921.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03b3\u03bd\u03bf\u1fe6\u03c3\u03b1",
-                    "xlit": "epignousa"
-                },
-                {
-                    "BSB Version": " that ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " [Jesus] was dining ",
-                    "Str Grk": 2621.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03ac\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9",
-                    "xlit": "katakeitai"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 5330.0,
-                    "lemma": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03af\u03bf\u03c5",
-                    "xlit": "Pharisaiou"
-                },
-                {
-                    "BSB Version": " [there] ",
-                    "Str Grk": 3614.0,
-                    "lemma": "\u03bf\u1f30\u03ba\u03af\u1fb3",
-                    "xlit": "oikia"
-                },
-                {
-                    "BSB Version": " she brought ",
-                    "Str Grk": 2865.0,
-                    "lemma": "\u03ba\u03bf\u03bc\u03af\u03c3\u03b1\u03c3\u03b1",
-                    "xlit": "komisasa"
-                },
-                {
-                    "BSB Version": " an alabaster jar ",
-                    "Str Grk": 211.0,
-                    "lemma": "\u1f00\u03bb\u03ac\u03b2\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd",
-                    "xlit": "alabastron"
-                },
-                {
-                    "BSB Version": " of perfume ",
-                    "Str Grk": 3464.0,
-                    "lemma": "\u03bc\u03cd\u03c1\u03bf\u03c5",
-                    "xlit": "myrou"
-                }
-            ],
-            "verse_text": "And behold, a woman in the city who was a sinner. And she having known that He had reclined in the Pharisee's house, having taken an alabaster flask of fragrant oil,"
-        },
-        {
-            "verse_no": 24276,
-            "verse_ref": "Mark 2:15",
-            "verse_data": [
-                {
-                    "BSB Version": " While ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u039a\u03b1\u1f76",
-                    "xlit": "Kai"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 1096.0,
-                    "lemma": "\u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9",
-                    "xlit": "ginetai"
-                },
-                {
-                    "BSB Version": " [Jesus] ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
-                    "xlit": "auton"
-                },
-                {
-                    "BSB Version": " was dining ",
-                    "Str Grk": 2621.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03ba\u03b5\u1fd6\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "katakeisthai"
-                },
-                {
-                    "BSB Version": " at ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " [Levi\u2019s] ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " house ",
-                    "Str Grk": 3614.0,
-                    "lemma": "\u03bf\u1f30\u03ba\u03af\u1fb3",
-                    "xlit": "oikia"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " I will be grieved over ",
+                    "Str Grk": 3996.0,
+                    "lemma": "\u03c0\u03b5\u03bd\u03b8\u03ae\u03c3\u03c9",
+                    "xlit": "penth\u0113s\u014d"
                 },
                 {
                     "BSB Version": " many ",
                     "Str Grk": 4183.0,
-                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03bf\u1f76",
-                    "xlit": "polloi"
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03bf\u1f7a\u03c2",
+                    "xlit": "pollous"
                 },
                 {
-                    "BSB Version": " tax collectors ",
-                    "Str Grk": 5057.0,
-                    "lemma": "\u03c4\u03b5\u03bb\u1ff6\u03bd\u03b1\u03b9",
-                    "xlit": "tel\u014dnai"
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " have sinned earlier ",
+                    "Str Grk": 4258.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03b7\u03bc\u03b1\u03c1\u03c4\u03b7\u03ba\u03cc\u03c4\u03c9\u03bd",
+                    "xlit": "pro\u0113mart\u0113kot\u014dn"
                 },
                 {
                     "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " sinners ",
-                    "Str Grk": 268.0,
-                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u03bf\u1f76",
-                    "xlit": "hamart\u014dloi"
-                },
-                {
-                    "BSB Version": " were eating with ",
-                    "Str Grk": 4873.0,
-                    "lemma": "\u03c3\u03c5\u03bd\u03b1\u03bd\u03ad\u03ba\u03b5\u03b9\u03bd\u03c4\u03bf",
-                    "xlit": "synanekeinto"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
-                },
-                {
-                    "BSB Version": " [Him] ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
-                    "xlit": "I\u0113sou"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " His ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
-                },
-                {
-                    "BSB Version": " disciples ",
-                    "Str Grk": 3101.0,
-                    "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u1fd6\u03c2",
-                    "xlit": "math\u0113tais"
-                },
-                {
-                    "BSB Version": " for ",
-                    "Str Grk": 1063.0,
-                    "lemma": "\u03b3\u1f70\u03c1",
-                    "xlit": "gar"
-                },
-                {
-                    "BSB Version": " there were ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03c3\u03b1\u03bd",
-                    "xlit": "\u0113san"
-                },
-                {
-                    "BSB Version": " many ",
-                    "Str Grk": 4183.0,
-                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03bf\u1f76",
-                    "xlit": "polloi"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " who followed ",
-                    "Str Grk": 190.0,
-                    "lemma": "\u1f20\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03bf\u03c5\u03bd",
-                    "xlit": "\u0113kolouthoun"
-                },
-                {
-                    "BSB Version": " Him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
-                    "xlit": "aut\u014d"
-                }
-            ],
-            "verse_text": "And it came to pass in His reclining in his house, that many tax collectors and sinners were reclining with Jesus and His disciples; for there were many, and they were following Him."
-        },
-        {
-            "verse_no": 24265,
-            "verse_ref": "Mark 2:4",
-            "verse_data": [
-                {
-                    "BSB Version": " Since ",
                     "Str Grk": 2532.0,
                     "lemma": "\u03ba\u03b1\u1f76",
                     "xlit": "kai"
@@ -431,70 +219,40 @@
                     "xlit": "m\u0113"
                 },
                 {
-                    "BSB Version": " they were unable ",
-                    "Str Grk": 1410.0,
-                    "lemma": "\u03b4\u03c5\u03bd\u03ac\u03bc\u03b5\u03bd\u03bf\u03b9",
-                    "xlit": "dynamenoi"
+                    "BSB Version": " have not repented ",
+                    "Str Grk": 3340.0,
+                    "lemma": "\u03bc\u03b5\u03c4\u03b1\u03bd\u03bf\u03b7\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "metano\u0113sant\u014dn"
                 },
                 {
-                    "BSB Version": " to get to ",
-                    "Str Grk": 4374.0,
-                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u03bd\u03ad\u03b3\u03ba\u03b1\u03b9",
-                    "xlit": "prosenenkai"
+                    "BSB Version": " of ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
                 },
                 {
-                    "BSB Version": " [Jesus] ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
-                    "xlit": "aut\u014d"
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f97",
+                    "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " through ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
+                    "BSB Version": " their acts of ",
+                    "Str Grk": 4238.0,
+                    "lemma": "\u1f14\u03c0\u03c1\u03b1\u03be\u03b1\u03bd",
+                    "xlit": "epraxan"
                 },
                 {
-                    "BSB Version": " the ",
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
                 },
                 {
-                    "BSB Version": " crowd ",
-                    "Str Grk": 3793.0,
-                    "lemma": "\u1f44\u03c7\u03bb\u03bf\u03bd",
-                    "xlit": "ochlon"
-                },
-                {
-                    "BSB Version": " they uncovered ",
-                    "Str Grk": 648.0,
-                    "lemma": "\u1f00\u03c0\u03b5\u03c3\u03c4\u03ad\u03b3\u03b1\u03c3\u03b1\u03bd",
-                    "xlit": "apestegasan"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
-                },
-                {
-                    "BSB Version": " roof ",
-                    "Str Grk": 4721.0,
-                    "lemma": "\u03c3\u03c4\u03ad\u03b3\u03b7\u03bd",
-                    "xlit": "steg\u0113n"
-                },
-                {
-                    "BSB Version": " above Him ",
-                    "Str Grk": 3699.0,
-                    "lemma": "\u1f45\u03c0\u03bf\u03c5",
-                    "xlit": "hopou"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03bd",
-                    "xlit": "\u0113n"
+                    "BSB Version": " impurity ",
+                    "Str Grk": 167.0,
+                    "lemma": "\u1f00\u03ba\u03b1\u03b8\u03b1\u03c1\u03c3\u03af\u1fb3",
+                    "xlit": "akatharsia"
                 },
                 {
                     "BSB Version": " - ",
@@ -503,93 +261,287 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " made an opening ",
-                    "Str Grk": 1846.0,
-                    "lemma": "\u1f10\u03be\u03bf\u03c1\u03cd\u03be\u03b1\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "exoryxantes"
+                    "BSB Version": " sexual immorality ",
+                    "Str Grk": 4202.0,
+                    "lemma": "\u03c0\u03bf\u03c1\u03bd\u03b5\u03af\u1fb3",
+                    "xlit": "porneia"
                 },
                 {
-                    "BSB Version": " [and] lowered ",
-                    "Str Grk": 5465.0,
-                    "lemma": "\u03c7\u03b1\u03bb\u1ff6\u03c3\u03b9",
-                    "xlit": "chal\u014dsi"
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " debauchery ",
+                    "Str Grk": 766.0,
+                    "lemma": "\u1f00\u03c3\u03b5\u03bb\u03b3\u03b5\u03af\u1fb3",
+                    "xlit": "aselgeia"
+                }
+            ],
+            "verse_text": "lest of my having come again, my God should humble me as to you, and I should mourn over many of those having before sinned and not having repented of the impurity, and sexual immorality, and sensuality that they have practiced."
+        },
+        {
+            "verse_no": 30978,
+            "verse_ref": "Revelation 17:2",
+            "verse_data": [
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " kings ",
+                    "Str Grk": 935.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u1fd6\u03c2",
+                    "xlit": "basileis"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " earth ",
+                    "Str Grk": 1093.0,
+                    "lemma": "\u03b3\u1fc6\u03c2",
+                    "xlit": "g\u0113s"
+                },
+                {
+                    "BSB Version": " were immoral ",
+                    "Str Grk": 4203.0,
+                    "lemma": "\u1f10\u03c0\u03cc\u03c1\u03bd\u03b5\u03c5\u03c3\u03b1\u03bd",
+                    "xlit": "eporneusan"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03b8\u2019",
+                    "xlit": "meth\u2019"
+                },
+                {
+                    "BSB Version": " [her] ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f27\u03c2",
+                    "xlit": "h\u0113s"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " those who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " dwell ",
+                    "Str Grk": 2730.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03bf\u03b9\u03ba\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "katoikountes"
+                },
+                {
+                    "BSB Version": " on the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " earth ",
+                    "Str Grk": 1093.0,
+                    "lemma": "\u03b3\u1fc6\u03bd",
+                    "xlit": "g\u0113n"
+                },
+                {
+                    "BSB Version": " were intoxicated ",
+                    "Str Grk": 3182.0,
+                    "lemma": "\u1f10\u03bc\u03b5\u03b8\u03cd\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "emethysth\u0113san"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
                 },
                 {
                     "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " paralytic ",
-                    "Str Grk": 3885.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u1f78\u03c2",
-                    "xlit": "paralytikos"
+                    "BSB Version": " wine ",
+                    "Str Grk": 3631.0,
+                    "lemma": "\u03bf\u1f34\u03bd\u03bf\u03c5",
+                    "xlit": "oinou"
                 },
                 {
-                    "BSB Version": " on ",
-                    "Str Grk": 3699.0,
-                    "lemma": "\u1f45\u03c0\u03bf\u03c5",
-                    "xlit": "hopou"
+                    "BSB Version": " of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " her ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1fc6\u03c2",
+                    "xlit": "aut\u0113s"
+                },
+                {
+                    "BSB Version": " immorality ",
+                    "Str Grk": 4202.0,
+                    "lemma": "\u03c0\u03bf\u03c1\u03bd\u03b5\u03af\u03b1\u03c2",
+                    "xlit": "porneias"
+                }
+            ],
+            "verse_text": "with whom the kings of the earth have committed sexual immorality, and those dwelling on the earth have been made drunk with the wine of her sexual immorality.\""
+        },
+        {
+            "verse_no": 24485,
+            "verse_ref": "Mark 7:21",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " within ",
+                    "Str Grk": 2081.0,
+                    "lemma": "\u1f14\u03c3\u03c9\u03b8\u03b5\u03bd",
+                    "xlit": "es\u014dthen"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " hearts ",
+                    "Str Grk": 2588.0,
+                    "lemma": "\u03ba\u03b1\u03c1\u03b4\u03af\u03b1\u03c2",
+                    "xlit": "kardias"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 2621.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03ad\u03ba\u03b5\u03b9\u03c4\u03bf",
-                    "xlit": "katekeito"
-                },
-                {
-                    "BSB Version": " [his] ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
                 },
                 {
-                    "BSB Version": " mat ",
-                    "Str Grk": 2895.0,
-                    "lemma": "\u03ba\u03c1\u03ac\u03b2\u03b1\u03c4\u03c4\u03bf\u03bd",
-                    "xlit": "krabatton"
+                    "BSB Version": " of men ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd",
+                    "xlit": "anthr\u014dp\u014dn"
+                },
+                {
+                    "BSB Version": " come ",
+                    "Str Grk": 1607.0,
+                    "lemma": "\u1f10\u03ba\u03c0\u03bf\u03c1\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "ekporeuontai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " evil ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u03bf\u1f76",
+                    "xlit": "kakoi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " thoughts ",
+                    "Str Grk": 1261.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03bf\u1f76",
+                    "xlit": "dialogismoi"
+                },
+                {
+                    "BSB Version": " sexual immorality ",
+                    "Str Grk": 4202.0,
+                    "lemma": "\u03c0\u03bf\u03c1\u03bd\u03b5\u1fd6\u03b1\u03b9",
+                    "xlit": "porneiai"
+                },
+                {
+                    "BSB Version": " theft ",
+                    "Str Grk": 2829.0,
+                    "lemma": "\u03ba\u03bb\u03bf\u03c0\u03b1\u03af",
+                    "xlit": "klopai"
+                },
+                {
+                    "BSB Version": " murder ",
+                    "Str Grk": 5408.0,
+                    "lemma": "\u03c6\u03cc\u03bd\u03bf\u03b9",
+                    "xlit": "phonoi"
+                },
+                {
+                    "BSB Version": " adultery ",
+                    "Str Grk": 3430.0,
+                    "lemma": "\u03bc\u03bf\u03b9\u03c7\u03b5\u1fd6\u03b1\u03b9",
+                    "xlit": "moicheiai"
                 }
             ],
-            "verse_text": "And not being able to come near to Him on account of the crowd, they removed the roof where He was, and having broken <i>it</i> up, they let down the pallet on which the paralytic was lying."
+            "verse_text": "For from within the heart of men go forth evil thoughts, sexual immorality, thefts, murders, adulteries,"
         }
     ],
     "other_words": [
         {
-            "number": 2235,
-            "lemma": "\u1f24\u03b4\u03b7",
-            "xlit": "\u1e17d\u0113",
-            "pronunciation": "ay'-day",
-            "description": " even now",
-            "kjv_def": "already,\n (even) now (already), by this time.",
-            "pspeech": "Adv"
+            "number": 2398,
+            "lemma": "\u1f34\u03b4\u03b9\u03bf\u03c2",
+            "xlit": "\u00eddios",
+            "pronunciation": "id'-ee-os",
+            "kjv_def": "X his acquaintance, when they were\n alone, apart, aside, due, his (own, proper, several), home, (her, our,\n thine, your) own (business), private(-ly), proper, severally, their\n (own).",
+            "pspeech": "Adj-AFS",
+            "description": " pertaining to self, i.e. one's own; by implication, private or separate"
         },
         {
-            "number": 1921,
-            "lemma": "\u1f10\u03c0\u03b9\u03b3\u03b9\u03bd\u1f7d\u03c3\u03ba\u03c9",
-            "xlit": "epigin\u1e53sk\u014d",
-            "pronunciation": "ep-ig-in-oce'-ko",
-            "description": " to know upon some mark, i.e. recognize; by\n implication, to become fully acquainted with, to acknowledge",
-            "kjv_def": "(ac-,\n have, take)know(-ledge, well), perceive.",
-            "pspeech": "V-FIM-2P"
+            "number": 5013,
+            "lemma": "\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u1f79\u03c9",
+            "xlit": "tapein\u00f3\u014d",
+            "pronunciation": "tap-i-no'-o",
+            "kjv_def": "abase, bring low, humble (self).",
+            "pspeech": "V-FIA-3S",
+            "description": " to depress; figuratively, to humiliate (in condition or heart)"
         },
         {
-            "number": 3101,
-            "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u1f75\u03c2",
-            "xlit": "math\u0113t\u1e17s",
-            "pronunciation": "math-ay-tes'",
-            "description": " a learner, i.e. pupil",
-            "kjv_def": "disciple.",
-            "pspeech": "N-NMP"
+            "number": 2730,
+            "lemma": "\u03ba\u03b1\u03c4\u03bf\u03b9\u03ba\u1f73\u03c9",
+            "xlit": "katoik\u00e9\u014d",
+            "pronunciation": "kat-oy-keh'-o",
+            "kjv_def": "dwell(-er), inhabitant(-ter).",
+            "pspeech": "V-AIA-3S",
+            "description": " to house permanently, i.e. reside (literally or figuratively)"
         },
         {
-            "number": 4374,
-            "lemma": "\u03c0\u03c1\u03bf\u03c3\u03c6\u1f73\u03c1\u03c9",
-            "xlit": "prosph\u00e9r\u014d",
-            "pronunciation": "pros-fer'-o",
-            "description": " to bear towards, i.e.\n lead to, tender (especially to God), treat",
-            "kjv_def": "bring (to, unto), deal\n with, do, offer (unto, up), present unto, put to.",
-            "pspeech": "V-AIA-3P"
+            "number": 444,
+            "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+            "xlit": "\u00e1nthr\u014dpos",
+            "pronunciation": "anth'-ro-pos",
+            "kjv_def": "certain, man.",
+            "pspeech": "N-NMS",
+            "description": " man-faced, i.e. a human being"
         }
     ]
 }

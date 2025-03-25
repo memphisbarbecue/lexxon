@@ -1,47 +1,83 @@
 {
     "wotd": {
-        "number": 2169,
-        "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u1f77\u03b1",
-        "xlit": "eucharist\u00eda",
-        "pronunciation": "yoo-khar-is-tee'-ah",
-        "description": " gratitude; actively, grateful language (to God, as an act\n of worship)",
-        "kjv_def": "thankfulness, (giving of) thanks(-giving).",
-        "pspeech": "N-GFS"
+        "number": 873,
+        "lemma": "\u1f00\u03c6\u03bf\u03c1\u1f77\u03b6\u03c9",
+        "xlit": "aphor\u00edz\u014d",
+        "pronunciation": "af-or-id'-zo",
+        "kjv_def": "divide, separate, sever.",
+        "pspeech": "V-FIA-3P",
+        "description": " to set off by boundary, i.e. (figuratively) limit, exclude, appoint, etc."
     },
     "verses": [
         {
-            "verse_no": 29752,
-            "verse_ref": "1 Timothy 4:4",
+            "verse_no": 29073,
+            "verse_ref": "Galatians 1:15",
             "verse_data": [
                 {
-                    "BSB Version": " For ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
                 },
                 {
-                    "BSB Version": " every ",
-                    "Str Grk": 3956.0,
-                    "lemma": "\u03c0\u1fb6\u03bd",
-                    "xlit": "pan"
+                    "BSB Version": " when ",
+                    "Str Grk": 3753.0,
+                    "lemma": "\u1f4d\u03c4\u03b5",
+                    "xlit": "Hote"
                 },
                 {
-                    "BSB Version": " creation ",
-                    "Str Grk": 2938.0,
-                    "lemma": "\u03ba\u03c4\u03af\u03c3\u03bc\u03b1",
-                    "xlit": "ktisma"
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " of God ",
+                    "BSB Version": " God ",
                     "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
-                    "xlit": "Theou"
+                    "lemma": "\u03b8\u03b5\u1f78\u03c2",
+                    "xlit": "theos"
                 },
                 {
-                    "BSB Version": " [is] good ",
-                    "Str Grk": 2570.0,
-                    "lemma": "\u03ba\u03b1\u03bb\u03cc\u03bd",
-                    "xlit": "kalon"
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " set me apart ",
+                    "Str Grk": 873.0,
+                    "lemma": "\u1f00\u03c6\u03bf\u03c1\u03af\u03c3\u03b1\u03c2",
+                    "xlit": "aphorisas"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " my ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " mother\u2019s ",
+                    "Str Grk": 3384.0,
+                    "lemma": "\u03bc\u03b7\u03c4\u03c1\u03cc\u03c2",
+                    "xlit": "m\u0113tros"
+                },
+                {
+                    "BSB Version": " womb ",
+                    "Str Grk": 2836.0,
+                    "lemma": "\u03ba\u03bf\u03b9\u03bb\u03af\u03b1\u03c2",
+                    "xlit": "koilias"
                 },
                 {
                     "BSB Version": " and ",
@@ -50,65 +86,22 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " nothing ",
-                    "Str Grk": 3762.0,
-                    "lemma": "\u03bf\u1f50\u03b4\u1f72\u03bd",
-                    "xlit": "ouden"
+                    "BSB Version": " called [me] ",
+                    "Str Grk": 2564.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u03ad\u03c3\u03b1\u03c2",
+                    "xlit": "kalesas"
                 },
                 {
-                    "BSB Version": " that is received ",
-                    "Str Grk": 2983.0,
-                    "lemma": "\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03bd",
-                    "xlit": "lambanomenon"
+                    "BSB Version": " by ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
                 },
                 {
-                    "BSB Version": " with ",
-                    "Str Grk": 3326.0,
-                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
-                    "xlit": "meta"
-                },
-                {
-                    "BSB Version": " thanksgiving ",
-                    "Str Grk": 2169.0,
-                    "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u03b1\u03c2",
-                    "xlit": "eucharistias"
-                },
-                {
-                    "BSB Version": " should be rejected ",
-                    "Str Grk": 579.0,
-                    "lemma": "\u1f00\u03c0\u03cc\u03b2\u03bb\u03b7\u03c4\u03bf\u03bd",
-                    "xlit": "apobl\u0113ton"
-                }
-            ],
-            "verse_text": "For every creature of God <i>is</i> good, and nothing <i>is</i> to be rejected, being received with thanksgiving,"
-        },
-        {
-            "verse_no": 28969,
-            "verse_ref": "2 Corinthians 9:12",
-            "verse_data": [
-                {
-                    "BSB Version": " For ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " this ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03b1\u03cd\u03c4\u03b7\u03c2",
-                    "xlit": "taut\u0113s"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f21",
-                    "xlit": "h\u0113"
-                },
-                {
-                    "BSB Version": " ministry ",
-                    "Str Grk": 1248.0,
-                    "lemma": "\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03af\u03b1",
-                    "xlit": "diakonia"
+                    "BSB Version": " His ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
                 },
                 {
                     "BSB Version": " - ",
@@ -117,221 +110,277 @@
                     "xlit": "t\u0113s"
                 },
                 {
-                    "BSB Version": " of service ",
-                    "Str Grk": 3009.0,
-                    "lemma": "\u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1\u03c2",
-                    "xlit": "leitourgias"
+                    "BSB Version": " grace ",
+                    "Str Grk": 5485.0,
+                    "lemma": "\u03c7\u03ac\u03c1\u03b9\u03c4\u03bf\u03c2",
+                    "xlit": "charitos"
                 },
                 {
-                    "BSB Version": " is ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f10\u03c3\u03c4\u1f76\u03bd",
-                    "xlit": "estin"
+                    "BSB Version": " was pleased ",
+                    "Str Grk": 2106.0,
+                    "lemma": "\u03b5\u1f50\u03b4\u03cc\u03ba\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "eudok\u0113sen"
+                }
+            ],
+            "verse_text": "But when God, the <i>One</i> having selected me from my mother's womb and having called <i>me</i> by His grace, was pleased"
+        },
+        {
+            "verse_no": 28916,
+            "verse_ref": "2 Corinthians 6:17",
+            "verse_data": [
+                {
+                    "BSB Version": " Therefore ",
+                    "Str Grk": 1352.0,
+                    "lemma": "\u0394\u03b9\u1f78",
+                    "xlit": "Dio"
                 },
                 {
-                    "BSB Version": " not ",
-                    "Str Grk": 3756.0,
-                    "lemma": "\u03bf\u1f50",
-                    "xlit": "ou"
+                    "BSB Version": " come out ",
+                    "Str Grk": 1831.0,
+                    "lemma": "\u1f10\u03be\u03ad\u03bb\u03b8\u03b1\u03c4\u03b5",
+                    "xlit": "exelthate"
                 },
                 {
-                    "BSB Version": " only ",
-                    "Str Grk": 3440.0,
-                    "lemma": "\u03bc\u03cc\u03bd\u03bf\u03bd",
-                    "xlit": "monon"
+                    "BSB Version": " from ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
                 },
                 {
-                    "BSB Version": " supplying ",
-                    "Str Grk": 4322.0,
-                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03bf\u1fe6\u03c3\u03b1",
-                    "xlit": "prosanapl\u0113rousa"
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3319.0,
+                    "lemma": "\u03bc\u03ad\u03c3\u03bf\u03c5",
+                    "xlit": "mesou"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f70",
-                    "xlit": "ta"
+                    "BSB Version": " among them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
                 },
                 {
-                    "BSB Version": " needs ",
-                    "Str Grk": 5303.0,
-                    "lemma": "\u1f51\u03c3\u03c4\u03b5\u03c1\u03ae\u03bc\u03b1\u03c4\u03b1",
-                    "xlit": "hyster\u0113mata"
-                },
-                {
-                    "BSB Version": " of the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
-                },
-                {
-                    "BSB Version": " saints ",
-                    "Str Grk": 40.0,
-                    "lemma": "\u1f01\u03b3\u03af\u03c9\u03bd",
-                    "xlit": "hagi\u014dn"
-                },
-                {
-                    "BSB Version": " but ",
-                    "Str Grk": 235.0,
-                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
-                    "xlit": "alla"
-                },
-                {
-                    "BSB Version": " vvv ",
+                    "BSB Version": " and ",
                     "Str Grk": 2532.0,
                     "lemma": "\u03ba\u03b1\u1f76",
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " is also overflowing ",
-                    "Str Grk": 4052.0,
-                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1",
-                    "xlit": "perisseuousa"
+                    "BSB Version": " be separate ",
+                    "Str Grk": 873.0,
+                    "lemma": "\u1f00\u03c6\u03bf\u03c1\u03af\u03c3\u03b8\u03b7\u03c4\u03b5",
+                    "xlit": "aphoristh\u0113te"
                 },
                 {
-                    "BSB Version": " in ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
+                    "BSB Version": " says ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
                 },
                 {
-                    "BSB Version": " many ",
-                    "Str Grk": 4183.0,
-                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1ff6\u03bd",
-                    "xlit": "poll\u014dn"
-                },
-                {
-                    "BSB Version": " expressions of thanksgiving ",
-                    "Str Grk": 2169.0,
-                    "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03b9\u1ff6\u03bd",
-                    "xlit": "eucharisti\u014dn"
+                    "BSB Version": " [the] Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03c2",
+                    "xlit": "Kyrios"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
                 },
                 {
-                    "BSB Version": " to God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u1ff7",
-                    "xlit": "The\u014d"
+                    "BSB Version": " Touch ",
+                    "Str Grk": 680.0,
+                    "lemma": "\u1f05\u03c0\u03c4\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "haptesthe"
+                },
+                {
+                    "BSB Version": " no ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " unclean {thing} ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03b1\u03b8\u03ac\u03c1\u03c4\u03bf\u03c5",
+                    "xlit": "akathartou"
+                },
+                {
+                    "BSB Version": " and I ",
+                    "Str Grk": 2504.0,
+                    "lemma": "\u03ba\u1f00\u03b3\u1f7c",
+                    "xlit": "kag\u014d"
+                },
+                {
+                    "BSB Version": " will receive ",
+                    "Str Grk": 1523.0,
+                    "lemma": "\u03b5\u1f30\u03c3\u03b4\u03ad\u03be\u03bf\u03bc\u03b1\u03b9",
+                    "xlit": "eisdexomai"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
                 }
             ],
-            "verse_text": "For the ministry of this service is not only completely filling up the needs of the saints, but is also overflowing through many thanksgivings to God,"
+            "verse_text": "\"Therefore come out from their midst and be separate, says <i>the</i> Lord, and touch nothing unclean, and I will receive you.\""
         },
         {
-            "verse_no": 28875,
-            "verse_ref": "2 Corinthians 4:15",
+            "verse_no": 24041,
+            "verse_ref": "Matthew 25:32",
             "verse_data": [
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 1063.0,
-                    "lemma": "\u03b3\u1f70\u03c1",
-                    "xlit": "gar"
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f70",
-                    "xlit": "ta"
-                },
-                {
-                    "BSB Version": " All this [is] ",
+                    "BSB Version": " All ",
                     "Str Grk": 3956.0,
                     "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
                     "xlit": "panta"
                 },
                 {
-                    "BSB Version": " for your benefit ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u2019",
-                    "xlit": "di\u2019"
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
                 },
                 {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
-                    "xlit": "hymas"
+                    "BSB Version": " nations ",
+                    "Str Grk": 1484.0,
+                    "lemma": "\u1f14\u03b8\u03bd\u03b7",
+                    "xlit": "ethn\u0113"
                 },
                 {
-                    "BSB Version": " so that ",
-                    "Str Grk": 2443.0,
-                    "lemma": "\u1f35\u03bd\u03b1",
-                    "xlit": "hina"
+                    "BSB Version": " will be gathered ",
+                    "Str Grk": 4863.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03b1\u03c7\u03b8\u03ae\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "synachth\u0113sontai"
+                },
+                {
+                    "BSB Version": " before ",
+                    "Str Grk": 1715.0,
+                    "lemma": "\u1f14\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd",
+                    "xlit": "emprosthen"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " He will separate ",
+                    "Str Grk": 873.0,
+                    "lemma": "\u1f00\u03c6\u03bf\u03c1\u03af\u03c3\u03b5\u03b9",
+                    "xlit": "aphorisei"
+                },
+                {
+                    "BSB Version": " [the people] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u2019",
+                    "xlit": "ap\u2019"
+                },
+                {
+                    "BSB Version": " one from another ",
+                    "Str Grk": 240.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u03ae\u03bb\u03c9\u03bd",
+                    "xlit": "all\u0113l\u014dn"
+                },
+                {
+                    "BSB Version": " as ",
+                    "Str Grk": 5618.0,
+                    "lemma": "\u1f65\u03c3\u03c0\u03b5\u03c1",
+                    "xlit": "h\u014dsper"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " a shepherd ",
+                    "Str Grk": 4166.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03bc\u1f74\u03bd",
+                    "xlit": "poim\u0113n"
+                },
+                {
+                    "BSB Version": " separates ",
+                    "Str Grk": 873.0,
+                    "lemma": "\u1f00\u03c6\u03bf\u03c1\u03af\u03b6\u03b5\u03b9",
+                    "xlit": "aphorizei"
                 },
                 {
                     "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u1f21",
-                    "xlit": "h\u0113"
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
                 },
                 {
-                    "BSB Version": " grace ",
-                    "Str Grk": 5485.0,
-                    "lemma": "\u03c7\u03ac\u03c1\u03b9\u03c2",
-                    "xlit": "charis"
+                    "BSB Version": " sheep ",
+                    "Str Grk": 4263.0,
+                    "lemma": "\u03c0\u03c1\u03cc\u03b2\u03b1\u03c4\u03b1",
+                    "xlit": "probata"
                 },
                 {
-                    "BSB Version": " that is extending ",
-                    "Str Grk": 4121.0,
-                    "lemma": "\u03c0\u03bb\u03b5\u03bf\u03bd\u03ac\u03c3\u03b1\u03c3\u03b1",
-                    "xlit": "pleonasasa"
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
                 },
                 {
-                    "BSB Version": " to ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
                     "lemma": "\u03c4\u1ff6\u03bd",
                     "xlit": "t\u014dn"
                 },
                 {
-                    "BSB Version": " more and more [people] ",
-                    "Str Grk": 4119.0,
-                    "lemma": "\u03c0\u03bb\u03b5\u03b9\u03cc\u03bd\u03c9\u03bd",
-                    "xlit": "pleion\u014dn"
+                    "BSB Version": " goats ",
+                    "Str Grk": 2056.0,
+                    "lemma": "\u1f10\u03c1\u03af\u03c6\u03c9\u03bd",
+                    "xlit": "eriph\u014dn"
+                }
+            ],
+            "verse_text": "And all the nations will be gathered before Him, and He will separate them one from another, as the shepherd separates the sheep from the goats."
+        },
+        {
+            "verse_no": 29094,
+            "verse_ref": "Galatians 2:12",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
                 },
                 {
-                    "BSB Version": " may cause thanksgiving to overflow ",
-                    "Str Grk": 4052.0,
-                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03cd\u03c3\u1fc3",
-                    "xlit": "perisseus\u0113"
+                    "BSB Version": " before ",
+                    "Str Grk": 4253.0,
+                    "lemma": "\u03c0\u03c1\u1f78",
+                    "xlit": "pro"
                 },
                 {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 2169.0,
-                    "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u03b1\u03bd",
-                    "xlit": "eucharistian"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
-                },
-                {
-                    "BSB Version": " glory ",
-                    "Str Grk": 1391.0,
-                    "lemma": "\u03b4\u03cc\u03be\u03b1\u03bd",
-                    "xlit": "doxan"
+                    "BSB Version": " certain men ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03bd\u03b1\u03c2",
+                    "xlit": "tinas"
                 },
                 {
                     "BSB Version": " - ",
@@ -340,106 +389,153 @@
                     "xlit": "tou"
                 },
                 {
-                    "BSB Version": " of God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
-                    "xlit": "Theou"
-                }
-            ],
-            "verse_text": "For all things <i>are</i> for your sake, so that the grace having abounded through more and more <i>people</i> may increase the thanksgiving to the glory of God."
-        },
-        {
-            "verse_no": 29545,
-            "verse_ref": "Colossians 4:2",
-            "verse_data": [
-                {
-                    "BSB Version": " Devote yourselves ",
-                    "Str Grk": 4342.0,
-                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03c1\u03c4\u03b5\u03c1\u03b5\u1fd6\u03c4\u03b5",
-                    "xlit": "proskartereite"
+                    "BSB Version": " came ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f10\u03bb\u03b8\u03b5\u1fd6\u03bd",
+                    "xlit": "elthein"
                 },
                 {
-                    "BSB Version": " to ",
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " James ",
+                    "Str Grk": 2385.0,
+                    "lemma": "\u1f38\u03b1\u03ba\u03ce\u03b2\u03bf\u03c5",
+                    "xlit": "Iak\u014dbou"
+                },
+                {
+                    "BSB Version": " he used to eat ",
+                    "Str Grk": 4906.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03ae\u03c3\u03b8\u03b9\u03b5\u03bd",
+                    "xlit": "syn\u0113sthien"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
+                    "xlit": "meta"
+                },
+                {
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03a4\u1fc7",
-                    "xlit": "T\u0113"
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
                 },
                 {
-                    "BSB Version": " prayer ",
-                    "Str Grk": 4335.0,
-                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u1fc7",
-                    "xlit": "proseuch\u0113"
+                    "BSB Version": " Gentiles ",
+                    "Str Grk": 1484.0,
+                    "lemma": "\u1f10\u03b8\u03bd\u1ff6\u03bd",
+                    "xlit": "ethn\u014dn"
                 },
                 {
-                    "BSB Version": " being watchful ",
-                    "Str Grk": 1127.0,
-                    "lemma": "\u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "gr\u0113gorountes"
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
                 },
                 {
-                    "BSB Version": " [and] ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
+                    "BSB Version": " when ",
+                    "Str Grk": 3753.0,
+                    "lemma": "\u1f45\u03c4\u03b5",
+                    "xlit": "hote"
                 },
                 {
-                    "BSB Version": " thankful ",
-                    "Str Grk": 2169.0,
-                    "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u1fb3",
-                    "xlit": "eucharistia"
+                    "BSB Version": " they arrived ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f26\u03bb\u03b8\u03bf\u03bd",
+                    "xlit": "\u0113lthon"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
+                    "BSB Version": " he began to draw back ",
+                    "Str Grk": 5288.0,
+                    "lemma": "\u1f51\u03c0\u03ad\u03c3\u03c4\u03b5\u03bb\u03bb\u03b5\u03bd",
+                    "xlit": "hypestellen"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1fc7",
-                    "xlit": "aut\u0113"
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " separate ",
+                    "Str Grk": 873.0,
+                    "lemma": "\u1f00\u03c6\u03ce\u03c1\u03b9\u03b6\u03b5\u03bd",
+                    "xlit": "aph\u014drizen"
+                },
+                {
+                    "BSB Version": " himself ",
+                    "Str Grk": 1438.0,
+                    "lemma": "\u1f11\u03b1\u03c5\u03c4\u03cc\u03bd",
+                    "xlit": "heauton"
+                },
+                {
+                    "BSB Version": " for fear of ",
+                    "Str Grk": 5399.0,
+                    "lemma": "\u03c6\u03bf\u03b2\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "phoboumenos"
+                },
+                {
+                    "BSB Version": " those ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " [the] circumcision [ group ] ",
+                    "Str Grk": 4061.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c4\u03bf\u03bc\u1fc6\u03c2",
+                    "xlit": "peritom\u0113s"
                 }
             ],
-            "verse_text": "Continue steadfastly in prayer, watching in it, with thanksgiving,"
+            "verse_text": "For before certain ones came from James, he had been eating with the Gentiles. But when they came, he was drawing back and was separating himself, being afraid of those of <i>the</i> circumcision."
         }
     ],
     "other_words": [
         {
-            "number": 3762,
-            "lemma": "\u03bf\u1f50\u03b4\u1f73\u03bd",
-            "xlit": "oud\u00e9n",
-            "pronunciation": "oo-den'",
-            "description": " not even one (man, woman or thing), i.e. none,\n nobody, nothing",
-            "kjv_def": "any (man), aught, man, neither any (thing), never\n (man), no (man), none (+ of these things), not (any, at all, -thing),\n nought.",
-            "pspeech": "Adj-ANS"
+            "number": 3384,
+            "lemma": "\u03bc\u1f75\u03c4\u03b7\u03c1",
+            "xlit": "m\u1e17t\u0113r",
+            "pronunciation": "may'-tare",
+            "kjv_def": "mother.",
+            "pspeech": "N-GFS",
+            "description": " a \"mother\" (literally or figuratively, immediate or remote)"
         },
         {
-            "number": 3440,
-            "lemma": "\u03bc\u1f79\u03bd\u03bf\u03bd",
-            "xlit": "m\u00f3non",
-            "pronunciation": "mon'-on",
-            "description": " merely",
-            "kjv_def": "alone, but, only.",
-            "pspeech": "Adv"
+            "number": 3004,
+            "lemma": "\u03bb\u1f73\u03b3\u03c9",
+            "xlit": "l\u00e9g\u014d",
+            "pronunciation": "leg'-o",
+            "kjv_def": "ask,\n bid, boast, call, describe, give out, name, put forth, say(-ing, on),\n shew, speak, tell, utter.",
+            "pspeech": "V-PPM/P-NMS",
+            "description": " properly, to \"lay\" forth, i.e. (figuratively) relate (in words (usually of systematic or set discourse; whereas \u1f14\u03c0\u03c9(\u00e9p\u014d) and \u03c6\u03b7\u03bc\u1f77(ph\u0113m\u00ed) generally refer to an individual expression or speech respectively; while \u1f10\u03c1\u1f73\u03c9(er\u00e9\u014d) is properly to break silence merely, and \u03bb\u03b1\u03bb\u1f73\u03c9(lal\u00e9\u014d) means an extended or random harangue)); by implication, to mean"
         },
         {
-            "number": 4121,
-            "lemma": "\u03c0\u03bb\u03b5\u03bf\u03bd\u1f71\u03b6\u03c9",
-            "xlit": "pleon\u00e1z\u014d",
-            "pronunciation": "pleh-on-ad'-zo",
-            "description": " to do, make or be more, i.e. increase (transitively or\n intransitively); by extension, to superabound",
-            "kjv_def": "abound, abundant, make\n to increase, have over.",
-            "pspeech": "V-ASA-3S"
+            "number": 4863,
+            "lemma": "\u03c3\u03c5\u03bd\u1f71\u03b3\u03c9",
+            "xlit": "syn\u00e1g\u014d",
+            "pronunciation": "soon-ag'-o",
+            "kjv_def": "+ accompany, assemble (selves,\n together), bestow, come together, gather (selves together, up,\n together), lead into, resort, take in.",
+            "pspeech": "V-APA-NMS",
+            "description": " to lead together, i.e. collect or convene; specially, to entertain (hospitably)"
         },
         {
-            "number": 4342,
-            "lemma": "\u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03c1\u03c4\u03b5\u03c1\u1f73\u03c9",
-            "xlit": "proskarter\u00e9\u014d",
-            "pronunciation": "pros-kar-ter-eh'-o",
-            "description": " to be earnest towards, i.e. (to a thing) to\n persevere, be constantly diligent, or (in a place) to attend\n assiduously all the exercises, or (to a person) to adhere closely to\n (as a servitor)",
-            "kjv_def": "attend (give self) continually (upon), continue (in,\n instant in, with), wait on (continually).",
-            "pspeech": "V-PSA-3S"
+            "number": 4061,
+            "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c4\u03bf\u03bc\u1f75",
+            "xlit": "peritom\u1e17",
+            "pronunciation": "per-it-om-ay'",
+            "kjv_def": "X circumcised, circumcision.",
+            "pspeech": "N-AFS",
+            "description": " circumcision (the rite, the condition or the people, literally or figuratively)"
         }
     ]
 }

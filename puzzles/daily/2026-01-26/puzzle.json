@@ -1,0 +1,613 @@
+{
+    "wotd": {
+        "number": 37,
+        "lemma": "\u1f01\u03b3\u03b9\u1f71\u03b6\u03c9",
+        "xlit": "hagi\u00e1z\u014d",
+        "pronunciation": "hag-ee-ad'-zo",
+        "kjv_def": "hallow, be holy, sanctify.",
+        "pspeech": "V-AMP-3S",
+        "description": " to make holy, i.e. (ceremonially) purify or consecrate; (mentally) to venerate"
+    },
+    "verses": [
+        {
+            "verse_no": 30254,
+            "verse_ref": "Hebrews 13:12",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " so ",
+                    "Str Grk": 1352.0,
+                    "lemma": "\u03b4\u03b9\u1f78",
+                    "xlit": "dio"
+                },
+                {
+                    "BSB Version": " Jesus {also} ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " suffered ",
+                    "Str Grk": 3958.0,
+                    "lemma": "\u1f14\u03c0\u03b1\u03b8\u03b5\u03bd",
+                    "xlit": "epathen"
+                },
+                {
+                    "BSB Version": " outside ",
+                    "Str Grk": 1854.0,
+                    "lemma": "\u1f14\u03be\u03c9",
+                    "xlit": "ex\u014d"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " [city] gate ",
+                    "Str Grk": 4439.0,
+                    "lemma": "\u03c0\u03cd\u03bb\u03b7\u03c2",
+                    "xlit": "pyl\u0113s"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " sanctify ",
+                    "Str Grk": 37.0,
+                    "lemma": "\u1f01\u03b3\u03b9\u03ac\u03c3\u1fc3",
+                    "xlit": "hagias\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " people ",
+                    "Str Grk": 2992.0,
+                    "lemma": "\u03bb\u03b1\u03cc\u03bd",
+                    "xlit": "laon"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " [His] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " own ",
+                    "Str Grk": 2398.0,
+                    "lemma": "\u1f30\u03b4\u03af\u03bf\u03c5",
+                    "xlit": "idiou"
+                },
+                {
+                    "BSB Version": " blood ",
+                    "Str Grk": 129.0,
+                    "lemma": "\u03b1\u1f35\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "haimatos"
+                }
+            ],
+            "verse_text": "Therefore Jesus also suffered outside the gate, so that he might sanctify the people by the own blood."
+        },
+        {
+            "verse_no": 28502,
+            "verse_ref": "1 Corinthians 7:14",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " unbelieving ",
+                    "Str Grk": 571.0,
+                    "lemma": "\u1f04\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2",
+                    "xlit": "apistos"
+                },
+                {
+                    "BSB Version": " husband ",
+                    "Str Grk": 435.0,
+                    "lemma": "\u1f00\u03bd\u1f74\u03c1",
+                    "xlit": "an\u0113r"
+                },
+                {
+                    "BSB Version": " is sanctified ",
+                    "Str Grk": 37.0,
+                    "lemma": "\u1f21\u03b3\u03af\u03b1\u03c3\u03c4\u03b1\u03b9",
+                    "xlit": "h\u0113giastai"
+                },
+                {
+                    "BSB Version": " through ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [his] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " [believing] wife ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03af",
+                    "xlit": "gynaiki"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " unbelieving ",
+                    "Str Grk": 571.0,
+                    "lemma": "\u1f04\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2",
+                    "xlit": "apistos"
+                },
+                {
+                    "BSB Version": " wife ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u1f74",
+                    "xlit": "gyn\u0113"
+                },
+                {
+                    "BSB Version": " is sanctified ",
+                    "Str Grk": 37.0,
+                    "lemma": "\u1f21\u03b3\u03af\u03b1\u03c3\u03c4\u03b1\u03b9",
+                    "xlit": "h\u0113giastai"
+                },
+                {
+                    "BSB Version": " through ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [her] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " [believing] husband ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1ff7",
+                    "xlit": "adelph\u014d"
+                },
+                {
+                    "BSB Version": " Otherwise ",
+                    "Str Grk": 1893.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u1f76",
+                    "xlit": "epei"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 686.0,
+                    "lemma": "\u1f04\u03c1\u03b1",
+                    "xlit": "ara"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " children ",
+                    "Str Grk": 5043.0,
+                    "lemma": "\u03c4\u03ad\u03ba\u03bd\u03b1",
+                    "xlit": "tekna"
+                },
+                {
+                    "BSB Version": " would be ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " unclean ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03ac",
+                    "xlit": "akatharta"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " now ",
+                    "Str Grk": 3568.0,
+                    "lemma": "\u03bd\u1fe6\u03bd",
+                    "xlit": "nyn"
+                },
+                {
+                    "BSB Version": " they are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f05\u03b3\u03b9\u03ac",
+                    "xlit": "hagia"
+                }
+            ],
+            "verse_text": "For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the husband. Otherwise, your children are unclean; but now they are holy."
+        },
+        {
+            "verse_no": 23292,
+            "verse_ref": "Matthew 6:9",
+            "verse_data": [
+                {
+                    "BSB Version": " So then ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " this is how ",
+                    "Str Grk": 3779.0,
+                    "lemma": "\u039f\u1f55\u03c4\u03c9\u03c2",
+                    "xlit": "Hout\u014ds"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "hymeis"
+                },
+                {
+                    "BSB Version": " should pray ",
+                    "Str Grk": 4336.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u03cd\u03c7\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "proseuchesthe"
+                },
+                {
+                    "BSB Version": " Our ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " Father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03ac\u03c4\u03b5\u03c1",
+                    "xlit": "Pater"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " heaven ",
+                    "Str Grk": 3772.0,
+                    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fd6\u03c2",
+                    "xlit": "ouranois"
+                },
+                {
+                    "BSB Version": " hallowed be ",
+                    "Str Grk": 37.0,
+                    "lemma": "\u1f09\u03b3\u03b9\u03b1\u03c3\u03b8\u03ae\u03c4\u03c9",
+                    "xlit": "Hagiasth\u0113t\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " name ",
+                    "Str Grk": 3686.0,
+                    "lemma": "\u1f44\u03bd\u03bf\u03bc\u03ac",
+                    "xlit": "onoma"
+                }
+            ],
+            "verse_text": "Therefore pray you like this: 'Our Father in the heavens, hallowed be Your name!"
+        },
+        {
+            "verse_no": 28366,
+            "verse_ref": "1 Corinthians 1:2",
+            "verse_data": [
+                {
+                    "BSB Version": " To the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03a4\u1fc7",
+                    "xlit": "T\u0113"
+                },
+                {
+                    "BSB Version": " church ",
+                    "Str Grk": 1577.0,
+                    "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u1fb3",
+                    "xlit": "ekkl\u0113sia"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03bf\u1f54\u03c3\u1fc3",
+                    "xlit": "ous\u0113"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Corinth ",
+                    "Str Grk": 2882.0,
+                    "lemma": "\u039a\u03bf\u03c1\u03af\u03bd\u03b8\u1ff3",
+                    "xlit": "Korinth\u014d"
+                },
+                {
+                    "BSB Version": " [to those] sanctified ",
+                    "Str Grk": 37.0,
+                    "lemma": "\u1f21\u03b3\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9\u03c2",
+                    "xlit": "h\u0113giasmenois"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1ff7",
+                    "xlit": "Christ\u014d"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " [and] called ",
+                    "Str Grk": 2822.0,
+                    "lemma": "\u03ba\u03bb\u03b7\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "kl\u0113tois"
+                },
+                {
+                    "BSB Version": " [to be] holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f01\u03b3\u03af\u03bf\u03b9\u03c2",
+                    "xlit": "hagiois"
+                },
+                {
+                    "BSB Version": " together with ",
+                    "Str Grk": 4862.0,
+                    "lemma": "\u03c3\u1f7a\u03bd",
+                    "xlit": "syn"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u1fb6\u03c3\u03b9\u03bd",
+                    "xlit": "pasin"
+                },
+                {
+                    "BSB Version": " those ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03b1\u03bd\u03c4\u1f76",
+                    "xlit": "panti"
+                },
+                {
+                    "BSB Version": " everywhere ",
+                    "Str Grk": 5117.0,
+                    "lemma": "\u03c4\u03cc\u03c0\u1ff3",
+                    "xlit": "top\u014d"
+                },
+                {
+                    "BSB Version": " [who] call on ",
+                    "Str Grk": 1941.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03ba\u03b1\u03bb\u03bf\u03c5\u03bc\u03ad\u03bd\u03bf\u03b9\u03c2",
+                    "xlit": "epikaloumenois"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " name ",
+                    "Str Grk": 3686.0,
+                    "lemma": "\u1f44\u03bd\u03bf\u03bc\u03b1",
+                    "xlit": "onoma"
+                },
+                {
+                    "BSB Version": " of our ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+                    "xlit": "Kyriou"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+                    "xlit": "Christou"
+                },
+                {
+                    "BSB Version": " their [Lord] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " ours ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                }
+            ],
+            "verse_text": "To the church of God being in Corinth, having been sanctified in Christ Jesus, called holy, together with all those in every place calling on the name of our Lord Jesus Christ, both theirs and ours:"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2398,
+            "lemma": "\u1f34\u03b4\u03b9\u03bf\u03c2",
+            "xlit": "\u00eddios",
+            "pronunciation": "id'-ee-os",
+            "kjv_def": "X his acquaintance, when they were\n alone, apart, aside, due, his (own, proper, several), home, (her, our,\n thine, your) own (business), private(-ly), proper, severally, their\n (own).",
+            "pspeech": "Adj-AFS",
+            "description": " pertaining to self, i.e. one's own; by implication, private or separate"
+        },
+        {
+            "number": 169,
+            "lemma": "\u1f00\u03ba\u1f71\u03b8\u03b1\u03c1\u03c4\u03bf\u03c2",
+            "xlit": "ak\u00e1thartos",
+            "pronunciation": "ak-ath'-ar-tos",
+            "kjv_def": "foul, unclean.",
+            "pspeech": "Adj-GNP",
+            "description": " impure (ceremonially, morally (lewd) or specially, (demonic))"
+        },
+        {
+            "number": 4336,
+            "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u1f7b\u03c7\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "prose\u00fachomai",
+            "pronunciation": "pros-yoo'-khom-ahee",
+            "kjv_def": "pray (X\n earnestly, for), make prayer.",
+            "pspeech": "V-PMM/P-2P",
+            "description": " to pray to God, i.e. supplicate, worship"
+        },
+        {
+            "number": 2962,
+            "lemma": "\u03ba\u1f7b\u03c1\u03b9\u03bf\u03c2",
+            "xlit": "k\u00fdrios",
+            "pronunciation": "koo'-ree-os",
+            "kjv_def": " God,\n Lord, master, Sir.",
+            "pspeech": "N-GMS",
+            "description": " supreme in authority, i.e. (as noun) controller; by implication, Master (as a respectful title)"
+        }
+    ]
+}

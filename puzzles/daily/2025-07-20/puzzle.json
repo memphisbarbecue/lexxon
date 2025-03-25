@@ -1,0 +1,493 @@
+{
+    "wotd": {
+        "number": 3367,
+        "lemma": "\u03bc\u03b7\u03b4\u1f73\u03bd",
+        "xlit": "m\u0113d\u00e9n",
+        "pronunciation": "may-den'",
+        "kjv_def": "any (man,\n thing), no (man), none, not (at all, any man, a whit), nothing,\n + without delay.",
+        "pspeech": "Adj-DMS",
+        "description": " not even one (man, woman, thing)"
+    },
+    "verses": [
+        {
+            "verse_no": 24531,
+            "verse_ref": "Mark 8:30",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " [Jesus] warned ",
+                    "Str Grk": 2008.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u03c4\u03af\u03bc\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "epetim\u0113sen"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " not to tell anyone ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03c9\u03c3\u03b9\u03bd",
+                    "xlit": "leg\u014dsin"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u03b5\u03bd\u1f76",
+                    "xlit": "m\u0113deni"
+                },
+                {
+                    "BSB Version": " about ",
+                    "Str Grk": 4012.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
+                    "xlit": "peri"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                }
+            ],
+            "verse_text": "And He warned them that they should tell no one concerning Him."
+        },
+        {
+            "verse_no": 27201,
+            "verse_ref": "Acts 8:24",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Simon ",
+                    "Str Grk": 4613.0,
+                    "lemma": "\u03a3\u03af\u03bc\u03c9\u03bd",
+                    "xlit": "Sim\u014dn"
+                },
+                {
+                    "BSB Version": " answered ",
+                    "Str Grk": 611.0,
+                    "lemma": "\u1f08\u03c0\u03bf\u03ba\u03c1\u03b9\u03b8\u03b5\u1f76\u03c2",
+                    "xlit": "Apokritheis"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "hymeis"
+                },
+                {
+                    "BSB Version": " Pray ",
+                    "Str Grk": 1189.0,
+                    "lemma": "\u0394\u03b5\u03ae\u03b8\u03b7\u03c4\u03b5",
+                    "xlit": "De\u0113th\u0113te"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03bd",
+                    "xlit": "Kyrion"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 5228.0,
+                    "lemma": "\u1f51\u03c0\u1f72\u03c1",
+                    "xlit": "hyper"
+                },
+                {
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u03bf\u1fe6",
+                    "xlit": "emou"
+                },
+                {
+                    "BSB Version": " so that ",
+                    "Str Grk": 3704.0,
+                    "lemma": "\u1f45\u03c0\u03c9\u03c2",
+                    "xlit": "hop\u014ds"
+                },
+                {
+                    "BSB Version": " nothing ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u1f72\u03bd",
+                    "xlit": "m\u0113den"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f67\u03bd",
+                    "xlit": "h\u014dn"
+                },
+                {
+                    "BSB Version": " you have said ",
+                    "Str Grk": 2046.0,
+                    "lemma": "\u03b5\u1f30\u03c1\u03ae\u03ba\u03b1\u03c4\u03b5",
+                    "xlit": "eir\u0113kate"
+                },
+                {
+                    "BSB Version": " may happen ",
+                    "Str Grk": 1904.0,
+                    "lemma": "\u1f10\u03c0\u03ad\u03bb\u03b8\u1fc3",
+                    "xlit": "epelth\u0113"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u2019",
+                    "xlit": "ep\u2019"
+                },
+                {
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u1f72",
+                    "xlit": "eme"
+                }
+            ],
+            "verse_text": "And Simon answering said, \"You pray earnestly to the Lord on behalf of me, so that nothing of which you have spoken may come upon me.\""
+        },
+        {
+            "verse_no": 24149,
+            "verse_ref": "Matthew 27:19",
+            "verse_data": [
+                {
+                    "BSB Version": " [While] ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " [Pilate] was sitting ",
+                    "Str Grk": 2521.0,
+                    "lemma": "\u039a\u03b1\u03b8\u03b7\u03bc\u03ad\u03bd\u03bf\u03c5",
+                    "xlit": "Kath\u0113menou"
+                },
+                {
+                    "BSB Version": " on ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " judgment seat ",
+                    "Str Grk": 968.0,
+                    "lemma": "\u03b2\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "b\u0113matos"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " wife ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u1f74",
+                    "xlit": "gyn\u0113"
+                },
+                {
+                    "BSB Version": " sent ",
+                    "Str Grk": 649.0,
+                    "lemma": "\u1f00\u03c0\u03ad\u03c3\u03c4\u03b5\u03b9\u03bb\u03b5\u03bd",
+                    "xlit": "apesteilen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " this message ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03bf\u03c5\u03c3\u03b1",
+                    "xlit": "legousa"
+                },
+                {
+                    "BSB Version": " Have nothing to do with ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u039c\u03b7\u03b4\u1f72\u03bd",
+                    "xlit": "M\u0113den"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u1f76",
+                    "xlit": "soi"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u1ff3",
+                    "xlit": "ekein\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " innocent [man] ",
+                    "Str Grk": 1342.0,
+                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03af\u1ff3",
+                    "xlit": "dikai\u014d"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " I have suffered ",
+                    "Str Grk": 3958.0,
+                    "lemma": "\u1f14\u03c0\u03b1\u03b8\u03bf\u03bd",
+                    "xlit": "epathon"
+                },
+                {
+                    "BSB Version": " terribly ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1f70",
+                    "xlit": "polla"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u2019",
+                    "xlit": "kat\u2019"
+                },
+                {
+                    "BSB Version": " a dream ",
+                    "Str Grk": 3677.0,
+                    "lemma": "\u1f44\u03bd\u03b1\u03c1",
+                    "xlit": "onar"
+                },
+                {
+                    "BSB Version": " today ",
+                    "Str Grk": 4594.0,
+                    "lemma": "\u03c3\u03ae\u03bc\u03b5\u03c1\u03bf\u03bd",
+                    "xlit": "s\u0113meron"
+                },
+                {
+                    "BSB Version": " because of ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u2019",
+                    "xlit": "di\u2019"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
+                    "xlit": "auton"
+                }
+            ],
+            "verse_text": "And as he was sitting on the judgment seat, his wife sent to him, saying, \"Nothing to you and that righteous <i>man</i>; for I suffered many things in a dream today because of Him.\""
+        },
+        {
+            "verse_no": 27224,
+            "verse_ref": "Acts 9:7",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u039f\u1f31",
+                    "xlit": "Hoi"
+                },
+                {
+                    "BSB Version": " men ",
+                    "Str Grk": 435.0,
+                    "lemma": "\u1f04\u03bd\u03b4\u03c1\u03b5\u03c2",
+                    "xlit": "andres"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " traveling with ",
+                    "Str Grk": 4922.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03bf\u03b4\u03b5\u03cd\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "synodeuontes"
+                },
+                {
+                    "BSB Version": " [Saul] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " stood [there] ",
+                    "Str Grk": 2476.0,
+                    "lemma": "\u03b5\u1f31\u03c3\u03c4\u03ae\u03ba\u03b5\u03b9\u03c3\u03b1\u03bd",
+                    "xlit": "heist\u0113keisan"
+                },
+                {
+                    "BSB Version": " speechless ",
+                    "Str Grk": 1769.0,
+                    "lemma": "\u1f10\u03bd\u03b5\u03bf\u03af",
+                    "xlit": "eneoi"
+                },
+                {
+                    "BSB Version": " They heard ",
+                    "Str Grk": 191.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03cd\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "akouontes"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " voice ",
+                    "Str Grk": 5456.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc6\u03c2",
+                    "xlit": "ph\u014dn\u0113s"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3303.0,
+                    "lemma": "\u03bc\u1f72\u03bd",
+                    "xlit": "men"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " did not see ",
+                    "Str Grk": 2334.0,
+                    "lemma": "\u03b8\u03b5\u03c9\u03c1\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "the\u014drountes"
+                },
+                {
+                    "BSB Version": " [anyone] ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u03ad\u03bd\u03b1",
+                    "xlit": "m\u0113dena"
+                }
+            ],
+            "verse_text": "And the men traveling with him stood speechless, hearing the voice indeed, but seeing no one."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2008,
+            "lemma": "\u1f10\u03c0\u03b9\u03c4\u03b9\u03bc\u1f71\u03c9",
+            "xlit": "epitim\u00e1\u014d",
+            "pronunciation": "ep-ee-tee-mah'-o",
+            "kjv_def": "(straitly) charge, rebuke.",
+            "pspeech": "V-AIA-3S",
+            "description": " to tax upon, i.e. censure or admonish; by implication, forbid"
+        },
+        {
+            "number": 1189,
+            "lemma": "\u03b4\u1f73\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "d\u00e9omai",
+            "pronunciation": "deh'-om-ahee",
+            "kjv_def": "beseech, pray (to), make request.",
+            "pspeech": "V-AMP-2P",
+            "description": " to beg (as binding oneself), i.e. petition"
+        },
+        {
+            "number": 4183,
+            "lemma": "\u03c0\u03bf\u03bb\u1f7b\u03c2",
+            "xlit": "pol\u00fds",
+            "pronunciation": "pol-oos'",
+            "kjv_def": "abundant, +\n altogether, common, + far (passed, spent), (+ be of a) great (age,\n deal, -ly, while), long, many, much, oft(-en (-times)), plenteous,\n sore, straitly.",
+            "pspeech": "Adj-NMS",
+            "description": " (singular) much (in any respect) or (plural) many; neuter (singular) as adverbial, largely; neuter (plural) as adverb or noun often, mostly, largely"
+        },
+        {
+            "number": 2334,
+            "lemma": "\u03b8\u03b5\u03c9\u03c1\u1f73\u03c9",
+            "xlit": "the\u014dr\u00e9\u014d",
+            "pronunciation": "theh-o-reh'-o",
+            "kjv_def": "behold, consider, look on, perceive, see.",
+            "pspeech": "V-PPA-NFP",
+            "description": " to be a spectator of, i.e. discern, (literally, figuratively (experience) or intensively (acknowledge))"
+        }
+    ]
+}

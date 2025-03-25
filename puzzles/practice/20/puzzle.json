@@ -1,204 +1,386 @@
 {
     "wotd": {
-        "number": 770,
-        "lemma": "\u1f00\u03c3\u03b8\u03b5\u03bd\u1f73\u03c9",
-        "xlit": "asthen\u00e9\u014d",
-        "pronunciation": "as-then-eh'-o",
-        "description": " to be feeble (in any sense)",
-        "kjv_def": "be diseased, impotent folk\n (man), (be) sick, (be, be made) weak.",
-        "pspeech": "V-PPA-AMP"
+        "number": 3113,
+        "lemma": "\u03bc\u03b1\u03ba\u03c1\u1f79\u03b8\u03b5\u03bd",
+        "xlit": "makr\u00f3then",
+        "pronunciation": "mak-roth'-en",
+        "kjv_def": "afar off, from far.",
+        "pspeech": "Adv",
+        "description": " from a distance or afar"
     },
     "verses": [
         {
-            "verse_no": 29053,
-            "verse_ref": "2 Corinthians 13:9",
+            "verse_no": 24185,
+            "verse_ref": "Matthew 27:55",
             "verse_data": [
                 {
-                    "BSB Version": " In fact ",
-                    "Str Grk": 1063.0,
-                    "lemma": "\u03b3\u1f70\u03c1",
-                    "xlit": "gar"
-                },
-                {
-                    "BSB Version": " we rejoice ",
-                    "Str Grk": 5463.0,
-                    "lemma": "\u03c7\u03b1\u03af\u03c1\u03bf\u03bc\u03b5\u03bd",
-                    "xlit": "chairomen"
-                },
-                {
-                    "BSB Version": " when ",
-                    "Str Grk": 3752.0,
-                    "lemma": "\u1f45\u03c4\u03b1\u03bd",
-                    "xlit": "hotan"
-                },
-                {
-                    "BSB Version": " we ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f21\u03bc\u03b5\u1fd6\u03c2",
-                    "xlit": "h\u0113meis"
-                },
-                {
-                    "BSB Version": " are weak ",
-                    "Str Grk": 770.0,
-                    "lemma": "\u1f00\u03c3\u03b8\u03b5\u03bd\u1ff6\u03bc\u03b5\u03bd",
-                    "xlit": "asthen\u014dmen"
-                },
-                {
-                    "BSB Version": " but ",
+                    "BSB Version": " And ",
                     "Str Grk": 1161.0,
                     "lemma": "\u03b4\u1f72",
                     "xlit": "de"
                 },
                 {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
-                    "xlit": "hymeis"
+                    "BSB Version": " many ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03b1\u1f76",
+                    "xlit": "pollai"
                 },
                 {
-                    "BSB Version": " are ",
+                    "BSB Version": " women ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b5\u03c2",
+                    "xlit": "gynaikes"
+                },
+                {
+                    "BSB Version": " were ",
                     "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03c4\u03b5",
-                    "xlit": "\u0113te"
+                    "lemma": "\u1f2e\u03c3\u03b1\u03bd",
+                    "xlit": "\u0112san"
                 },
                 {
-                    "BSB Version": " strong ",
-                    "Str Grk": 1415.0,
-                    "lemma": "\u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u1f76",
-                    "xlit": "dynatoi"
+                    "BSB Version": " there ",
+                    "Str Grk": 1563.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u1fd6",
+                    "xlit": "ekei"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
-                    "xlit": "touto"
+                    "BSB Version": " watching ",
+                    "Str Grk": 2334.0,
+                    "lemma": "\u03b8\u03b5\u03c9\u03c1\u03bf\u1fe6\u03c3\u03b1\u03b9",
+                    "xlit": "the\u014drousai"
                 },
                 {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
                 },
                 {
-                    "BSB Version": " our prayer is for ",
-                    "Str Grk": 2172.0,
-                    "lemma": "\u03b5\u1f50\u03c7\u03cc\u03bc\u03b5\u03b8\u03b1",
-                    "xlit": "euchometha"
+                    "BSB Version": " a distance ",
+                    "Str Grk": 3113.0,
+                    "lemma": "\u03bc\u03b1\u03ba\u03c1\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "makrothen"
                 },
                 {
-                    "BSB Version": " your ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
-                    "xlit": "hym\u014dn"
+                    "BSB Version": " [They] ",
+                    "Str Grk": 3748.0,
+                    "lemma": "\u03b1\u1f35\u03c4\u03b9\u03bd\u03b5\u03c2",
+                    "xlit": "haitines"
+                },
+                {
+                    "BSB Version": " had followed ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f20\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "\u0113kolouth\u0113san"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
                 },
                 {
-                    "BSB Version": " perfection ",
-                    "Str Grk": 2676.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03ac\u03c1\u03c4\u03b9\u03c3\u03b9\u03bd",
-                    "xlit": "katartisin"
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " Galilee ",
+                    "Str Grk": 1056.0,
+                    "lemma": "\u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03af\u03b1\u03c2",
+                    "xlit": "Galilaias"
+                },
+                {
+                    "BSB Version": " to minister ",
+                    "Str Grk": 1247.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03bf\u1fe6\u03c3\u03b1\u03b9",
+                    "xlit": "diakonousai"
+                },
+                {
+                    "BSB Version": " to Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
                 }
             ],
-            "verse_text": "For we rejoice when we might be weak, but you might be strong. But this also we pray: for your perfection."
+            "verse_text": "And many women were there, looking on from afar off, who had followed Jesus from Galilee, ministering to Him--"
         },
         {
-            "verse_no": 29419,
-            "verse_ref": "Philippians 2:27",
+            "verse_no": 25644,
+            "verse_ref": "Luke 16:23",
             "verse_data": [
                 {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 1063.0,
-                    "lemma": "\u03b3\u1f70\u03c1",
-                    "xlit": "gar"
-                },
-                {
-                    "BSB Version": " He was sick ",
-                    "Str Grk": 770.0,
-                    "lemma": "\u1f20\u03c3\u03b8\u03ad\u03bd\u03b7\u03c3\u03b5\u03bd",
-                    "xlit": "\u0113sthen\u0113sen"
-                },
-                {
-                    "BSB Version": " indeed ",
+                    "BSB Version": " - ",
                     "Str Grk": 2532.0,
                     "lemma": "\u03ba\u03b1\u1f76",
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " nearly ",
-                    "Str Grk": 3897.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03c0\u03bb\u03ae\u03c3\u03b9\u03bf\u03bd",
-                    "xlit": "parapl\u0113sion"
-                },
-                {
-                    "BSB Version": " unto death ",
-                    "Str Grk": 2288.0,
-                    "lemma": "\u03b8\u03b1\u03bd\u03ac\u03c4\u1ff3",
-                    "xlit": "thanat\u014d"
-                },
-                {
-                    "BSB Version": " But ",
-                    "Str Grk": 235.0,
-                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
-                    "xlit": "alla"
+                    "BSB Version": " In ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
                 },
                 {
-                    "BSB Version": " God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u1f78\u03c2",
-                    "xlit": "Theos"
+                    "BSB Version": " Hades ",
+                    "Str Grk": 86.0,
+                    "lemma": "\u1f85\u03b4\u1fc3",
+                    "xlit": "had\u0113"
                 },
                 {
-                    "BSB Version": " had mercy on ",
-                    "Str Grk": 1653.0,
-                    "lemma": "\u1f20\u03bb\u03ad\u03b7\u03c3\u03b5\u03bd",
-                    "xlit": "\u0113le\u0113sen"
+                    "BSB Version": " where he was ",
+                    "Str Grk": 5225.0,
+                    "lemma": "\u1f51\u03c0\u03ac\u03c1\u03c7\u03c9\u03bd",
+                    "xlit": "hyparch\u014dn"
                 },
                 {
-                    "BSB Version": " him ",
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " torment ",
+                    "Str Grk": 931.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03ac\u03bd\u03bf\u03b9\u03c2",
+                    "xlit": "basanois"
+                },
+                {
+                    "BSB Version": " he looked up ",
+                    "Str Grk": 1869.0,
+                    "lemma": "\u1f10\u03c0\u03ac\u03c1\u03b1\u03c2",
+                    "xlit": "eparas"
+                },
+                {
+                    "BSB Version": " . . . ",
                     "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
-                    "xlit": "auton"
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
                 },
                 {
-                    "BSB Version": " and ",
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3788.0,
+                    "lemma": "\u1f40\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u1f7a\u03c2",
+                    "xlit": "ophthalmous"
+                },
+                {
+                    "BSB Version": " [and] saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f41\u03c1\u1fb7",
+                    "xlit": "hora"
+                },
+                {
+                    "BSB Version": " Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f70\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " afar ",
+                    "Str Grk": 3113.0,
+                    "lemma": "\u03bc\u03b1\u03ba\u03c1\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "makrothen"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Lazarus ",
+                    "Str Grk": 2976.0,
+                    "lemma": "\u039b\u03ac\u03b6\u03b1\u03c1\u03bf\u03bd",
+                    "xlit": "Lazaron"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " side ",
+                    "Str Grk": 2859.0,
+                    "lemma": "\u03ba\u03cc\u03bb\u03c0\u03bf\u03b9\u03c2",
+                    "xlit": "kolpois"
+                }
+            ],
+            "verse_text": "And in Hades, having lifted up his eyes, being in torment, he sees Abraham from afar, and Lazarus in his bosom."
+        },
+        {
+            "verse_no": 24504,
+            "verse_ref": "Mark 8:3",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " I send ",
+                    "Str Grk": 630.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03bb\u03cd\u03c3\u03c9",
+                    "xlit": "apolys\u014d"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " home ",
+                    "Str Grk": 3624.0,
+                    "lemma": "\u03bf\u1f36\u03ba\u03bf\u03bd",
+                    "xlit": "oikon"
+                },
+                {
+                    "BSB Version": " hungry ",
+                    "Str Grk": 3523.0,
+                    "lemma": "\u03bd\u03ae\u03c3\u03c4\u03b5\u03b9\u03c2",
+                    "xlit": "n\u0113steis"
+                },
+                {
+                    "BSB Version": " they will faint ",
+                    "Str Grk": 1590.0,
+                    "lemma": "\u1f10\u03ba\u03bb\u03c5\u03b8\u03ae\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "eklyth\u0113sontai"
+                },
+                {
+                    "BSB Version": " along ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " way ",
+                    "Str Grk": 3598.0,
+                    "lemma": "\u1f41\u03b4\u1ff7",
+                    "xlit": "hod\u014d"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u03af",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " some ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03bd\u03b5\u03c2",
+                    "xlit": "tines"
+                },
+                {
+                    "BSB Version": " of them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " have come ",
+                    "Str Grk": 2240.0,
+                    "lemma": "\u1f25\u03ba\u03b1\u03c3\u03b9\u03bd",
+                    "xlit": "h\u0113kasin"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " a great distance ",
+                    "Str Grk": 3113.0,
+                    "lemma": "\u03bc\u03b1\u03ba\u03c1\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "makrothen"
+                }
+            ],
+            "verse_text": "And if I shall send them away hungry to their homes, they will faint on the way. For some of them are come from afar.\""
+        },
+        {
+            "verse_no": 24867,
+            "verse_ref": "Mark 15:40",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
                     "Str Grk": 1161.0,
                     "lemma": "\u03b4\u1f72",
                     "xlit": "de"
                 },
                 {
-                    "BSB Version": " not ",
-                    "Str Grk": 3756.0,
-                    "lemma": "\u03bf\u1f50\u03ba",
-                    "xlit": "ouk"
-                },
-                {
-                    "BSB Version": " only ",
-                    "Str Grk": 3441.0,
-                    "lemma": "\u03bc\u03cc\u03bd\u03bf\u03bd",
-                    "xlit": "monon"
-                },
-                {
-                    "BSB Version": " on him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
-                    "xlit": "auton"
-                },
-                {
-                    "BSB Version": " but ",
-                    "Str Grk": 235.0,
-                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
-                    "xlit": "alla"
+                    "BSB Version": " there were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f2e\u03c3\u03b1\u03bd",
+                    "xlit": "\u0112san"
                 },
                 {
                     "BSB Version": " also ",
@@ -207,101 +389,52 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " on me ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f10\u03bc\u03ad",
-                    "xlit": "eme"
+                    "BSB Version": " women ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b5\u03c2",
+                    "xlit": "gynaikes"
                 },
                 {
-                    "BSB Version": " to ",
-                    "Str Grk": 2443.0,
-                    "lemma": "\u1f35\u03bd\u03b1",
-                    "xlit": "hina"
+                    "BSB Version": " watching ",
+                    "Str Grk": 2334.0,
+                    "lemma": "\u03b8\u03b5\u03c9\u03c1\u03bf\u1fe6\u03c3\u03b1\u03b9",
+                    "xlit": "the\u014drousai"
                 },
                 {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3361.0,
-                    "lemma": "\u03bc\u1f74",
-                    "xlit": "m\u0113"
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
                 },
                 {
-                    "BSB Version": " spare me ",
-                    "Str Grk": 2192.0,
-                    "lemma": "\u03c3\u03c7\u1ff6",
-                    "xlit": "sch\u014d"
+                    "BSB Version": " a distance ",
+                    "Str Grk": 3113.0,
+                    "lemma": "\u03bc\u03b1\u03ba\u03c1\u03cc\u03b8\u03b5\u03bd",
+                    "xlit": "makrothen"
                 },
                 {
-                    "BSB Version": " sorrow ",
-                    "Str Grk": 3077.0,
-                    "lemma": "\u03bb\u03cd\u03c0\u03b7\u03bd",
-                    "xlit": "lyp\u0113n"
+                    "BSB Version": " Among ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
                 },
                 {
-                    "BSB Version": " upon ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c0\u1f76",
-                    "xlit": "epi"
+                    "BSB Version": " them ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03b1\u1f37\u03c2",
+                    "xlit": "hais"
                 },
                 {
-                    "BSB Version": " sorrow ",
-                    "Str Grk": 3077.0,
-                    "lemma": "\u03bb\u03cd\u03c0\u03b7\u03bd",
-                    "xlit": "lyp\u0113n"
-                }
-            ],
-            "verse_text": "And indeed he was sick, nearly unto death. But God had mercy on him, and not on him alone but also on me, that I should not have sorrow upon sorrow."
-        },
-        {
-            "verse_no": 26526,
-            "verse_ref": "John 11:2",
-            "verse_data": [
-                {
-                    "BSB Version": " ( - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "BSB Version": " [were] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
                 },
                 {
                     "BSB Version": " Mary ",
                     "Str Grk": 3137.0,
-                    "lemma": "\u039c\u03b1\u03c1\u03b9\u1f70\u03bc",
-                    "xlit": "Mariam"
-                },
-                {
-                    "BSB Version": " whose ",
-                    "Str Grk": 3739.0,
-                    "lemma": "\u1f27\u03c2",
-                    "xlit": "h\u0113s"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " brother ",
-                    "Str Grk": 80.0,
-                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1f78\u03c2",
-                    "xlit": "adelphos"
-                },
-                {
-                    "BSB Version": " Lazarus ",
-                    "Str Grk": 2976.0,
-                    "lemma": "\u039b\u03ac\u03b6\u03b1\u03c1\u03bf\u03c2",
-                    "xlit": "Lazaros"
-                },
-                {
-                    "BSB Version": " was sick ",
-                    "Str Grk": 770.0,
-                    "lemma": "\u1f20\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9",
-                    "xlit": "\u0113sthenei"
-                },
-                {
-                    "BSB Version": " was ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03bd",
-                    "xlit": "\u0113n"
+                    "lemma": "\u039c\u03b1\u03c1\u03af\u03b1",
+                    "xlit": "Maria"
                 },
                 {
                     "BSB Version": " - ",
@@ -310,28 +443,52 @@
                     "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " to anoint ",
-                    "Str Grk": 218.0,
-                    "lemma": "\u1f00\u03bb\u03b5\u03af\u03c8\u03b1\u03c3\u03b1",
-                    "xlit": "aleipsasa"
+                    "BSB Version": " Magdalene ",
+                    "Str Grk": 3094.0,
+                    "lemma": "\u039c\u03b1\u03b3\u03b4\u03b1\u03bb\u03b7\u03bd\u1f74",
+                    "xlit": "Magdal\u0113n\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Mary ",
+                    "Str Grk": 3137.0,
+                    "lemma": "\u039c\u03b1\u03c1\u03af\u03b1",
+                    "xlit": "Maria"
                 },
                 {
                     "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " Lord ",
-                    "Str Grk": 2962.0,
-                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03bd",
-                    "xlit": "Kyrion"
+                    "BSB Version": " mother ",
+                    "Str Grk": 3384.0,
+                    "lemma": "\u03bc\u03ae\u03c4\u03b7\u03c1",
+                    "xlit": "m\u0113t\u0113r"
                 },
                 {
-                    "BSB Version": " with perfume ",
-                    "Str Grk": 3464.0,
-                    "lemma": "\u03bc\u03cd\u03c1\u1ff3",
-                    "xlit": "myr\u014d"
+                    "BSB Version": " of James ",
+                    "Str Grk": 2385.0,
+                    "lemma": "\u1f38\u03b1\u03ba\u03ce\u03b2\u03bf\u03c5",
+                    "xlit": "Iak\u014dbou"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " younger ",
+                    "Str Grk": 3398.0,
+                    "lemma": "\u03bc\u03b9\u03ba\u03c1\u03bf\u1fe6",
+                    "xlit": "mikrou"
                 },
                 {
                     "BSB Version": " and ",
@@ -340,178 +497,63 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " wipe ",
-                    "Str Grk": 1591.0,
-                    "lemma": "\u1f10\u03ba\u03bc\u03ac\u03be\u03b1\u03c3\u03b1",
-                    "xlit": "ekmaxasa"
+                    "BSB Version": " of Joses ",
+                    "Str Grk": 2500.0,
+                    "lemma": "\u1f38\u03c9\u03c3\u1fc6\u03c4\u03bf\u03c2",
+                    "xlit": "I\u014ds\u0113tos"
                 },
                 {
-                    "BSB Version": " His ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "tous"
-                },
-                {
-                    "BSB Version": " feet ",
-                    "Str Grk": 4228.0,
-                    "lemma": "\u03c0\u03cc\u03b4\u03b1\u03c2",
-                    "xlit": "podas"
-                },
-                {
-                    "BSB Version": " with ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03b1\u1fd6\u03c2",
-                    "xlit": "tais"
-                },
-                {
-                    "BSB Version": " her ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1fc6\u03c2",
-                    "xlit": "aut\u0113s"
-                },
-                {
-                    "BSB Version": " hair ",
-                    "Str Grk": 2359.0,
-                    "lemma": "\u03b8\u03c1\u03b9\u03be\u1f76\u03bd",
-                    "xlit": "thrixin"
+                    "BSB Version": " Salome ",
+                    "Str Grk": 4539.0,
+                    "lemma": "\u03a3\u03b1\u03bb\u03ce\u03bc\u03b7",
+                    "xlit": "Sal\u014dm\u0113"
                 }
             ],
-            "verse_text": "And Mary was the <i>one</i> having anointed the Lord with fragrant oil and having wiped His feet with her hair, whose brother Lazarus was sick."
-        },
-        {
-            "verse_no": 26260,
-            "verse_ref": "John 6:2",
-            "verse_data": [
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " A large ",
-                    "Str Grk": 4183.0,
-                    "lemma": "\u03c0\u03bf\u03bb\u03cd\u03c2",
-                    "xlit": "polys"
-                },
-                {
-                    "BSB Version": " crowd ",
-                    "Str Grk": 3793.0,
-                    "lemma": "\u1f44\u03c7\u03bb\u03bf\u03c2",
-                    "xlit": "ochlos"
-                },
-                {
-                    "BSB Version": " followed ",
-                    "Str Grk": 190.0,
-                    "lemma": "\u1f20\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b5\u03b9",
-                    "xlit": "\u0113kolouthei"
-                },
-                {
-                    "BSB Version": " Him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
-                    "xlit": "aut\u014d"
-                },
-                {
-                    "BSB Version": " because ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " they saw ",
-                    "Str Grk": 2334.0,
-                    "lemma": "\u1f10\u03b8\u03b5\u1f7d\u03c1\u03bf\u03c5\u03bd",
-                    "xlit": "ethe\u014droun"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f70",
-                    "xlit": "ta"
-                },
-                {
-                    "BSB Version": " signs ",
-                    "Str Grk": 4592.0,
-                    "lemma": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03b1",
-                    "xlit": "s\u0113meia"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3739.0,
-                    "lemma": "\u1f03",
-                    "xlit": "ha"
-                },
-                {
-                    "BSB Version": " He was performing ",
-                    "Str Grk": 4160.0,
-                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b5\u03b9",
-                    "xlit": "epoiei"
-                },
-                {
-                    "BSB Version": " on ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c0\u1f76",
-                    "xlit": "epi"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
-                },
-                {
-                    "BSB Version": " sick ",
-                    "Str Grk": 770.0,
-                    "lemma": "\u1f00\u03c3\u03b8\u03b5\u03bd\u03bf\u03cd\u03bd\u03c4\u03c9\u03bd",
-                    "xlit": "asthenount\u014dn"
-                }
-            ],
-            "verse_text": "and a great crowd was following Him because they were seeing the signs which He was doing upon those being sick."
+            "verse_text": "And there were also women looking on from afar off, among whom also <i>were</i> Mary Magdalene, and Mary the mother of James the least and of Joseph, and Salome,"
         }
     ],
     "other_words": [
         {
-            "number": 1415,
-            "lemma": "\u03b4\u03c5\u03bd\u03b1\u03c4\u1f79\u03c2",
-            "xlit": "dynat\u00f3s",
-            "pronunciation": "doo-nat-os'",
-            "description": " powerful or capable (literally or figuratively); neuter\n possible",
-            "kjv_def": "able, could, (that is) mighty (man), possible, power,\n strong.",
-            "pspeech": "Adj-NNP"
+            "number": 1056,
+            "lemma": "\u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u1f77\u03b1",
+            "xlit": "Galila\u00eda",
+            "pronunciation": "gal-il-ah'-yah",
+            "kjv_def": "Galilee.",
+            "pspeech": "N-GFS",
+            "description": " Galil\u00e6a (i.e. the heathen circle), a region of Palestine"
         },
         {
-            "number": 3441,
-            "lemma": "\u03bc\u1f79\u03bd\u03bf\u03c2",
-            "xlit": "m\u00f3nos",
-            "pronunciation": "mon'-os",
-            "description": " remaining, i.e. sole or single; by implication,\n mere",
-            "kjv_def": "alone, only, by themselves.",
-            "pspeech": "Adj-DMS"
+            "number": 11,
+            "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f71\u03bc",
+            "xlit": "Abra\u00e1m",
+            "pronunciation": "ab-rah-am'",
+            "kjv_def": "Abraham.",
+            "pspeech": "N-GMS",
+            "description": " Abraham, the Hebrew patriarch"
         },
         {
-            "number": 80,
-            "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1f79\u03c2",
-            "xlit": "adelph\u00f3s",
-            "pronunciation": "ad-el-fos'",
-            "description": " a brother\n (literally or figuratively) near or remote (much like ",
-            "kjv_def": "brother.",
-            "pspeech": "N-AMP"
+            "number": 3624,
+            "lemma": "\u03bf\u1f36\u03ba\u03bf\u03c2",
+            "xlit": "o\u00eekos",
+            "pronunciation": "oy'-kos",
+            "kjv_def": "home, house(-hold), temple.",
+            "pspeech": "N-AMS",
+            "description": " a dwelling (more or less extensive, literal or figurative); by implication, a family (more or less related, literally or figuratively)"
         },
         {
-            "number": 4183,
-            "lemma": "\u03c0\u03bf\u03bb\u1f7b\u03c2",
-            "xlit": "pol\u00fds",
-            "pronunciation": "pol-oos'",
-            "description": " (singular) much (in any\n respect) or (plural) many; neuter (singular) as adverbial, largely;\n neuter (plural) as adverb or noun often, mostly, largely",
-            "kjv_def": "abundant, +\n altogether, common, + far (passed, spent), (+ be of a) great (age,\n deal, -ly, while), long, many, much, oft(-en (-times)), plenteous,\n sore, straitly.",
-            "pspeech": "Adj-NMS"
+            "number": 3094,
+            "lemma": "\u039c\u03b1\u03b3\u03b4\u03b1\u03bb\u03b7\u03bd\u1f75",
+            "xlit": "Magdal\u0113n\u1e17",
+            "pronunciation": "mag-dal-ay-nay'",
+            "kjv_def": "Magdalene.",
+            "pspeech": "N-NFS",
+            "description": " a female Magdalene, i.e. inhabitant of Magdala"
         }
     ]
 }

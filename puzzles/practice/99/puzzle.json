@@ -1,114 +1,59 @@
 {
     "wotd": {
-        "number": 337,
-        "lemma": "\u1f00\u03bd\u03b1\u03b9\u03c1\u1f73\u03c9",
-        "xlit": "anair\u00e9\u014d",
-        "pronunciation": "an-ahee-reh'-o",
-        "description": " to take up, i.e. adopt; by\n implication, to take away (violently), i.e. abolish, murder",
-        "kjv_def": "put to\n death, kill, slay, take away, take up.",
-        "pspeech": "V-AIA-3S"
+        "number": 1492,
+        "lemma": "\u03b5\u1f34\u03b4\u03c9",
+        "xlit": "e\u00edd\u014d",
+        "pronunciation": "i'-do",
+        "kjv_def": "be aware, behold, X can (+ not tell), consider, (have)\n know(-ledge), look (on), perceive, see, be sure, tell, understand,\n wish, wot.",
+        "pspeech": "V-RIA-3S",
+        "description": " used only in certain past tenses, the others being borrowed from the equivalent \u1f40\u03c0\u03c4\u1f71\u03bd\u03bf\u03bc\u03b1\u03b9(opt\u00e1nomai) and \u1f41\u03c1\u1f71\u03c9(hor\u00e1\u014d); properly, to see (literally or figuratively); by implication, (in the perfect tense only) to know"
     },
     "verses": [
         {
-            "verse_no": 27093,
-            "verse_ref": "Acts 5:33",
+            "verse_no": 28139,
+            "verse_ref": "Romans 8:22",
             "verse_data": [
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u039f\u1f31",
-                    "xlit": "Hoi"
+                    "BSB Version": " We know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u039f\u1f34\u03b4\u03b1\u03bc\u03b5\u03bd",
+                    "xlit": "Oidamen"
                 },
                 {
-                    "BSB Version": " When [the Council members] heard this ",
-                    "Str Grk": 191.0,
-                    "lemma": "\u1f00\u03ba\u03bf\u03cd\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "akousantes"
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
                 },
                 {
-                    "BSB Version": " they were enraged ",
-                    "Str Grk": 1282.0,
-                    "lemma": "\u03b4\u03b9\u03b5\u03c0\u03c1\u03af\u03bf\u03bd\u03c4\u03bf",
-                    "xlit": "dieprionto"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " they resolved ",
-                    "Str Grk": 1011.0,
-                    "lemma": "\u1f10\u03b2\u03bf\u03c5\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03bf",
-                    "xlit": "ebouleuonto"
-                },
-                {
-                    "BSB Version": " to put [the apostles] to death ",
-                    "Str Grk": 337.0,
-                    "lemma": "\u1f00\u03bd\u03b5\u03bb\u03b5\u1fd6\u03bd",
-                    "xlit": "anelein"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u03cd\u03c2",
-                    "xlit": "autous"
-                }
-            ],
-            "verse_text": "And having heard, they were cut <i>to the heart</i> and were desiring to put them to death."
-        },
-        {
-            "verse_no": 27241,
-            "verse_ref": "Acts 9:24",
-            "verse_data": [
-                {
-                    "BSB Version": " but ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
-                },
-                {
-                    "BSB Version": " Saul ",
-                    "Str Grk": 4569.0,
-                    "lemma": "\u03a3\u03b1\u03cd\u03bb\u1ff3",
-                    "xlit": "Saul\u014d"
-                },
-                {
-                    "BSB Version": " learned of ",
-                    "Str Grk": 1097.0,
-                    "lemma": "\u1f10\u03b3\u03bd\u03ce\u03c3\u03b8\u03b7",
-                    "xlit": "egn\u014dsth\u0113"
-                },
-                {
-                    "BSB Version": " their ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
-                    "xlit": "aut\u014dn"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
                     "lemma": "\u1f21",
                     "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " plot ",
-                    "Str Grk": 1917.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03b2\u03bf\u03c5\u03bb\u1f74",
-                    "xlit": "epiboul\u0113"
+                    "BSB Version": " whole ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u1fb6\u03c3\u03b1",
+                    "xlit": "pasa"
+                },
+                {
+                    "BSB Version": " creation ",
+                    "Str Grk": 2937.0,
+                    "lemma": "\u03ba\u03c4\u03af\u03c3\u03b9\u03c2",
+                    "xlit": "ktisis"
+                },
+                {
+                    "BSB Version": " has been groaning together ",
+                    "Str Grk": 4959.0,
+                    "lemma": "\u03c3\u03c5\u03c3\u03c4\u03b5\u03bd\u03ac\u03b6\u03b5\u03b9",
+                    "xlit": "systenazei"
                 },
                 {
                     "BSB Version": " - ",
@@ -117,192 +62,210 @@
                     "xlit": "kai"
                 },
                 {
+                    "BSB Version": " in the pains of childbirth ",
+                    "Str Grk": 4944.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03c9\u03b4\u03af\u03bd\u03b5\u03b9",
+                    "xlit": "syn\u014ddinei"
+                },
+                {
+                    "BSB Version": " until ",
+                    "Str Grk": 891.0,
+                    "lemma": "\u1f04\u03c7\u03c1\u03b9",
+                    "xlit": "achri"
+                },
+                {
                     "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " Day ",
-                    "Str Grk": 2250.0,
-                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
-                    "xlit": "h\u0113meras"
+                    "BSB Version": " the present time ",
+                    "Str Grk": 3568.0,
+                    "lemma": "\u03bd\u1fe6\u03bd",
+                    "xlit": "nyn"
+                }
+            ],
+            "verse_text": "For we know that the whole creation groans together and travails together until now."
+        },
+        {
+            "verse_no": 29822,
+            "verse_ref": "2 Timothy 1:12",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u0394\u03b9\u2019",
+                    "xlit": "Di\u2019"
                 },
                 {
-                    "BSB Version": " and ",
-                    "Str Grk": 5037.0,
-                    "lemma": "\u03c4\u03b5",
-                    "xlit": "te"
+                    "BSB Version": " this ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f23\u03bd",
+                    "xlit": "h\u0113n"
                 },
                 {
-                    "BSB Version": " night ",
-                    "Str Grk": 3571.0,
-                    "lemma": "\u03bd\u03c5\u03ba\u03c4\u1f78\u03c2",
-                    "xlit": "nyktos"
+                    "BSB Version": " reason ",
+                    "Str Grk": 156.0,
+                    "lemma": "\u03b1\u1f30\u03c4\u03af\u03b1\u03bd",
+                    "xlit": "aitian"
+                },
+                {
+                    "BSB Version": " even [though] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " I suffer ",
+                    "Str Grk": 3958.0,
+                    "lemma": "\u03c0\u03ac\u03c3\u03c7\u03c9",
+                    "xlit": "pasch\u014d"
+                },
+                {
+                    "BSB Version": " [as I do] ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+                    "xlit": "tauta"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u2019",
+                    "xlit": "all\u2019"
                 },
                 {
                     "BSB Version": " vvv ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
                 },
                 {
-                    "BSB Version": " they watched ",
-                    "Str Grk": 3906.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03b5\u03c4\u03b7\u03c1\u03bf\u1fe6\u03bd\u03c4\u03bf",
-                    "xlit": "paret\u0113rounto"
+                    "BSB Version": " I am not ashamed ",
+                    "Str Grk": 1870.0,
+                    "lemma": "\u1f10\u03c0\u03b1\u03b9\u03c3\u03c7\u03cd\u03bd\u03bf\u03bc\u03b1\u03b9",
+                    "xlit": "epaischynomai"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f70\u03c2",
-                    "xlit": "tas"
+                    "BSB Version": " for ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
                 },
                 {
-                    "BSB Version": " [city] gates ",
-                    "Str Grk": 4439.0,
-                    "lemma": "\u03c0\u03cd\u03bb\u03b1\u03c2",
-                    "xlit": "pylas"
-                },
-                {
-                    "BSB Version": " in order ",
-                    "Str Grk": 3704.0,
-                    "lemma": "\u1f45\u03c0\u03c9\u03c2",
-                    "xlit": "hop\u014ds"
-                },
-                {
-                    "BSB Version": " to kill ",
-                    "Str Grk": 337.0,
-                    "lemma": "\u1f00\u03bd\u03ad\u03bb\u03c9\u03c3\u03b9\u03bd",
-                    "xlit": "anel\u014dsin"
-                },
-                {
-                    "BSB Version": " him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
-                    "xlit": "auton"
-                }
-            ],
-            "verse_text": "but their plot became known to Saul. And now they were closely watching the gates day and also night, so that they might kill him."
-        },
-        {
-            "verse_no": 27240,
-            "verse_ref": "Acts 9:23",
-            "verse_data": [
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " After ",
-                    "Str Grk": 5613.0,
-                    "lemma": "\u1f69\u03c2",
-                    "xlit": "H\u014ds"
-                },
-                {
-                    "BSB Version": " many ",
-                    "Str Grk": 2425.0,
-                    "lemma": "\u1f31\u03ba\u03b1\u03bd\u03b1\u03af",
-                    "xlit": "hikanai"
-                },
-                {
-                    "BSB Version": " days ",
-                    "Str Grk": 2250.0,
-                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9",
-                    "xlit": "h\u0113merai"
-                },
-                {
-                    "BSB Version": " had passed ",
-                    "Str Grk": 4137.0,
-                    "lemma": "\u1f10\u03c0\u03bb\u03b7\u03c1\u03bf\u1fe6\u03bd\u03c4\u03bf",
-                    "xlit": "epl\u0113rounto"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03bf\u1f31",
-                    "xlit": "hoi"
-                },
-                {
-                    "BSB Version": " Jews ",
-                    "Str Grk": 2453.0,
-                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u1fd6\u03bf\u03b9",
-                    "xlit": "Ioudaioi"
-                },
-                {
-                    "BSB Version": " conspired ",
-                    "Str Grk": 4823.0,
-                    "lemma": "\u03c3\u03c5\u03bd\u03b5\u03b2\u03bf\u03c5\u03bb\u03b5\u03cd\u03c3\u03b1\u03bd\u03c4\u03bf",
-                    "xlit": "synebouleusanto"
-                },
-                {
-                    "BSB Version": " to kill ",
-                    "Str Grk": 337.0,
-                    "lemma": "\u1f00\u03bd\u03b5\u03bb\u03b5\u1fd6\u03bd",
-                    "xlit": "anelein"
-                },
-                {
-                    "BSB Version": " him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
-                    "xlit": "auton"
-                }
-            ],
-            "verse_text": "Now when many days had passed, the Jews plotted together to kill him,"
-        },
-        {
-            "verse_no": 29670,
-            "verse_ref": "2 Thessalonians 2:8",
-            "verse_data": [
-                {
-                    "BSB Version": " And ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " then ",
-                    "Str Grk": 5119.0,
-                    "lemma": "\u03c4\u03cc\u03c4\u03b5",
-                    "xlit": "tote"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " lawless [one] ",
-                    "Str Grk": 459.0,
-                    "lemma": "\u1f04\u03bd\u03bf\u03bc\u03bf\u03c2",
-                    "xlit": "anomos"
-                },
-                {
-                    "BSB Version": " will be revealed ",
-                    "Str Grk": 601.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03b1\u03bb\u03c5\u03c6\u03b8\u03ae\u03c3\u03b5\u03c4\u03b1\u03b9",
-                    "xlit": "apokalyphth\u0113setai"
+                    "BSB Version": " I know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03bf\u1f36\u03b4\u03b1",
+                    "xlit": "oida"
                 },
                 {
                     "BSB Version": " whom ",
                     "Str Grk": 3739.0,
-                    "lemma": "\u1f43\u03bd",
-                    "xlit": "hon"
+                    "lemma": "\u1fa7",
+                    "xlit": "h\u014d"
                 },
                 {
-                    "BSB Version": " the ",
+                    "BSB Version": " I have believed ",
+                    "Str Grk": 4100.0,
+                    "lemma": "\u03c0\u03b5\u03c0\u03af\u03c3\u03c4\u03b5\u03c5\u03ba\u03b1",
+                    "xlit": "pepisteuka"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " I am convinced ",
+                    "Str Grk": 3982.0,
+                    "lemma": "\u03c0\u03ad\u03c0\u03b5\u03b9\u03c3\u03bc\u03b1\u03b9",
+                    "xlit": "pepeismai"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " He is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " able ",
+                    "Str Grk": 1415.0,
+                    "lemma": "\u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c2",
+                    "xlit": "dynatos"
+                },
+                {
+                    "BSB Version": " to guard ",
+                    "Str Grk": 5442.0,
+                    "lemma": "\u03c6\u03c5\u03bb\u03ac\u03be\u03b1\u03b9",
+                    "xlit": "phylaxai"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " I have entrusted [to Him] ",
+                    "Str Grk": 3866.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03b8\u03ae\u03ba\u03b7\u03bd",
+                    "xlit": "parath\u0113k\u0113n"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u03b7\u03bd",
+                    "xlit": "ekein\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " day ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03bd",
+                    "xlit": "h\u0113meran"
+                }
+            ],
+            "verse_text": "For this reason I also suffer these things. But I am not ashamed, for I know whom I have believed, and I am persuaded that He is able to guard my deposit entrusted for that day."
+        },
+        {
+            "verse_no": 23902,
+            "verse_ref": "Matthew 22:29",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
                     "lemma": "\u1f41",
                     "xlit": "ho"
-                },
-                {
-                    "BSB Version": " Lord ",
-                    "Str Grk": 2962.0,
-                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03c2",
-                    "xlit": "Kyrios"
                 },
                 {
                     "BSB Version": " Jesus ",
@@ -311,123 +274,196 @@
                     "xlit": "I\u0113sous"
                 },
                 {
-                    "BSB Version": " will slay ",
-                    "Str Grk": 337.0,
-                    "lemma": "\u1f00\u03bd\u03b5\u03bb\u03b5\u1fd6",
-                    "xlit": "anelei"
+                    "BSB Version": " answered ",
+                    "Str Grk": 611.0,
+                    "lemma": "\u1f08\u03c0\u03bf\u03ba\u03c1\u03b9\u03b8\u03b5\u1f76\u03c2",
+                    "xlit": "Apokritheis"
                 },
                 {
-                    "BSB Version": " with the ",
+                    "BSB Version": " - ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " You are mistaken [because] ",
+                    "Str Grk": 4105.0,
+                    "lemma": "\u03a0\u03bb\u03b1\u03bd\u1fb6\u03c3\u03b8\u03b5",
+                    "xlit": "Planasthe"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " you do not know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03b5\u1f30\u03b4\u03cc\u03c4\u03b5\u03c2",
+                    "xlit": "eidotes"
+                },
+                {
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
                 },
                 {
-                    "BSB Version": " breath ",
-                    "Str Grk": 4151.0,
-                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b9",
-                    "xlit": "pneumati"
+                    "BSB Version": " Scriptures ",
+                    "Str Grk": 1124.0,
+                    "lemma": "\u03b3\u03c1\u03b1\u03c6\u1f70\u03c2",
+                    "xlit": "graphas"
                 },
                 {
-                    "BSB Version": " of ",
+                    "BSB Version": " or ",
+                    "Str Grk": 3366.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u1f72",
+                    "xlit": "m\u0113de"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " power ",
+                    "Str Grk": 1411.0,
+                    "lemma": "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b9\u03bd",
+                    "xlit": "dynamin"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
                     "lemma": "\u03c4\u03bf\u1fe6",
                     "xlit": "tou"
                 },
                 {
-                    "BSB Version": " His ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
-                },
-                {
-                    "BSB Version": " mouth ",
-                    "Str Grk": 4750.0,
-                    "lemma": "\u03c3\u03c4\u03cc\u03bc\u03b1\u03c4\u03bf\u03c2",
-                    "xlit": "stomatos"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " annihilate ",
-                    "Str Grk": 2673.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03c3\u03b5\u03b9",
-                    "xlit": "katarg\u0113sei"
-                },
-                {
-                    "BSB Version": " by the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " majesty ",
-                    "Str Grk": 2015.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03c6\u03b1\u03bd\u03b5\u03af\u1fb3",
-                    "xlit": "epiphaneia"
-                },
-                {
-                    "BSB Version": " of ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc6\u03c2",
-                    "xlit": "t\u0113s"
-                },
-                {
-                    "BSB Version": " His ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
-                },
-                {
-                    "BSB Version": " arrival ",
-                    "Str Grk": 3952.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03c2",
-                    "xlit": "parousias"
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
                 }
             ],
-            "verse_text": "And then the lawless <i>one</i> will be revealed, whom the Lord Jesus will consume with the breath of His mouth and will annul by the appearing of His coming,"
+            "verse_text": "And, Jesus answering said to them, \"You err, not knowing the Scriptures, nor the power of God."
+        },
+        {
+            "verse_no": 29378,
+            "verse_ref": "Philippians 1:16",
+            "verse_data": [
+                {
+                    "BSB Version": " The [latter] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " do so ",
+                    "Str Grk": 3303.0,
+                    "lemma": "\u03bc\u1f72\u03bd",
+                    "xlit": "men"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03be",
+                    "xlit": "ex"
+                },
+                {
+                    "BSB Version": " love ",
+                    "Str Grk": 26.0,
+                    "lemma": "\u1f00\u03b3\u03ac\u03c0\u03b7\u03c2",
+                    "xlit": "agap\u0113s"
+                },
+                {
+                    "BSB Version": " knowing ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03b5\u1f30\u03b4\u03cc\u03c4\u03b5\u03c2",
+                    "xlit": "eidotes"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " I am appointed ",
+                    "Str Grk": 2749.0,
+                    "lemma": "\u03ba\u03b5\u1fd6\u03bc\u03b1\u03b9",
+                    "xlit": "keimai"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " [the] defense ",
+                    "Str Grk": 627.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03bd",
+                    "xlit": "apologian"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " gospel ",
+                    "Str Grk": 2098.0,
+                    "lemma": "\u03b5\u1f50\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u03bf\u03c5",
+                    "xlit": "euangeliou"
+                }
+            ],
+            "verse_text": "the <i>ones</i> indeed out of love, knowing that I am appointed for the defense of the gospel;"
         }
     ],
     "other_words": [
         {
-            "number": 191,
-            "lemma": "\u1f00\u03ba\u03bf\u1f7b\u03c9",
-            "xlit": "ako\u00fa\u014d",
-            "pronunciation": "ak-oo'-o",
-            "description": " to hear (in various senses)",
-            "kjv_def": "give (in the) audience\n (of), come (to the ears), (shall) hear(-er, -ken), be noised, be\n reported, understand.",
-            "pspeech": "V-APA-NMS"
+            "number": 2937,
+            "lemma": "\u03ba\u03c4\u1f77\u03c3\u03b9\u03c2",
+            "xlit": "kt\u00edsis",
+            "pronunciation": "ktis'-is",
+            "kjv_def": "building, creation, creature,\n ordinance.",
+            "pspeech": "N-GFS",
+            "description": " original formation (properly, the act; by implication, the thing, literally or figuratively)"
         },
         {
-            "number": 3571,
-            "lemma": "\u03bd\u1f7b\u03be",
-            "xlit": "n\u00fdx",
-            "pronunciation": "noox",
-            "description": " \"night\" (literally or figuratively)",
-            "kjv_def": " (mid-)night.",
-            "pspeech": "N-GFS"
+            "number": 3958,
+            "lemma": "\u03c0\u1f73\u03bd\u03b8\u03c9",
+            "xlit": "p\u00e9nth\u014d",
+            "pronunciation": "pen'-tho",
+            "kjv_def": "feel, passion, suffer, vex.",
+            "pspeech": "V-ANA",
+            "description": " to experience a sensation or impression (usually painful)"
         },
         {
-            "number": 4137,
-            "lemma": "\u03c0\u03bb\u03b7\u03c1\u1f79\u03c9",
-            "xlit": "pl\u0113r\u00f3\u014d",
-            "pronunciation": "play-ro'-o",
-            "description": " to make replete, i.e. (literally) to cram (a net), level up\n (a hollow), or (figuratively) to furnish (or imbue, diffuse,\n influence), satisfy, execute (an office), finish (a period or task),\n verify (or coincide with a prediction), etc.",
-            "kjv_def": "accomplish, X after,\n (be) complete, end, expire, fill (up), fulfil, (be, make) full (come),\n fully preach, perfect, supply.",
-            "pspeech": "V-ASP-3S"
+            "number": 3361,
+            "lemma": "\u03bc\u1f75",
+            "xlit": "m\u1e17",
+            "pronunciation": "may",
+            "kjv_def": "any but (that), X forbear, + God forbid, +\n lack, lest, neither, never, no (X wise in), none, nor, (can-)not,\n nothing, that not, un(-taken), without.",
+            "pspeech": "Adv",
+            "description": " (adverb) not, (conjunction) lest; also (as an interrogative implying a negative answer (whereas \u03bf\u1f50\u03c7(ouch) expects an affirmative one)) whether"
         },
         {
-            "number": 2424,
-            "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
-            "xlit": "I\u0113so\u00fbs",
-            "pronunciation": "ee-ay-sooce'",
-            "description": " Jesus (i.e. Jehoshua), the name of our Lord\n and two (three) other Israelites",
-            "kjv_def": "Jesus.",
-            "pspeech": "N-GMS"
+            "number": 2098,
+            "lemma": "\u03b5\u1f50\u03b1\u03b3\u03b3\u1f73\u03bb\u03b9\u03bf\u03bd",
+            "xlit": "euang\u00e9lion",
+            "pronunciation": "yoo-ang-ghel'-ee-on",
+            "kjv_def": "gospel.",
+            "pspeech": "N-ANS",
+            "description": " a good message, i.e. the gospel"
         }
     ]
 }

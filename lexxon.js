@@ -51,14 +51,25 @@ function pageLoad() {
   welcome()
 
 }
-function load_puzzle(){
+function set_puzzle_date(){
   this.time = new Date()
   let new_time = new Date()
   new_time.setTime(this.time.getTime() - (this.time.getTimezoneOffset() * 1000 * 60))
   this.date = new_time.toISOString().substring(0,10)
   new_time.setTime(this.time.getTime() - (this.time.getTimezoneOffset() * 1000 * 60)-1000*60*60*24)
   this.yesterday = new_time.toISOString().substring(0,10)
+  if((this.page_data["daily_puzzle_stats"]["last_solved"] != this.date) &&
+    (this.page_data["daily_puzzle_stats"]["last_solved"] != this.yesterday)){
+    this.page_data["daily_puzzle_stats"]["streak"] = 0
+    }
+    update_local_storage()
+  
 
+}
+
+
+function load_puzzle(){
+  set_puzzle_date()
   temp_puzzle = Promise.resolve(getPuzzle())
   temp_puzzle.then(function (result) { setPuzzle(result) })
 }
@@ -262,7 +273,7 @@ function welcome() {
     innerHTML = "<h1>Lexxon Daily Puzzle for " + this.date + "</h1>"
   }
   else if (this.page_data["play_mode"] == "PRACTICE"){
-    innerHTML = "<h1>Lexxon Practice Mode</h1>"
+    innerHTML = "<h1>Lexxon Practice Puzzle " + this.page_data["practice_puzzle_state"]["current_puzzle_number"]+ " </h1>"
   }
   innerHTML = innerHTML + info_text
   overlay = generateOverlayFrameText(innerHTML)
@@ -382,20 +393,17 @@ function getPuzzle() {
 }
 function generateOverlayFrameText(innerHTML) {
   destroyOverlayFrame()
-  var new_overlayframe = document.createElement("div")
-  var notification_text = document.createElement('div')
-  notification_text.style.maxWidth = "750px"
-  notification_text.style.textAlign = "left"
-  notification_text.style.margin = "auto"
-  notification_text.style.padding = "10px"
-  notification_text.innerHTML = innerHTML
+  let new_overlayframe = document.createElement("div")
+  let overlay_text = document.createElement('div')
+  overlay_text.classList.add("overlay_text")
+  overlay_text.innerHTML = innerHTML
   new_overlayframe.id = "overlay"
-  var close_button = document.createElement("span")
+  var close_button = document.createElement("div")
   close_button.classList.add("closebtn")
   close_button.addEventListener("click", function () { destroyOverlayFrame() })
   close_button.innerHTML = "&times;"
   new_overlayframe.appendChild(close_button)
-  new_overlayframe.appendChild(notification_text)
+  new_overlayframe.appendChild(overlay_text)
   body.appendChild(new_overlayframe)
   return new_overlayframe
 }
@@ -949,6 +957,7 @@ function constructExplanation(title) {
   next_button = document.createElement("div")
   next_button.innerHTML = "Stats"
   next_button.classList.add("puzzle_option")
+  next_button.classList.add("stats_button")
   next_button.style.backgroundColor = "#BBBBBB"
   next_button.addEventListener("click", function () { stats() })
   master_div.appendChild(next_button)

@@ -61,7 +61,18 @@ body{
   backdrop-filter: blur(7px);
   color:white;
   text-align: center;
-  
+  padding-top: 10px;
+  padding-right:10px;
+  padding-left: 10px;
+  padding-bottom:10px;
+}
+.overlay_text{
+  overflow-y:scroll;
+  height: calc(100% - 50px);
+  width:100%;
+  max-width:750px;
+  margin:auto;
+  text-align: left;
 
 }
 #notification{
@@ -162,6 +173,12 @@ body{
 .prev_explanation:hover, .next_explanation:hover {
   background-color: rgba(192,192,192,0.5);
 }
+.dot{
+  height:8vh;
+}
+.explanation_dot{
+  height: 6vh;
+}
 .dot, .explanation_dot {
   cursor: pointer;
   height: 8vh;
@@ -186,7 +203,8 @@ body{
     max-width: 1000px;
     text-align:center; 
     position:relative;
-    top:0vh
+    color:#000;
+    top:10px;
   }
   .guessbar{
     text-align:center; 
@@ -303,6 +321,7 @@ body{
   display:none;
   width:100%;
   height:100%;
+  overflow:scroll;
 }
 .selection_controls{
   top:0vh;
@@ -363,6 +382,10 @@ body{
   margin: auto; 
   position:relative
 }
+#def_panel{
+  height:100%;
+  overflow:scroll;
+}
 .word_indicator{
   bottom:2px;
   position:absolute;
@@ -396,7 +419,7 @@ body{
   top:0vh;
   width:100%;
   max-width:1000px;
-  height:60vh
+  height:55vh
 }
 .explanation_verse_data_item{
   border-radius: 5px;
@@ -425,8 +448,10 @@ a:visited {
   border-width: 2px;
   display:inline-block;
     color:#000000;
-
-
+}
+.stats_button{
+  position:relative;
+  top:5px;
 }
 .puzzle_option_selected{
   background-color: #5aa2f5;

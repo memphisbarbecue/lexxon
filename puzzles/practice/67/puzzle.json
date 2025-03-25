@@ -1,228 +1,204 @@
 {
     "wotd": {
-        "number": 3498,
-        "lemma": "\u03bd\u03b5\u03ba\u03c1\u1f79\u03c2",
-        "xlit": "nekr\u00f3s",
-        "pronunciation": "nek-ros'",
-        "description": " dead (literally or\n figuratively; also as noun)",
-        "kjv_def": "dead.",
-        "pspeech": "Adj-AMP"
+        "number": 3925,
+        "lemma": "\u03c0\u03b1\u03c1\u03b5\u03bc\u03b2\u03bf\u03bb\u1f75",
+        "xlit": "parembol\u1e17",
+        "pronunciation": "par-em-bol-ay'",
+        "kjv_def": "army, camp, castle.",
+        "pspeech": "V-FIA-3P",
+        "description": " a throwing in beside (juxtaposition), i.e. (specially), battle-array, encampment or barracks (tower Antonia)"
     },
     "verses": [
         {
-            "verse_no": 23904,
-            "verse_ref": "Matthew 22:31",
+            "verse_no": 27745,
+            "verse_ref": "Acts 23:10",
             "verse_data": [
                 {
-                    "BSB Version": " But ",
+                    "BSB Version": " - ",
                     "Str Grk": 1161.0,
                     "lemma": "\u03b4\u1f72",
                     "xlit": "de"
                 },
                 {
-                    "BSB Version": " concerning ",
-                    "Str Grk": 4012.0,
-                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
-                    "xlit": "peri"
+                    "BSB Version": " [The] dispute ",
+                    "Str Grk": 4714.0,
+                    "lemma": "\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2",
+                    "xlit": "stase\u014ds"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc6\u03c2",
-                    "xlit": "t\u0113s"
+                    "BSB Version": " grew ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u03b3\u03b9\u03bd\u03bf\u03bc\u03ad\u03bd\u03b7\u03c2",
+                    "xlit": "ginomen\u0113s"
                 },
                 {
-                    "BSB Version": " resurrection ",
-                    "Str Grk": 386.0,
-                    "lemma": "\u1f00\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2",
-                    "xlit": "anastase\u014ds"
+                    "BSB Version": " so violent ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1fc6\u03c2",
+                    "xlit": "poll\u0113s"
                 },
                 {
-                    "BSB Version": " of the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
-                },
-                {
-                    "BSB Version": " dead ",
-                    "Str Grk": 3498.0,
-                    "lemma": "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd",
-                    "xlit": "nekr\u014dn"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3756.0,
-                    "lemma": "\u03bf\u1f50\u03ba",
-                    "xlit": "ouk"
-                },
-                {
-                    "BSB Version": " have you not read ",
-                    "Str Grk": 314.0,
-                    "lemma": "\u1f00\u03bd\u03ad\u03b3\u03bd\u03c9\u03c4\u03b5",
-                    "xlit": "anegn\u014dte"
-                },
-                {
-                    "BSB Version": " what ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78",
-                    "xlit": "to"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 5259.0,
-                    "lemma": "\u1f51\u03c0\u1f78",
-                    "xlit": "hypo"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
-                },
-                {
-                    "BSB Version": " God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
-                    "xlit": "Theou"
-                },
-                {
-                    "BSB Version": " said ",
-                    "Str Grk": 2046.0,
-                    "lemma": "\u1fe5\u03b7\u03b8\u1f72\u03bd",
-                    "xlit": "rh\u0113then"
-                },
-                {
-                    "BSB Version": " to you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
-                    "xlit": "hymin"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3004.0,
-                    "lemma": "\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03bf\u03c2",
-                    "xlit": "legontos"
-                }
-            ],
-            "verse_text": "And concerning the resurrection of the dead, have you not read that which has been spoken to you by God, saying,"
-        },
-        {
-            "verse_no": 28198,
-            "verse_ref": "Romans 10:9",
-            "verse_data": [
-                {
-                    "BSB Version": " that ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " if ",
-                    "Str Grk": 1437.0,
-                    "lemma": "\u1f10\u1f70\u03bd",
-                    "xlit": "ean"
-                },
-                {
-                    "BSB Version": " you confess ",
-                    "Str Grk": 3670.0,
-                    "lemma": "\u1f41\u03bc\u03bf\u03bb\u03bf\u03b3\u03ae\u03c3\u1fc3\u03c2",
-                    "xlit": "homolog\u0113s\u0113s"
-                },
-                {
-                    "BSB Version": " with ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " your ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u03c3\u03bf\u03c5",
-                    "xlit": "sou"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
-                },
-                {
-                    "BSB Version": " mouth ",
-                    "Str Grk": 4750.0,
-                    "lemma": "\u03c3\u03c4\u03cc\u03bc\u03b1\u03c4\u03af",
-                    "xlit": "stomati"
-                },
-                {
-                    "BSB Version": " Jesus ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03bd",
-                    "xlit": "I\u0113soun"
-                },
-                {
-                    "BSB Version": " [is] Lord ",
-                    "Str Grk": 2962.0,
-                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03bd",
-                    "xlit": "Kyrion"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " believe ",
-                    "Str Grk": 4100.0,
-                    "lemma": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c3\u1fc3\u03c2",
-                    "xlit": "pisteus\u0113s"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " your ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u03c3\u03bf\u03c5",
-                    "xlit": "sou"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " heart ",
-                    "Str Grk": 2588.0,
-                    "lemma": "\u03ba\u03b1\u03c1\u03b4\u03af\u1fb3",
-                    "xlit": "kardia"
-                },
-                {
-                    "BSB Version": " that ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " [that] the ",
                     "Str Grk": 3588.0,
                     "lemma": "\u1f41",
                     "xlit": "ho"
                 },
                 {
-                    "BSB Version": " God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u1f78\u03c2",
-                    "xlit": "Theos"
+                    "BSB Version": " commander ",
+                    "Str Grk": 5506.0,
+                    "lemma": "\u03c7\u03b9\u03bb\u03af\u03b1\u03c1\u03c7\u03bf\u03c2",
+                    "xlit": "chiliarchos"
                 },
                 {
-                    "BSB Version": " raised ",
-                    "Str Grk": 1453.0,
-                    "lemma": "\u1f24\u03b3\u03b5\u03b9\u03c1\u03b5\u03bd",
-                    "xlit": "\u0113geiren"
+                    "BSB Version": " was afraid ",
+                    "Str Grk": 5399.0,
+                    "lemma": "\u03c6\u03bf\u03b2\u03b7\u03b8\u03b5\u1f76\u03c2",
+                    "xlit": "phob\u0113theis"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u2019",
+                    "xlit": "hyp\u2019"
+                },
+                {
+                    "BSB Version": " they ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " would tear Paul to pieces ",
+                    "Str Grk": 1288.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03c3\u03c0\u03b1\u03c3\u03b8\u1fc7",
+                    "xlit": "diaspasth\u0113"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3972.0,
+                    "lemma": "\u03a0\u03b1\u1fe6\u03bb\u03bf\u03c2",
+                    "xlit": "Paulos"
+                },
+                {
+                    "BSB Version": " He ordered ",
+                    "Str Grk": 2753.0,
+                    "lemma": "\u1f10\u03ba\u03ad\u03bb\u03b5\u03c5\u03c3\u03b5\u03bd",
+                    "xlit": "ekeleusen"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " soldiers ",
+                    "Str Grk": 4753.0,
+                    "lemma": "\u03c3\u03c4\u03c1\u03ac\u03c4\u03b5\u03c5\u03bc\u03b1",
+                    "xlit": "strateuma"
+                },
+                {
+                    "BSB Version": " to go down ",
+                    "Str Grk": 2597.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03b2\u1f70\u03bd",
+                    "xlit": "kataban"
+                },
+                {
+                    "BSB Version": " [and] remove him by force ",
+                    "Str Grk": 726.0,
+                    "lemma": "\u1f01\u03c1\u03c0\u03ac\u03c3\u03b1\u03b9",
+                    "xlit": "harpasai"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3319.0,
+                    "lemma": "\u03bc\u03ad\u03c3\u03bf\u03c5",
+                    "xlit": "mesou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 5037.0,
+                    "lemma": "\u03c4\u03b5",
+                    "xlit": "te"
+                },
+                {
+                    "BSB Version": " bring [him] ",
+                    "Str Grk": 71.0,
+                    "lemma": "\u1f04\u03b3\u03b5\u03b9\u03bd",
+                    "xlit": "agein"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " barracks ",
+                    "Str Grk": 3925.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b5\u03bc\u03b2\u03bf\u03bb\u03ae\u03bd",
+                    "xlit": "parembol\u0113n"
+                }
+            ],
+            "verse_text": "And great dissension arising, the commander, having feared lest Paul should be torn to pieces by them, commanded the troop, having gone down, to take him by force from their midst and to bring <i>him</i> into the barracks."
+        },
+        {
+            "verse_no": 30255,
+            "verse_ref": "Hebrews 13:13",
+            "verse_data": [
+                {
+                    "BSB Version": " Therefore ",
+                    "Str Grk": 5106.0,
+                    "lemma": "\u03c4\u03bf\u03af\u03bd\u03c5\u03bd",
+                    "xlit": "toinyn"
+                },
+                {
+                    "BSB Version": " let us go ",
+                    "Str Grk": 1831.0,
+                    "lemma": "\u1f10\u03be\u03b5\u03c1\u03c7\u03ce\u03bc\u03b5\u03b8\u03b1",
+                    "xlit": "exerch\u014dmetha"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
                 },
                 {
                     "BSB Version": " Him ",
@@ -231,246 +207,228 @@
                     "xlit": "auton"
                 },
                 {
-                    "BSB Version": " from ",
-                    "Str Grk": 1537.0,
-                    "lemma": "\u1f10\u03ba",
-                    "xlit": "ek"
-                },
-                {
-                    "BSB Version": " [the] dead ",
-                    "Str Grk": 3498.0,
-                    "lemma": "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd",
-                    "xlit": "nekr\u014dn"
-                },
-                {
-                    "BSB Version": " you will be saved ",
-                    "Str Grk": 4982.0,
-                    "lemma": "\u03c3\u03c9\u03b8\u03ae\u03c3\u1fc3",
-                    "xlit": "s\u014dth\u0113s\u0113"
-                }
-            ],
-            "verse_text": "that if you confess with your mouth, \"Jesus <i>is</i> Lord,\" and believe in your heart that God raised Him out from <i>the</i> dead, you will be saved."
-        },
-        {
-            "verse_no": 23946,
-            "verse_ref": "Matthew 23:27",
-            "verse_data": [
-                {
-                    "BSB Version": " Woe ",
-                    "Str Grk": 3759.0,
-                    "lemma": "\u039f\u1f50\u03b1\u1f76",
-                    "xlit": "Ouai"
-                },
-                {
-                    "BSB Version": " to you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
-                    "xlit": "hymin"
-                },
-                {
-                    "BSB Version": " scribes ",
-                    "Str Grk": 1122.0,
-                    "lemma": "\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b5\u1fd6\u03c2",
-                    "xlit": "grammateis"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " Pharisees ",
-                    "Str Grk": 5330.0,
-                    "lemma": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u1fd6\u03bf\u03b9",
-                    "xlit": "Pharisaioi"
-                },
-                {
-                    "BSB Version": " you hypocrites ",
-                    "Str Grk": 5273.0,
-                    "lemma": "\u1f51\u03c0\u03bf\u03ba\u03c1\u03b9\u03c4\u03b1\u03af",
-                    "xlit": "hypokritai"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " You are like ",
-                    "Str Grk": 3945.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03bf\u03bc\u03bf\u03b9\u03ac\u03b6\u03b5\u03c4\u03b5",
-                    "xlit": "paromoiazete"
-                },
-                {
-                    "BSB Version": " whitewashed ",
-                    "Str Grk": 2867.0,
-                    "lemma": "\u03ba\u03b5\u03ba\u03bf\u03bd\u03b9\u03b1\u03bc\u03ad\u03bd\u03bf\u03b9\u03c2",
-                    "xlit": "kekoniamenois"
-                },
-                {
-                    "BSB Version": " tombs ",
-                    "Str Grk": 5028.0,
-                    "lemma": "\u03c4\u03ac\u03c6\u03bf\u03b9\u03c2",
-                    "xlit": "taphois"
-                },
-                {
-                    "BSB Version": " which ",
-                    "Str Grk": 3748.0,
-                    "lemma": "\u03bf\u1f35\u03c4\u03b9\u03bd\u03b5\u03c2",
-                    "xlit": "hoitines"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3303.0,
-                    "lemma": "\u03bc\u1f72\u03bd",
-                    "xlit": "men"
-                },
-                {
-                    "BSB Version": " look ",
-                    "Str Grk": 5316.0,
-                    "lemma": "\u03c6\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9",
-                    "xlit": "phainontai"
-                },
-                {
-                    "BSB Version": " beautiful ",
-                    "Str Grk": 5611.0,
-                    "lemma": "\u1f61\u03c1\u03b1\u1fd6\u03bf\u03b9",
-                    "xlit": "h\u014draioi"
-                },
-                {
-                    "BSB Version": " on the outside ",
-                    "Str Grk": 1855.0,
-                    "lemma": "\u1f14\u03be\u03c9\u03b8\u03b5\u03bd",
-                    "xlit": "ex\u014dthen"
-                },
-                {
-                    "BSB Version": " but ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " on the inside ",
-                    "Str Grk": 2081.0,
-                    "lemma": "\u1f14\u03c3\u03c9\u03b8\u03b5\u03bd",
-                    "xlit": "es\u014dthen"
-                },
-                {
-                    "BSB Version": " are full ",
-                    "Str Grk": 1073.0,
-                    "lemma": "\u03b3\u03ad\u03bc\u03bf\u03c5\u03c3\u03b9\u03bd",
-                    "xlit": "gemousin"
-                },
-                {
-                    "BSB Version": " of dead [men\u2019s] ",
-                    "Str Grk": 3498.0,
-                    "lemma": "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd",
-                    "xlit": "nekr\u014dn"
-                },
-                {
-                    "BSB Version": " bones ",
-                    "Str Grk": 3747.0,
-                    "lemma": "\u1f40\u03c3\u03c4\u03ad\u03c9\u03bd",
-                    "xlit": "oste\u014dn"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " every kind of ",
-                    "Str Grk": 3956.0,
-                    "lemma": "\u03c0\u03ac\u03c3\u03b7\u03c2",
-                    "xlit": "pas\u0113s"
-                },
-                {
-                    "BSB Version": " impurity ",
-                    "Str Grk": 167.0,
-                    "lemma": "\u1f00\u03ba\u03b1\u03b8\u03b1\u03c1\u03c3\u03af\u03b1\u03c2",
-                    "xlit": "akatharsias"
-                }
-            ],
-            "verse_text": "Woe to you, scribes and Pharisees, hypocrites! For you are like tombs having been whitewashed, which indeed outwardly appear beautiful, but inside they are full of bones of <i>the</i> dead, and of all impurity."
-        },
-        {
-            "verse_no": 23600,
-            "verse_ref": "Matthew 14:2",
-            "verse_data": [
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " said ",
-                    "Str Grk": 2036.0,
-                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
-                    "xlit": "eipen"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
-                },
-                {
-                    "BSB Version": " his ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
-                },
-                {
-                    "BSB Version": " servants ",
-                    "Str Grk": 3816.0,
-                    "lemma": "\u03c0\u03b1\u03b9\u03c3\u1f76\u03bd",
-                    "xlit": "paisin"
-                },
-                {
-                    "BSB Version": " This ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u039f\u1f57\u03c4\u03cc\u03c2",
-                    "xlit": "Houtos"
-                },
-                {
-                    "BSB Version": " is ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
-                    "xlit": "estin"
-                },
-                {
-                    "BSB Version": " John ",
-                    "Str Grk": 2491.0,
-                    "lemma": "\u1f38\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2",
-                    "xlit": "I\u014dann\u0113s"
+                    "BSB Version": " outside ",
+                    "Str Grk": 1854.0,
+                    "lemma": "\u1f14\u03be\u03c9",
+                    "xlit": "ex\u014d"
                 },
                 {
                     "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
                 },
                 {
-                    "BSB Version": " Baptist ",
-                    "Str Grk": 910.0,
-                    "lemma": "\u0392\u03b1\u03c0\u03c4\u03b9\u03c3\u03c4\u03ae\u03c2",
-                    "xlit": "Baptist\u0113s"
+                    "BSB Version": " camp ",
+                    "Str Grk": 3925.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b5\u03bc\u03b2\u03bf\u03bb\u1fc6\u03c2",
+                    "xlit": "parembol\u0113s"
                 },
                 {
-                    "BSB Version": " he ",
+                    "BSB Version": " bearing ",
+                    "Str Grk": 5342.0,
+                    "lemma": "\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "pherontes"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " disgrace ",
+                    "Str Grk": 3680.0,
+                    "lemma": "\u1f40\u03bd\u03b5\u03b9\u03b4\u03b9\u03c3\u03bc\u1f78\u03bd",
+                    "xlit": "oneidismon"
+                },
+                {
+                    "BSB Version": " He [bore] ",
                     "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03c2",
-                    "xlit": "autos"
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                }
+            ],
+            "verse_text": "Therefore we should go forth to Him outside the camp, bearing His reproach."
+        },
+        {
+            "verse_no": 30253,
+            "verse_ref": "Hebrews 13:11",
+            "verse_data": [
+                {
+                    "BSB Version": " [Although] ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
                 },
                 {
-                    "BSB Version": " has risen ",
-                    "Str Grk": 1453.0,
-                    "lemma": "\u1f20\u03b3\u03ad\u03c1\u03b8\u03b7",
-                    "xlit": "\u0113gerth\u0113"
+                    "BSB Version": " - ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " high priest ",
+                    "Str Grk": 749.0,
+                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03ad\u03c9\u03c2",
+                    "xlit": "archiere\u014ds"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f6f\u03bd",
+                    "xlit": "H\u014dn"
+                },
+                {
+                    "BSB Version": " brings ",
+                    "Str Grk": 1533.0,
+                    "lemma": "\u03b5\u1f30\u03c3\u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "eispheretai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " blood ",
+                    "Str Grk": 129.0,
+                    "lemma": "\u03b1\u1f37\u03bc\u03b1",
+                    "xlit": "haima"
+                },
+                {
+                    "BSB Version": " of animals ",
+                    "Str Grk": 2226.0,
+                    "lemma": "\u03b6\u1ff4\u03c9\u03bd",
+                    "xlit": "z\u014d\u014dn"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " Holy Place ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f05\u03b3\u03b9\u03b1",
+                    "xlit": "hagia"
+                },
+                {
+                    "BSB Version": " [as a sacrifice] for ",
+                    "Str Grk": 4012.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
+                    "xlit": "peri"
+                },
+                {
+                    "BSB Version": " sin ",
+                    "Str Grk": 266.0,
+                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03af\u03b1\u03c2",
+                    "xlit": "hamartias"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03c9\u03bd",
+                    "xlit": "tout\u014dn"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " bodies ",
+                    "Str Grk": 4983.0,
+                    "lemma": "\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "s\u014dmata"
+                },
+                {
+                    "BSB Version": " are burned ",
+                    "Str Grk": 2618.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03ba\u03b1\u03af\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "katakaietai"
+                },
+                {
+                    "BSB Version": " outside ",
+                    "Str Grk": 1854.0,
+                    "lemma": "\u1f14\u03be\u03c9",
+                    "xlit": "ex\u014d"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " camp ",
+                    "Str Grk": 3925.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b5\u03bc\u03b2\u03bf\u03bb\u1fc6\u03c2",
+                    "xlit": "parembol\u0113s"
+                }
+            ],
+            "verse_text": "For the bodies of those animals whose blood is brought for sin into the holy places by the high priest are burned outside the camp."
+        },
+        {
+            "verse_no": 30207,
+            "verse_ref": "Hebrews 11:34",
+            "verse_data": [
+                {
+                    "BSB Version": " quenched ",
+                    "Str Grk": 4570.0,
+                    "lemma": "\u1f14\u03c3\u03b2\u03b5\u03c3\u03b1\u03bd",
+                    "xlit": "esbesan"
+                },
+                {
+                    "BSB Version": " [the] raging ",
+                    "Str Grk": 1411.0,
+                    "lemma": "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b9\u03bd",
+                    "xlit": "dynamin"
+                },
+                {
+                    "BSB Version": " fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u03cc\u03c2",
+                    "xlit": "pyros"
+                },
+                {
+                    "BSB Version": " [and] escaped ",
+                    "Str Grk": 5343.0,
+                    "lemma": "\u1f14\u03c6\u03c5\u03b3\u03bf\u03bd",
+                    "xlit": "ephygon"
+                },
+                {
+                    "BSB Version": " [the] edge ",
+                    "Str Grk": 4750.0,
+                    "lemma": "\u03c3\u03c4\u03cc\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "stomata"
+                },
+                {
+                    "BSB Version": " of [the] sword ",
+                    "Str Grk": 3162.0,
+                    "lemma": "\u03bc\u03b1\u03c7\u03b1\u03af\u03c1\u03b7\u03c2",
+                    "xlit": "machair\u0113s"
+                },
+                {
+                    "BSB Version": " [who] gained strength ",
+                    "Str Grk": 1412.0,
+                    "lemma": "\u1f10\u03b4\u03c5\u03bd\u03b1\u03bc\u03ce\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "edynam\u014dth\u0113san"
                 },
                 {
                     "BSB Version": " from ",
@@ -479,52 +437,22 @@
                     "xlit": "apo"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
+                    "BSB Version": " weakness ",
+                    "Str Grk": 769.0,
+                    "lemma": "\u1f00\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03b1\u03c2",
+                    "xlit": "astheneias"
                 },
                 {
-                    "BSB Version": " dead ",
-                    "Str Grk": 3498.0,
-                    "lemma": "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd",
-                    "xlit": "nekr\u014dn"
+                    "BSB Version": " became ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u1f10\u03b3\u03b5\u03bd\u03ae\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "egen\u0113th\u0113san"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " That ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
-                    "xlit": "touto"
-                },
-                {
-                    "BSB Version": " is why ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03b1\u1f31",
-                    "xlit": "hai"
-                },
-                {
-                    "BSB Version": " miraculous powers ",
-                    "Str Grk": 1411.0,
-                    "lemma": "\u03b4\u03c5\u03bd\u03ac\u03bc\u03b5\u03b9\u03c2",
-                    "xlit": "dynameis"
-                },
-                {
-                    "BSB Version": " are at work ",
-                    "Str Grk": 1754.0,
-                    "lemma": "\u1f10\u03bd\u03b5\u03c1\u03b3\u03bf\u1fe6\u03c3\u03b9\u03bd",
-                    "xlit": "energousin"
+                    "BSB Version": " mighty ",
+                    "Str Grk": 2478.0,
+                    "lemma": "\u1f30\u03c3\u03c7\u03c5\u03c1\u03bf\u1f76",
+                    "xlit": "ischyroi"
                 },
                 {
                     "BSB Version": " in ",
@@ -533,51 +461,69 @@
                     "xlit": "en"
                 },
                 {
-                    "BSB Version": " him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
-                    "xlit": "aut\u014d"
+                    "BSB Version": " battle ",
+                    "Str Grk": 4171.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03ad\u03bc\u1ff3",
+                    "xlit": "polem\u014d"
+                },
+                {
+                    "BSB Version": " [and] put ",
+                    "Str Grk": 2827.0,
+                    "lemma": "\u1f14\u03ba\u03bb\u03b9\u03bd\u03b1\u03bd",
+                    "xlit": "eklinan"
+                },
+                {
+                    "BSB Version": " foreign ",
+                    "Str Grk": 245.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u03bf\u03c4\u03c1\u03af\u03c9\u03bd",
+                    "xlit": "allotri\u014dn"
+                },
+                {
+                    "BSB Version": " armies {to flight} ",
+                    "Str Grk": 3925.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b5\u03bc\u03b2\u03bf\u03bb\u1f70\u03c2",
+                    "xlit": "parembolas"
                 }
             ],
-            "verse_text": "and he said to his servants, \"This is John the Baptist; he is risen from the dead, and because of this, the miraculous powers are working in him.\""
+            "verse_text": "quenched <i>the</i> power of fire, escaped <i>the</i> mouths of <i>the</i> sword; acquired strength out of weakness, became mighty in war, put to flight foreign armies."
         }
     ],
     "other_words": [
         {
-            "number": 3756,
-            "lemma": "\u03bf\u1f50\u03c7",
-            "xlit": "ouch",
-            "pronunciation": "ookh",
-            "description": " the absolute negative (compare ",
-            "kjv_def": "+ long, nay, neither, never, no (X man), none, (can-)not, +\n nothing, + special, un(-worthy), when, + without, + yet but.",
-            "pspeech": "Adv"
+            "number": 3972,
+            "lemma": "\u03a0\u03b1\u1fe6\u03bb\u03bf\u03c2",
+            "xlit": "Pa\u00fblos",
+            "pronunciation": "pow'-los",
+            "kjv_def": "Paul, Paulus.",
+            "pspeech": "N-DMS",
+            "description": " (little; but remotely from a derivative of \u03c0\u03b1\u1f7b\u03c9(pa\u00fa\u014d), meaning the same); Paulus, the name of a Roman and of an apostle"
         },
         {
-            "number": 4982,
-            "lemma": "\u03c3\u1f7d\u03b6\u03c9",
-            "xlit": "s\u1e53z\u014d",
-            "pronunciation": "sode'-zo",
-            "description": " to save,\n i.e. deliver or protect (literally or figuratively)",
-            "kjv_def": "heal, preserve,\n save (self), do well, be (make) whole.",
-            "pspeech": "V-FIA-3S"
+            "number": 5342,
+            "lemma": "\u03c6\u1f73\u03c1\u03c9",
+            "xlit": "ph\u00e9r\u014d",
+            "pronunciation": "fer'-o",
+            "kjv_def": "be, bear, bring (forth), carry, come, +\n let her drive, be driven, endure, go on, lay, lead, move, reach,\n rushing, uphold.",
+            "pspeech": "V-AIP-3S",
+            "description": " to \"bear\" or carry (in a very wide application, literally and figuratively, as follows)"
         },
         {
-            "number": 5330,
-            "lemma": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u1fd6\u03bf\u03c2",
-            "xlit": "Pharisa\u00eeos",
-            "pronunciation": "far-is-ah'-yos",
-            "description": " a separatist, i.e. exclusively\n religious; a Pharisean, i.e. Jewish sectary",
-            "kjv_def": "Pharisee.",
-            "pspeech": "N-GMP"
+            "number": 4983,
+            "lemma": "\u03c3\u1ff6\u03bc\u03b1",
+            "xlit": "s\u014dma",
+            "pronunciation": "so'-mah",
+            "kjv_def": "bodily, body, slave.",
+            "pspeech": "N-NNS",
+            "description": " the body (as a sound whole), used in a very wide application, literally or figuratively"
         },
         {
-            "number": 3816,
-            "lemma": "\u03c0\u03b1\u1fd6\u03c2",
-            "xlit": "pa\u00ees",
-            "pronunciation": "paheece",
-            "description": " a boy (as often beaten with impunity), or (by\n analogy), a girl, and (genitive case) a child; specially, a slave or\n servant (especially a minister to a king; and by eminence to\n God)",
-            "kjv_def": "child, maid(-en), (man) servant, son, young man.",
-            "pspeech": "N-AMP"
+            "number": 3162,
+            "lemma": "\u03bc\u1f71\u03c7\u03b1\u03b9\u03c1\u03b1",
+            "xlit": "m\u00e1chaira",
+            "pronunciation": "makh'-ahee-rah",
+            "kjv_def": "sword.",
+            "pspeech": "N-AFS",
+            "description": " a knife, i.e. dirk; figuratively, war, judicial punishment"
         }
     ]
 }

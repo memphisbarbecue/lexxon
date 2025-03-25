@@ -1,54 +1,18 @@
 {
     "wotd": {
-        "number": 1125,
-        "lemma": "\u03b3\u03c1\u1f71\u03c6\u03c9",
-        "xlit": "gr\u00e1ph\u014d",
-        "pronunciation": "graf'-o",
-        "description": " to \"grave\", especially to write; figuratively, to\n describe",
-        "kjv_def": "describe, write(-ing, -ten).",
-        "pspeech": "V-RIM/P-3S"
+        "number": 4222,
+        "lemma": "\u03c0\u03bf\u03c4\u1f77\u03b6\u03c9",
+        "xlit": "pot\u00edz\u014d",
+        "pronunciation": "pot-id'-zo",
+        "kjv_def": "give (make) to drink, feed, water.",
+        "pspeech": "V-ASA-3S",
+        "description": " to furnish drink, irrigate"
     },
     "verses": [
         {
-            "verse_no": 30391,
-            "verse_ref": "1 Peter 1:16",
+            "verse_no": 28417,
+            "verse_ref": "1 Corinthians 3:6",
             "verse_data": [
-                {
-                    "BSB Version": " for ",
-                    "Str Grk": 1360.0,
-                    "lemma": "\u03b4\u03b9\u03cc\u03c4\u03b9",
-                    "xlit": "dioti"
-                },
-                {
-                    "BSB Version": " it is written ",
-                    "Str Grk": 1125.0,
-                    "lemma": "\u03b3\u03ad\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9",
-                    "xlit": "gegraptai"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " Be ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f14\u03c3\u03b5\u03c3\u03b8\u03b5",
-                    "xlit": "esesthe"
-                },
-                {
-                    "BSB Version": " holy ",
-                    "Str Grk": 40.0,
-                    "lemma": "\u1f0d\u03b3\u03b9\u03bf\u03b9",
-                    "xlit": "Hagioi"
-                },
-                {
-                    "BSB Version": " because ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
                 {
                     "BSB Version": " I ",
                     "Str Grk": 1473.0,
@@ -56,228 +20,420 @@
                     "xlit": "eg\u014d"
                 },
                 {
-                    "BSB Version": " am ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u03b5\u1f30\u03bc\u03b9",
-                    "xlit": "eimi"
+                    "BSB Version": " planted [the seed] ",
+                    "Str Grk": 5452.0,
+                    "lemma": "\u1f10\u03c6\u03cd\u03c4\u03b5\u03c5\u03c3\u03b1",
+                    "xlit": "ephyteusa"
                 },
                 {
-                    "BSB Version": " holy ",
-                    "Str Grk": 40.0,
-                    "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
-                    "xlit": "hagios"
-                }
-            ],
-            "verse_text": "because it has been written: \"You shall be holy, because I am holy.\""
-        },
-        {
-            "verse_no": 28464,
-            "verse_ref": "1 Corinthians 5:9",
-            "verse_data": [
-                {
-                    "BSB Version": " I wrote ",
-                    "Str Grk": 1125.0,
-                    "lemma": "\u1f1c\u03b3\u03c1\u03b1\u03c8\u03b1",
-                    "xlit": "Egrapsa"
+                    "BSB Version": " [and] Apollos ",
+                    "Str Grk": 625.0,
+                    "lemma": "\u1f08\u03c0\u03bf\u03bb\u03bb\u1ff6\u03c2",
+                    "xlit": "Apoll\u014ds"
                 },
                 {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
-                    "xlit": "hymin"
+                    "BSB Version": " watered [it] ",
+                    "Str Grk": 4222.0,
+                    "lemma": "\u1f10\u03c0\u03cc\u03c4\u03b9\u03c3\u03b5\u03bd",
+                    "xlit": "epotisen"
                 },
                 {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " [my] ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " letter ",
-                    "Str Grk": 1992.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03c3\u03c4\u03bf\u03bb\u1fc7",
-                    "xlit": "epistol\u0113"
-                },
-                {
-                    "BSB Version": " not ",
-                    "Str Grk": 3361.0,
-                    "lemma": "\u03bc\u1f74",
-                    "xlit": "m\u0113"
-                },
-                {
-                    "BSB Version": " to associate with ",
-                    "Str Grk": 4874.0,
-                    "lemma": "\u03c3\u03c5\u03bd\u03b1\u03bd\u03b1\u03bc\u03af\u03b3\u03bd\u03c5\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "synanamignysthai"
-                },
-                {
-                    "BSB Version": " sexually immoral [people] ",
-                    "Str Grk": 4205.0,
-                    "lemma": "\u03c0\u03cc\u03c1\u03bd\u03bf\u03b9\u03c2",
-                    "xlit": "pornois"
-                }
-            ],
-            "verse_text": "I wrote to you in the letter not to associate with the sexually immoral,"
-        },
-        {
-            "verse_no": 28002,
-            "verse_ref": "Romans 3:10",
-            "verse_data": [
-                {
-                    "BSB Version": " As ",
-                    "Str Grk": 2531.0,
-                    "lemma": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
-                    "xlit": "kath\u014ds"
-                },
-                {
-                    "BSB Version": " it is written ",
-                    "Str Grk": 1125.0,
-                    "lemma": "\u03b3\u03ad\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9",
-                    "xlit": "gegraptai"
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " There is ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f14\u03c3\u03c4\u03b9\u03bd",
-                    "xlit": "estin"
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
                 },
                 {
-                    "BSB Version": " no one ",
+                    "BSB Version": " made [ it ] grow ",
+                    "Str Grk": 837.0,
+                    "lemma": "\u03b7\u1f54\u03be\u03b1\u03bd\u03b5\u03bd",
+                    "xlit": "\u0113uxanen"
+                }
+            ],
+            "verse_text": "I planted, Apollos watered, but God kept <i>it</i> growing."
+        },
+        {
+            "verse_no": 28266,
+            "verse_ref": "Romans 12:20",
+            "verse_data": [
+                {
+                    "BSB Version": " On the contrary ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f08\u03bb\u03bb\u1f70",
+                    "xlit": "Alla"
+                },
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f18\u1f70\u03bd",
+                    "xlit": "Ean"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " enemy ",
+                    "Str Grk": 2190.0,
+                    "lemma": "\u1f10\u03c7\u03b8\u03c1\u03cc\u03c2",
+                    "xlit": "echthros"
+                },
+                {
+                    "BSB Version": " is hungry ",
+                    "Str Grk": 3983.0,
+                    "lemma": "\u03c0\u03b5\u03b9\u03bd\u1fb7",
+                    "xlit": "peina"
+                },
+                {
+                    "BSB Version": " feed ",
+                    "Str Grk": 5595.0,
+                    "lemma": "\u03c8\u03ce\u03bc\u03b9\u03b6\u03b5",
+                    "xlit": "ps\u014dmize"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " he is thirsty ",
+                    "Str Grk": 1372.0,
+                    "lemma": "\u03b4\u03b9\u03c8\u1fb7",
+                    "xlit": "dipsa"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " give him a drink ",
+                    "Str Grk": 4222.0,
+                    "lemma": "\u03c0\u03cc\u03c4\u03b9\u03b6\u03b5",
+                    "xlit": "potize"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " in so doing ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u1ff6\u03bd",
+                    "xlit": "poi\u014dn"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " you will heap ",
+                    "Str Grk": 4987.0,
+                    "lemma": "\u03c3\u03c9\u03c1\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2",
+                    "xlit": "s\u014dreuseis"
+                },
+                {
+                    "BSB Version": " burning ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u1f78\u03c2",
+                    "xlit": "pyros"
+                },
+                {
+                    "BSB Version": " coals ",
+                    "Str Grk": 440.0,
+                    "lemma": "\u1f04\u03bd\u03b8\u03c1\u03b1\u03ba\u03b1\u03c2",
+                    "xlit": "anthrakas"
+                },
+                {
+                    "BSB Version": " on ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " head ",
+                    "Str Grk": 2776.0,
+                    "lemma": "\u03ba\u03b5\u03c6\u03b1\u03bb\u1f74\u03bd",
+                    "xlit": "kephal\u0113n"
+                }
+            ],
+            "verse_text": "On the contrary, \"If your enemy should hunger, feed him; if he should thirst, give him to drink; for doing this, you will heap coals of fire upon his head.\""
+        },
+        {
+            "verse_no": 24178,
+            "verse_ref": "Matthew 27:48",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " One ",
+                    "Str Grk": 1520.0,
+                    "lemma": "\u03b5\u1f37\u03c2",
+                    "xlit": "heis"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03be",
+                    "xlit": "ex"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " quickly ",
+                    "Str Grk": 2112.0,
+                    "lemma": "\u03b5\u1f50\u03b8\u03ad\u03c9\u03c2",
+                    "xlit": "euthe\u014ds"
+                },
+                {
+                    "BSB Version": " ran ",
+                    "Str Grk": 5143.0,
+                    "lemma": "\u03b4\u03c1\u03b1\u03bc\u1f7c\u03bd",
+                    "xlit": "dram\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " brought ",
+                    "Str Grk": 2983.0,
+                    "lemma": "\u03bb\u03b1\u03b2\u1f7c\u03bd",
+                    "xlit": "lab\u014dn"
+                },
+                {
+                    "BSB Version": " a sponge ",
+                    "Str Grk": 4699.0,
+                    "lemma": "\u03c3\u03c0\u03cc\u03b3\u03b3\u03bf\u03bd",
+                    "xlit": "spongon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 5037.0,
+                    "lemma": "\u03c4\u03b5",
+                    "xlit": "te"
+                },
+                {
+                    "BSB Version": " He filled [it] ",
+                    "Str Grk": 4130.0,
+                    "lemma": "\u03c0\u03bb\u03ae\u03c3\u03b1\u03c2",
+                    "xlit": "pl\u0113sas"
+                },
+                {
+                    "BSB Version": " with sour wine ",
+                    "Str Grk": 3690.0,
+                    "lemma": "\u1f44\u03be\u03bf\u03c5\u03c2",
+                    "xlit": "oxous"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " put [it] on ",
+                    "Str Grk": 4060.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03b8\u03b5\u1f76\u03c2",
+                    "xlit": "peritheis"
+                },
+                {
+                    "BSB Version": " a reed ",
+                    "Str Grk": 2563.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u03ac\u03bc\u1ff3",
+                    "xlit": "kalam\u014d"
+                },
+                {
+                    "BSB Version": " and held it up for [Jesus] to drink ",
+                    "Str Grk": 4222.0,
+                    "lemma": "\u1f10\u03c0\u03cc\u03c4\u03b9\u03b6\u03b5\u03bd",
+                    "xlit": "epotizen"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
+                    "xlit": "auton"
+                }
+            ],
+            "verse_text": "And immediately one of them, having run and having taken a sponge, and having filled <i>it</i> with vinegar and having put <i>it</i> on a reed, gave Him to drink."
+        },
+        {
+            "verse_no": 28413,
+            "verse_ref": "1 Corinthians 3:2",
+            "verse_data": [
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " I gave you ",
+                    "Str Grk": 4222.0,
+                    "lemma": "\u1f10\u03c0\u03cc\u03c4\u03b9\u03c3\u03b1",
+                    "xlit": "epotisa"
+                },
+                {
+                    "BSB Version": " milk ",
+                    "Str Grk": 1051.0,
+                    "lemma": "\u03b3\u03ac\u03bb\u03b1",
+                    "xlit": "gala"
+                },
+                {
+                    "BSB Version": " not ",
                     "Str Grk": 3756.0,
-                    "lemma": "\u039f\u1f50\u03ba",
-                    "xlit": "Ouk"
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
                 },
                 {
-                    "BSB Version": " righteous ",
-                    "Str Grk": 1342.0,
-                    "lemma": "\u03b4\u03af\u03ba\u03b1\u03b9\u03bf\u03c2",
-                    "xlit": "dikaios"
+                    "BSB Version": " solid food ",
+                    "Str Grk": 1033.0,
+                    "lemma": "\u03b2\u03c1\u1ff6\u03bc\u03b1",
+                    "xlit": "br\u014dma"
                 },
                 {
-                    "BSB Version": " not even ",
+                    "BSB Version": " for ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3768.0,
+                    "lemma": "\u03bf\u1f54\u03c0\u03c9",
+                    "xlit": "oup\u014d"
+                },
+                {
+                    "BSB Version": " you were not yet ready [for solid food] ",
+                    "Str Grk": 1410.0,
+                    "lemma": "\u1f10\u03b4\u03cd\u03bd\u03b1\u03c3\u03b8\u03b5",
+                    "xlit": "edynasthe"
+                },
+                {
+                    "BSB Version": " In fact ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f08\u03bb\u03bb\u2019",
+                    "xlit": "All\u2019"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3568.0,
+                    "lemma": "\u03bd\u1fe6\u03bd",
+                    "xlit": "nyn"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2089.0,
+                    "lemma": "\u1f14\u03c4\u03b9",
+                    "xlit": "eti"
+                },
+                {
+                    "BSB Version": " vvv ",
                     "Str Grk": 3761.0,
                     "lemma": "\u03bf\u1f50\u03b4\u1f72",
                     "xlit": "oude"
                 },
                 {
-                    "BSB Version": " one ",
-                    "Str Grk": 1520.0,
-                    "lemma": "\u03b5\u1f37\u03c2",
-                    "xlit": "heis"
+                    "BSB Version": " you are still not ready ",
+                    "Str Grk": 1410.0,
+                    "lemma": "\u03b4\u03cd\u03bd\u03b1\u03c3\u03b8\u03b5",
+                    "xlit": "dynasthe"
                 }
             ],
-            "verse_text": "As it has been written: \"There is none righteous, not even one;"
-        },
-        {
-            "verse_no": 28169,
-            "verse_ref": "Romans 9:13",
-            "verse_data": [
-                {
-                    "BSB Version": " So ",
-                    "Str Grk": 2531.0,
-                    "lemma": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
-                    "xlit": "kath\u014ds"
-                },
-                {
-                    "BSB Version": " it is written ",
-                    "Str Grk": 1125.0,
-                    "lemma": "\u03b3\u03ad\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9",
-                    "xlit": "gegraptai"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03a4\u1f78\u03bd",
-                    "xlit": "Ton"
-                },
-                {
-                    "BSB Version": " Jacob ",
-                    "Str Grk": 2384.0,
-                    "lemma": "\u1f38\u03b1\u03ba\u1f7c\u03b2",
-                    "xlit": "Iak\u014db"
-                },
-                {
-                    "BSB Version": " I loved ",
-                    "Str Grk": 25.0,
-                    "lemma": "\u1f20\u03b3\u03ac\u03c0\u03b7\u03c3\u03b1",
-                    "xlit": "\u0113gap\u0113sa"
-                },
-                {
-                    "BSB Version": " but ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " Esau ",
-                    "Str Grk": 2269.0,
-                    "lemma": "\u1f28\u03c3\u03b1\u1fe6",
-                    "xlit": "\u0112sau"
-                },
-                {
-                    "BSB Version": " I hated ",
-                    "Str Grk": 3404.0,
-                    "lemma": "\u1f10\u03bc\u03af\u03c3\u03b7\u03c3\u03b1",
-                    "xlit": "emis\u0113sa"
-                }
-            ],
-            "verse_text": "As it has been written: \"Jacob I loved, but Esau I hated.\""
+            "verse_text": "I gave you milk to drink, not solid food, for not yet were you able. In fact, now you are still not able,"
         }
     ],
     "other_words": [
         {
-            "number": 40,
-            "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
-            "xlit": "h\u00e1gios",
-            "pronunciation": "hag'-ee-os",
-            "description": " sacred (physically,\n pure, morally blameless or religious, ceremonially,\n consecrated)",
-            "kjv_def": "(most) holy (one, thing), saint.",
-            "pspeech": "Adj-GNS"
+            "number": 625,
+            "lemma": "\u1f08\u03c0\u03bf\u03bb\u03bb\u1ff6\u03c2",
+            "xlit": "Apoll\u014ds",
+            "pronunciation": "ap-ol-loce'",
+            "kjv_def": "Apollos.",
+            "pspeech": "N-NMS",
+            "description": " Apollos, an Israelite"
         },
         {
-            "number": 1992,
-            "lemma": "\u1f10\u03c0\u03b9\u03c3\u03c4\u03bf\u03bb\u1f75",
-            "xlit": "epistol\u1e17",
-            "pronunciation": "ep-is-tol-ay'",
-            "description": " a written message",
-            "kjv_def": "\"epistle,\" letter.",
-            "pspeech": "N-AFP"
+            "number": 2190,
+            "lemma": "\u1f10\u03c7\u03b8\u03c1\u1f79\u03c2",
+            "xlit": "echthr\u00f3s",
+            "pronunciation": "ech-thros'",
+            "kjv_def": "enemy, foe.",
+            "pspeech": "Adj-AMS",
+            "description": " hateful (passively, odious, or actively, hostile); usually as a noun, an adversary (especially Satan)"
         },
         {
-            "number": 1520,
-            "lemma": "\u1f15\u03bd",
-            "xlit": "h\u00e9n",
-            "pronunciation": "hice",
-            "description": " one",
-            "kjv_def": "a(-n, -ny,\n certain), + abundantly, man, one (another), only, other, some.",
-            "pspeech": "Adj-NNS"
+            "number": 2563,
+            "lemma": "\u03ba\u1f71\u03bb\u03b1\u03bc\u03bf\u03c2",
+            "xlit": "k\u00e1lamos",
+            "pronunciation": "kal'-am-os",
+            "kjv_def": "pen, reed.",
+            "pspeech": "N-AMS",
+            "description": " a reed (the plant or its stem, or that of a similar plant); by implication, a pen"
         },
         {
-            "number": 2384,
-            "lemma": "\u1f38\u03b1\u03ba\u1f7d\u03b2",
-            "xlit": "Iak\u1e53b",
-            "pronunciation": "ee-ak-obe'",
-            "description": " Jacob (i.e. Ja`akob), the progenitor of the\n Israelites",
-            "kjv_def": "also an IsraeliteJacob.",
-            "pspeech": "N-AMS"
+            "number": 3768,
+            "lemma": "\u03bf\u1f54\u03c0\u03c9",
+            "xlit": "o\u00fap\u014d",
+            "pronunciation": "oo'-po",
+            "kjv_def": "hitherto not, (no\u2026) as yet, not yet.",
+            "pspeech": "Adv",
+            "description": " not yet"
         }
     ]
 }

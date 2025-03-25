@@ -1,0 +1,601 @@
+{
+    "wotd": {
+        "number": 979,
+        "lemma": "\u03b2\u1f77\u03bf\u03c2",
+        "xlit": "b\u00edos",
+        "pronunciation": "bee'-os",
+        "kjv_def": "good, life, living.",
+        "pspeech": "N-AMS",
+        "description": " life, i.e. (literally) the present state of existence; by implication, the means of livelihood"
+    },
+    "verses": [
+        {
+            "verse_no": 25260,
+            "verse_ref": "Luke 8:14",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " The [ seeds that ] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03a4\u1f78",
+                    "xlit": "To"
+                },
+                {
+                    "BSB Version": " fell ",
+                    "Str Grk": 4098.0,
+                    "lemma": "\u03c0\u03b5\u03c3\u03cc\u03bd",
+                    "xlit": "peson"
+                },
+                {
+                    "BSB Version": " among ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " thorns ",
+                    "Str Grk": 173.0,
+                    "lemma": "\u1f00\u03ba\u03ac\u03bd\u03b8\u03b1\u03c2",
+                    "xlit": "akanthas"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03bf\u1f57\u03c4\u03bf\u03af",
+                    "xlit": "houtoi"
+                },
+                {
+                    "BSB Version": " are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f30\u03c3\u03b9\u03bd",
+                    "xlit": "eisin"
+                },
+                {
+                    "BSB Version": " those who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " hear ",
+                    "Str Grk": 191.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03cd\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "akousantes"
+                },
+                {
+                    "BSB Version": " [but] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " as they go on their way ",
+                    "Str Grk": 4198.0,
+                    "lemma": "\u03c0\u03bf\u03c1\u03b5\u03c5\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "poreuomenoi"
+                },
+                {
+                    "BSB Version": " they are choked ",
+                    "Str Grk": 4846.0,
+                    "lemma": "\u03c3\u03c5\u03bc\u03c0\u03bd\u03af\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "sympnigontai"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u1f78",
+                    "xlit": "hypo"
+                },
+                {
+                    "BSB Version": " [the] worries ",
+                    "Str Grk": 3308.0,
+                    "lemma": "\u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u1ff6\u03bd",
+                    "xlit": "merimn\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " riches ",
+                    "Str Grk": 4149.0,
+                    "lemma": "\u03c0\u03bb\u03bf\u03cd\u03c4\u03bf\u03c5",
+                    "xlit": "ploutou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " pleasures ",
+                    "Str Grk": 2237.0,
+                    "lemma": "\u1f21\u03b4\u03bf\u03bd\u1ff6\u03bd",
+                    "xlit": "h\u0113don\u014dn"
+                },
+                {
+                    "BSB Version": " of [this] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " life ",
+                    "Str Grk": 979.0,
+                    "lemma": "\u03b2\u03af\u03bf\u03c5",
+                    "xlit": "biou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " their fruit does not mature ",
+                    "Str Grk": 5052.0,
+                    "lemma": "\u03c4\u03b5\u03bb\u03b5\u03c3\u03c6\u03bf\u03c1\u03bf\u1fe6\u03c3\u03b9\u03bd",
+                    "xlit": "telesphorousin"
+                }
+            ],
+            "verse_text": "And that having fallen into the thorns, these are those having heard, and moving along are choked under <i>the</i> cares and riches and pleasures of life, and do not mature."
+        },
+        {
+            "verse_no": 24718,
+            "verse_ref": "Mark 12:44",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " they all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "pantes"
+                },
+                {
+                    "BSB Version": " contributed ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f14\u03b2\u03b1\u03bb\u03bf\u03bd",
+                    "xlit": "ebalon"
+                },
+                {
+                    "BSB Version": " out of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " surplus ",
+                    "Str Grk": 4052.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03cd\u03bf\u03bd\u03c4\u03bf\u03c2",
+                    "xlit": "perisseuontos"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " she ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03b1\u1f55\u03c4\u03b7",
+                    "xlit": "haut\u0113"
+                },
+                {
+                    "BSB Version": " out of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " her ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1fc6\u03c2",
+                    "xlit": "aut\u0113s"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " poverty ",
+                    "Str Grk": 5304.0,
+                    "lemma": "\u1f51\u03c3\u03c4\u03b5\u03c1\u03ae\u03c3\u03b5\u03c9\u03c2",
+                    "xlit": "hyster\u0113se\u014ds"
+                },
+                {
+                    "BSB Version": " has put [in] ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f14\u03b2\u03b1\u03bb\u03b5\u03bd",
+                    "xlit": "ebalen"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "panta"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3745.0,
+                    "lemma": "\u1f45\u03c3\u03b1",
+                    "xlit": "hosa"
+                },
+                {
+                    "BSB Version": " she had ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u03b5\u1f36\u03c7\u03b5\u03bd",
+                    "xlit": "eichen"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1fc6\u03c2",
+                    "xlit": "aut\u0113s"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3650.0,
+                    "lemma": "\u1f45\u03bb\u03bf\u03bd",
+                    "xlit": "holon"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " to live on ",
+                    "Str Grk": 979.0,
+                    "lemma": "\u03b2\u03af\u03bf\u03bd",
+                    "xlit": "bion"
+                }
+            ],
+            "verse_text": "For all cast <i>in</i> out of that which was abounding to them, but she out of her poverty cast <i>in</i> all, as much as she had of her whole livelihood.\""
+        },
+        {
+            "verse_no": 25831,
+            "verse_ref": "Luke 21:4",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " they all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "pantes"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03bf\u1f57\u03c4\u03bf\u03b9",
+                    "xlit": "houtoi"
+                },
+                {
+                    "BSB Version": " contributed ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f14\u03b2\u03b1\u03bb\u03bf\u03bd",
+                    "xlit": "ebalon"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1435.0,
+                    "lemma": "\u03b4\u1ff6\u03c1\u03b1",
+                    "xlit": "d\u014dra"
+                },
+                {
+                    "BSB Version": " out of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " surplus ",
+                    "Str Grk": 4052.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03cd\u03bf\u03bd\u03c4\u03bf\u03c2",
+                    "xlit": "perisseuontos"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " she ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03b1\u1f55\u03c4\u03b7",
+                    "xlit": "haut\u0113"
+                },
+                {
+                    "BSB Version": " out of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " her ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1fc6\u03c2",
+                    "xlit": "aut\u0113s"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " poverty ",
+                    "Str Grk": 5303.0,
+                    "lemma": "\u1f51\u03c3\u03c4\u03b5\u03c1\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "hyster\u0113matos"
+                },
+                {
+                    "BSB Version": " has put in ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f14\u03b2\u03b1\u03bb\u03b5\u03bd",
+                    "xlit": "ebalen"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "panta"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43\u03bd",
+                    "xlit": "hon"
+                },
+                {
+                    "BSB Version": " she had ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u03b5\u1f36\u03c7\u03b5\u03bd",
+                    "xlit": "eichen"
+                },
+                {
+                    "BSB Version": " to live on ",
+                    "Str Grk": 979.0,
+                    "lemma": "\u03b2\u03af\u03bf\u03bd",
+                    "xlit": "bion"
+                }
+            ],
+            "verse_text": "For these all cast in gifts out of that which was abounding to them; but she, out of her poverty, did cast in all the livelihood that she had.\""
+        },
+        {
+            "verse_no": 29719,
+            "verse_ref": "1 Timothy 2:2",
+            "verse_data": [
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 5228.0,
+                    "lemma": "\u1f51\u03c0\u1f72\u03c1",
+                    "xlit": "hyper"
+                },
+                {
+                    "BSB Version": " kings ",
+                    "Str Grk": 935.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03ad\u03c9\u03bd",
+                    "xlit": "basile\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "pant\u014dn"
+                },
+                {
+                    "BSB Version": " those ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f44\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "ont\u014dn"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " authority ",
+                    "Str Grk": 5247.0,
+                    "lemma": "\u1f51\u03c0\u03b5\u03c1\u03bf\u03c7\u1fc7",
+                    "xlit": "hyperoch\u0113"
+                },
+                {
+                    "BSB Version": " so that ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " we may lead ",
+                    "Str Grk": 1236.0,
+                    "lemma": "\u03b4\u03b9\u03ac\u03b3\u03c9\u03bc\u03b5\u03bd",
+                    "xlit": "diag\u014dmen"
+                },
+                {
+                    "BSB Version": " tranquil ",
+                    "Str Grk": 2263.0,
+                    "lemma": "\u1f24\u03c1\u03b5\u03bc\u03bf\u03bd",
+                    "xlit": "\u0113remon"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " quiet ",
+                    "Str Grk": 2272.0,
+                    "lemma": "\u1f21\u03c3\u03cd\u03c7\u03b9\u03bf\u03bd",
+                    "xlit": "h\u0113sychion"
+                },
+                {
+                    "BSB Version": " lives ",
+                    "Str Grk": 979.0,
+                    "lemma": "\u03b2\u03af\u03bf\u03bd",
+                    "xlit": "bion"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03c3\u1fc3",
+                    "xlit": "pas\u0113"
+                },
+                {
+                    "BSB Version": " godliness ",
+                    "Str Grk": 2150.0,
+                    "lemma": "\u03b5\u1f50\u03c3\u03b5\u03b2\u03b5\u03af\u1fb3",
+                    "xlit": "eusebeia"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " dignity ",
+                    "Str Grk": 4587.0,
+                    "lemma": "\u03c3\u03b5\u03bc\u03bd\u03cc\u03c4\u03b7\u03c4\u03b9",
+                    "xlit": "semnot\u0113ti"
+                }
+            ],
+            "verse_text": "for kings and all those being in authority, so that we may lead a tranquil and quiet life in all godliness and dignity."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 3756,
+            "lemma": "\u03bf\u1f50\u03c7",
+            "xlit": "ouch",
+            "pronunciation": "ookh",
+            "kjv_def": "+ long, nay, neither, never, no (X man), none, (can-)not, +\n nothing, + special, un(-worthy), when, + without, + yet but.",
+            "pspeech": "Adv",
+            "description": " the absolute negative (compare \u03bc\u1f75(m\u1e17)) adverb; no or not"
+        },
+        {
+            "number": 3650,
+            "lemma": "\u1f45\u03bb\u03bf\u03c2",
+            "xlit": "h\u00f3los",
+            "pronunciation": "hol'-os",
+            "kjv_def": "all,\n altogether, every whit, + throughout, whole.",
+            "pspeech": "Adj-NNS",
+            "description": " \"whole\" or \"all\", i.e. complete (in extent, amount, time or degree), especially (neuter) as noun or adverb"
+        },
+        {
+            "number": 5303,
+            "lemma": "\u1f51\u03c3\u03c4\u1f73\u03c1\u03b7\u03bc\u03b1",
+            "xlit": "hyst\u00e9r\u0113ma",
+            "pronunciation": "hoos-ter'-ay-mah",
+            "kjv_def": "that which is behind, (that\n which was) lack(-ing), penury, want.",
+            "pspeech": "N-GNS",
+            "description": " a deficit; specially, poverty"
+        },
+        {
+            "number": 2150,
+            "lemma": "\u03b5\u1f50\u03c3\u1f73\u03b2\u03b5\u03b9\u03b1",
+            "xlit": "eus\u00e9beia",
+            "pronunciation": "yoo-seb'-i-ah",
+            "kjv_def": "godliness, holiness.",
+            "pspeech": "N-DFS",
+            "description": " piety; specially, the gospel scheme"
+        }
+    ]
+}

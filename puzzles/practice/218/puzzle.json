@@ -1,0 +1,547 @@
+{
+    "wotd": {
+        "number": 3784,
+        "lemma": "\u1f40\u03c6\u03b5\u03b9\u03bb\u1f73\u03c9",
+        "xlit": "opheil\u00e9\u014d",
+        "pronunciation": "of-i-leh'-o",
+        "kjv_def": "behove, be bound, (be) debt(-or),\n (be) due(-ty), be guilty (indebted), (must) need(-s), ought, owe,\n should.",
+        "pspeech": "V-IIA-3S",
+        "description": " to owe (pecuniarily); figuratively, to be under obligation (ought, must, should); morally, to fail in duty"
+    },
+    "verses": [
+        {
+            "verse_no": 28275,
+            "verse_ref": "Romans 13:8",
+            "verse_data": [
+                {
+                    "BSB Version": " Be indebted ",
+                    "Str Grk": 3784.0,
+                    "lemma": "\u1f40\u03c6\u03b5\u03af\u03bb\u03b5\u03c4\u03b5",
+                    "xlit": "opheilete"
+                },
+                {
+                    "BSB Version": " to no one ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u039c\u03b7\u03b4\u03b5\u03bd\u1f76",
+                    "xlit": "M\u0113deni"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u1f72\u03bd",
+                    "xlit": "m\u0113den"
+                },
+                {
+                    "BSB Version": " except ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u03b5\u1f30",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " to one another ",
+                    "Str Grk": 240.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u03ae\u03bb\u03bf\u03c5\u03c2",
+                    "xlit": "all\u0113lous"
+                },
+                {
+                    "BSB Version": " [in] love ",
+                    "Str Grk": 25.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03c0\u1fb6\u03bd",
+                    "xlit": "agapan"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " he who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " loves ",
+                    "Str Grk": 25.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03c0\u1ff6\u03bd",
+                    "xlit": "agap\u014dn"
+                },
+                {
+                    "BSB Version": " [his] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " neighbor ",
+                    "Str Grk": 2087.0,
+                    "lemma": "\u1f15\u03c4\u03b5\u03c1\u03bf\u03bd",
+                    "xlit": "heteron"
+                },
+                {
+                    "BSB Version": " has fulfilled ",
+                    "Str Grk": 4137.0,
+                    "lemma": "\u03c0\u03b5\u03c0\u03bb\u03ae\u03c1\u03c9\u03ba\u03b5\u03bd",
+                    "xlit": "pepl\u0113r\u014dken"
+                },
+                {
+                    "BSB Version": " [the] law ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03bd",
+                    "xlit": "nomon"
+                }
+            ],
+            "verse_text": "Owe nothing to <i>anyone</i>, except to love one another; for the <i>one</i> loving the other has fulfilled <i>the</i> Law."
+        },
+        {
+            "verse_no": 27553,
+            "verse_ref": "Acts 17:29",
+            "verse_data": [
+                {
+                    "BSB Version": " Therefore ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " being ",
+                    "Str Grk": 5225.0,
+                    "lemma": "\u1f51\u03c0\u03ac\u03c1\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "hyparchontes"
+                },
+                {
+                    "BSB Version": " offspring ",
+                    "Str Grk": 1085.0,
+                    "lemma": "\u03b3\u03ad\u03bd\u03bf\u03c2",
+                    "xlit": "genos"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                },
+                {
+                    "BSB Version": " we should ",
+                    "Str Grk": 3784.0,
+                    "lemma": "\u1f40\u03c6\u03b5\u03af\u03bb\u03bf\u03bc\u03b5\u03bd",
+                    "xlit": "opheilomen"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " think ",
+                    "Str Grk": 3543.0,
+                    "lemma": "\u03bd\u03bf\u03bc\u03af\u03b6\u03b5\u03b9\u03bd",
+                    "xlit": "nomizein"
+                },
+                {
+                    "BSB Version": " that the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Divine Being ",
+                    "Str Grk": 2304.0,
+                    "lemma": "\u0398\u03b5\u1fd6\u03bf\u03bd",
+                    "xlit": "Theion"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f36\u03bd\u03b1\u03b9",
+                    "xlit": "einai"
+                },
+                {
+                    "BSB Version": " like ",
+                    "Str Grk": 3664.0,
+                    "lemma": "\u1f45\u03bc\u03bf\u03b9\u03bf\u03bd",
+                    "xlit": "homoion"
+                },
+                {
+                    "BSB Version": " gold ",
+                    "Str Grk": 5557.0,
+                    "lemma": "\u03c7\u03c1\u03c5\u03c3\u1ff7",
+                    "xlit": "chrys\u014d"
+                },
+                {
+                    "BSB Version": " or ",
+                    "Str Grk": 2228.0,
+                    "lemma": "\u1f22",
+                    "xlit": "\u0113"
+                },
+                {
+                    "BSB Version": " silver ",
+                    "Str Grk": 696.0,
+                    "lemma": "\u1f00\u03c1\u03b3\u03cd\u03c1\u1ff3",
+                    "xlit": "argyr\u014d"
+                },
+                {
+                    "BSB Version": " or ",
+                    "Str Grk": 2228.0,
+                    "lemma": "\u1f22",
+                    "xlit": "\u0113"
+                },
+                {
+                    "BSB Version": " stone ",
+                    "Str Grk": 3037.0,
+                    "lemma": "\u03bb\u03af\u03b8\u1ff3",
+                    "xlit": "lith\u014d"
+                },
+                {
+                    "BSB Version": " an image formed ",
+                    "Str Grk": 5480.0,
+                    "lemma": "\u03c7\u03b1\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b9",
+                    "xlit": "charagmati"
+                },
+                {
+                    "BSB Version": " by man\u2019s ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5",
+                    "xlit": "anthr\u014dpou"
+                },
+                {
+                    "BSB Version": " skill ",
+                    "Str Grk": 5078.0,
+                    "lemma": "\u03c4\u03ad\u03c7\u03bd\u03b7\u03c2",
+                    "xlit": "techn\u0113s"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " imagination ",
+                    "Str Grk": 1761.0,
+                    "lemma": "\u1f10\u03bd\u03b8\u03c5\u03bc\u03ae\u03c3\u03b5\u03c9\u03c2",
+                    "xlit": "enthym\u0113se\u014ds"
+                }
+            ],
+            "verse_text": "Therefore, being offspring of God, we ought not to consider the Divine Being to be like to gold or to silver or to stone, a graven thing of man's craft and imagination."
+        },
+        {
+            "verse_no": 28608,
+            "verse_ref": "1 Corinthians 11:7",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3303.0,
+                    "lemma": "\u03bc\u1f72\u03bd",
+                    "xlit": "men"
+                },
+                {
+                    "BSB Version": " A man ",
+                    "Str Grk": 435.0,
+                    "lemma": "\u1f08\u03bd\u1f74\u03c1",
+                    "xlit": "An\u0113r"
+                },
+                {
+                    "BSB Version": " ought ",
+                    "Str Grk": 3784.0,
+                    "lemma": "\u1f40\u03c6\u03b5\u03af\u03bb\u03b5\u03b9",
+                    "xlit": "opheilei"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " to cover ",
+                    "Str Grk": 2619.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03b5\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "katakalyptesthai"
+                },
+                {
+                    "BSB Version": " [his] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " head ",
+                    "Str Grk": 2776.0,
+                    "lemma": "\u03ba\u03b5\u03c6\u03b1\u03bb\u03ae\u03bd",
+                    "xlit": "kephal\u0113n"
+                },
+                {
+                    "BSB Version": " [since] he is ",
+                    "Str Grk": 5225.0,
+                    "lemma": "\u1f51\u03c0\u03ac\u03c1\u03c7\u03c9\u03bd",
+                    "xlit": "hyparch\u014dn"
+                },
+                {
+                    "BSB Version": " [the] image ",
+                    "Str Grk": 1504.0,
+                    "lemma": "\u03b5\u1f30\u03ba\u1f7c\u03bd",
+                    "xlit": "eik\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " glory ",
+                    "Str Grk": 1391.0,
+                    "lemma": "\u03b4\u03cc\u03be\u03b1",
+                    "xlit": "doxa"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " woman ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u1f74",
+                    "xlit": "gyn\u0113"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " [the] glory ",
+                    "Str Grk": 1391.0,
+                    "lemma": "\u03b4\u03cc\u03be\u03b1",
+                    "xlit": "doxa"
+                },
+                {
+                    "BSB Version": " of man ",
+                    "Str Grk": 435.0,
+                    "lemma": "\u1f00\u03bd\u03b4\u03c1\u03cc\u03c2",
+                    "xlit": "andros"
+                }
+            ],
+            "verse_text": "For truly a man ought not to cover the head, being <i>the</i> image and glory of God; but the woman is <i>the</i> glory of man."
+        },
+        {
+            "verse_no": 30596,
+            "verse_ref": "1 John 3:16",
+            "verse_data": [
+                {
+                    "BSB Version": " By ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f18\u03bd",
+                    "xlit": "En"
+                },
+                {
+                    "BSB Version": " this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u1ff3",
+                    "xlit": "tout\u014d"
+                },
+                {
+                    "BSB Version": " we know ",
+                    "Str Grk": 1097.0,
+                    "lemma": "\u1f10\u03b3\u03bd\u03ce\u03ba\u03b1\u03bc\u03b5\u03bd",
+                    "xlit": "egn\u014dkamen"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " love [is] ",
+                    "Str Grk": 26.0,
+                    "lemma": "\u1f00\u03b3\u03ac\u03c0\u03b7\u03bd",
+                    "xlit": "agap\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " [Jesus] ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u1fd6\u03bd\u03bf\u03c2",
+                    "xlit": "ekeinos"
+                },
+                {
+                    "BSB Version": " laid down ",
+                    "Str Grk": 5087.0,
+                    "lemma": "\u1f14\u03b8\u03b7\u03ba\u03b5\u03bd",
+                    "xlit": "eth\u0113ken"
+                },
+                {
+                    "BSB Version": " His ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " life ",
+                    "Str Grk": 5590.0,
+                    "lemma": "\u03c8\u03c5\u03c7\u1f74\u03bd",
+                    "xlit": "psych\u0113n"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 5228.0,
+                    "lemma": "\u1f51\u03c0\u1f72\u03c1",
+                    "xlit": "hyper"
+                },
+                {
+                    "BSB Version": " us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " we ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "h\u0113meis"
+                },
+                {
+                    "BSB Version": " ought ",
+                    "Str Grk": 3784.0,
+                    "lemma": "\u1f40\u03c6\u03b5\u03af\u03bb\u03bf\u03bc\u03b5\u03bd",
+                    "xlit": "opheilomen"
+                },
+                {
+                    "BSB Version": " to lay down ",
+                    "Str Grk": 5087.0,
+                    "lemma": "\u03b8\u03b5\u1fd6\u03bd\u03b1\u03b9",
+                    "xlit": "theinai"
+                },
+                {
+                    "BSB Version": " [our] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " lives ",
+                    "Str Grk": 5590.0,
+                    "lemma": "\u03c8\u03c5\u03c7\u1f70\u03c2",
+                    "xlit": "psychas"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 5228.0,
+                    "lemma": "\u1f51\u03c0\u1f72\u03c1",
+                    "xlit": "hyper"
+                },
+                {
+                    "BSB Version": " [our] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " brothers ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1ff6\u03bd",
+                    "xlit": "adelph\u014dn"
+                }
+            ],
+            "verse_text": "By this we have known love, because He laid down His life for us; and we ought to lay down <i>our</i> lives for <i>our</i> brothers."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 3361,
+            "lemma": "\u03bc\u1f75",
+            "xlit": "m\u1e17",
+            "pronunciation": "may",
+            "kjv_def": "any but (that), X forbear, + God forbid, +\n lack, lest, neither, never, no (X wise in), none, nor, (can-)not,\n nothing, that not, un(-taken), without.",
+            "pspeech": "Adv",
+            "description": " (adverb) not, (conjunction) lest; also (as an interrogative implying a negative answer (whereas \u03bf\u1f50\u03c7(ouch) expects an affirmative one)) whether"
+        },
+        {
+            "number": 444,
+            "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+            "xlit": "\u00e1nthr\u014dpos",
+            "pronunciation": "anth'-ro-pos",
+            "kjv_def": "certain, man.",
+            "pspeech": "N-NMS",
+            "description": " man-faced, i.e. a human being"
+        },
+        {
+            "number": 1135,
+            "lemma": "\u03b3\u03c5\u03bd\u1f75",
+            "xlit": "gyn\u1e17",
+            "pronunciation": "goo-nay'",
+            "kjv_def": "wife,\n woman.",
+            "pspeech": "N-AFS",
+            "description": " a woman; specially, a wife"
+        },
+        {
+            "number": 80,
+            "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1f79\u03c2",
+            "xlit": "adelph\u00f3s",
+            "pronunciation": "ad-el-fos'",
+            "kjv_def": "brother.",
+            "pspeech": "N-AMP",
+            "description": " a brother (literally or figuratively) near or remote (much like \u1f04\u03bd(\u00e1n))"
+        }
+    ]
+}

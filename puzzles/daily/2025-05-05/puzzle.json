@@ -1,41 +1,217 @@
 {
     "wotd": {
-        "number": 5347,
-        "lemma": "\u03a6\u1fc6\u03c3\u03c4\u03bf\u03c2",
-        "xlit": "Ph\u0113stos",
-        "pronunciation": "face'-tos",
-        "description": " festal; Phestus (i.e. Festus), a Roman",
-        "kjv_def": "Festus.",
-        "pspeech": "N-AMS"
+        "number": 40,
+        "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
+        "xlit": "h\u00e1gios",
+        "pronunciation": "hag'-ee-os",
+        "kjv_def": "(most) holy (one, thing), saint.",
+        "pspeech": "Adj-GNS",
+        "description": " sacred (physically, pure, morally blameless or religious, ceremonially, consecrated)"
     },
     "verses": [
         {
-            "verse_no": 27848,
-            "verse_ref": "Acts 26:24",
+            "verse_no": 29363,
+            "verse_ref": "Philippians 1:1",
             "verse_data": [
                 {
-                    "BSB Version": " At this stage ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03a4\u03b1\u1fe6\u03c4\u03b1",
-                    "xlit": "Tauta"
+                    "BSB Version": " Paul ",
+                    "Str Grk": 3972.0,
+                    "lemma": "\u03a0\u03b1\u1fe6\u03bb\u03bf\u03c2",
+                    "xlit": "Paulos"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Timothy ",
+                    "Str Grk": 5095.0,
+                    "lemma": "\u03a4\u03b9\u03bc\u03cc\u03b8\u03b5\u03bf\u03c2",
+                    "xlit": "Timotheos"
+                },
+                {
+                    "BSB Version": " servants ",
+                    "Str Grk": 1401.0,
+                    "lemma": "\u03b4\u03bf\u1fe6\u03bb\u03bf\u03b9",
+                    "xlit": "douloi"
+                },
+                {
+                    "BSB Version": " of Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+                    "xlit": "Christou"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " To all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03a0\u1fb6\u03c3\u03b9\u03bd",
+                    "xlit": "Pasin"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " saints ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f01\u03b3\u03af\u03bf\u03b9\u03c2",
+                    "xlit": "hagiois"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1ff7",
+                    "xlit": "Christ\u014d"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
                 },
                 {
-                    "BSB Version": " of [Paul\u2019s] ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
+                    "BSB Version": " - ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03bf\u1f56\u03c3\u03b9\u03bd",
+                    "xlit": "ousin"
                 },
                 {
-                    "BSB Version": " defense ",
-                    "Str Grk": 626.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03bb\u03bf\u03b3\u03bf\u03c5\u03bc\u03ad\u03bd\u03bf\u03c5",
-                    "xlit": "apologoumenou"
+                    "BSB Version": " at ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Philippi ",
+                    "Str Grk": 5375.0,
+                    "lemma": "\u03a6\u03b9\u03bb\u03af\u03c0\u03c0\u03bf\u03b9\u03c2",
+                    "xlit": "Philippois"
+                },
+                {
+                    "BSB Version": " together with ",
+                    "Str Grk": 4862.0,
+                    "lemma": "\u03c3\u1f7a\u03bd",
+                    "xlit": "syn"
+                },
+                {
+                    "BSB Version": " [the] overseers ",
+                    "Str Grk": 1985.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03c3\u03ba\u03cc\u03c0\u03bf\u03b9\u03c2",
+                    "xlit": "episkopois"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " deacons ",
+                    "Str Grk": 1249.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03bd\u03bf\u03b9\u03c2",
+                    "xlit": "diakonois"
+                }
+            ],
+            "verse_text": "Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus being in Philippi, with <i>the</i> overseers and deacons:"
+        },
+        {
+            "verse_no": 30391,
+            "verse_ref": "1 Peter 1:16",
+            "verse_data": [
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1360.0,
+                    "lemma": "\u03b4\u03b9\u03cc\u03c4\u03b9",
+                    "xlit": "dioti"
+                },
+                {
+                    "BSB Version": " it is written ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03ad\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9",
+                    "xlit": "gegraptai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " Be ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f14\u03c3\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "esesthe"
+                },
+                {
+                    "BSB Version": " holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f0d\u03b3\u03b9\u03bf\u03b9",
+                    "xlit": "Hagioi"
+                },
+                {
+                    "BSB Version": " because ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " I ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03b3\u1f7c",
+                    "xlit": "eg\u014d"
+                },
+                {
+                    "BSB Version": " am ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f30\u03bc\u03b9",
+                    "xlit": "eimi"
+                },
+                {
+                    "BSB Version": " holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
+                    "xlit": "hagios"
+                }
+            ],
+            "verse_text": "because it has been written: \"You shall be holy, because I am holy.\""
+        },
+        {
+            "verse_no": 28502,
+            "verse_ref": "1 Corinthians 7:14",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
                     "BSB Version": " - ",
@@ -44,101 +220,203 @@
                     "xlit": "ho"
                 },
                 {
-                    "BSB Version": " Festus ",
-                    "Str Grk": 5347.0,
-                    "lemma": "\u03a6\u1fc6\u03c3\u03c4\u03bf\u03c2",
-                    "xlit": "Ph\u0113stos"
+                    "BSB Version": " unbelieving ",
+                    "Str Grk": 571.0,
+                    "lemma": "\u1f04\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2",
+                    "xlit": "apistos"
                 },
                 {
-                    "BSB Version": " exclaimed ",
-                    "Str Grk": 5346.0,
-                    "lemma": "\u03c6\u03b7\u03c3\u03b9\u03bd",
-                    "xlit": "ph\u0113sin"
+                    "BSB Version": " husband ",
+                    "Str Grk": 435.0,
+                    "lemma": "\u1f00\u03bd\u1f74\u03c1",
+                    "xlit": "an\u0113r"
                 },
                 {
-                    "BSB Version": " - ",
+                    "BSB Version": " is sanctified ",
+                    "Str Grk": 37.0,
+                    "lemma": "\u1f21\u03b3\u03af\u03b1\u03c3\u03c4\u03b1\u03b9",
+                    "xlit": "h\u0113giastai"
+                },
+                {
+                    "BSB Version": " through ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [his] ",
                     "Str Grk": 3588.0,
                     "lemma": "\u03c4\u1fc7",
                     "xlit": "t\u0113"
                 },
                 {
-                    "BSB Version": " in a loud ",
-                    "Str Grk": 3173.0,
-                    "lemma": "\u03bc\u03b5\u03b3\u03ac\u03bb\u1fc3",
-                    "xlit": "megal\u0113"
+                    "BSB Version": " [believing] wife ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03af",
+                    "xlit": "gynaiki"
                 },
                 {
-                    "BSB Version": " voice ",
-                    "Str Grk": 5456.0,
-                    "lemma": "\u03c6\u03c9\u03bd\u1fc7",
-                    "xlit": "ph\u014dn\u0113"
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
                 },
                 {
-                    "BSB Version": " You are insane ",
-                    "Str Grk": 3105.0,
-                    "lemma": "\u039c\u03b1\u03af\u03bd\u1fc3",
-                    "xlit": "Main\u0113"
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " Paul ",
-                    "Str Grk": 3972.0,
-                    "lemma": "\u03a0\u03b1\u1fe6\u03bb\u03b5",
-                    "xlit": "Paule"
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " [Your] ",
+                    "BSB Version": " unbelieving ",
+                    "Str Grk": 571.0,
+                    "lemma": "\u1f04\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2",
+                    "xlit": "apistos"
+                },
+                {
+                    "BSB Version": " wife ",
+                    "Str Grk": 1135.0,
+                    "lemma": "\u03b3\u03c5\u03bd\u1f74",
+                    "xlit": "gyn\u0113"
+                },
+                {
+                    "BSB Version": " is sanctified ",
+                    "Str Grk": 37.0,
+                    "lemma": "\u1f21\u03b3\u03af\u03b1\u03c3\u03c4\u03b1\u03b9",
+                    "xlit": "h\u0113giastai"
+                },
+                {
+                    "BSB Version": " through ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [her] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " [believing] husband ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1ff7",
+                    "xlit": "adelph\u014d"
+                },
+                {
+                    "BSB Version": " Otherwise ",
+                    "Str Grk": 1893.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u1f76",
+                    "xlit": "epei"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 686.0,
+                    "lemma": "\u1f04\u03c1\u03b1",
+                    "xlit": "ara"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
                     "lemma": "\u03c4\u1f70",
                     "xlit": "ta"
                 },
                 {
-                    "BSB Version": " great ",
-                    "Str Grk": 4183.0,
-                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03ac",
-                    "xlit": "polla"
+                    "BSB Version": " children ",
+                    "Str Grk": 5043.0,
+                    "lemma": "\u03c4\u03ad\u03ba\u03bd\u03b1",
+                    "xlit": "tekna"
                 },
                 {
-                    "BSB Version": " learning ",
-                    "Str Grk": 1121.0,
-                    "lemma": "\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03b1",
-                    "xlit": "grammata"
+                    "BSB Version": " would be ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
                 },
                 {
-                    "BSB Version": " is driving ",
-                    "Str Grk": 4062.0,
-                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c4\u03c1\u03ad\u03c0\u03b5\u03b9",
-                    "xlit": "peritrepei"
+                    "BSB Version": " unclean ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03ac",
+                    "xlit": "akatharta"
                 },
                 {
-                    "BSB Version": " you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u03c3\u03b5",
-                    "xlit": "se"
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
                 },
                 {
-                    "BSB Version": " to ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
+                    "BSB Version": " now ",
+                    "Str Grk": 3568.0,
+                    "lemma": "\u03bd\u1fe6\u03bd",
+                    "xlit": "nyn"
                 },
                 {
-                    "BSB Version": " madness ",
-                    "Str Grk": 3130.0,
-                    "lemma": "\u03bc\u03b1\u03bd\u03af\u03b1\u03bd",
-                    "xlit": "manian"
+                    "BSB Version": " they are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f05\u03b3\u03b9\u03ac",
+                    "xlit": "hagia"
                 }
             ],
-            "verse_text": "Now of him saying these things in his defense, Festus said in a loud voice, \"You are insane, Paul! The great learning turns you to insanity!\""
+            "verse_text": "For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the husband. Otherwise, your children are unclean; but now they are holy."
         },
         {
-            "verse_no": 27801,
-            "verse_ref": "Acts 25:4",
+            "verse_no": 25042,
+            "verse_ref": "Luke 3:16",
             "verse_data": [
                 {
-                    "BSB Version": " But ",
-                    "Str Grk": 3767.0,
-                    "lemma": "\u03bf\u1f56\u03bd",
-                    "xlit": "oun"
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " John ",
+                    "Str Grk": 2491.0,
+                    "lemma": "\u1f38\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2",
+                    "xlit": "I\u014dann\u0113s"
+                },
+                {
+                    "BSB Version": " answered ",
+                    "Str Grk": 611.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03bd\u03b1\u03c4\u03bf",
+                    "xlit": "apekrinato"
+                },
+                {
+                    "BSB Version": " all of them ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u1fb6\u03c3\u03b9\u03bd",
+                    "xlit": "pasin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03c9\u03bd",
+                    "xlit": "leg\u014dn"
+                },
+                {
+                    "BSB Version": " I ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f18\u03b3\u1f7c",
+                    "xlit": "Eg\u014d"
                 },
                 {
                     "BSB Version": " - ",
@@ -147,365 +425,201 @@
                     "xlit": "men"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f49",
-                    "xlit": "Ho"
+                    "BSB Version": " baptize ",
+                    "Str Grk": 907.0,
+                    "lemma": "\u03b2\u03b1\u03c0\u03c4\u03af\u03b6\u03c9",
+                    "xlit": "baptiz\u014d"
                 },
                 {
-                    "BSB Version": " Festus ",
-                    "Str Grk": 5347.0,
-                    "lemma": "\u03a6\u1fc6\u03c3\u03c4\u03bf\u03c2",
-                    "xlit": "Ph\u0113stos"
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
                 },
                 {
-                    "BSB Version": " replied ",
-                    "Str Grk": 611.0,
-                    "lemma": "\u1f00\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
-                    "xlit": "apekrith\u0113"
+                    "BSB Version": " with water ",
+                    "Str Grk": 5204.0,
+                    "lemma": "\u1f55\u03b4\u03b1\u03c4\u03b9",
+                    "xlit": "hydati"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " Paul ",
-                    "Str Grk": 3972.0,
-                    "lemma": "\u03a0\u03b1\u1fe6\u03bb\u03bf\u03bd",
-                    "xlit": "Paulon"
-                },
-                {
-                    "BSB Version": " is being held ",
-                    "Str Grk": 5083.0,
-                    "lemma": "\u03c4\u03b7\u03c1\u03b5\u1fd6\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "t\u0113reisthai"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " Caesarea ",
-                    "Str Grk": 2542.0,
-                    "lemma": "\u039a\u03b1\u03b9\u03c3\u03ac\u03c1\u03b5\u03b9\u03b1\u03bd",
-                    "xlit": "Kaisareian"
-                },
-                {
-                    "BSB Version": " and ",
+                    "BSB Version": " but ",
                     "Str Grk": 1161.0,
                     "lemma": "\u03b4\u1f72",
                     "xlit": "de"
                 },
                 {
-                    "BSB Version": " [I myself] ",
-                    "Str Grk": 1438.0,
-                    "lemma": "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd",
-                    "xlit": "heauton"
-                },
-                {
-                    "BSB Version": " am ",
-                    "Str Grk": 3195.0,
-                    "lemma": "\u03bc\u03ad\u03bb\u03bb\u03b5\u03b9\u03bd",
-                    "xlit": "mellein"
-                },
-                {
-                    "BSB Version": " going there ",
-                    "Str Grk": 1607.0,
-                    "lemma": "\u1f10\u03ba\u03c0\u03bf\u03c1\u03b5\u03cd\u03b5\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "ekporeuesthai"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " soon ",
-                    "Str Grk": 5034.0,
-                    "lemma": "\u03c4\u03ac\u03c7\u03b5\u03b9",
-                    "xlit": "tachei"
-                }
-            ],
-            "verse_text": "So indeed Festus answered that Paul is to be kept in Caesarea, and he himself is about to set out in quickness."
-        },
-        {
-            "verse_no": 27806,
-            "verse_ref": "Acts 25:9",
-            "verse_data": [
-                {
-                    "BSB Version": " But ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " [One] ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u1f49",
-                    "xlit": "Ho"
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " Festus ",
-                    "Str Grk": 5347.0,
-                    "lemma": "\u03a6\u1fc6\u03c3\u03c4\u03bf\u03c2",
-                    "xlit": "Ph\u0113stos"
+                    "BSB Version": " more powerful ",
+                    "Str Grk": 2478.0,
+                    "lemma": "\u1f30\u03c3\u03c7\u03c5\u03c1\u03cc\u03c4\u03b5\u03c1\u03cc\u03c2",
+                    "xlit": "ischyroteros"
                 },
                 {
-                    "BSB Version": " wishing ",
-                    "Str Grk": 2309.0,
-                    "lemma": "\u03b8\u03ad\u03bb\u03c9\u03bd",
-                    "xlit": "thel\u014dn"
-                },
-                {
-                    "BSB Version": " to do the Jews a favor ",
-                    "Str Grk": 2698.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03b8\u03ad\u03c3\u03b8\u03b1\u03b9",
-                    "xlit": "katathesthai"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 5485.0,
-                    "lemma": "\u03c7\u03ac\u03c1\u03b9\u03bd",
-                    "xlit": "charin"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
-                    "xlit": "tois"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 2453.0,
-                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03bf\u03b9\u03c2",
-                    "xlit": "Ioudaiois"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 611.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03c1\u03b9\u03b8\u03b5\u1f76\u03c2",
-                    "xlit": "apokritheis"
-                },
-                {
-                    "BSB Version": " said ",
-                    "Str Grk": 2036.0,
-                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
-                    "xlit": "eipen"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
-                },
-                {
-                    "BSB Version": " to Paul ",
-                    "Str Grk": 3972.0,
-                    "lemma": "\u03a0\u03b1\u03cd\u03bb\u1ff3",
-                    "xlit": "Paul\u014d"
-                },
-                {
-                    "BSB Version": " Are you willing ",
-                    "Str Grk": 2309.0,
-                    "lemma": "\u0398\u03ad\u03bb\u03b5\u03b9\u03c2",
-                    "xlit": "Theleis"
-                },
-                {
-                    "BSB Version": " to go up ",
-                    "Str Grk": 305.0,
-                    "lemma": "\u1f00\u03bd\u03b1\u03b2\u1f70\u03c2",
-                    "xlit": "anabas"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " Jerusalem ",
-                    "Str Grk": 2414.0,
-                    "lemma": "\u1f39\u03b5\u03c1\u03bf\u03c3\u03cc\u03bb\u03c5\u03bc\u03b1",
-                    "xlit": "Hierosolyma"
-                },
-                {
-                    "BSB Version": " to stand trial ",
-                    "Str Grk": 2919.0,
-                    "lemma": "\u03ba\u03c1\u03b9\u03b8\u1fc6\u03bd\u03b1\u03b9",
-                    "xlit": "krith\u0113nai"
-                },
-                {
-                    "BSB Version": " before ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c0\u2019",
-                    "xlit": "ep\u2019"
-                },
-                {
-                    "BSB Version": " me ",
+                    "BSB Version": " than I ",
                     "Str Grk": 1473.0,
-                    "lemma": "\u1f10\u03bc\u03bf\u1fe6",
-                    "xlit": "emou"
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 1563.0,
-                    "lemma": "\u1f10\u03ba\u03b5\u1fd6",
-                    "xlit": "ekei"
+                    "BSB Version": " will come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "erchetai"
                 },
                 {
-                    "BSB Version": " on ",
-                    "Str Grk": 4012.0,
-                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
-                    "xlit": "peri"
-                },
-                {
-                    "BSB Version": " these [charges] ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03c9\u03bd",
-                    "xlit": "tout\u014dn"
-                }
-            ],
-            "verse_text": "But Festus, wishing to lay a favor on the Jews, answering, said to Paul, \"Are you willing, having gone up to Jerusalem, to be judged before me there concerning these things?\""
-        },
-        {
-            "verse_no": 27819,
-            "verse_ref": "Acts 25:22",
-            "verse_data": [
-                {
-                    "BSB Version": " Then ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " Agrippa ",
-                    "Str Grk": 67.0,
-                    "lemma": "\u1f08\u03b3\u03c1\u03af\u03c0\u03c0\u03b1\u03c2",
-                    "xlit": "Agrippas"
-                },
-                {
-                    "BSB Version": " [said] to ",
-                    "Str Grk": 4314.0,
-                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
-                    "xlit": "pros"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
                     "lemma": "\u03c4\u1f78\u03bd",
                     "xlit": "ton"
                 },
                 {
-                    "BSB Version": " Festus ",
-                    "Str Grk": 5347.0,
-                    "lemma": "\u03a6\u1fc6\u03c3\u03c4\u03bf\u03bd",
-                    "xlit": "Ph\u0113ston"
+                    "BSB Version": " straps ",
+                    "Str Grk": 2438.0,
+                    "lemma": "\u1f31\u03bc\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "himanta"
                 },
                 {
-                    "BSB Version": " I would like ",
-                    "Str Grk": 1014.0,
-                    "lemma": "\u1f18\u03b2\u03bf\u03c5\u03bb\u03cc\u03bc\u03b7\u03bd",
-                    "xlit": "Eboulom\u0113n"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " to hear ",
-                    "Str Grk": 191.0,
-                    "lemma": "\u1f00\u03ba\u03bf\u1fe6\u03c3\u03b1\u03b9",
-                    "xlit": "akousai"
-                },
-                {
-                    "BSB Version": " [this] ",
+                    "BSB Version": " of ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
                 },
                 {
-                    "BSB Version": " man ",
-                    "Str Grk": 444.0,
-                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5",
-                    "xlit": "anthr\u014dpou"
+                    "BSB Version": " whose ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03bf\u1f57",
+                    "xlit": "hou"
                 },
                 {
-                    "BSB Version": " myself ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03c2",
-                    "xlit": "autos"
-                },
-                {
-                    "BSB Version": " Tomorrow ",
-                    "Str Grk": 839.0,
-                    "lemma": "\u0391\u1f54\u03c1\u03b9\u03bf\u03bd",
-                    "xlit": "Aurion"
-                },
-                {
-                    "BSB Version": " you will hear ",
-                    "Str Grk": 191.0,
-                    "lemma": "\u1f08\u03ba\u03bf\u03cd\u03c3\u1fc3",
-                    "xlit": "Akous\u0113"
-                },
-                {
-                    "BSB Version": " him ",
+                    "BSB Version": " . . . ",
                     "Str Grk": 846.0,
                     "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
                     "xlit": "autou"
                 },
                 {
-                    "BSB Version": " Festus declared ",
-                    "Str Grk": 5346.0,
-                    "lemma": "\u03c6\u03b7\u03c3\u03af\u03bd",
-                    "xlit": "ph\u0113sin"
+                    "BSB Version": " sandals ",
+                    "Str Grk": 5266.0,
+                    "lemma": "\u1f51\u03c0\u03bf\u03b4\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd",
+                    "xlit": "hypod\u0113mat\u014dn"
+                },
+                {
+                    "BSB Version": " I am ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f30\u03bc\u1f76",
+                    "xlit": "eimi"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " worthy ",
+                    "Str Grk": 2425.0,
+                    "lemma": "\u1f31\u03ba\u03b1\u03bd\u1f78\u03c2",
+                    "xlit": "hikanos"
+                },
+                {
+                    "BSB Version": " to untie ",
+                    "Str Grk": 3089.0,
+                    "lemma": "\u03bb\u1fe6\u03c3\u03b1\u03b9",
+                    "xlit": "lysai"
+                },
+                {
+                    "BSB Version": " He ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03c2",
+                    "xlit": "autos"
+                },
+                {
+                    "BSB Version": " will baptize ",
+                    "Str Grk": 907.0,
+                    "lemma": "\u03b2\u03b1\u03c0\u03c4\u03af\u03c3\u03b5\u03b9",
+                    "xlit": "baptisei"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [the] Holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f09\u03b3\u03af\u1ff3",
+                    "xlit": "Hagi\u014d"
+                },
+                {
+                    "BSB Version": " Spirit ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03a0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b9",
+                    "xlit": "Pneumati"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " with fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u03af",
+                    "xlit": "pyri"
                 }
             ],
-            "verse_text": "Then Agrippa <i>said</i> to Festus, \"I have been wanting also to hear the man myself.\" He says, \"Tomorrow you will hear him.\""
+            "verse_text": "John answered all saying, \"I indeed baptize you with water, but the <i>One</i> mightier than I comes, of whom I am not worthy to untie the strap of His sandals; He will baptize you with <i>the</i> Holy Spirit and with fire,"
         }
     ],
     "other_words": [
         {
-            "number": 5456,
-            "lemma": "\u03c6\u03c9\u03bd\u1f75",
-            "xlit": "ph\u014dn\u1e17",
-            "pronunciation": "fo-nay'",
-            "description": " a tone\n (articulate, bestial or artificial); by implication, an address (for\n any purpose), saying or language",
-            "kjv_def": "noise, sound, voice.",
-            "pspeech": "N-NFS"
+            "number": 1249,
+            "lemma": "\u03b4\u03b9\u1f71\u03ba\u03bf\u03bd\u03bf\u03c2",
+            "xlit": "di\u00e1konos",
+            "pronunciation": "dee-ak'-on-os",
+            "kjv_def": "deacon, minister, servant.",
+            "pspeech": "N-NMS",
+            "description": " an attendant, i.e. (genitive case) a waiter (at table or in other menial duties); specially, a Christian teacher and pastor (technically, a deacon or deaconess)"
         },
         {
-            "number": 5034,
-            "lemma": "\u03c4\u1f71\u03c7\u03bf\u03c2",
-            "xlit": "t\u00e1chos",
-            "pronunciation": "takh'-os",
-            "description": " a brief space (of time), i.e. (with ",
-            "kjv_def": "+ quickly, + shortly, + speedily.",
-            "pspeech": "N-DNS"
+            "number": 1125,
+            "lemma": "\u03b3\u03c1\u1f71\u03c6\u03c9",
+            "xlit": "gr\u00e1ph\u014d",
+            "pronunciation": "graf'-o",
+            "kjv_def": "describe, write(-ing, -ten).",
+            "pspeech": "V-RIM/P-3S",
+            "description": " to \"grave\", especially to write; figuratively, to describe"
         },
         {
-            "number": 2919,
-            "lemma": "\u03ba\u03c1\u1f77\u03bd\u03c9",
-            "xlit": "kr\u00edn\u014d",
-            "pronunciation": "kree'-no",
-            "description": " by\n implication, to try, condemn, punish",
-            "kjv_def": "avenge, conclude, condemn,\n damn, decree, determine, esteem, judge, go to (sue at the) law,\n ordain, call in question, sentence to, think.",
-            "pspeech": "V-ANP"
+            "number": 5043,
+            "lemma": "\u03c4\u1f73\u03ba\u03bd\u03bf\u03bd",
+            "xlit": "t\u00e9knon",
+            "pronunciation": "tek'-non",
+            "kjv_def": "child, daughter, son.",
+            "pspeech": "N-ANP",
+            "description": " a child (as produced)"
         },
         {
-            "number": 1014,
-            "lemma": "\u03b2\u03bf\u1f7b\u03bb\u03bf\u03bc\u03b1\u03b9",
-            "xlit": "bo\u00falomai",
-            "pronunciation": "boo'-lom-ahee",
-            "description": " to \"will,\" i.e. (reflexively) be\n willing",
-            "kjv_def": "be disposed, minded, intend, list, (be, of own) will (-ing).",
-            "pspeech": "V-AIP-3S"
+            "number": 5266,
+            "lemma": "\u1f51\u03c0\u1f79\u03b4\u03b7\u03bc\u03b1",
+            "xlit": "hyp\u00f3d\u0113ma",
+            "pronunciation": "hoop-od'-ay-mah",
+            "kjv_def": "shoe.",
+            "pspeech": "N-ANP",
+            "description": " something bound under the feet, i.e. a shoe or sandal"
         }
     ]
 }

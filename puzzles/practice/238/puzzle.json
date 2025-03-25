@@ -1,0 +1,595 @@
+{
+    "wotd": {
+        "number": 11,
+        "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f71\u03bc",
+        "xlit": "Abra\u00e1m",
+        "pronunciation": "ab-rah-am'",
+        "kjv_def": "Abraham.",
+        "pspeech": "N-GMS",
+        "description": " Abraham, the Hebrew patriarch"
+    },
+    "verses": [
+        {
+            "verse_no": 28035,
+            "verse_ref": "Romans 4:12",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [he is also the] father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u03ad\u03c1\u03b1",
+                    "xlit": "patera"
+                },
+                {
+                    "BSB Version": " of the circumcised ",
+                    "Str Grk": 4061.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c4\u03bf\u03bc\u1fc6\u03c2",
+                    "xlit": "peritom\u0113s"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " only ",
+                    "Str Grk": 3440.0,
+                    "lemma": "\u03bc\u03cc\u03bd\u03bf\u03bd",
+                    "xlit": "monon"
+                },
+                {
+                    "BSB Version": " are circumcised ",
+                    "Str Grk": 4061.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c4\u03bf\u03bc\u1fc6\u03c2",
+                    "xlit": "peritom\u0113s"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " also ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " walk ",
+                    "Str Grk": 4748.0,
+                    "lemma": "\u03c3\u03c4\u03bf\u03b9\u03c7\u03bf\u1fe6\u03c3\u03b9\u03bd",
+                    "xlit": "stoichousin"
+                },
+                {
+                    "BSB Version": " in the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " footsteps ",
+                    "Str Grk": 2487.0,
+                    "lemma": "\u1f34\u03c7\u03bd\u03b5\u03c3\u03b9\u03bd",
+                    "xlit": "ichnesin"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " faith ",
+                    "Str Grk": 4102.0,
+                    "lemma": "\u03c0\u03af\u03c3\u03c4\u03b5\u03c9\u03c2",
+                    "xlit": "piste\u014ds"
+                },
+                {
+                    "BSB Version": " [that] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " our ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u03c1\u1f78\u03c2",
+                    "xlit": "patros"
+                },
+                {
+                    "BSB Version": " Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u03ac\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " had before he was circumcised ",
+                    "Str Grk": 203.0,
+                    "lemma": "\u1f00\u03ba\u03c1\u03bf\u03b2\u03c5\u03c3\u03c4\u03af\u1fb3",
+                    "xlit": "akrobystia"
+                }
+            ],
+            "verse_text": "and <i>the</i> father of circumcision to those not only of circumcision, but also to those walking in the steps of the faith of our father Abraham during uncircumcision."
+        },
+        {
+            "verse_no": 28036,
+            "verse_ref": "Romans 4:13",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " promise ",
+                    "Str Grk": 1860.0,
+                    "lemma": "\u1f10\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u03b1",
+                    "xlit": "epangelia"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " to Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f70\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " [and] ",
+                    "Str Grk": 2228.0,
+                    "lemma": "\u1f22",
+                    "xlit": "\u0113"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " offspring ",
+                    "Str Grk": 4690.0,
+                    "lemma": "\u03c3\u03c0\u03ad\u03c1\u03bc\u03b1\u03c4\u03b9",
+                    "xlit": "spermati"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " he ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " would be ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f36\u03bd\u03b1\u03b9",
+                    "xlit": "einai"
+                },
+                {
+                    "BSB Version": " heir ",
+                    "Str Grk": 2818.0,
+                    "lemma": "\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03cc\u03bc\u03bf\u03bd",
+                    "xlit": "kl\u0113ronomon"
+                },
+                {
+                    "BSB Version": " [of the] world ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u03bf\u03c5",
+                    "xlit": "kosmou"
+                },
+                {
+                    "BSB Version": " was not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u039f\u1f50",
+                    "xlit": "Ou"
+                },
+                {
+                    "BSB Version": " [given] through ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " [the] law ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03c5",
+                    "xlit": "nomou"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " through ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " [the] righteousness ",
+                    "Str Grk": 1343.0,
+                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u03b7\u03c2",
+                    "xlit": "dikaiosyn\u0113s"
+                },
+                {
+                    "BSB Version": " that comes by faith ",
+                    "Str Grk": 4102.0,
+                    "lemma": "\u03c0\u03af\u03c3\u03c4\u03b5\u03c9\u03c2",
+                    "xlit": "piste\u014ds"
+                }
+            ],
+            "verse_text": "For the promise <i>was</i> to Abraham or his descendants that he should be heir <i>of the</i> world, not through <i>the</i> Law, but through <i>the</i> righteousness of faith."
+        },
+        {
+            "verse_no": 27149,
+            "verse_ref": "Acts 7:32",
+            "verse_data": [
+                {
+                    "BSB Version": " I [am] ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f18\u03b3\u1f7c",
+                    "xlit": "Eg\u014d"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " of your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " fathers ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u03ad\u03c1\u03c9\u03bd",
+                    "xlit": "pater\u014dn"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " of Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f70\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Isaac ",
+                    "Str Grk": 2464.0,
+                    "lemma": "\u1f38\u03c3\u03b1\u1f70\u03ba",
+                    "xlit": "Isaak"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Jacob ",
+                    "Str Grk": 2384.0,
+                    "lemma": "\u1f38\u03b1\u03ba\u03ce\u03b2",
+                    "xlit": "Iak\u014db"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " Moses ",
+                    "Str Grk": 3475.0,
+                    "lemma": "\u039c\u03c9\u03cb\u03c3\u1fc6\u03c2",
+                    "xlit": "M\u014dus\u0113s"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "genomenos"
+                },
+                {
+                    "BSB Version": " trembled with fear ",
+                    "Str Grk": 1790.0,
+                    "lemma": "\u1f14\u03bd\u03c4\u03c1\u03bf\u03bc\u03bf\u03c2",
+                    "xlit": "entromos"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " [and] did not dare ",
+                    "Str Grk": 5111.0,
+                    "lemma": "\u1f10\u03c4\u03cc\u03bb\u03bc\u03b1",
+                    "xlit": "etolma"
+                },
+                {
+                    "BSB Version": " to look ",
+                    "Str Grk": 2657.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "katano\u0113sai"
+                }
+            ],
+            "verse_text": "I <i>am</i> the God of your Fathers, the God of Abraham, and of Isaac, and of Jacob.' And Moses, having become terrified, did not dare to look."
+        },
+        {
+            "verse_no": 26421,
+            "verse_ref": "John 8:39",
+            "verse_data": [
+                {
+                    "BSB Version": " Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u03ac\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " our ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f49",
+                    "xlit": "Ho"
+                },
+                {
+                    "BSB Version": " father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u1f74\u03c1",
+                    "xlit": "pat\u0113r"
+                },
+                {
+                    "BSB Version": " they replied ",
+                    "Str Grk": 611.0,
+                    "lemma": "\u1f08\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "Apekrith\u0113san"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b1\u03bd",
+                    "xlit": "eipan"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u0395\u1f30",
+                    "xlit": "Ei"
+                },
+                {
+                    "BSB Version": " you were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b5",
+                    "xlit": "este"
+                },
+                {
+                    "BSB Version": " children ",
+                    "Str Grk": 5043.0,
+                    "lemma": "\u03c4\u03ad\u03ba\u03bd\u03b1",
+                    "xlit": "tekna"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u03ac\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u039b\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "Legei"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " you would do ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u1f10\u03c0\u03bf\u03b9\u03b5\u1fd6\u03c4\u03b5",
+                    "xlit": "epoieite"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " works ",
+                    "Str Grk": 2041.0,
+                    "lemma": "\u1f14\u03c1\u03b3\u03b1",
+                    "xlit": "erga"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f70\u03bc",
+                    "xlit": "Abraam"
+                }
+            ],
+            "verse_text": "They answered and said to Him, \"Abraham is our father.\" Jesus says to them, \"If you were children of Abraham, you would do the works of Abraham."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 203,
+            "lemma": "\u1f00\u03ba\u03c1\u03bf\u03b2\u03c5\u03c3\u03c4\u1f77\u03b1",
+            "xlit": "akrobyst\u00eda",
+            "pronunciation": "ak-rob-oos-tee'-ah",
+            "kjv_def": "not\n circumcised, uncircumcised (with ",
+            "pspeech": "N-AFS",
+            "description": " the prepuce; by implication, an uncircumcised (i.e. gentile, figuratively, unregenerate) state or person"
+        },
+        {
+            "number": 1343,
+            "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u1f7b\u03bd\u03b7",
+            "xlit": "dikaios\u00fdn\u0113",
+            "pronunciation": "dik-ah-yos-oo'-nay",
+            "kjv_def": "righteousness.",
+            "pspeech": "N-AFS",
+            "description": " equity (of character or act); specially (Christian) justification"
+        },
+        {
+            "number": 5111,
+            "lemma": "\u03c4\u03bf\u03bb\u03bc\u1f71\u03c9",
+            "xlit": "tolm\u00e1\u014d",
+            "pronunciation": "tol-mah'-o",
+            "kjv_def": "be bold, boldly, dare, durst.",
+            "pspeech": "V-AIA-3S",
+            "description": " to venture (objectively or in act; while \u03b8\u03b1\u1fe4\u1fe5\u1f73\u03c9(tharrh\u00e9\u014d) is rather subjective or in feeling); by implication, to be courageous"
+        },
+        {
+            "number": 3004,
+            "lemma": "\u03bb\u1f73\u03b3\u03c9",
+            "xlit": "l\u00e9g\u014d",
+            "pronunciation": "leg'-o",
+            "kjv_def": "ask,\n bid, boast, call, describe, give out, name, put forth, say(-ing, on),\n shew, speak, tell, utter.",
+            "pspeech": "V-PPM/P-NMS",
+            "description": " properly, to \"lay\" forth, i.e. (figuratively) relate (in words (usually of systematic or set discourse; whereas \u1f14\u03c0\u03c9(\u00e9p\u014d) and \u03c6\u03b7\u03bc\u1f77(ph\u0113m\u00ed) generally refer to an individual expression or speech respectively; while \u1f10\u03c1\u1f73\u03c9(er\u00e9\u014d) is properly to break silence merely, and \u03bb\u03b1\u03bb\u1f73\u03c9(lal\u00e9\u014d) means an extended or random harangue)); by implication, to mean"
+        }
+    ]
+}

@@ -1,0 +1,685 @@
+{
+    "wotd": {
+        "number": 373,
+        "lemma": "\u1f00\u03bd\u03b1\u03c0\u03b1\u1f7b\u03c9",
+        "xlit": "anapa\u00fa\u014d",
+        "pronunciation": "an-ap-ow'-o",
+        "kjv_def": "take ease, refresh,\n (give, take) rest.",
+        "pspeech": "V-FIA-1S",
+        "description": " (reflexively) to repose (literally or figuratively (be exempt), remain); by implication, to refresh"
+    },
+    "verses": [
+        {
+            "verse_no": 24100,
+            "verse_ref": "Matthew 26:45",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 5119.0,
+                    "lemma": "\u03c4\u03cc\u03c4\u03b5",
+                    "xlit": "tote"
+                },
+                {
+                    "BSB Version": " He returned ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "erchetai"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " disciples ",
+                    "Str Grk": 3101.0,
+                    "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u1f70\u03c2",
+                    "xlit": "math\u0113tas"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " Are you still sleeping ",
+                    "Str Grk": 2518.0,
+                    "lemma": "\u039a\u03b1\u03b8\u03b5\u03cd\u03b4\u03b5\u03c4\u03b5",
+                    "xlit": "Katheudete"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3063.0,
+                    "lemma": "\u03bb\u03bf\u03b9\u03c0\u1f78\u03bd",
+                    "xlit": "loipon"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " resting ",
+                    "Str Grk": 373.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c0\u03b1\u03cd\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "anapauesthe"
+                },
+                {
+                    "BSB Version": " Look ",
+                    "Str Grk": 2400.0,
+                    "lemma": "\u1f30\u03b4\u03bf\u1f7a",
+                    "xlit": "idou"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " hour ",
+                    "Str Grk": 5610.0,
+                    "lemma": "\u1f65\u03c1\u03b1",
+                    "xlit": "h\u014dra"
+                },
+                {
+                    "BSB Version": " is near ",
+                    "Str Grk": 1448.0,
+                    "lemma": "\u1f24\u03b3\u03b3\u03b9\u03ba\u03b5\u03bd",
+                    "xlit": "\u0113ngiken"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Son ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03a5\u1f31\u1f78\u03c2",
+                    "xlit": "Huios"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of Man ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5",
+                    "xlit": "anthr\u014dpou"
+                },
+                {
+                    "BSB Version": " is betrayed ",
+                    "Str Grk": 3860.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03b4\u03af\u03b4\u03bf\u03c4\u03b1\u03b9",
+                    "xlit": "paradidotai"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " [the] hands ",
+                    "Str Grk": 5495.0,
+                    "lemma": "\u03c7\u03b5\u1fd6\u03c1\u03b1\u03c2",
+                    "xlit": "cheiras"
+                },
+                {
+                    "BSB Version": " of sinners ",
+                    "Str Grk": 268.0,
+                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u1ff6\u03bd",
+                    "xlit": "hamart\u014dl\u014dn"
+                }
+            ],
+            "verse_text": "Then He comes to the disciples and says to them, \"Sleep and take your rest later on. Behold, the hour has drawn near, and the Son of Man is betrayed into <i>the</i> hands of sinners."
+        },
+        {
+            "verse_no": 30461,
+            "verse_ref": "1 Peter 4:14",
+            "verse_data": [
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u0395\u1f30",
+                    "xlit": "Ei"
+                },
+                {
+                    "BSB Version": " you are insulted ",
+                    "Str Grk": 3679.0,
+                    "lemma": "\u1f40\u03bd\u03b5\u03b9\u03b4\u03af\u03b6\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "oneidizesthe"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [the] name ",
+                    "Str Grk": 3686.0,
+                    "lemma": "\u1f40\u03bd\u03cc\u03bc\u03b1\u03c4\u03b9",
+                    "xlit": "onomati"
+                },
+                {
+                    "BSB Version": " of Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+                    "xlit": "Christou"
+                },
+                {
+                    "BSB Version": " [you are] blessed ",
+                    "Str Grk": 3107.0,
+                    "lemma": "\u03bc\u03b1\u03ba\u03ac\u03c1\u03b9\u03bf\u03b9",
+                    "xlit": "makarioi"
+                },
+                {
+                    "BSB Version": " because ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Spirit ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03a0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+                    "xlit": "Pneuma"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " of glory ",
+                    "Str Grk": 1391.0,
+                    "lemma": "\u03b4\u03cc\u03be\u03b7\u03c2",
+                    "xlit": "dox\u0113s"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                },
+                {
+                    "BSB Version": " rests ",
+                    "Str Grk": 373.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c0\u03b1\u03cd\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "anapauetai"
+                },
+                {
+                    "BSB Version": " on ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c6\u2019",
+                    "xlit": "eph\u2019"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                }
+            ],
+            "verse_text": "If you are insulted in <i>the</i> name of Christ, <i>you are</i> blessed, because the Spirit of glory and of God rests upon you."
+        },
+        {
+            "verse_no": 30805,
+            "verse_ref": "Revelation 6:11",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " each ",
+                    "Str Grk": 1538.0,
+                    "lemma": "\u1f11\u03ba\u03ac\u03c3\u03c4\u1ff3",
+                    "xlit": "hekast\u014d"
+                },
+                {
+                    "BSB Version": " of them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " was given ",
+                    "Str Grk": 1325.0,
+                    "lemma": "\u1f10\u03b4\u03cc\u03b8\u03b7",
+                    "xlit": "edoth\u0113"
+                },
+                {
+                    "BSB Version": " a white ",
+                    "Str Grk": 3022.0,
+                    "lemma": "\u03bb\u03b5\u03c5\u03ba\u03ae",
+                    "xlit": "leuk\u0113"
+                },
+                {
+                    "BSB Version": " robe ",
+                    "Str Grk": 4749.0,
+                    "lemma": "\u03c3\u03c4\u03bf\u03bb\u1f74",
+                    "xlit": "stol\u0113"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " told ",
+                    "Str Grk": 2046.0,
+                    "lemma": "\u1f10\u03c1\u03c1\u03ad\u03b8\u03b7",
+                    "xlit": "erreth\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " rest ",
+                    "Str Grk": 373.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c0\u03b1\u03cd\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "anapausontai"
+                },
+                {
+                    "BSB Version": " a little ",
+                    "Str Grk": 3398.0,
+                    "lemma": "\u03bc\u03b9\u03ba\u03c1\u03cc\u03bd",
+                    "xlit": "mikron"
+                },
+                {
+                    "BSB Version": " while ",
+                    "Str Grk": 5550.0,
+                    "lemma": "\u03c7\u03c1\u03cc\u03bd\u03bf\u03bd",
+                    "xlit": "chronon"
+                },
+                {
+                    "BSB Version": " longer ",
+                    "Str Grk": 2089.0,
+                    "lemma": "\u1f14\u03c4\u03b9",
+                    "xlit": "eti"
+                },
+                {
+                    "BSB Version": " until ",
+                    "Str Grk": 2193.0,
+                    "lemma": "\u1f15\u03c9\u03c2",
+                    "xlit": "he\u014ds"
+                },
+                {
+                    "BSB Version": " the full number ",
+                    "Str Grk": 4137.0,
+                    "lemma": "\u03c0\u03bb\u03b7\u03c1\u03c9\u03b8\u1ff6\u03c3\u03b9\u03bd",
+                    "xlit": "pl\u0113r\u014dth\u014dsin"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " of their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " fellow servants ",
+                    "Str Grk": 4889.0,
+                    "lemma": "\u03c3\u03cd\u03bd\u03b4\u03bf\u03c5\u03bb\u03bf\u03b9",
+                    "xlit": "syndouloi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " brothers ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u03bf\u1f76",
+                    "xlit": "adelphoi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " were ",
+                    "Str Grk": 3195.0,
+                    "lemma": "\u03bc\u03ad\u03bb\u03bb\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "mellontes"
+                },
+                {
+                    "BSB Version": " killed ",
+                    "Str Grk": 615.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03c4\u03ad\u03bd\u03bd\u03b5\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "apoktennesthai"
+                },
+                {
+                    "BSB Version": " just as ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " they ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u03af",
+                    "xlit": "autoi"
+                },
+                {
+                    "BSB Version": " [had been killed] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                }
+            ],
+            "verse_text": "And to each of them were given white robes, and it was said to them that they shall rest yet a little time, until their fellow servants would also be complete, and their brothers, those being about to be killed as they also <i>had been</i>."
+        },
+        {
+            "verse_no": 24796,
+            "verse_ref": "Mark 14:41",
+            "verse_data": [
+                {
+                    "BSB Version": " [When] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " [Jesus] returned ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "erchetai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " third time ",
+                    "Str Grk": 5154.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03c4\u03bf\u03bd",
+                    "xlit": "triton"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " He said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3063.0,
+                    "lemma": "\u03bb\u03bf\u03b9\u03c0\u1f78\u03bd",
+                    "xlit": "loipon"
+                },
+                {
+                    "BSB Version": " Are you still sleeping ",
+                    "Str Grk": 2518.0,
+                    "lemma": "\u039a\u03b1\u03b8\u03b5\u03cd\u03b4\u03b5\u03c4\u03b5",
+                    "xlit": "Katheudete"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " resting ",
+                    "Str Grk": 373.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c0\u03b1\u03cd\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "anapauesthe"
+                },
+                {
+                    "BSB Version": " That is enough ",
+                    "Str Grk": 568.0,
+                    "lemma": "\u1f00\u03c0\u03ad\u03c7\u03b5\u03b9",
+                    "xlit": "apechei"
+                },
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " hour ",
+                    "Str Grk": 5610.0,
+                    "lemma": "\u1f65\u03c1\u03b1",
+                    "xlit": "h\u014dra"
+                },
+                {
+                    "BSB Version": " has come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f26\u03bb\u03b8\u03b5\u03bd",
+                    "xlit": "\u0113lthen"
+                },
+                {
+                    "BSB Version": " Look ",
+                    "Str Grk": 2400.0,
+                    "lemma": "\u1f30\u03b4\u03bf\u1f7a",
+                    "xlit": "idou"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Son ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03a5\u1f31\u1f78\u03c2",
+                    "xlit": "Huios"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of Man ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5",
+                    "xlit": "anthr\u014dpou"
+                },
+                {
+                    "BSB Version": " is betrayed ",
+                    "Str Grk": 3860.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03b4\u03af\u03b4\u03bf\u03c4\u03b1\u03b9",
+                    "xlit": "paradidotai"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " hands ",
+                    "Str Grk": 5495.0,
+                    "lemma": "\u03c7\u03b5\u1fd6\u03c1\u03b1\u03c2",
+                    "xlit": "cheiras"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " of sinners ",
+                    "Str Grk": 268.0,
+                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u1ff6\u03bd",
+                    "xlit": "hamart\u014dl\u014dn"
+                }
+            ],
+            "verse_text": "And He comes the third time and says to them, \"Are you still sleeping and taking your rest? It is enough; the hour has come. Behold, the Son of Man is delivered up into the hands of the sinful."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 1448,
+            "lemma": "\u1f10\u03b3\u03b3\u1f77\u03b6\u03c9",
+            "xlit": "eng\u00edz\u014d",
+            "pronunciation": "eng-id'-zo",
+            "kjv_def": "approach, be at\n hand, come (draw) near, be (come, draw) nigh.",
+            "pspeech": "V-RIA-3S",
+            "description": " to make near, i.e. (reflexively) approach"
+        },
+        {
+            "number": 1391,
+            "lemma": "\u03b4\u1f79\u03be\u03b1",
+            "xlit": "d\u00f3xa",
+            "pronunciation": "dox'-ah",
+            "kjv_def": "dignity,\n glory(-ious), honour, praise, worship.",
+            "pspeech": "N-AFS",
+            "description": " glory (as very apparent), in a wide application (literal or figurative, objective or subjective)"
+        },
+        {
+            "number": 3398,
+            "lemma": "\u03bc\u03b9\u03ba\u03c1\u1f79\u03c4\u03b5\u03c1\u03bf\u03c2",
+            "xlit": "mikr\u00f3teros",
+            "pronunciation": "mik-rot'-er-os",
+            "kjv_def": "least, less, little, small.",
+            "pspeech": "Adj-GMP",
+            "description": " small (in size, quantity, number or (figuratively) dignity)"
+        },
+        {
+            "number": 5154,
+            "lemma": "\u03c4\u03c1\u1f77\u03c4\u03bf\u03c2",
+            "xlit": "tr\u00edtos",
+            "pronunciation": "tree'-tos",
+            "kjv_def": "third(-ly).",
+            "pspeech": "Adj-DFS",
+            "description": " third; neuter (as noun) a third part, or (as adverb) a (or the) third time, thirdly"
+        }
+    ]
+}

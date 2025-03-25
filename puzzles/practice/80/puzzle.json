@@ -1,74 +1,111 @@
 {
     "wotd": {
-        "number": 2533,
-        "lemma": "\u039a\u03b1\u03ca\u1f71\u03c6\u03b1\u03c2",
-        "xlit": "Ka\u00ef\u00e1phas",
-        "pronunciation": "kah-ee-af'-as",
-        "description": " the dell; Caiaphas (i.e. Cajepha), an\n Israelite",
-        "kjv_def": "Caiaphas.",
-        "pspeech": "N-GMS"
+        "number": 2325,
+        "lemma": "\u03b8\u03b5\u03c1\u1f77\u03b6\u03c9",
+        "xlit": "ther\u00edz\u014d",
+        "pronunciation": "ther-id'-zo",
+        "kjv_def": "reap.",
+        "pspeech": "V-PIA-3P",
+        "description": " to harvest"
     },
     "verses": [
         {
-            "verse_no": 24058,
-            "verse_ref": "Matthew 26:3",
+            "verse_no": 28552,
+            "verse_ref": "1 Corinthians 9:11",
             "verse_data": [
                 {
-                    "BSB Version": " At that time ",
-                    "Str Grk": 5119.0,
-                    "lemma": "\u03a4\u03cc\u03c4\u03b5",
-                    "xlit": "Tote"
+                    "BSB Version": " If ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u0395\u1f30",
+                    "xlit": "Ei"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03bf\u1f31",
-                    "xlit": "hoi"
+                    "BSB Version": " we ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "h\u0113meis"
                 },
                 {
-                    "BSB Version": " chief priests ",
-                    "Str Grk": 749.0,
-                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1fd6\u03c2",
-                    "xlit": "archiereis"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " have sown ",
+                    "Str Grk": 4687.0,
+                    "lemma": "\u1f10\u03c3\u03c0\u03b5\u03af\u03c1\u03b1\u03bc\u03b5\u03bd",
+                    "xlit": "espeiramen"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03bf\u1f31",
-                    "xlit": "hoi"
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
                 },
                 {
-                    "BSB Version": " elders ",
-                    "Str Grk": 4245.0,
-                    "lemma": "\u03c0\u03c1\u03b5\u03c3\u03b2\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9",
-                    "xlit": "presbyteroi"
+                    "BSB Version": " spiritual [seed] ",
+                    "Str Grk": 4152.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u1f70",
+                    "xlit": "pneumatika"
                 },
                 {
-                    "BSB Version": " of the ",
+                    "BSB Version": " among you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " [is it] too much ",
+                    "Str Grk": 3173.0,
+                    "lemma": "\u03bc\u03ad\u03b3\u03b1",
+                    "xlit": "mega"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u03b5\u1f30",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " for us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "h\u0113meis"
+                },
+                {
+                    "BSB Version": " to reap ",
+                    "Str Grk": 2325.0,
+                    "lemma": "\u03b8\u03b5\u03c1\u03af\u03c3\u03bf\u03bc\u03b5\u03bd",
+                    "xlit": "therisomen"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
                 },
                 {
-                    "BSB Version": " people ",
-                    "Str Grk": 2992.0,
-                    "lemma": "\u03bb\u03b1\u03bf\u1fe6",
-                    "xlit": "laou"
+                    "BSB Version": " a material [harvest] ",
+                    "Str Grk": 4559.0,
+                    "lemma": "\u03c3\u03b1\u03c1\u03ba\u03b9\u03ba\u1f70",
+                    "xlit": "sarkika"
                 },
                 {
-                    "BSB Version": " assembled ",
-                    "Str Grk": 4863.0,
-                    "lemma": "\u03c3\u03c5\u03bd\u03ae\u03c7\u03b8\u03b7\u03c3\u03b1\u03bd",
-                    "xlit": "syn\u0113chth\u0113san"
+                    "BSB Version": " from you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                }
+            ],
+            "verse_text": "If we have sown spiritual things among you, <i>is it</i> a great thing if we will reap material things from you?"
+        },
+        {
+            "verse_no": 23309,
+            "verse_ref": "Matthew 6:26",
+            "verse_data": [
+                {
+                    "BSB Version": " Look ",
+                    "Str Grk": 1689.0,
+                    "lemma": "\u1f10\u03bc\u03b2\u03bb\u03ad\u03c8\u03b1\u03c4\u03b5",
+                    "xlit": "emblepsate"
                 },
                 {
-                    "BSB Version": " in ",
+                    "BSB Version": " at ",
                     "Str Grk": 1519.0,
                     "lemma": "\u03b5\u1f30\u03c2",
                     "xlit": "eis"
@@ -76,14 +113,14 @@
                 {
                     "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
                 },
                 {
-                    "BSB Version": " courtyard ",
-                    "Str Grk": 833.0,
-                    "lemma": "\u03b1\u1f50\u03bb\u1f74\u03bd",
-                    "xlit": "aul\u0113n"
+                    "BSB Version": " birds ",
+                    "Str Grk": 4071.0,
+                    "lemma": "\u03c0\u03b5\u03c4\u03b5\u03b9\u03bd\u1f70",
+                    "xlit": "peteina"
                 },
                 {
                     "BSB Version": " of the ",
@@ -92,168 +129,179 @@
                     "xlit": "tou"
                 },
                 {
-                    "BSB Version": " high priest ",
-                    "Str Grk": 749.0,
-                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03ad\u03c9\u03c2",
-                    "xlit": "archiere\u014ds"
+                    "BSB Version": " air ",
+                    "Str Grk": 3772.0,
+                    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fe6",
+                    "xlit": "ouranou"
                 },
                 {
-                    "BSB Version": " whose ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
                 },
                 {
-                    "BSB Version": " name was ",
-                    "Str Grk": 3004.0,
-                    "lemma": "\u03bb\u03b5\u03b3\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5",
-                    "xlit": "legomenou"
+                    "BSB Version": " They do not sow ",
+                    "Str Grk": 4687.0,
+                    "lemma": "\u03c3\u03c0\u03b5\u03af\u03c1\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "speirousin"
                 },
                 {
-                    "BSB Version": " Caiaphas ",
-                    "Str Grk": 2533.0,
-                    "lemma": "\u039a\u03b1\u03ca\u03ac\u03c6\u03b1",
-                    "xlit": "Kaiapha"
-                }
-            ],
-            "verse_text": "Then the chief priests and the elders of the people were gathered together in the courtyard of the high priest, who is called Caiaphas,"
-        },
-        {
-            "verse_no": 27029,
-            "verse_ref": "Acts 4:6",
-            "verse_data": [
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
                 {
-                    "BSB Version": " along with ",
+                    "BSB Version": " [or] ",
+                    "Str Grk": 3761.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u1f72",
+                    "xlit": "oude"
+                },
+                {
+                    "BSB Version": " reap ",
+                    "Str Grk": 2325.0,
+                    "lemma": "\u03b8\u03b5\u03c1\u03af\u03b6\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "therizousin"
+                },
+                {
+                    "BSB Version": " [or] ",
+                    "Str Grk": 3761.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u1f72",
+                    "xlit": "oude"
+                },
+                {
+                    "BSB Version": " gather ",
+                    "Str Grk": 4863.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03ac\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "synagousin"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " barns ",
+                    "Str Grk": 596.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03b8\u03ae\u03ba\u03b1\u03c2",
+                    "xlit": "apoth\u0113kas"
+                },
+                {
+                    "BSB Version": " and yet ",
                     "Str Grk": 2532.0,
                     "lemma": "\u03ba\u03b1\u1f76",
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " Annas ",
-                    "Str Grk": 452.0,
-                    "lemma": "\u1f0d\u03bd\u03bd\u03b1\u03c2",
-                    "xlit": "Hannas"
-                },
-                {
-                    "BSB Version": " the ",
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
                     "lemma": "\u1f41",
                     "xlit": "ho"
                 },
                 {
-                    "BSB Version": " high priest ",
-                    "Str Grk": 749.0,
-                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2",
-                    "xlit": "archiereus"
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " Caiaphas ",
-                    "Str Grk": 2533.0,
-                    "lemma": "\u039a\u03b1\u03ca\u03ac\u03c6\u03b1\u03c2",
-                    "xlit": "Kaiaphas"
+                    "BSB Version": " heavenly ",
+                    "Str Grk": 3770.0,
+                    "lemma": "\u03bf\u1f50\u03c1\u03ac\u03bd\u03b9\u03bf\u03c2",
+                    "xlit": "ouranios"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " Father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u1f74\u03c1",
+                    "xlit": "Pat\u0113r"
                 },
                 {
-                    "BSB Version": " John ",
-                    "Str Grk": 2491.0,
-                    "lemma": "\u1f38\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2",
-                    "xlit": "I\u014dann\u0113s"
+                    "BSB Version": " feeds ",
+                    "Str Grk": 5142.0,
+                    "lemma": "\u03c4\u03c1\u03ad\u03c6\u03b5\u03b9",
+                    "xlit": "trephei"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03ac",
+                    "xlit": "auta"
                 },
                 {
-                    "BSB Version": " Alexander ",
-                    "Str Grk": 223.0,
-                    "lemma": "\u1f08\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2",
-                    "xlit": "Alexandros"
+                    "BSB Version": " {Are} you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "hymeis"
                 },
                 {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03c7",
+                    "xlit": "ouch"
                 },
                 {
-                    "BSB Version": " many others ",
-                    "Str Grk": 3745.0,
-                    "lemma": "\u1f45\u03c3\u03bf\u03b9",
-                    "xlit": "hosoi"
+                    "BSB Version": " much ",
+                    "Str Grk": 3123.0,
+                    "lemma": "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd",
+                    "xlit": "mallon"
                 },
                 {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03c3\u03b1\u03bd",
-                    "xlit": "\u0113san"
+                    "BSB Version": " more valuable ",
+                    "Str Grk": 1308.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b5",
+                    "xlit": "diapherete"
                 },
                 {
-                    "BSB Version": " from ",
-                    "Str Grk": 1537.0,
-                    "lemma": "\u1f10\u03ba",
-                    "xlit": "ek"
-                },
-                {
-                    "BSB Version": " the high priest\u2019s ",
-                    "Str Grk": 748.0,
-                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b1\u03c4\u03b9\u03ba\u03bf\u1fe6",
-                    "xlit": "archieratikou"
-                },
-                {
-                    "BSB Version": " family ",
-                    "Str Grk": 1085.0,
-                    "lemma": "\u03b3\u03ad\u03bd\u03bf\u03c5\u03c2",
-                    "xlit": "genous"
+                    "BSB Version": " than they ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
                 }
             ],
-            "verse_text": "and Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of high-priestly descent."
+            "verse_text": "Look at the birds of the air. They do not sow nor do they reap, nor do they gather into barns, and your Heavenly Father feeds them. Are you not much more valuable than they?"
         },
         {
-            "verse_no": 26799,
-            "verse_ref": "John 18:13",
+            "verse_no": 29196,
+            "verse_ref": "Galatians 6:7",
             "verse_data": [
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " {Do} not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u039c\u1f74",
+                    "xlit": "M\u0113"
                 },
                 {
-                    "BSB Version": " They brought [Him] first ",
-                    "Str Grk": 71.0,
-                    "lemma": "\u1f24\u03b3\u03b1\u03b3\u03bf\u03bd",
-                    "xlit": "\u0113gagon"
+                    "BSB Version": " be deceived ",
+                    "Str Grk": 4105.0,
+                    "lemma": "\u03c0\u03bb\u03b1\u03bd\u1fb6\u03c3\u03b8\u03b5",
+                    "xlit": "planasthe"
                 },
                 {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 4412.0,
-                    "lemma": "\u03c0\u03c1\u1ff6\u03c4\u03bf\u03bd",
-                    "xlit": "pr\u014dton"
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
                 },
                 {
-                    "BSB Version": " to ",
-                    "Str Grk": 4314.0,
-                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
-                    "xlit": "pros"
+                    "BSB Version": " {is} not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
                 },
                 {
-                    "BSB Version": " Annas ",
-                    "Str Grk": 452.0,
-                    "lemma": "\u1f0d\u03bd\u03bd\u03b1\u03bd",
-                    "xlit": "Hannan"
+                    "BSB Version": " to be mocked ",
+                    "Str Grk": 3456.0,
+                    "lemma": "\u03bc\u03c5\u03ba\u03c4\u03b7\u03c1\u03af\u03b6\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "mykt\u0113rizetai"
                 },
                 {
                     "BSB Version": " - ",
@@ -262,149 +310,113 @@
                     "xlit": "gar"
                 },
                 {
-                    "BSB Version": " who was ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03bd",
-                    "xlit": "\u0113n"
-                },
-                {
-                    "BSB Version": " [the] father-in-law ",
-                    "Str Grk": 3995.0,
-                    "lemma": "\u03c0\u03b5\u03bd\u03b8\u03b5\u03c1\u1f78\u03c2",
-                    "xlit": "pentheros"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
-                },
-                {
-                    "BSB Version": " of Caiaphas ",
-                    "Str Grk": 2533.0,
-                    "lemma": "\u039a\u03b1\u03ca\u03ac\u03c6\u03b1",
-                    "xlit": "Kaiapha"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " Whatever ",
                     "Str Grk": 3739.0,
-                    "lemma": "\u1f43\u03c2",
-                    "xlit": "hos"
+                    "lemma": "\u1f43",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 1510.0,
-                    "lemma": "\u1f26\u03bd",
-                    "xlit": "\u0113n"
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
                 },
                 {
-                    "BSB Version": " [the] high priest ",
-                    "Str Grk": 749.0,
-                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2",
-                    "xlit": "archiereus"
+                    "BSB Version": " a man ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+                    "xlit": "anthr\u014dpos"
                 },
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "BSB Version": " sows ",
+                    "Str Grk": 4687.0,
+                    "lemma": "\u03c3\u03c0\u03b5\u03af\u03c1\u1fc3",
+                    "xlit": "speir\u0113"
                 },
                 {
-                    "BSB Version": " [that] ",
-                    "Str Grk": 1565.0,
-                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u03bf\u03c5",
-                    "xlit": "ekeinou"
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
                 },
                 {
-                    "BSB Version": " year ",
-                    "Str Grk": 1763.0,
-                    "lemma": "\u1f10\u03bd\u03b9\u03b1\u03c5\u03c4\u03bf\u1fe6",
-                    "xlit": "eniautou"
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " he will reap in return ",
+                    "Str Grk": 2325.0,
+                    "lemma": "\u03b8\u03b5\u03c1\u03af\u03c3\u03b5\u03b9",
+                    "xlit": "therisei"
                 }
             ],
-            "verse_text": "And they led <i>Him</i> away to Annas first; for he was father-in-law of Caiaphas, who was high priest the same year."
+            "verse_text": "Do not be misled: God is not mocked. For whatever a man might sow, that also he will reap."
         },
         {
-            "verse_no": 24112,
-            "verse_ref": "Matthew 26:57",
+            "verse_no": 26194,
+            "verse_ref": "John 4:37",
             "verse_data": [
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
                 },
                 {
-                    "BSB Version": " Those ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u039f\u1f31",
-                    "xlit": "Hoi"
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
                 },
                 {
-                    "BSB Version": " who had arrested ",
-                    "Str Grk": 2902.0,
-                    "lemma": "\u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "krat\u0113santes"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " Jesus ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03bd",
-                    "xlit": "I\u0113soun"
-                },
-                {
-                    "BSB Version": " led [Him] away ",
-                    "Str Grk": 520.0,
-                    "lemma": "\u1f00\u03c0\u03ae\u03b3\u03b1\u03b3\u03bf\u03bd",
-                    "xlit": "ap\u0113gagon"
-                },
-                {
-                    "BSB Version": " to [the house of] ",
-                    "Str Grk": 4314.0,
-                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
-                    "xlit": "pros"
-                },
-                {
-                    "BSB Version": " Caiaphas ",
-                    "Str Grk": 2533.0,
-                    "lemma": "\u039a\u03b1\u03ca\u03ac\u03c6\u03b1\u03bd",
-                    "xlit": "Kaiaphan"
+                    "BSB Version": " this case ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u1ff3",
+                    "xlit": "tout\u014d"
                 },
                 {
                     "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " high priest ",
-                    "Str Grk": 749.0,
-                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03ad\u03b1",
-                    "xlit": "archierea"
+                    "BSB Version": " saying ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c2",
+                    "xlit": "logos"
                 },
                 {
-                    "BSB Version": " where ",
-                    "Str Grk": 3699.0,
-                    "lemma": "\u1f45\u03c0\u03bf\u03c5",
-                    "xlit": "hopou"
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
                 },
                 {
-                    "BSB Version": " the ",
+                    "BSB Version": " - ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u1f76\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " One ",
+                    "Str Grk": 243.0,
+                    "lemma": "\u1f0c\u03bb\u03bb\u03bf\u03c2",
+                    "xlit": "Allos"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03bf\u1f31",
-                    "xlit": "hoi"
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " scribes ",
-                    "Str Grk": 1122.0,
-                    "lemma": "\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b5\u1fd6\u03c2",
-                    "xlit": "grammateis"
+                    "BSB Version": " sows ",
+                    "Str Grk": 4687.0,
+                    "lemma": "\u03c3\u03c0\u03b5\u03af\u03c1\u03c9\u03bd",
+                    "xlit": "speir\u014dn"
                 },
                 {
                     "BSB Version": " and ",
@@ -413,63 +425,75 @@
                     "xlit": "kai"
                 },
                 {
+                    "BSB Version": " another ",
+                    "Str Grk": 243.0,
+                    "lemma": "\u1f04\u03bb\u03bb\u03bf\u03c2",
+                    "xlit": "allos"
+                },
+                {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03bf\u1f31",
-                    "xlit": "hoi"
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " elders ",
-                    "Str Grk": 4245.0,
-                    "lemma": "\u03c0\u03c1\u03b5\u03c3\u03b2\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9",
-                    "xlit": "presbyteroi"
+                    "BSB Version": " reaps ",
+                    "Str Grk": 2325.0,
+                    "lemma": "\u03b8\u03b5\u03c1\u03af\u03b6\u03c9\u03bd",
+                    "xlit": "theriz\u014dn"
                 },
                 {
-                    "BSB Version": " had gathered ",
-                    "Str Grk": 4863.0,
-                    "lemma": "\u03c3\u03c5\u03bd\u03ae\u03c7\u03b8\u03b7\u03c3\u03b1\u03bd",
-                    "xlit": "syn\u0113chth\u0113san"
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u1f76\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " true ",
+                    "Str Grk": 228.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1f78\u03c2",
+                    "xlit": "al\u0113thinos"
                 }
             ],
-            "verse_text": "And those having seized Jesus led <i>Him</i> away to Caiaphas the high priest, where the scribes and the elders were assembled."
+            "verse_text": "For in this, the saying is true, that is, 'One is sowing, and another is reaping.'"
         }
     ],
     "other_words": [
         {
-            "number": 833,
-            "lemma": "\u03b1\u1f50\u03bb\u1f75",
-            "xlit": "aul\u1e17",
-            "pronunciation": "ow-lay'",
-            "description": " a yard (as open to the wind); by implication, a\n mansion",
-            "kjv_def": "court, (sheep-)fold, hall, palace.",
-            "pspeech": "N-AFS"
+            "number": 4152,
+            "lemma": "\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u1f79\u03c2",
+            "xlit": "pneumatik\u00f3s",
+            "pronunciation": "pnyoo-mat-ik-os'",
+            "kjv_def": "spiritual.",
+            "pspeech": "Adj-ANS",
+            "description": " non-carnal, i.e. (humanly) ethereal (as opposed to gross), or (d\u00e6moniacally) a spirit (concretely), or (divinely) supernatural, regenerate, religious"
         },
         {
-            "number": 1085,
-            "lemma": "\u03b3\u1f73\u03bd\u03bf\u03c2",
-            "xlit": "g\u00e9nos",
-            "pronunciation": "ghen'-os",
-            "description": " \"kin\" (abstract or concrete, literal or figurative,\n individual or collective)",
-            "kjv_def": "born, country(-man), diversity,\n generation, kind(-red), nation, offspring, stock.",
-            "pspeech": "N-GNS"
+            "number": 5142,
+            "lemma": "\u03c4\u03c1\u1f73\u03c6\u03c9",
+            "xlit": "tr\u00e9ph\u014d",
+            "pronunciation": "tref'-o",
+            "kjv_def": "bring up, feed, nourish.",
+            "pspeech": "V-PIA-3S",
+            "description": " but perhaps strengthened from the base of \u03c4\u03c1\u03bf\u03c0\u1f75(trop\u1e17) through the idea of convolution); properly, to stiffen, i.e. fatten (by implication, to cherish (with food, etc.), pamper, rear)"
         },
         {
-            "number": 4412,
-            "lemma": "\u03c0\u03c1\u1ff6\u03c4\u03bf\u03bd",
-            "xlit": "pr\u014dton",
-            "pronunciation": "pro'-ton",
-            "description": " firstly (in time,\n place, order, or importance)",
-            "kjv_def": "before, at the beginning, chiefly (at,\n at the) first (of all).",
-            "pspeech": "Adv-S"
+            "number": 2316,
+            "lemma": "\u03b8\u03b5\u1f79\u03c2",
+            "xlit": "the\u00f3s",
+            "pronunciation": "theh'-os",
+            "kjv_def": "X exceeding,\n God, god(-ly, -ward).",
+            "pspeech": "N-NMS",
+            "description": " a deity, especially (with \u03c4\u1f79(t\u00f3)) the supreme Divinity; figuratively, a magistrate; by Hebraism, very"
         },
         {
-            "number": 2424,
-            "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
-            "xlit": "I\u0113so\u00fbs",
-            "pronunciation": "ee-ay-sooce'",
-            "description": " Jesus (i.e. Jehoshua), the name of our Lord\n and two (three) other Israelites",
-            "kjv_def": "Jesus.",
-            "pspeech": "N-GMS"
+            "number": 228,
+            "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1f79\u03c2",
+            "xlit": "al\u0113thin\u00f3s",
+            "pronunciation": "al-ay-thee-nos'",
+            "kjv_def": "true.",
+            "pspeech": "Adj-ANS",
+            "description": " truthful"
         }
     ]
 }

@@ -1,180 +1,77 @@
 {
     "wotd": {
-        "number": 4129,
-        "lemma": "\u03c0\u03bb\u03b7\u03b8\u1f7b\u03bd\u03c9",
-        "xlit": "pl\u0113th\u00fdn\u014d",
-        "pronunciation": "play-thoo'-no",
-        "description": " to increase (transitively or\n intransitively)",
-        "kjv_def": "abound, multiply.",
-        "pspeech": "V-ANP"
+        "number": 228,
+        "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1f79\u03c2",
+        "xlit": "al\u0113thin\u00f3s",
+        "pronunciation": "al-ay-thee-nos'",
+        "kjv_def": "true.",
+        "pspeech": "Adj-ANS",
+        "description": " truthful"
     },
     "verses": [
         {
-            "verse_no": 27103,
-            "verse_ref": "Acts 6:1",
+            "verse_no": 30804,
+            "verse_ref": "Revelation 6:10",
             "verse_data": [
                 {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " they cried out ",
+                    "Str Grk": 2896.0,
+                    "lemma": "\u1f14\u03ba\u03c1\u03b1\u03be\u03b1\u03bd",
+                    "xlit": "ekraxan"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3173.0,
+                    "lemma": "\u03bc\u03b5\u03b3\u03ac\u03bb\u1fc3",
+                    "xlit": "megal\u0113"
+                },
+                {
+                    "BSB Version": " in a loud voice ",
+                    "Str Grk": 5456.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc7",
+                    "xlit": "ph\u014dn\u0113"
+                },
+                {
                     "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "legontes"
                 },
                 {
-                    "BSB Version": " In ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f18\u03bd",
-                    "xlit": "En"
+                    "BSB Version": " How long ",
+                    "Str Grk": 4219.0,
+                    "lemma": "\u03c0\u03cc\u03c4\u03b5",
+                    "xlit": "pote"
                 },
                 {
-                    "BSB Version": " those ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03b1\u03cd\u03c4\u03b1\u03b9\u03c2",
-                    "xlit": "tautais"
-                },
-                {
-                    "BSB Version": " - ",
+                    "BSB Version": " O ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03b1\u1fd6\u03c2",
-                    "xlit": "tais"
-                },
-                {
-                    "BSB Version": " days [when] ",
-                    "Str Grk": 2250.0,
-                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9\u03c2",
-                    "xlit": "h\u0113merais"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
-                },
-                {
-                    "BSB Version": " disciples ",
-                    "Str Grk": 3101.0,
-                    "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u1ff6\u03bd",
-                    "xlit": "math\u0113t\u014dn"
-                },
-                {
-                    "BSB Version": " were increasing in number ",
-                    "Str Grk": 4129.0,
-                    "lemma": "\u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03cc\u03bd\u03c4\u03c9\u03bd",
-                    "xlit": "pl\u0113thynont\u014dn"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
-                },
-                {
-                    "BSB Version": " Grecian [Jews among them] ",
-                    "Str Grk": 1675.0,
-                    "lemma": "\u1f19\u03bb\u03bb\u03b7\u03bd\u03b9\u03c3\u03c4\u1ff6\u03bd",
-                    "xlit": "Hell\u0113nist\u014dn"
-                },
-                {
-                    "BSB Version": " began ",
-                    "Str Grk": 1096.0,
-                    "lemma": "\u1f10\u03b3\u03ad\u03bd\u03b5\u03c4\u03bf",
-                    "xlit": "egeneto"
-                },
-                {
-                    "BSB Version": " to grumble ",
-                    "Str Grk": 1112.0,
-                    "lemma": "\u03b3\u03bf\u03b3\u03b3\u03c5\u03c3\u03bc\u1f78\u03c2",
-                    "xlit": "gongysmos"
-                },
-                {
-                    "BSB Version": " against ",
-                    "Str Grk": 4314.0,
-                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
-                    "xlit": "pros"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "tous"
-                },
-                {
-                    "BSB Version": " Hebraic [Jews] ",
-                    "Str Grk": 1445.0,
-                    "lemma": "\u1f19\u03b2\u03c1\u03b1\u03af\u03bf\u03c5\u03c2",
-                    "xlit": "Hebraious"
-                },
-                {
-                    "BSB Version": " because ",
-                    "Str Grk": 3754.0,
-                    "lemma": "\u1f45\u03c4\u03b9",
-                    "xlit": "hoti"
-                },
-                {
-                    "BSB Version": " their ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
-                    "xlit": "aut\u014dn"
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03b1\u1f31",
-                    "xlit": "hai"
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
                 },
                 {
-                    "BSB Version": " widows ",
-                    "Str Grk": 5503.0,
-                    "lemma": "\u03c7\u1fc6\u03c1\u03b1\u03b9",
-                    "xlit": "ch\u0113rai"
+                    "BSB Version": " Lord ",
+                    "Str Grk": 1203.0,
+                    "lemma": "\u0394\u03b5\u03c3\u03c0\u03cc\u03c4\u03b7\u03c2",
+                    "xlit": "Despot\u0113s"
                 },
                 {
-                    "BSB Version": " were being overlooked ",
-                    "Str Grk": 3865.0,
-                    "lemma": "\u03c0\u03b1\u03c1\u03b5\u03b8\u03b5\u03c9\u03c1\u03bf\u1fe6\u03bd\u03c4\u03bf",
-                    "xlit": "parethe\u014drounto"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " daily ",
-                    "Str Grk": 2522.0,
-                    "lemma": "\u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u1fc7",
-                    "xlit": "kath\u0113merin\u0113"
-                },
-                {
-                    "BSB Version": " distribution [ of food ] ",
-                    "Str Grk": 1248.0,
-                    "lemma": "\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03af\u1fb3",
-                    "xlit": "diakonia"
-                }
-            ],
-            "verse_text": "Now in these days <i>when</i> the disciples are multiplying, there arose a grumbling of the Hellenists against the Hebrews, because their widows were being overlooked in the daily distribution."
-        },
-        {
-            "verse_no": 30482,
-            "verse_ref": "2 Peter 1:2",
-            "verse_data": [
-                {
-                    "BSB Version": " Grace ",
-                    "Str Grk": 5485.0,
-                    "lemma": "\u03a7\u03ac\u03c1\u03b9\u03c2",
-                    "xlit": "Charis"
+                    "BSB Version": " holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
+                    "xlit": "hagios"
                 },
                 {
                     "BSB Version": " and ",
@@ -183,46 +80,58 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " peace ",
-                    "Str Grk": 1515.0,
-                    "lemma": "\u03b5\u1f30\u03c1\u03ae\u03bd\u03b7",
-                    "xlit": "eir\u0113n\u0113"
+                    "BSB Version": " true ",
+                    "Str Grk": 228.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u03cc\u03c2",
+                    "xlit": "al\u0113thinos"
                 },
                 {
-                    "BSB Version": " be multiplied ",
-                    "Str Grk": 4129.0,
-                    "lemma": "\u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03b8\u03b5\u03af\u03b7",
-                    "xlit": "pl\u0113thynthei\u0113"
+                    "BSB Version": " until ",
+                    "Str Grk": 2193.0,
+                    "lemma": "\u1f1d\u03c9\u03c2",
+                    "xlit": "He\u014ds"
                 },
                 {
-                    "BSB Version": " to you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
-                    "xlit": "hymin"
-                },
-                {
-                    "BSB Version": " through ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " [the] knowledge ",
-                    "Str Grk": 1922.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03b3\u03bd\u03ce\u03c3\u03b5\u03b9",
-                    "xlit": "epign\u014dsei"
+                    "BSB Version": " You judge ",
+                    "Str Grk": 2919.0,
+                    "lemma": "\u03ba\u03c1\u03af\u03bd\u03b5\u03b9\u03c2",
+                    "xlit": "krineis"
                 },
                 {
                     "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
                 },
                 {
-                    "BSB Version": " of God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
-                    "xlit": "Theou"
+                    "BSB Version": " those who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " dwell ",
+                    "Str Grk": 2730.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03bf\u03b9\u03ba\u03bf\u03cd\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "katoikount\u014dn"
+                },
+                {
+                    "BSB Version": " upon ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " earth ",
+                    "Str Grk": 1093.0,
+                    "lemma": "\u03b3\u1fc6\u03c2",
+                    "xlit": "g\u0113s"
                 },
                 {
                     "BSB Version": " and ",
@@ -231,10 +140,16 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " of Jesus ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
-                    "xlit": "I\u0113sou"
+                    "BSB Version": " - ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " avenge ",
+                    "Str Grk": 1556.0,
+                    "lemma": "\u1f10\u03ba\u03b4\u03b9\u03ba\u03b5\u1fd6\u03c2",
+                    "xlit": "ekdikeis"
                 },
                 {
                     "BSB Version": " our ",
@@ -245,166 +160,21 @@
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1fe6",
-                    "xlit": "tou"
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
                 },
                 {
-                    "BSB Version": " Lord ",
-                    "Str Grk": 2962.0,
-                    "lemma": "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
-                    "xlit": "Kyriou"
+                    "BSB Version": " blood ",
+                    "Str Grk": 129.0,
+                    "lemma": "\u03b1\u1f37\u03bc\u03b1",
+                    "xlit": "haima"
                 }
             ],
-            "verse_text": "Grace and peace be multiplied to you in <i>the</i> knowledge of God and of Jesus our Lord."
+            "verse_text": "And they were crying in a loud voice, saying, \"Until when, O Lord, holy and true, do You not judge and avenge our blood from those dwelling upon the earth?\""
         },
         {
-            "verse_no": 28967,
-            "verse_ref": "2 Corinthians 9:10",
-            "verse_data": [
-                {
-                    "BSB Version": " Now ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " He who ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f49",
-                    "xlit": "Ho"
-                },
-                {
-                    "BSB Version": " supplies ",
-                    "Str Grk": 2023.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03c7\u03bf\u03c1\u03b7\u03b3\u1ff6\u03bd",
-                    "xlit": "epichor\u0113g\u014dn"
-                },
-                {
-                    "BSB Version": " seed ",
-                    "Str Grk": 4703.0,
-                    "lemma": "\u03c3\u03c0\u1f79\u03c1\u03bf\u03bd",
-                    "xlit": "sporon"
-                },
-                {
-                    "BSB Version": " to the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
-                },
-                {
-                    "BSB Version": " sower ",
-                    "Str Grk": 4687.0,
-                    "lemma": "\u03c3\u03c0\u03b5\u03af\u03c1\u03bf\u03bd\u03c4\u03b9",
-                    "xlit": "speironti"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " bread ",
-                    "Str Grk": 740.0,
-                    "lemma": "\u1f04\u03c1\u03c4\u03bf\u03bd",
-                    "xlit": "arton"
-                },
-                {
-                    "BSB Version": " for ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " food ",
-                    "Str Grk": 1035.0,
-                    "lemma": "\u03b2\u03c1\u1ff6\u03c3\u03b9\u03bd",
-                    "xlit": "br\u014dsin"
-                },
-                {
-                    "BSB Version": " will supply ",
-                    "Str Grk": 5524.0,
-                    "lemma": "\u03c7\u03bf\u03c1\u03b7\u03b3\u03ae\u03c3\u03b5\u03b9",
-                    "xlit": "chor\u0113g\u0113sei"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " multiply ",
-                    "Str Grk": 4129.0,
-                    "lemma": "\u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03b5\u1fd6",
-                    "xlit": "pl\u0113thynei"
-                },
-                {
-                    "BSB Version": " your ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
-                    "xlit": "hym\u014dn"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " store of seed ",
-                    "Str Grk": 4703.0,
-                    "lemma": "\u03c3\u03c0\u03cc\u03c1\u03bf\u03bd",
-                    "xlit": "sporon"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " will increase ",
-                    "Str Grk": 837.0,
-                    "lemma": "\u03b1\u1f50\u03be\u03ae\u03c3\u03b5\u03b9",
-                    "xlit": "aux\u0113sei"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f70",
-                    "xlit": "ta"
-                },
-                {
-                    "BSB Version": " harvest ",
-                    "Str Grk": 1081.0,
-                    "lemma": "\u03b3\u03b5\u03bd\u03ae\u03bc\u03b1\u03c4\u03b1",
-                    "xlit": "gen\u0113mata"
-                },
-                {
-                    "BSB Version": " of ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc6\u03c2",
-                    "xlit": "t\u0113s"
-                },
-                {
-                    "BSB Version": " your ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
-                    "xlit": "hym\u014dn"
-                },
-                {
-                    "BSB Version": " righteousness ",
-                    "Str Grk": 1343.0,
-                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u03b7\u03c2",
-                    "xlit": "dikaiosyn\u0113s"
-                }
-            ],
-            "verse_text": "Now the <i>One</i> supplying seed to the <i>one</i> sowing and bread for food will supply and will multiply your seed for sowing and will increase the fruits of your righteousness,"
-        },
-        {
-            "verse_no": 23970,
-            "verse_ref": "Matthew 24:12",
+            "verse_no": 30754,
+            "verse_ref": "Revelation 3:7",
             "verse_data": [
                 {
                     "BSB Version": " - ",
@@ -413,22 +183,239 @@
                     "xlit": "Kai"
                 },
                 {
-                    "BSB Version": " Because of ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
+                    "BSB Version": " To ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " [the] angel ",
+                    "Str Grk": 32.0,
+                    "lemma": "\u1f00\u03b3\u03b3\u03ad\u03bb\u1ff3",
+                    "xlit": "angel\u014d"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " church ",
+                    "Str Grk": 1577.0,
+                    "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03c2",
+                    "xlit": "ekkl\u0113sias"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Philadelphia ",
+                    "Str Grk": 5359.0,
+                    "lemma": "\u03a6\u03b9\u03bb\u03b1\u03b4\u03b5\u03bb\u03c6\u03b5\u03af\u1fb3",
+                    "xlit": "Philadelpheia"
+                },
+                {
+                    "BSB Version": " write ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03c1\u03ac\u03c8\u03bf\u03bd",
+                    "xlit": "grapson"
+                },
+                {
+                    "BSB Version": " These [are] ",
+                    "Str Grk": 3592.0,
+                    "lemma": "\u03a4\u03ac\u03b4\u03b5",
+                    "xlit": "Tade"
+                },
+                {
+                    "BSB Version": " the words ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " of the [One who is] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
+                    "xlit": "hagios"
+                },
+                {
+                    "BSB Version": " [and] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " true ",
+                    "Str Grk": 228.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u03cc\u03c2",
+                    "xlit": "al\u0113thinos"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " holds ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f14\u03c7\u03c9\u03bd",
+                    "xlit": "ech\u014dn"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " key ",
+                    "Str Grk": 2807.0,
+                    "lemma": "\u03ba\u03bb\u03b5\u1fd6\u03bd",
+                    "xlit": "klein"
+                },
+                {
+                    "BSB Version": " of David ",
+                    "Str Grk": 1138.0,
+                    "lemma": "\u0394\u03b1\u03c5\u03af\u03b4",
+                    "xlit": "Dauid"
+                },
+                {
+                    "BSB Version": " What ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " He opens ",
+                    "Str Grk": 455.0,
+                    "lemma": "\u1f00\u03bd\u03bf\u03af\u03b3\u03c9\u03bd",
+                    "xlit": "anoig\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " no one ",
+                    "Str Grk": 3762.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2",
+                    "xlit": "oudeis"
+                },
+                {
+                    "BSB Version": " can shut ",
+                    "Str Grk": 2808.0,
+                    "lemma": "\u03ba\u03bb\u03b5\u03af\u03c3\u03b5\u03b9",
+                    "xlit": "kleisei"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " what He shuts ",
+                    "Str Grk": 2808.0,
+                    "lemma": "\u03ba\u03bb\u03b5\u03af\u03c9\u03bd",
+                    "xlit": "klei\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " no one ",
+                    "Str Grk": 3762.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2",
+                    "xlit": "oudeis"
+                },
+                {
+                    "BSB Version": " can open ",
+                    "Str Grk": 455.0,
+                    "lemma": "\u1f00\u03bd\u03bf\u03af\u03b3\u03b5\u03b9",
+                    "xlit": "anoigei"
+                }
+            ],
+            "verse_text": "And to <i>the</i> messenger of the church in Philadelphia write: These things says the Holy <i>One</i>, the True <i>One</i>, having the key of David, the <i>One</i> opening and no one will shut, and shutting and no one opens."
+        },
+        {
+            "verse_no": 30950,
+            "verse_ref": "Revelation 15:3",
+            "verse_data": [
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " they sang ",
+                    "Str Grk": 103.0,
+                    "lemma": "\u1f84\u03b4\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "adousin"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " song ",
+                    "Str Grk": 5603.0,
+                    "lemma": "\u1fa0\u03b4\u1f74\u03bd",
+                    "xlit": "\u014dd\u0113n"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " God\u2019s ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78",
-                    "xlit": "to"
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " the multiplication ",
-                    "Str Grk": 4129.0,
-                    "lemma": "\u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03b8\u1fc6\u03bd\u03b1\u03b9",
-                    "xlit": "pl\u0113thynth\u0113nai"
+                    "BSB Version": " servant ",
+                    "Str Grk": 1401.0,
+                    "lemma": "\u03b4\u03bf\u03cd\u03bb\u03bf\u03c5",
+                    "xlit": "doulou"
+                },
+                {
+                    "BSB Version": " Moses ",
+                    "Str Grk": 3475.0,
+                    "lemma": "\u039c\u03c9\u03cb\u03c3\u03ad\u03c9\u03c2",
+                    "xlit": "M\u014duse\u014ds"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
                 },
                 {
                     "BSB Version": " - ",
@@ -437,10 +424,245 @@
                     "xlit": "t\u0113n"
                 },
                 {
-                    "BSB Version": " of wickedness ",
-                    "Str Grk": 458.0,
-                    "lemma": "\u1f00\u03bd\u03bf\u03bc\u03af\u03b1\u03bd",
-                    "xlit": "anomian"
+                    "BSB Version": " - ",
+                    "Str Grk": 5603.0,
+                    "lemma": "\u1fa0\u03b4\u1f74\u03bd",
+                    "xlit": "\u014dd\u0113n"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " Lamb ",
+                    "Str Grk": 721.0,
+                    "lemma": "\u1f08\u03c1\u03bd\u03af\u03bf\u03c5",
+                    "xlit": "Arniou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "legontes"
+                },
+                {
+                    "BSB Version": " Great ",
+                    "Str Grk": 3173.0,
+                    "lemma": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b1",
+                    "xlit": "Megala"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " wonderful [are] ",
+                    "Str Grk": 2298.0,
+                    "lemma": "\u03b8\u03b1\u03c5\u03bc\u03b1\u03c3\u03c4\u1f70",
+                    "xlit": "thaumasta"
+                },
+                {
+                    "BSB Version": " Your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " works ",
+                    "Str Grk": 2041.0,
+                    "lemma": "\u1f14\u03c1\u03b3\u03b1",
+                    "xlit": "erga"
+                },
+                {
+                    "BSB Version": " O Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03b5",
+                    "xlit": "Kyrie"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Almighty ",
+                    "Str Grk": 3841.0,
+                    "lemma": "\u03a0\u03b1\u03bd\u03c4\u03bf\u03ba\u03c1\u03ac\u03c4\u03c9\u03c1",
+                    "xlit": "Pantokrat\u014dr"
+                },
+                {
+                    "BSB Version": " Just ",
+                    "Str Grk": 1342.0,
+                    "lemma": "\u03b4\u03af\u03ba\u03b1\u03b9\u03b1\u03b9",
+                    "xlit": "dikaiai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " true [are] ",
+                    "Str Grk": 228.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u03b1\u1f76",
+                    "xlit": "al\u0113thinai"
+                },
+                {
+                    "BSB Version": " Your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03b1\u1f31",
+                    "xlit": "hai"
+                },
+                {
+                    "BSB Version": " ways ",
+                    "Str Grk": 3598.0,
+                    "lemma": "\u1f41\u03b4\u03bf\u03af",
+                    "xlit": "hodoi"
+                },
+                {
+                    "BSB Version": " O ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " King ",
+                    "Str Grk": 935.0,
+                    "lemma": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u1f7a\u03c2",
+                    "xlit": "Basileus"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " nations ",
+                    "Str Grk": 1484.0,
+                    "lemma": "\u1f10\u03b8\u03bd\u1ff6\u03bd",
+                    "xlit": "ethn\u014dn"
+                }
+            ],
+            "verse_text": "And they are singing the song of Moses, the servant of God, and the song of the Lamb, saying, \"Great and wonderful <i>are</i> Your works, Lord God the Almighty! Righteous and true <i>are</i> Your ways, O King of the nations!"
+        },
+        {
+            "verse_no": 30559,
+            "verse_ref": "1 John 2:8",
+            "verse_data": [
+                {
+                    "BSB Version": " Then again ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " I am also writing ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03c1\u03ac\u03c6\u03c9",
+                    "xlit": "graph\u014d"
+                },
+                {
+                    "BSB Version": " to you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " a new ",
+                    "Str Grk": 2537.0,
+                    "lemma": "\u03ba\u03b1\u03b9\u03bd\u1f74\u03bd",
+                    "xlit": "kain\u0113n"
+                },
+                {
+                    "BSB Version": " commandment ",
+                    "Str Grk": 1785.0,
+                    "lemma": "\u1f10\u03bd\u03c4\u03bf\u03bb\u1f74\u03bd",
+                    "xlit": "entol\u0113n"
+                },
+                {
+                    "BSB Version": " which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f45",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " true ",
+                    "Str Grk": 227.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u1f72\u03c2",
+                    "xlit": "al\u0113thes"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " and also ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
                 },
                 {
                     "BSB Version": " the ",
@@ -449,69 +671,99 @@
                     "xlit": "h\u0113"
                 },
                 {
-                    "BSB Version": " love ",
-                    "Str Grk": 26.0,
-                    "lemma": "\u1f00\u03b3\u03ac\u03c0\u03b7",
-                    "xlit": "agap\u0113"
+                    "BSB Version": " darkness ",
+                    "Str Grk": 4653.0,
+                    "lemma": "\u03c3\u03ba\u03bf\u03c4\u03af\u03b1",
+                    "xlit": "skotia"
                 },
                 {
-                    "BSB Version": " of ",
+                    "BSB Version": " is fading ",
+                    "Str Grk": 3855.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ac\u03b3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "paragetai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
                 },
                 {
-                    "BSB Version": " most ",
-                    "Str Grk": 4183.0,
-                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1ff6\u03bd",
-                    "xlit": "poll\u014dn"
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
                 },
                 {
-                    "BSB Version": " will grow cold ",
-                    "Str Grk": 5594.0,
-                    "lemma": "\u03c8\u03c5\u03b3\u03ae\u03c3\u03b5\u03c4\u03b1\u03b9",
-                    "xlit": "psyg\u0113setai"
+                    "BSB Version": " true ",
+                    "Str Grk": 228.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1f78\u03bd",
+                    "xlit": "al\u0113thinon"
+                },
+                {
+                    "BSB Version": " light ",
+                    "Str Grk": 5457.0,
+                    "lemma": "\u03c6\u1ff6\u03c2",
+                    "xlit": "ph\u014ds"
+                },
+                {
+                    "BSB Version": " is already ",
+                    "Str Grk": 2235.0,
+                    "lemma": "\u1f24\u03b4\u03b7",
+                    "xlit": "\u0113d\u0113"
+                },
+                {
+                    "BSB Version": " shining ",
+                    "Str Grk": 5316.0,
+                    "lemma": "\u03c6\u03b1\u03af\u03bd\u03b5\u03b9",
+                    "xlit": "phainei"
                 }
             ],
-            "verse_text": "And because lawlessness is to be multiplied, the love of the many will grow cold."
+            "verse_text": "Again, I am writing a new commandment to you, which is true in Him and in you, because the darkness is passing away and the true light already shines."
         }
     ],
     "other_words": [
         {
-            "number": 3101,
-            "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u1f75\u03c2",
-            "xlit": "math\u0113t\u1e17s",
-            "pronunciation": "math-ay-tes'",
-            "description": " a learner, i.e. pupil",
-            "kjv_def": "disciple.",
-            "pspeech": "N-NMP"
+            "number": 5456,
+            "lemma": "\u03c6\u03c9\u03bd\u1f75",
+            "xlit": "ph\u014dn\u1e17",
+            "pronunciation": "fo-nay'",
+            "kjv_def": "noise, sound, voice.",
+            "pspeech": "N-NFS",
+            "description": " a tone (articulate, bestial or artificial); by implication, an address (for any purpose), saying or language"
         },
         {
-            "number": 1922,
-            "lemma": "\u1f10\u03c0\u1f77\u03b3\u03bd\u03c9\u03c3\u03b9\u03c2",
-            "xlit": "ep\u00edgn\u014dsis",
-            "pronunciation": "ep-ig'-no-sis",
-            "description": " recognition, i.e. (by implication) full discernment,\n acknowledgement",
-            "kjv_def": "(ac-)knowledge(-ing, - ment).",
-            "pspeech": "N-DFS"
+            "number": 1577,
+            "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u1f77\u03b1",
+            "xlit": "ekkl\u0113s\u00eda",
+            "pronunciation": "ek-klay-see'-ah",
+            "kjv_def": "assembly, church.",
+            "pspeech": "N-AFS",
+            "description": " a calling out, i.e. (concretely) a popular meeting, especially a religious congregation (Jewish synagogue, or Christian community of members on earth or saints in heaven or both)"
         },
         {
-            "number": 1081,
-            "lemma": "\u03b3\u1f73\u03bd\u03bd\u03b7\u03bc\u03b1",
-            "xlit": "g\u00e9nn\u0113ma",
-            "pronunciation": "ghen'-nay-mah",
-            "description": " offspring; by analogy, produce (literally or\n figuratively)",
-            "kjv_def": "fruit, generation.",
-            "pspeech": "N-VNP"
+            "number": 3475,
+            "lemma": "\u039c\u03c9\u03cb\u03c3\u1fc6\u03c2",
+            "xlit": "M\u014d\u00ffs\u0113s",
+            "pronunciation": "mo-oo-sace'",
+            "kjv_def": "Moses.",
+            "pspeech": "N-NMS",
+            "description": " Moseus, Moses, or Mouses (i.e. Mosheh), the Hebrew lawgiver"
         },
         {
-            "number": 26,
-            "lemma": "\u1f00\u03b3\u1f71\u03c0\u03b7",
-            "xlit": "ag\u00e1p\u0113",
-            "pronunciation": "ag-ah'-pay",
-            "description": " love, i.e. affection or benevolence; specially (plural) a\n love-feast",
-            "kjv_def": "(feast of) charity(-ably), dear, love.",
-            "pspeech": "N-NFS"
+            "number": 1510,
+            "lemma": "\u03b5\u1f30\u03bc\u1f77",
+            "xlit": "eim\u00ed",
+            "pronunciation": "i-mee'",
+            "kjv_def": "am,\n have been, X it is I, was.",
+            "pspeech": "V-IIA-3S",
+            "description": " I exist (used only when emphatic)"
         }
     ]
 }

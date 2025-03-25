@@ -1,301 +1,101 @@
 {
     "wotd": {
-        "number": 1588,
-        "lemma": "\u1f10\u03ba\u03bb\u03b5\u03ba\u03c4\u1f79\u03c2",
-        "xlit": "eklekt\u00f3s",
-        "pronunciation": "ek-lek-tos'",
-        "description": " select; by implication, favorite",
-        "kjv_def": "chosen, elect.",
-        "pspeech": "Adj-NMP"
+        "number": 2556,
+        "lemma": "\u03ba\u03b1\u03ba\u1f79\u03c2",
+        "xlit": "kak\u00f3s",
+        "pronunciation": "kak-os'",
+        "kjv_def": "bad, evil, harm, ill, noisome, wicked.",
+        "pspeech": "Adj-AMP",
+        "description": " worthless (intrinsically, such; whereas \u03c0\u03bf\u03bd\u03b7\u03c1\u1f79\u03c2(pon\u0113r\u00f3s) properly refers to effects), i.e. (subjectively) depraved, or (objectively) injurious"
     },
     "verses": [
         {
-            "verse_no": 28350,
-            "verse_ref": "Romans 16:13",
+            "verse_no": 30670,
+            "verse_ref": "3 John 1:11",
             "verse_data": [
                 {
-                    "BSB Version": " Greet ",
-                    "Str Grk": 782.0,
-                    "lemma": "\u1f08\u03c3\u03c0\u03ac\u03c3\u03b1\u03c3\u03b8\u03b5",
-                    "xlit": "Aspasasthe"
+                    "BSB Version": " Beloved ",
+                    "Str Grk": 27.0,
+                    "lemma": "\u1f08\u03b3\u03b1\u03c0\u03b7\u03c4\u03ad",
+                    "xlit": "Agap\u0113te"
                 },
                 {
-                    "BSB Version": " Rufus ",
-                    "Str Grk": 4504.0,
-                    "lemma": "\u1fec\u03bf\u1fe6\u03c6\u03bf\u03bd",
-                    "xlit": "Rhouphon"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " chosen ",
-                    "Str Grk": 1588.0,
-                    "lemma": "\u1f10\u03ba\u03bb\u03b5\u03ba\u03c4\u1f78\u03bd",
-                    "xlit": "eklekton"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " [the] Lord ",
-                    "Str Grk": 2962.0,
-                    "lemma": "\u039a\u03c5\u03c1\u03af\u1ff3",
-                    "xlit": "Kyri\u014d"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " his ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
-                },
-                {
-                    "BSB Version": " mother ",
-                    "Str Grk": 3384.0,
-                    "lemma": "\u03bc\u03b7\u03c4\u03ad\u03c1\u03b1",
-                    "xlit": "m\u0113tera"
-                },
-                {
-                    "BSB Version": " [who has been a mother] to me ",
-                    "Str Grk": 1473.0,
-                    "lemma": "\u1f10\u03bc\u03bf\u1fe6",
-                    "xlit": "emou"
-                },
-                {
-                    "BSB Version": " as well ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                }
-            ],
-            "verse_text": "Greet Rufus, chosen in <i>the</i> Lord, and his mother and mine."
-        },
-        {
-            "verse_no": 23980,
-            "verse_ref": "Matthew 24:22",
-            "verse_data": [
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " If ",
-                    "Str Grk": 1487.0,
-                    "lemma": "\u03b5\u1f30",
-                    "xlit": "ei"
-                },
-                {
-                    "BSB Version": " . . . ",
+                    "BSB Version": " {do} not ",
                     "Str Grk": 3361.0,
                     "lemma": "\u03bc\u1f74",
                     "xlit": "m\u0113"
                 },
                 {
-                    "BSB Version": " those ",
-                    "Str Grk": 1565.0,
-                    "lemma": "\u1f10\u03ba\u03b5\u1fd6\u03bd\u03b1\u03b9",
-                    "xlit": "ekeinai"
+                    "BSB Version": " imitate ",
+                    "Str Grk": 3401.0,
+                    "lemma": "\u03bc\u03b9\u03bc\u03bf\u1fe6",
+                    "xlit": "mimou"
+                },
+                {
+                    "BSB Version": " what [is] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " evil ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u1f78\u03bd",
+                    "xlit": "kakon"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " what [is] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 18.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03cc\u03bd",
+                    "xlit": "agathon"
+                },
+                {
+                    "BSB Version": " The [one who] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " does good ",
+                    "Str Grk": 15.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u1ff6\u03bd",
+                    "xlit": "agathopoi\u014dn"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03b1\u1f31",
-                    "xlit": "hai"
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " days ",
-                    "Str Grk": 2250.0,
-                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9",
-                    "xlit": "h\u0113merai"
-                },
-                {
-                    "BSB Version": " had not been cut short ",
-                    "Str Grk": 2856.0,
-                    "lemma": "\u1f10\u03ba\u03bf\u03bb\u03bf\u03b2\u03ce\u03b8\u03b7\u03c3\u03b1\u03bd",
-                    "xlit": "ekolob\u014dth\u0113san"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 3756.0,
-                    "lemma": "\u03bf\u1f50\u03ba",
-                    "xlit": "ouk"
-                },
-                {
-                    "BSB Version": " nobody ",
-                    "Str Grk": 3956.0,
-                    "lemma": "\u03c0\u1fb6\u03c3\u03b1",
-                    "xlit": "pasa"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 4561.0,
-                    "lemma": "\u03c3\u03ac\u03c1\u03be",
-                    "xlit": "sarx"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 302.0,
-                    "lemma": "\u1f02\u03bd",
-                    "xlit": "an"
-                },
-                {
-                    "BSB Version": " would be saved ",
-                    "Str Grk": 4982.0,
-                    "lemma": "\u1f10\u03c3\u03ce\u03b8\u03b7",
-                    "xlit": "es\u014dth\u0113"
-                },
-                {
-                    "BSB Version": " But ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u1f72",
-                    "xlit": "de"
-                },
-                {
-                    "BSB Version": " for the sake of ",
-                    "Str Grk": 1223.0,
-                    "lemma": "\u03b4\u03b9\u1f70",
-                    "xlit": "dia"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "tous"
-                },
-                {
-                    "BSB Version": " elect ",
-                    "Str Grk": 1588.0,
-                    "lemma": "\u1f10\u03ba\u03bb\u03b5\u03ba\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "eklektous"
-                },
-                {
-                    "BSB Version": " those ",
-                    "Str Grk": 1565.0,
-                    "lemma": "\u1f10\u03ba\u03b5\u1fd6\u03bd\u03b1\u03b9",
-                    "xlit": "ekeinai"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03b1\u1f31",
-                    "xlit": "hai"
-                },
-                {
-                    "BSB Version": " days ",
-                    "Str Grk": 2250.0,
-                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9",
-                    "xlit": "h\u0113merai"
-                },
-                {
-                    "BSB Version": " will be cut short ",
-                    "Str Grk": 2856.0,
-                    "lemma": "\u03ba\u03bf\u03bb\u03bf\u03b2\u03c9\u03b8\u03ae\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
-                    "xlit": "kolob\u014dth\u0113sontai"
-                }
-            ],
-            "verse_text": "And unless those days had been shortened, no flesh would have been saved; but because of the elect, those days will be shortened."
-        },
-        {
-            "verse_no": 30406,
-            "verse_ref": "1 Peter 2:6",
-            "verse_data": [
-                {
-                    "BSB Version": " For ",
-                    "Str Grk": 1360.0,
-                    "lemma": "\u03b4\u03b9\u03cc\u03c4\u03b9",
-                    "xlit": "dioti"
-                },
-                {
-                    "BSB Version": " it stands ",
-                    "Str Grk": 4023.0,
-                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03ad\u03c7\u03b5\u03b9",
-                    "xlit": "periechei"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " Scripture ",
-                    "Str Grk": 1124.0,
-                    "lemma": "\u03b3\u03c1\u03b1\u03c6\u1fc7",
-                    "xlit": "graph\u0113"
-                },
-                {
-                    "BSB Version": " See ",
-                    "Str Grk": 2400.0,
-                    "lemma": "\u1f38\u03b4\u03bf\u1f7a",
-                    "xlit": "Idou"
-                },
-                {
-                    "BSB Version": " I lay ",
-                    "Str Grk": 5087.0,
-                    "lemma": "\u03c4\u03af\u03b8\u03b7\u03bc\u03b9",
-                    "xlit": "tith\u0113mi"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1722.0,
-                    "lemma": "\u1f10\u03bd",
-                    "xlit": "en"
-                },
-                {
-                    "BSB Version": " Zion ",
-                    "Str Grk": 4622.0,
-                    "lemma": "\u03a3\u03b9\u1f7c\u03bd",
-                    "xlit": "Si\u014dn"
-                },
-                {
-                    "BSB Version": " a stone ",
-                    "Str Grk": 3037.0,
-                    "lemma": "\u03bb\u03af\u03b8\u03bf\u03bd",
-                    "xlit": "lithon"
-                },
-                {
-                    "BSB Version": " a chosen ",
-                    "Str Grk": 1588.0,
-                    "lemma": "\u1f10\u03ba\u03bb\u03b5\u03ba\u03c4\u1f78\u03bd",
-                    "xlit": "eklekton"
-                },
-                {
-                    "BSB Version": " [and] precious ",
-                    "Str Grk": 1784.0,
-                    "lemma": "\u1f14\u03bd\u03c4\u03b9\u03bc\u03bf\u03bd",
-                    "xlit": "entimon"
-                },
-                {
-                    "BSB Version": " cornerstone ",
-                    "Str Grk": 204.0,
-                    "lemma": "\u1f00\u03ba\u03c1\u03bf\u03b3\u03c9\u03bd\u03b9\u03b1\u1fd6\u03bf\u03bd",
-                    "xlit": "akrog\u014dniaion"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
                 },
                 {
                     "BSB Version": " the [one who] ",
@@ -304,95 +104,385 @@
                     "xlit": "ho"
                 },
                 {
-                    "BSB Version": " believes ",
-                    "Str Grk": 4100.0,
-                    "lemma": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9\u03bd",
-                    "xlit": "pisteu\u014dn"
-                },
-                {
-                    "BSB Version": " in ",
-                    "Str Grk": 1909.0,
-                    "lemma": "\u1f10\u03c0\u2019",
-                    "xlit": "ep\u2019"
-                },
-                {
-                    "BSB Version": " Him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
-                    "xlit": "aut\u014d"
+                    "BSB Version": " does evil ",
+                    "Str Grk": 2554.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u03bf\u03c0\u03bf\u03b9\u1ff6\u03bd",
+                    "xlit": "kakopoi\u014dn"
                 },
                 {
                     "BSB Version": " vvv ",
                     "Str Grk": 3756.0,
-                    "lemma": "\u03bf\u1f50",
-                    "xlit": "ou"
+                    "lemma": "\u03bf\u1f50\u03c7",
+                    "xlit": "ouch"
                 },
                 {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3361.0,
-                    "lemma": "\u03bc\u1f74",
-                    "xlit": "m\u0113"
+                    "BSB Version": " has not seen ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f11\u03ce\u03c1\u03b1\u03ba\u03b5\u03bd",
+                    "xlit": "he\u014draken"
                 },
                 {
-                    "BSB Version": " will never be put to shame ",
-                    "Str Grk": 2617.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03b8\u1fc7",
-                    "xlit": "kataischynth\u0113"
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03bd",
+                    "xlit": "Theon"
                 }
             ],
-            "verse_text": "Therefore it is contained in Scripture: \"Behold, I lay in Zion a stone, a chosen precious cornerstone; and the <i>one</i> believing on Him, shall not be put to shame.\""
+            "verse_text": "Beloved, do not imitate what <i>is</i> evil, but what <i>is</i> good. The <i>one</i> doing good is of God; the <i>one</i> doing evil has not seen God."
         },
         {
-            "verse_no": 23989,
-            "verse_ref": "Matthew 24:31",
+            "verse_no": 30045,
+            "verse_ref": "Hebrews 5:14",
             "verse_data": [
                 {
-                    "BSB Version": " And ",
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u03ad",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " solid ",
+                    "Str Grk": 4731.0,
+                    "lemma": "\u03c3\u03c4\u03b5\u03c1\u03b5\u1f70",
+                    "xlit": "sterea"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " food ",
+                    "Str Grk": 5160.0,
+                    "lemma": "\u03c4\u03c1\u03bf\u03c6\u03ae",
+                    "xlit": "troph\u0113"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " [for the] mature ",
+                    "Str Grk": 5046.0,
+                    "lemma": "\u03c4\u03b5\u03bb\u03b5\u03af\u03c9\u03bd",
+                    "xlit": "telei\u014dn"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " constant use ",
+                    "Str Grk": 1838.0,
+                    "lemma": "\u1f15\u03be\u03b9\u03bd",
+                    "xlit": "hexin"
+                },
+                {
+                    "BSB Version": " have ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f10\u03c7\u03cc\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "echont\u014dn"
+                },
+                {
+                    "BSB Version": " trained ",
+                    "Str Grk": 1128.0,
+                    "lemma": "\u03b3\u03b5\u03b3\u03c5\u03bc\u03bd\u03b1\u03c3\u03bc\u03ad\u03bd\u03b1",
+                    "xlit": "gegymnasmena"
+                },
+                {
+                    "BSB Version": " [their] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " senses ",
+                    "Str Grk": 145.0,
+                    "lemma": "\u03b1\u1f30\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03b9\u03b1",
+                    "xlit": "aisth\u0113t\u0113ria"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " distinguish ",
+                    "Str Grk": 1253.0,
+                    "lemma": "\u03b4\u03b9\u03ac\u03ba\u03c1\u03b9\u03c3\u03b9\u03bd",
+                    "xlit": "diakrisin"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 5037.0,
+                    "lemma": "\u03c4\u03b5",
+                    "xlit": "te"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 2570.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u03bf\u1fe6",
+                    "xlit": "kalou"
+                },
+                {
+                    "BSB Version": " [from] ",
                     "Str Grk": 2532.0,
                     "lemma": "\u03ba\u03b1\u1f76",
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " He will send out ",
-                    "Str Grk": 649.0,
-                    "lemma": "\u1f00\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03b5\u1fd6",
-                    "xlit": "apostelei"
+                    "BSB Version": " evil ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u03bf\u1fe6",
+                    "xlit": "kakou"
+                }
+            ],
+            "verse_text": "But solid food is <i>for the</i> mature, the <i>ones</i> by constant use having trained the senses for distinguishing both good and evil."
+        },
+        {
+            "verse_no": 28301,
+            "verse_ref": "Romans 14:20",
+            "verse_data": [
+                {
+                    "BSB Version": " {Do} not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
                 },
                 {
-                    "BSB Version": " His ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
+                    "BSB Version": " destroy ",
+                    "Str Grk": 2647.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03ac\u03bb\u03c5\u03b5",
+                    "xlit": "katalye"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " work ",
+                    "Str Grk": 2041.0,
+                    "lemma": "\u1f14\u03c1\u03b3\u03bf\u03bd",
+                    "xlit": "ergon"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "tous"
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " angels ",
-                    "Str Grk": 32.0,
-                    "lemma": "\u1f00\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5\u03c2",
-                    "xlit": "angelous"
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
                 },
                 {
-                    "BSB Version": " with ",
-                    "Str Grk": 3326.0,
-                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
-                    "xlit": "meta"
+                    "BSB Version": " for the sake of ",
+                    "Str Grk": 1752.0,
+                    "lemma": "\u1f15\u03bd\u03b5\u03ba\u03b5\u03bd",
+                    "xlit": "heneken"
                 },
                 {
-                    "BSB Version": " a loud ",
-                    "Str Grk": 3173.0,
-                    "lemma": "\u03bc\u03b5\u03b3\u03ac\u03bb\u03b7\u03c2",
-                    "xlit": "megal\u0113s"
+                    "BSB Version": " food ",
+                    "Str Grk": 1033.0,
+                    "lemma": "\u03b2\u03c1\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "br\u014dmatos"
                 },
                 {
-                    "BSB Version": " trumpet call ",
-                    "Str Grk": 4536.0,
-                    "lemma": "\u03c3\u03ac\u03bb\u03c0\u03b9\u03b3\u03b3\u03bf\u03c2",
-                    "xlit": "salpingos"
+                    "BSB Version": " - ",
+                    "Str Grk": 3303.0,
+                    "lemma": "\u03bc\u1f72\u03bd",
+                    "xlit": "men"
+                },
+                {
+                    "BSB Version": " All [food is] ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "panta"
+                },
+                {
+                    "BSB Version": " clean ",
+                    "Str Grk": 2513.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u03b1\u03c1\u03ac",
+                    "xlit": "kathara"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " [it is] wrong ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u1f78\u03bd",
+                    "xlit": "kakon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " for a man ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u1ff3",
+                    "xlit": "anthr\u014dp\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " to let his eating be ",
+                    "Str Grk": 2068.0,
+                    "lemma": "\u1f10\u03c3\u03b8\u03af\u03bf\u03bd\u03c4\u03b9",
+                    "xlit": "esthionti"
+                },
+                {
+                    "BSB Version": " a stumbling block ",
+                    "Str Grk": 4348.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03ba\u03cc\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "proskommatos"
+                }
+            ],
+            "verse_text": "Do not destroy the work of God for the sake of food. All things indeed <i>are</i> clean, but <i>it is</i> wrong to the man eating through a stumbling block."
+        },
+        {
+            "verse_no": 29637,
+            "verse_ref": "1 Thessalonians 5:15",
+            "verse_data": [
+                {
+                    "BSB Version": " Make sure that ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f49\u03c1\u1fb6\u03c4\u03b5",
+                    "xlit": "Horate"
+                },
+                {
+                    "BSB Version": " no ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u03ae",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " one ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03c2",
+                    "xlit": "tis"
+                },
+                {
+                    "BSB Version": " repays ",
+                    "Str Grk": 591.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03b4\u1ff7",
+                    "xlit": "apod\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03bd\u03b9",
+                    "xlit": "tini"
+                },
+                {
+                    "BSB Version": " evil ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u1f78\u03bd",
+                    "xlit": "kakon"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 473.0,
+                    "lemma": "\u1f00\u03bd\u03c4\u1f76",
+                    "xlit": "anti"
+                },
+                {
+                    "BSB Version": " evil ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u03bf\u1fe6",
+                    "xlit": "kakou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " Always ",
+                    "Str Grk": 3842.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b5",
+                    "xlit": "pantote"
+                },
+                {
+                    "BSB Version": " pursue ",
+                    "Str Grk": 1377.0,
+                    "lemma": "\u03b4\u03b9\u03ce\u03ba\u03b5\u03c4\u03b5",
+                    "xlit": "di\u014dkete"
+                },
+                {
+                    "BSB Version": " what [is] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 18.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u1f78\u03bd",
+                    "xlit": "agathon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " one another ",
+                    "Str Grk": 240.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u03ae\u03bb\u03bf\u03c5\u03c2",
+                    "xlit": "all\u0113lous"
                 },
                 {
                     "BSB Version": " and ",
@@ -401,135 +491,57 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " they will gather ",
-                    "Str Grk": 1996.0,
-                    "lemma": "\u1f10\u03c0\u03b9\u03c3\u03c5\u03bd\u03ac\u03be\u03bf\u03c5\u03c3\u03b9\u03bd",
-                    "xlit": "episynaxousin"
+                    "BSB Version": " for ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
                 },
                 {
-                    "BSB Version": " His ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
-                    "xlit": "autou"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "tous"
-                },
-                {
-                    "BSB Version": " elect ",
-                    "Str Grk": 1588.0,
-                    "lemma": "\u1f10\u03ba\u03bb\u03b5\u03ba\u03c4\u03bf\u1f7a\u03c2",
-                    "xlit": "eklektous"
-                },
-                {
-                    "BSB Version": " from ",
-                    "Str Grk": 1537.0,
-                    "lemma": "\u1f10\u03ba",
-                    "xlit": "ek"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
-                },
-                {
-                    "BSB Version": " four ",
-                    "Str Grk": 5064.0,
-                    "lemma": "\u03c4\u03b5\u03c3\u03c3\u03ac\u03c1\u03c9\u03bd",
-                    "xlit": "tessar\u014dn"
-                },
-                {
-                    "BSB Version": " winds ",
-                    "Str Grk": 417.0,
-                    "lemma": "\u1f00\u03bd\u03ad\u03bc\u03c9\u03bd",
-                    "xlit": "anem\u014dn"
-                },
-                {
-                    "BSB Version": " from ",
-                    "Str Grk": 575.0,
-                    "lemma": "\u1f00\u03c0\u2019",
-                    "xlit": "ap\u2019"
-                },
-                {
-                    "BSB Version": " one end ",
-                    "Str Grk": 206.0,
-                    "lemma": "\u1f04\u03ba\u03c1\u03c9\u03bd",
-                    "xlit": "akr\u014dn"
-                },
-                {
-                    "BSB Version": " of the heavens ",
-                    "Str Grk": 3772.0,
-                    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u1ff6\u03bd",
-                    "xlit": "ouran\u014dn"
-                },
-                {
-                    "BSB Version": " to ",
-                    "Str Grk": 2193.0,
-                    "lemma": "\u1f15\u03c9\u03c2",
-                    "xlit": "he\u014ds"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
-                    "xlit": "aut\u014dn"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff6\u03bd",
-                    "xlit": "t\u014dn"
-                },
-                {
-                    "BSB Version": " [other] ",
-                    "Str Grk": 206.0,
-                    "lemma": "\u1f04\u03ba\u03c1\u03c9\u03bd",
-                    "xlit": "akr\u014dn"
+                    "BSB Version": " all [people] ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "pantas"
                 }
             ],
-            "verse_text": "And He will send His angels with a great trumpet call, and they will gather together His elect from the four winds, from <i>the</i> ends of the heavens to the ends thereof."
+            "verse_text": "See that no one has repaid to anyone evil for evil, but always pursue the good also toward one another and toward all."
         }
     ],
     "other_words": [
         {
-            "number": 3384,
-            "lemma": "\u03bc\u1f75\u03c4\u03b7\u03c1",
-            "xlit": "m\u1e17t\u0113r",
-            "pronunciation": "may'-tare",
-            "description": " a \"mother\" (literally or figuratively,\n immediate or remote)",
-            "kjv_def": "mother.",
-            "pspeech": "N-GFS"
+            "number": 3756,
+            "lemma": "\u03bf\u1f50\u03c7",
+            "xlit": "ouch",
+            "pronunciation": "ookh",
+            "kjv_def": "+ long, nay, neither, never, no (X man), none, (can-)not, +\n nothing, + special, un(-worthy), when, + without, + yet but.",
+            "pspeech": "Adv",
+            "description": " the absolute negative (compare \u03bc\u1f75(m\u1e17)) adverb; no or not"
         },
         {
-            "number": 4561,
-            "lemma": "\u03c3\u1f71\u03c1\u03be",
-            "xlit": "s\u00e1rx",
-            "pronunciation": "sarx",
-            "description": " flesh (as stripped of the skin), i.e.\n (strictly) the meat of an animal (as food), or (by extension) the body\n (as opposed to the soul (or spirit), or as the symbol of what is\n external, or as the means of kindred), or (by implication) human\n nature (with its frailties (physically or morally) and passions), or\n (specially), a human being (as such)",
-            "kjv_def": "carnal(-ly, + -ly minded),\n flesh(-ly).",
-            "pspeech": "N-NFS"
+            "number": 2570,
+            "lemma": "\u03ba\u03b1\u03bb\u1f79\u03c2",
+            "xlit": "kal\u00f3s",
+            "pronunciation": "kal-os'",
+            "kjv_def": "X better, fair, good(-ly), honest, meet, well, worthy.",
+            "pspeech": "Adj-AMS",
+            "description": " properly, beautiful, but chiefly (figuratively) good (literally or morally), i.e. valuable or virtuous (for appearance or use, and thus distinguished from \u1f00\u03b3\u03b1\u03b8\u1f79\u03c2(agath\u00f3s), which is properly intrinsic)"
         },
         {
-            "number": 1124,
-            "lemma": "\u03b3\u03c1\u03b1\u03c6\u1f75",
-            "xlit": "graph\u1e17",
-            "pronunciation": "graf-ay'",
-            "description": " a document, i.e. holy Writ (or its contents or a statement in\n it)",
-            "kjv_def": "scripture.",
-            "pspeech": "N-DFP"
+            "number": 2068,
+            "lemma": "\u1f10\u03c3\u03b8\u1f77\u03c9",
+            "xlit": "esth\u00ed\u014d",
+            "pronunciation": "es-thee'-o",
+            "kjv_def": "devour,\n eat, live.",
+            "pspeech": "V-PIA-3S",
+            "description": " used only in certain tenses, the rest being supplied by \u03c6\u1f71\u03b3\u03c9(ph\u00e1g\u014d); to eat (usually literal)"
         },
         {
-            "number": 3173,
-            "lemma": "\u03bc\u1f73\u03b3\u03b1\u03c2",
-            "xlit": "m\u00e9gas",
-            "pronunciation": "meg'-as",
-            "description": " big (literally or\n figuratively, in a very wide application)",
-            "kjv_def": "(+ fear) exceedingly,\n great(-est), high, large, loud, mighty, + (be) sore (afraid), strong,\n X to years.",
-            "pspeech": "Adj-AFS"
+            "number": 1377,
+            "lemma": "\u03b4\u03b9\u1f7d\u03ba\u03c9",
+            "xlit": "di\u1e53k\u014d",
+            "pronunciation": "dee-o'-ko",
+            "kjv_def": "ensue, follow (after),\n given to, (suffer) persecute(-ion), press forward.",
+            "pspeech": "V-RPM/P-NMP",
+            "description": " compare the base of \u03b4\u03b5\u03b9\u03bb\u1f79\u03c2(deil\u00f3s) and \u03b4\u03b9\u1f71\u03ba\u03bf\u03bd\u03bf\u03c2(di\u00e1konos)); to pursue (literally or figuratively); by implication, to persecute"
         }
     ]
 }

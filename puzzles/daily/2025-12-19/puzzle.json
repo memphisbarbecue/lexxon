@@ -1,0 +1,655 @@
+{
+    "wotd": {
+        "number": 305,
+        "lemma": "\u1f00\u03bd\u03b1\u03b2\u03b1\u1f77\u03bd\u03c9",
+        "xlit": "anaba\u00edn\u014d",
+        "pronunciation": "an-ab-ah'-ee-no",
+        "kjv_def": "arise, ascend (up), climb (go, grow, rise, spring) up,\n come (up).",
+        "pspeech": "V-AIA-3S",
+        "description": " to go up (literally or figuratively)"
+    },
+    "verses": [
+        {
+            "verse_no": 26212,
+            "verse_ref": "John 5:1",
+            "verse_data": [
+                {
+                    "BSB Version": " Some time later ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u039c\u03b5\u03c4\u1f70",
+                    "xlit": "Meta"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+                    "xlit": "tauta"
+                },
+                {
+                    "BSB Version": " there was ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03bd",
+                    "xlit": "\u0113n"
+                },
+                {
+                    "BSB Version": " a feast ",
+                    "Str Grk": 1859.0,
+                    "lemma": "\u1f11\u03bf\u03c1\u03c4\u1f74",
+                    "xlit": "heort\u0113"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " Jews ",
+                    "Str Grk": 2453.0,
+                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03c9\u03bd",
+                    "xlit": "Ioudai\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " went up ",
+                    "Str Grk": 305.0,
+                    "lemma": "\u1f00\u03bd\u03ad\u03b2\u03b7",
+                    "xlit": "aneb\u0113"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " Jerusalem ",
+                    "Str Grk": 2414.0,
+                    "lemma": "\u1f39\u03b5\u03c1\u03bf\u03c3\u03cc\u03bb\u03c5\u03bc\u03b1",
+                    "xlit": "Hierosolyma"
+                }
+            ],
+            "verse_text": "After these things there was a feast of the Jews, and Jesus went up to Jerusalem."
+        },
+        {
+            "verse_no": 26885,
+            "verse_ref": "John 20:17",
+            "verse_data": [
+                {
+                    "BSB Version": " {Do} not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u039c\u03ae",
+                    "xlit": "M\u0113"
+                },
+                {
+                    "BSB Version": " cling to ",
+                    "Str Grk": 680.0,
+                    "lemma": "\u1f05\u03c0\u03c4\u03bf\u03c5",
+                    "xlit": "haptou"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u039b\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "Legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1fc7",
+                    "xlit": "aut\u0113"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3768.0,
+                    "lemma": "\u03bf\u1f54\u03c0\u03c9",
+                    "xlit": "oup\u014d"
+                },
+                {
+                    "BSB Version": " I have not yet ascended ",
+                    "Str Grk": 305.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03b2\u03ad\u03b2\u03b7\u03ba\u03b1",
+                    "xlit": "anabeb\u0113ka"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1",
+                    "xlit": "Patera"
+                },
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " go ",
+                    "Str Grk": 4198.0,
+                    "lemma": "\u03c0\u03bf\u03c1\u03b5\u03cd\u03bf\u03c5",
+                    "xlit": "poreuou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " tell ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f30\u03c0\u1f72",
+                    "xlit": "eipe"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " brothers ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u03bf\u03cd\u03c2",
+                    "xlit": "adelphous"
+                },
+                {
+                    "BSB Version": " I am ascending ",
+                    "Str Grk": 305.0,
+                    "lemma": "\u1f08\u03bd\u03b1\u03b2\u03b1\u03af\u03bd\u03c9",
+                    "xlit": "Anabain\u014d"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1",
+                    "xlit": "Patera"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                },
+                {
+                    "BSB Version": " Father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1",
+                    "xlit": "Patera"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " to My ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03bd",
+                    "xlit": "Theon"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03bd",
+                    "xlit": "Theon"
+                }
+            ],
+            "verse_text": "Jesus says to her, \"Do not touch Me, for not yet have I ascended to the Father. Now go to My brothers and say to them, 'I am ascending to My Father and your Father, and <i>to</i> My God and your God.'\""
+        },
+        {
+            "verse_no": 28195,
+            "verse_ref": "Romans 10:6",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " righteousness ",
+                    "Str Grk": 1343.0,
+                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u03b7",
+                    "xlit": "dikaiosyn\u0113"
+                },
+                {
+                    "BSB Version": " that is by ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " faith ",
+                    "Str Grk": 4102.0,
+                    "lemma": "\u03c0\u03af\u03c3\u03c4\u03b5\u03c9\u03c2",
+                    "xlit": "piste\u014ds"
+                },
+                {
+                    "BSB Version": " says ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3779.0,
+                    "lemma": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+                    "xlit": "hout\u014ds"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u039c\u1f74",
+                    "xlit": "M\u0113"
+                },
+                {
+                    "BSB Version": " Do not say ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f34\u03c0\u1fc3\u03c2",
+                    "xlit": "eip\u0113s"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " heart ",
+                    "Str Grk": 2588.0,
+                    "lemma": "\u03ba\u03b1\u03c1\u03b4\u03af\u1fb3",
+                    "xlit": "kardia"
+                },
+                {
+                    "BSB Version": " Who ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03a4\u03af\u03c2",
+                    "xlit": "Tis"
+                },
+                {
+                    "BSB Version": " will ascend ",
+                    "Str Grk": 305.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03b2\u03ae\u03c3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "anab\u0113setai"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " heaven ",
+                    "Str Grk": 3772.0,
+                    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03cc\u03bd",
+                    "xlit": "ouranon"
+                },
+                {
+                    "BSB Version": " (that ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u2019",
+                    "xlit": "tout\u2019"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f14\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " to bring Christ down ",
+                    "Str Grk": 2609.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03b3\u03b1\u03b3\u03b5\u1fd6\u03bd",
+                    "xlit": "katagagein"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03bd",
+                    "xlit": "Christon"
+                }
+            ],
+            "verse_text": "But the righteousness of faith speaks thus: \"You should not say in your heart, 'Who will ascend into heaven?' (that is, to bring down Christ)"
+        },
+        {
+            "verse_no": 24978,
+            "verse_ref": "Luke 2:4",
+            "verse_data": [
+                {
+                    "BSB Version": " [So] ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " Joseph ",
+                    "Str Grk": 2501.0,
+                    "lemma": "\u1f38\u03c9\u03c3\u1f74\u03c6",
+                    "xlit": "I\u014ds\u0113ph"
+                },
+                {
+                    "BSB Version": " also ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " went up ",
+                    "Str Grk": 305.0,
+                    "lemma": "\u1f08\u03bd\u03ad\u03b2\u03b7",
+                    "xlit": "Aneb\u0113"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 4172.0,
+                    "lemma": "\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2",
+                    "xlit": "pole\u014ds"
+                },
+                {
+                    "BSB Version": " Nazareth ",
+                    "Str Grk": 3478.0,
+                    "lemma": "\u039d\u03b1\u03b6\u03b1\u03c1\u1f72\u03b8",
+                    "xlit": "Nazareth"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " in Galilee ",
+                    "Str Grk": 1056.0,
+                    "lemma": "\u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03af\u03b1\u03c2",
+                    "xlit": "Galilaias"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " Judea ",
+                    "Str Grk": 2449.0,
+                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03b1\u03bd",
+                    "xlit": "Ioudaian"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " [the] city ",
+                    "Str Grk": 4172.0,
+                    "lemma": "\u03c0\u03cc\u03bb\u03b9\u03bd",
+                    "xlit": "polin"
+                },
+                {
+                    "BSB Version": " of David ",
+                    "Str Grk": 1138.0,
+                    "lemma": "\u0394\u03b1\u03c5\u1f76\u03b4",
+                    "xlit": "Dauid"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3748.0,
+                    "lemma": "\u1f25\u03c4\u03b9\u03c2",
+                    "xlit": "h\u0113tis"
+                },
+                {
+                    "BSB Version": " called ",
+                    "Str Grk": 2564.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u03b5\u1fd6\u03c4\u03b1\u03b9",
+                    "xlit": "kaleitai"
+                },
+                {
+                    "BSB Version": " Bethlehem ",
+                    "Str Grk": 965.0,
+                    "lemma": "\u0392\u03b7\u03b8\u03bb\u03b5\u03ad\u03bc",
+                    "xlit": "B\u0113thleem"
+                },
+                {
+                    "BSB Version": " since ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " he ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " was ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f36\u03bd\u03b1\u03b9",
+                    "xlit": "einai"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03be",
+                    "xlit": "ex"
+                },
+                {
+                    "BSB Version": " [the] house ",
+                    "Str Grk": 3624.0,
+                    "lemma": "\u03bf\u1f34\u03ba\u03bf\u03c5",
+                    "xlit": "oikou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " line ",
+                    "Str Grk": 3965.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u03c1\u03b9\u1fb6\u03c2",
+                    "xlit": "patrias"
+                },
+                {
+                    "BSB Version": " of David ",
+                    "Str Grk": 1138.0,
+                    "lemma": "\u0394\u03b1\u03c5\u03af\u03b4",
+                    "xlit": "Dauid"
+                }
+            ],
+            "verse_text": "And Joseph also went up from Galilee out of <i>the</i> town of Nazareth, to Judea, to <i>the</i> City of David, which is called Bethlehem, because of his being of <i>the</i> house and family of David,"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2414,
+            "lemma": "\u1f39\u03b5\u03c1\u03bf\u03c3\u1f79\u03bb\u03c5\u03bc\u03b1",
+            "xlit": "Hieros\u00f3lyma",
+            "pronunciation": "hee-er-os-ol'-oo-mah",
+            "kjv_def": "Jerusalem.",
+            "pspeech": "N-ANP",
+            "description": " Hierosolyma (i.e. Jerushalaim), the capitol of Palestine"
+        },
+        {
+            "number": 3768,
+            "lemma": "\u03bf\u1f54\u03c0\u03c9",
+            "xlit": "o\u00fap\u014d",
+            "pronunciation": "oo'-po",
+            "kjv_def": "hitherto not, (no\u2026) as yet, not yet.",
+            "pspeech": "Adv",
+            "description": " not yet"
+        },
+        {
+            "number": 1343,
+            "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u1f7b\u03bd\u03b7",
+            "xlit": "dikaios\u00fdn\u0113",
+            "pronunciation": "dik-ah-yos-oo'-nay",
+            "kjv_def": "righteousness.",
+            "pspeech": "N-AFS",
+            "description": " equity (of character or act); specially (Christian) justification"
+        },
+        {
+            "number": 3624,
+            "lemma": "\u03bf\u1f36\u03ba\u03bf\u03c2",
+            "xlit": "o\u00eekos",
+            "pronunciation": "oy'-kos",
+            "kjv_def": "home, house(-hold), temple.",
+            "pspeech": "N-AMS",
+            "description": " a dwelling (more or less extensive, literal or figurative); by implication, a family (more or less related, literally or figuratively)"
+        }
+    ]
+}

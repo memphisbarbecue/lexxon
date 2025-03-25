@@ -1,0 +1,403 @@
+{
+    "wotd": {
+        "number": 2008,
+        "lemma": "\u1f10\u03c0\u03b9\u03c4\u03b9\u03bc\u1f71\u03c9",
+        "xlit": "epitim\u00e1\u014d",
+        "pronunciation": "ep-ee-tee-mah'-o",
+        "kjv_def": "(straitly) charge, rebuke.",
+        "pspeech": "V-AIA-3S",
+        "description": " to tax upon, i.e. censure or admonish; by implication, forbid"
+    },
+    "verses": [
+        {
+            "verse_no": 25344,
+            "verse_ref": "Luke 9:42",
+            "verse_data": [
+                {
+                    "BSB Version": " Even ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " while ",
+                    "Str Grk": 2089.0,
+                    "lemma": "\u1f1c\u03c4\u03b9",
+                    "xlit": "Eti"
+                },
+                {
+                    "BSB Version": " [the boy] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " was approaching ",
+                    "Str Grk": 4334.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u03c1\u03c7\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5",
+                    "xlit": "proserchomenou"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " demon ",
+                    "Str Grk": 1140.0,
+                    "lemma": "\u03b4\u03b1\u03b9\u03bc\u03cc\u03bd\u03b9\u03bf\u03bd",
+                    "xlit": "daimonion"
+                },
+                {
+                    "BSB Version": " slammed him to the ground ",
+                    "Str Grk": 4486.0,
+                    "lemma": "\u1f14\u03c1\u03c1\u03b7\u03be\u03b5\u03bd",
+                    "xlit": "err\u0113xen"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " in a convulsion ",
+                    "Str Grk": 4952.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03b5\u03c3\u03c0\u03ac\u03c1\u03b1\u03be\u03b5\u03bd",
+                    "xlit": "synesparaxen"
+                },
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " rebuked ",
+                    "Str Grk": 2008.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u03c4\u03af\u03bc\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "epetim\u0113sen"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " unclean ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03b1\u03b8\u03ac\u03c1\u03c4\u1ff3",
+                    "xlit": "akathart\u014d"
+                },
+                {
+                    "BSB Version": " spirit ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b9",
+                    "xlit": "pneumati"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " healed ",
+                    "Str Grk": 2390.0,
+                    "lemma": "\u1f30\u03ac\u03c3\u03b1\u03c4\u03bf",
+                    "xlit": "iasato"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " boy ",
+                    "Str Grk": 3816.0,
+                    "lemma": "\u03c0\u03b1\u1fd6\u03b4\u03b1",
+                    "xlit": "paida"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " gave him back ",
+                    "Str Grk": 591.0,
+                    "lemma": "\u1f00\u03c0\u03ad\u03b4\u03c9\u03ba\u03b5\u03bd",
+                    "xlit": "aped\u014dken"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u03c1\u1f76",
+                    "xlit": "patri"
+                }
+            ],
+            "verse_text": "And while he was coming near, the demon threw him down, and threw <i>him</i> into convulsions. And Jesus rebuked the unclean spirit and healed the boy, and gave him back to his father."
+        },
+        {
+            "verse_no": 24301,
+            "verse_ref": "Mark 3:12",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " He warned ",
+                    "Str Grk": 2008.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u03c4\u03af\u03bc\u03b1",
+                    "xlit": "epetima"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " sternly ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1f70",
+                    "xlit": "polla"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " make ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03ae\u03c3\u03c9\u03c3\u03b9\u03bd",
+                    "xlit": "poi\u0113s\u014dsin"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " known ",
+                    "Str Grk": 5318.0,
+                    "lemma": "\u03c6\u03b1\u03bd\u03b5\u03c1\u1f78\u03bd",
+                    "xlit": "phaneron"
+                }
+            ],
+            "verse_text": "And He would rebuke them much, so that they should not make Him known."
+        },
+        {
+            "verse_no": 24533,
+            "verse_ref": "Mark 8:32",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " He spoke ",
+                    "Str Grk": 2980.0,
+                    "lemma": "\u1f10\u03bb\u03ac\u03bb\u03b5\u03b9",
+                    "xlit": "elalei"
+                },
+                {
+                    "BSB Version": " [this] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " message ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03bd",
+                    "xlit": "logon"
+                },
+                {
+                    "BSB Version": " quite frankly ",
+                    "Str Grk": 3954.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03af\u1fb3",
+                    "xlit": "parr\u0113sia"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2",
+                    "xlit": "Petros"
+                },
+                {
+                    "BSB Version": " took Him aside ",
+                    "Str Grk": 4355.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03bb\u03b1\u03b2\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "proslabomenos"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " [and] began ",
+                    "Str Grk": 756.0,
+                    "lemma": "\u1f24\u03c1\u03be\u03b1\u03c4\u03bf",
+                    "xlit": "\u0113rxato"
+                },
+                {
+                    "BSB Version": " to rebuke ",
+                    "Str Grk": 2008.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03c4\u03b9\u03bc\u1fb6\u03bd",
+                    "xlit": "epitiman"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                }
+            ],
+            "verse_text": "And He was speaking openly the word. And Peter having taken Him to him, began to rebuke Him."
+        },
+        {
+            "verse_no": 25357,
+            "verse_ref": "Luke 9:55",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " [Jesus] turned ",
+                    "Str Grk": 4762.0,
+                    "lemma": "\u03a3\u03c4\u03c1\u03b1\u03c6\u03b5\u1f76\u03c2",
+                    "xlit": "Strapheis"
+                },
+                {
+                    "BSB Version": " [and] rebuked ",
+                    "Str Grk": 2008.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u03c4\u03af\u03bc\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "epetim\u0113sen"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                }
+            ],
+            "verse_text": "And having turned, He rebuked them,"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 591,
+            "lemma": "\u1f00\u03c0\u03bf\u03b4\u1f77\u03b4\u03c9\u03bc\u03b9",
+            "xlit": "apod\u00edd\u014dmi",
+            "pronunciation": "ap-od-eed'-o-mee",
+            "kjv_def": "deliver (again), give (again), (re-)pay(-ment be\n made), perform, recompense, render, requite, restore, reward, sell,\n yield.",
+            "pspeech": "V-ASA-2S",
+            "description": " to give away, i.e. up, over, back, etc. (in various applications)"
+        },
+        {
+            "number": 5318,
+            "lemma": "\u03c6\u03b1\u03bd\u03b5\u03c1\u1f79\u03c2",
+            "xlit": "phaner\u00f3s",
+            "pronunciation": "fan-er-os'",
+            "kjv_def": "abroad, + appear, known, manifest,\n open (+ -ly), outward (+ -ly).",
+            "pspeech": "Adj-AMS",
+            "description": " shining, i.e. apparent (literally or figuratively); neuter (as adverb) publicly, externally"
+        },
+        {
+            "number": 3954,
+            "lemma": "\u03c0\u03b1\u1fe4\u1fe5\u03b7\u03c3\u1f77\u03b1",
+            "xlit": "parrh\u0113s\u00eda",
+            "pronunciation": "par-rhay-see'-ah",
+            "kjv_def": "bold (X\n -ly, -ness, -ness of speech), confidence,\n X freely, X openly, X plainly(-ness).",
+            "pspeech": "N-DFS",
+            "description": " all out-spokenness, i.e. frankness, bluntness, publicity; by implication, assurance"
+        },
+        {
+            "number": 4762,
+            "lemma": "\u03c3\u03c4\u03c1\u1f73\u03c6\u03c9",
+            "xlit": "str\u00e9ph\u014d",
+            "pronunciation": "stref'-o",
+            "kjv_def": "convert, turn (again, back\n again, self, self about).",
+            "pspeech": "V-AMA-2S",
+            "description": " to twist, i.e. turn quite around or reverse (literally or figuratively)"
+        }
+    ]
+}

@@ -1,0 +1,583 @@
+{
+    "wotd": {
+        "number": 976,
+        "lemma": "\u03b2\u1f77\u03b2\u03bb\u03bf\u03c2",
+        "xlit": "b\u00edblos",
+        "pronunciation": "bib'-los",
+        "kjv_def": "book.",
+        "pspeech": "N-NFS",
+        "description": "book."
+    },
+    "verses": [
+        {
+            "verse_no": 23146,
+            "verse_ref": "Matthew 1:1",
+            "verse_data": [
+                {
+                    "BSB Version": " [This is the] record ",
+                    "Str Grk": 976.0,
+                    "lemma": "\u0392\u1f77\u03b2\u03bb\u03bf\u03c2",
+                    "xlit": "Biblos"
+                },
+                {
+                    "BSB Version": " of [the] genealogy ",
+                    "Str Grk": 1078.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b5\u03c9\u03c2",
+                    "xlit": "genese\u014ds"
+                },
+                {
+                    "BSB Version": " of Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+                    "xlit": "Christou"
+                },
+                {
+                    "BSB Version": " [the] son ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03c5\u1f31\u03bf\u1fe6",
+                    "xlit": "huiou"
+                },
+                {
+                    "BSB Version": " of David ",
+                    "Str Grk": 1138.0,
+                    "lemma": "\u0394\u03b1\u03c5\u1f76\u03b4",
+                    "xlit": "Dauid"
+                },
+                {
+                    "BSB Version": " [the] son ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03c5\u1f31\u03bf\u1fe6",
+                    "xlit": "huiou"
+                },
+                {
+                    "BSB Version": " of Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f71\u03bc",
+                    "xlit": "Abraam"
+                }
+            ],
+            "verse_text": "<i>The</i> book of <i>the</i> genealogy of Jesus Christ, son of David, son of Abraham:"
+        },
+        {
+            "verse_no": 27159,
+            "verse_ref": "Acts 7:42",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " turned away [from them] ",
+                    "Str Grk": 4762.0,
+                    "lemma": "\u1f14\u03c3\u03c4\u03c1\u03b5\u03c8\u03b5\u03bd",
+                    "xlit": "estrepsen"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " gave them over ",
+                    "Str Grk": 3860.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03ba\u03b5\u03bd",
+                    "xlit": "pared\u014dken"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " to the worship ",
+                    "Str Grk": 3000.0,
+                    "lemma": "\u03bb\u03b1\u03c4\u03c1\u03b5\u03cd\u03b5\u03b9\u03bd",
+                    "xlit": "latreuein"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " host ",
+                    "Str Grk": 4756.0,
+                    "lemma": "\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u1fb7",
+                    "xlit": "stratia"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " heaven ",
+                    "Str Grk": 3772.0,
+                    "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fe6",
+                    "xlit": "ouranou"
+                },
+                {
+                    "BSB Version": " as ",
+                    "Str Grk": 2531.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+                    "xlit": "kath\u014ds"
+                },
+                {
+                    "BSB Version": " it is written ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03ad\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9",
+                    "xlit": "gegraptai"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [the] book ",
+                    "Str Grk": 976.0,
+                    "lemma": "\u03b2\u03af\u03b2\u03bb\u1ff3",
+                    "xlit": "bibl\u014d"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " prophets ",
+                    "Str Grk": 4396.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u1ff6\u03bd",
+                    "xlit": "proph\u0113t\u014dn"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u039c\u1f74",
+                    "xlit": "M\u0113"
+                },
+                {
+                    "BSB Version": " Did you bring ",
+                    "Str Grk": 4374.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b7\u03bd\u03ad\u03b3\u03ba\u03b1\u03c4\u03ad",
+                    "xlit": "pros\u0113nenkate"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " sacrifices ",
+                    "Str Grk": 4968.0,
+                    "lemma": "\u03c3\u03c6\u03ac\u03b3\u03b9\u03b1",
+                    "xlit": "sphagia"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " offerings ",
+                    "Str Grk": 2378.0,
+                    "lemma": "\u03b8\u03c5\u03c3\u03af\u03b1\u03c2",
+                    "xlit": "thysias"
+                },
+                {
+                    "BSB Version": " forty ",
+                    "Str Grk": 5062.0,
+                    "lemma": "\u03c4\u03b5\u03c3\u03c3\u03b5\u03c1\u03ac\u03ba\u03bf\u03bd\u03c4\u03b1",
+                    "xlit": "tesserakonta"
+                },
+                {
+                    "BSB Version": " years ",
+                    "Str Grk": 2094.0,
+                    "lemma": "\u1f14\u03c4\u03b7",
+                    "xlit": "et\u0113"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " wilderness ",
+                    "Str Grk": 2048.0,
+                    "lemma": "\u1f10\u03c1\u03ae\u03bc\u1ff3",
+                    "xlit": "er\u0113m\u014d"
+                },
+                {
+                    "BSB Version": " O house ",
+                    "Str Grk": 3624.0,
+                    "lemma": "\u03bf\u1f36\u03ba\u03bf\u03c2",
+                    "xlit": "oikos"
+                },
+                {
+                    "BSB Version": " of Israel ",
+                    "Str Grk": 2474.0,
+                    "lemma": "\u1f38\u03c3\u03c1\u03b1\u03ae\u03bb",
+                    "xlit": "Isra\u0113l"
+                }
+            ],
+            "verse_text": "But God turned away and delivered them to worship the host of heaven, as it has been written in <i>the</i> book of the prophets: 'Did you offer slain beasts and sacrifices to Me forty years in the wilderness, O house of Israel?"
+        },
+        {
+            "verse_no": 31054,
+            "verse_ref": "Revelation 20:15",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u03b5\u1f34",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " anyone ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03c2",
+                    "xlit": "tis"
+                },
+                {
+                    "BSB Version": " was found ",
+                    "Str Grk": 2147.0,
+                    "lemma": "\u03b5\u1f51\u03c1\u03ad\u03b8\u03b7",
+                    "xlit": "heureth\u0113"
+                },
+                {
+                    "BSB Version": " [whose name] was not written ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03bd\u03bf\u03c2",
+                    "xlit": "gegrammenos"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03c7",
+                    "xlit": "ouch"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " Book ",
+                    "Str Grk": 976.0,
+                    "lemma": "\u03b2\u03af\u03b2\u03bb\u1ff3",
+                    "xlit": "bibl\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " of Life ",
+                    "Str Grk": 2222.0,
+                    "lemma": "\u03b6\u03c9\u1fc6\u03c2",
+                    "xlit": "z\u014d\u0113s"
+                },
+                {
+                    "BSB Version": " he was thrown ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f10\u03b2\u03bb\u03ae\u03b8\u03b7",
+                    "xlit": "ebl\u0113th\u0113"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " lake ",
+                    "Str Grk": 3041.0,
+                    "lemma": "\u03bb\u03af\u03bc\u03bd\u03b7\u03bd",
+                    "xlit": "limn\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u03cc\u03c2",
+                    "xlit": "pyros"
+                }
+            ],
+            "verse_text": "And if anyone was not found having been written in the book of life, he was cast into the lake of fire."
+        },
+        {
+            "verse_no": 29446,
+            "verse_ref": "Philippians 4:3",
+            "verse_data": [
+                {
+                    "BSB Version": " Yes ",
+                    "Str Grk": 3483.0,
+                    "lemma": "\u03bd\u03b1\u1f76",
+                    "xlit": "nai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " I ask ",
+                    "Str Grk": 2065.0,
+                    "lemma": "\u1f10\u03c1\u03c9\u03c4\u1ff6",
+                    "xlit": "er\u014dt\u014d"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03ad",
+                    "xlit": "se"
+                },
+                {
+                    "BSB Version": " [my] true ",
+                    "Str Grk": 1103.0,
+                    "lemma": "\u03b3\u03bd\u03ae\u03c3\u03b9\u03b5",
+                    "xlit": "gn\u0113sie"
+                },
+                {
+                    "BSB Version": " yokefellow ",
+                    "Str Grk": 4805.0,
+                    "lemma": "\u03c3\u03cd\u03b6\u03c5\u03b3\u03b5",
+                    "xlit": "syzyge"
+                },
+                {
+                    "BSB Version": " to help ",
+                    "Str Grk": 4815.0,
+                    "lemma": "\u03c3\u03c5\u03bb\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5",
+                    "xlit": "syllambanou"
+                },
+                {
+                    "BSB Version": " these [women] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03b1\u1fd6\u03c2",
+                    "xlit": "autais"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3748.0,
+                    "lemma": "\u03b1\u1f35\u03c4\u03b9\u03bd\u03b5\u03c2",
+                    "xlit": "haitines"
+                },
+                {
+                    "BSB Version": " have contended ",
+                    "Str Grk": 4866.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03ae\u03b8\u03bb\u03b7\u03c3\u03ac\u03bd",
+                    "xlit": "syn\u0113thl\u0113san"
+                },
+                {
+                    "BSB Version": " at my side ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " gospel ",
+                    "Str Grk": 2098.0,
+                    "lemma": "\u03b5\u1f50\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u1ff3",
+                    "xlit": "euangeli\u014d"
+                },
+                {
+                    "BSB Version": " along ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
+                    "xlit": "meta"
+                },
+                {
+                    "BSB Version": " Clement ",
+                    "Str Grk": 2815.0,
+                    "lemma": "\u039a\u03bb\u03ae\u03bc\u03b5\u03bd\u03c4\u03bf\u03c2",
+                    "xlit": "Kl\u0113mentos"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " rest ",
+                    "Str Grk": 3062.0,
+                    "lemma": "\u03bb\u03bf\u03b9\u03c0\u1ff6\u03bd",
+                    "xlit": "loip\u014dn"
+                },
+                {
+                    "BSB Version": " of my ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " fellow workers ",
+                    "Str Grk": 4904.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u1ff6\u03bd",
+                    "xlit": "synerg\u014dn"
+                },
+                {
+                    "BSB Version": " whose ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f67\u03bd",
+                    "xlit": "h\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " names [are] ",
+                    "Str Grk": 3686.0,
+                    "lemma": "\u1f40\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "onomata"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [the] Book ",
+                    "Str Grk": 976.0,
+                    "lemma": "\u03b2\u03af\u03b2\u03bb\u1ff3",
+                    "xlit": "bibl\u014d"
+                },
+                {
+                    "BSB Version": " of Life ",
+                    "Str Grk": 2222.0,
+                    "lemma": "\u03b6\u03c9\u1fc6\u03c2",
+                    "xlit": "z\u014d\u0113s"
+                }
+            ],
+            "verse_text": "Yes, and I ask you, true yokefellow, help these <i>women</i> who labored together with me in the gospel, with Clement also, and the rest of my fellow workers, whose names <i>are</i> in <i>the</i> book of life."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2424,
+            "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+            "xlit": "I\u0113so\u00fbs",
+            "pronunciation": "ee-ay-sooce'",
+            "kjv_def": "Jesus.",
+            "pspeech": "N-GMS",
+            "description": " Jesus (i.e. Jehoshua), the name of our Lord and two (three) other Israelites"
+        },
+        {
+            "number": 2094,
+            "lemma": "\u1f14\u03c4\u03bf\u03c2",
+            "xlit": "\u00e9tos",
+            "pronunciation": "et'-os",
+            "kjv_def": "year.",
+            "pspeech": "N-ANP",
+            "description": " a year"
+        },
+        {
+            "number": 3041,
+            "lemma": "\u03bb\u1f77\u03bc\u03bd\u03b7",
+            "xlit": "l\u00edmn\u0113",
+            "pronunciation": "lim'-nay",
+            "kjv_def": "lake.",
+            "pspeech": "N-AFS",
+            "description": " a pond (large or small)"
+        },
+        {
+            "number": 4815,
+            "lemma": "\u03c3\u03c5\u03bb\u03bb\u03b1\u03bc\u03b2\u1f71\u03bd\u03c9",
+            "xlit": "syllamb\u00e1n\u014d",
+            "pronunciation": "sool-lam-ban'-o",
+            "kjv_def": "catch, conceive, help, take.",
+            "pspeech": "V-ANA",
+            "description": " to clasp, i.e. seize (arrest, capture); specially, to conceive (literally or figuratively); by implication, to aid"
+        }
+    ]
+}

@@ -1,120 +1,137 @@
 {
     "wotd": {
-        "number": 3624,
-        "lemma": "\u03bf\u1f36\u03ba\u03bf\u03c2",
-        "xlit": "o\u00eekos",
-        "pronunciation": "oy'-kos",
-        "description": " a dwelling (more or less extensive, literal or\n figurative); by implication, a family (more or less related, literally\n or figuratively)",
-        "kjv_def": "home, house(-hold), temple.",
-        "pspeech": "N-AMS"
+        "number": 169,
+        "lemma": "\u1f00\u03ba\u1f71\u03b8\u03b1\u03c1\u03c4\u03bf\u03c2",
+        "xlit": "ak\u00e1thartos",
+        "pronunciation": "ak-ath'-ar-tos",
+        "kjv_def": "foul, unclean.",
+        "pspeech": "Adj-GNP",
+        "description": " impure (ceremonially, morally (lewd) or specially, (demonic))"
     },
     "verses": [
         {
-            "verse_no": 25369,
-            "verse_ref": "Luke 10:5",
+            "verse_no": 25430,
+            "verse_ref": "Luke 11:24",
             "verse_data": [
                 {
-                    "BSB Version": " - ",
-                    "Str Grk": 1161.0,
-                    "lemma": "\u03b4\u2019",
-                    "xlit": "d\u2019"
-                },
-                {
-                    "BSB Version": " Whatever ",
-                    "Str Grk": 3739.0,
-                    "lemma": "\u1f23\u03bd",
-                    "xlit": "h\u0113n"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 302.0,
-                    "lemma": "\u1f02\u03bd",
-                    "xlit": "an"
-                },
-                {
-                    "BSB Version": " house ",
-                    "Str Grk": 3614.0,
-                    "lemma": "\u03bf\u1f30\u03ba\u03af\u03b1\u03bd",
-                    "xlit": "oikian"
-                },
-                {
-                    "BSB Version": " you enter ",
-                    "Str Grk": 1525.0,
-                    "lemma": "\u03b5\u1f30\u03c3\u03ad\u03bb\u03b8\u03b7\u03c4\u03b5",
-                    "xlit": "eiselth\u0113te"
-                },
-                {
-                    "BSB Version": " . . . ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u0395\u1f30\u03c2",
-                    "xlit": "Eis"
-                },
-                {
-                    "BSB Version": " begin ",
-                    "Str Grk": 4412.0,
-                    "lemma": "\u03c0\u03c1\u1ff6\u03c4\u03bf\u03bd",
-                    "xlit": "pr\u014dton"
-                },
-                {
-                    "BSB Version": " by saying ",
-                    "Str Grk": 3004.0,
-                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03c4\u03b5",
-                    "xlit": "legete"
-                },
-                {
-                    "BSB Version": " Peace ",
-                    "Str Grk": 1515.0,
-                    "lemma": "\u0395\u1f30\u03c1\u03ae\u03bd\u03b7",
-                    "xlit": "Eir\u0113n\u0113"
-                },
-                {
-                    "BSB Version": " to this ",
-                    "Str Grk": 3778.0,
-                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u1ff3",
-                    "xlit": "tout\u014d"
+                    "BSB Version": " When ",
+                    "Str Grk": 3752.0,
+                    "lemma": "\u1f4d\u03c4\u03b1\u03bd",
+                    "xlit": "Hotan"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
                 },
                 {
-                    "BSB Version": " house ",
-                    "Str Grk": 3624.0,
-                    "lemma": "\u03bf\u1f34\u03ba\u1ff3",
-                    "xlit": "oik\u014d"
-                }
-            ],
-            "verse_text": "And into whatever house you might enter, first say, 'Peace to this house.'"
-        },
-        {
-            "verse_no": 25206,
-            "verse_ref": "Luke 7:10",
-            "verse_data": [
+                    "BSB Version": " an unclean ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03bf\u03bd",
+                    "xlit": "akatharton"
+                },
                 {
-                    "BSB Version": " And [when] ",
+                    "BSB Version": " spirit ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+                    "xlit": "pneuma"
+                },
+                {
+                    "BSB Version": " comes out ",
+                    "Str Grk": 1831.0,
+                    "lemma": "\u1f10\u03be\u03ad\u03bb\u03b8\u1fc3",
+                    "xlit": "exelth\u0113"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " a man ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5",
+                    "xlit": "anthr\u014dpou"
+                },
+                {
+                    "BSB Version": " it passes ",
+                    "Str Grk": 1330.0,
+                    "lemma": "\u03b4\u03b9\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "dierchetai"
+                },
+                {
+                    "BSB Version": " through ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u2019",
+                    "xlit": "di\u2019"
+                },
+                {
+                    "BSB Version": " arid ",
+                    "Str Grk": 504.0,
+                    "lemma": "\u1f00\u03bd\u03cd\u03b4\u03c1\u03c9\u03bd",
+                    "xlit": "anydr\u014dn"
+                },
+                {
+                    "BSB Version": " places ",
+                    "Str Grk": 5117.0,
+                    "lemma": "\u03c4\u03cc\u03c0\u03c9\u03bd",
+                    "xlit": "top\u014dn"
+                },
+                {
+                    "BSB Version": " seeking ",
+                    "Str Grk": 2212.0,
+                    "lemma": "\u03b6\u03b7\u03c4\u03bf\u1fe6\u03bd",
+                    "xlit": "z\u0113toun"
+                },
+                {
+                    "BSB Version": " rest ",
+                    "Str Grk": 372.0,
+                    "lemma": "\u1f00\u03bd\u03ac\u03c0\u03b1\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "anapausin"
+                },
+                {
+                    "BSB Version": " and ",
                     "Str Grk": 2532.0,
                     "lemma": "\u03ba\u03b1\u1f76",
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03bf\u1f31",
-                    "xlit": "hoi"
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
                 },
                 {
-                    "BSB Version": " messengers ",
-                    "Str Grk": 3992.0,
-                    "lemma": "\u03c0\u03b5\u03bc\u03c6\u03b8\u03ad\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "pemphthentes"
+                    "BSB Version": " does not find [it] ",
+                    "Str Grk": 2147.0,
+                    "lemma": "\u03b5\u1f51\u03c1\u03af\u03c3\u03ba\u03bf\u03bd",
+                    "xlit": "heuriskon"
                 },
                 {
-                    "BSB Version": " returned ",
+                    "BSB Version": " Then ",
+                    "Str Grk": 5119.0,
+                    "lemma": "\u03c4\u1f79\u03c4\u03b5",
+                    "xlit": "tote"
+                },
+                {
+                    "BSB Version": " it says ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " I will return ",
                     "Str Grk": 5290.0,
-                    "lemma": "\u1f51\u03c0\u03bf\u03c3\u03c4\u03c1\u03ad\u03c8\u03b1\u03bd\u03c4\u03b5\u03c2",
-                    "xlit": "hypostrepsantes"
+                    "lemma": "\u1f59\u03c0\u03bf\u03c3\u03c4\u03c1\u03ad\u03c8\u03c9",
+                    "xlit": "Hypostreps\u014d"
                 },
                 {
                     "BSB Version": " to ",
@@ -123,252 +140,149 @@
                     "xlit": "eis"
                 },
                 {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " house ",
-                    "Str Grk": 3624.0,
-                    "lemma": "\u03bf\u1f36\u03ba\u03bf\u03bd",
-                    "xlit": "oikon"
-                },
-                {
-                    "BSB Version": " they found ",
-                    "Str Grk": 2147.0,
-                    "lemma": "\u03b5\u1f57\u03c1\u03bf\u03bd",
-                    "xlit": "heuron"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " servant ",
-                    "Str Grk": 1401.0,
-                    "lemma": "\u03b4\u03bf\u1fe6\u03bb\u03bf\u03bd",
-                    "xlit": "doulon"
-                },
-                {
-                    "BSB Version": " in good health ",
-                    "Str Grk": 5198.0,
-                    "lemma": "\u1f51\u03b3\u03b9\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1",
-                    "xlit": "hygiainonta"
-                }
-            ],
-            "verse_text": "And having returned to the house, those having been sent found the servant in good health."
-        },
-        {
-            "verse_no": 25285,
-            "verse_ref": "Luke 8:39",
-            "verse_data": [
-                {
-                    "BSB Version": " Return ",
-                    "Str Grk": 5290.0,
-                    "lemma": "\u1f59\u03c0\u03cc\u03c3\u03c4\u03c1\u03b5\u03c6\u03b5",
-                    "xlit": "Hypostrephe"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 1519.0,
-                    "lemma": "\u03b5\u1f30\u03c2",
-                    "xlit": "eis"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u03c3\u03bf\u03c5",
-                    "xlit": "sou"
-                },
-                {
-                    "BSB Version": " vvv ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f78\u03bd",
-                    "xlit": "ton"
-                },
-                {
-                    "BSB Version": " home ",
-                    "Str Grk": 3624.0,
-                    "lemma": "\u03bf\u1f36\u03ba\u03cc\u03bd",
-                    "xlit": "oikon"
-                },
-                {
-                    "BSB Version": " and ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " describe ",
-                    "Str Grk": 1334.0,
-                    "lemma": "\u03b4\u03b9\u03b7\u03b3\u03bf\u1fe6",
-                    "xlit": "di\u0113gou"
-                },
-                {
-                    "BSB Version": " how much ",
-                    "Str Grk": 3745.0,
-                    "lemma": "\u1f45\u03c3\u03b1",
-                    "xlit": "hosa"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " God ",
-                    "Str Grk": 2316.0,
-                    "lemma": "\u0398\u03b5\u03cc\u03c2",
-                    "xlit": "Theos"
-                },
-                {
-                    "BSB Version": " has done ",
-                    "Str Grk": 4160.0,
-                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b7\u03c3\u03b5\u03bd",
-                    "xlit": "epoi\u0113sen"
-                },
-                {
-                    "BSB Version": " for you ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u03c3\u03bf\u03b9",
-                    "xlit": "soi"
-                },
-                {
-                    "BSB Version": " So ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " [the man] went away ",
-                    "Str Grk": 565.0,
-                    "lemma": "\u1f00\u03c0\u1fc6\u03bb\u03b8\u03b5\u03bd",
-                    "xlit": "ap\u0113lthen"
-                },
-                {
-                    "BSB Version": " [and] proclaimed ",
-                    "Str Grk": 2784.0,
-                    "lemma": "\u03ba\u03b7\u03c1\u03cd\u03c3\u03c3\u03c9\u03bd",
-                    "xlit": "k\u0113ryss\u014dn"
-                },
-                {
-                    "BSB Version": " all ",
-                    "Str Grk": 3650.0,
-                    "lemma": "\u1f45\u03bb\u03b7\u03bd",
-                    "xlit": "hol\u0113n"
-                },
-                {
-                    "BSB Version": " over ",
-                    "Str Grk": 2596.0,
-                    "lemma": "\u03ba\u03b1\u03b8\u2019",
-                    "xlit": "kath\u2019"
-                },
-                {
-                    "BSB Version": " the ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1f74\u03bd",
-                    "xlit": "t\u0113n"
-                },
-                {
-                    "BSB Version": " town ",
-                    "Str Grk": 4172.0,
-                    "lemma": "\u03c0\u03cc\u03bb\u03b9\u03bd",
-                    "xlit": "polin"
-                },
-                {
-                    "BSB Version": " how much ",
-                    "Str Grk": 3745.0,
-                    "lemma": "\u1f45\u03c3\u03b1",
-                    "xlit": "hosa"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u1f41",
-                    "xlit": "ho"
-                },
-                {
-                    "BSB Version": " Jesus ",
-                    "Str Grk": 2424.0,
-                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
-                    "xlit": "I\u0113sous"
-                },
-                {
-                    "BSB Version": " had done ",
-                    "Str Grk": 4160.0,
-                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b7\u03c3\u03b5\u03bd",
-                    "xlit": "epoi\u0113sen"
-                },
-                {
-                    "BSB Version": " for him ",
-                    "Str Grk": 846.0,
-                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
-                    "xlit": "aut\u014d"
-                }
-            ],
-            "verse_text": "\"Return to your house, and relate all that God has done for you.\" And he departed, proclaiming through the whole city all that Jesus had done for him."
-        },
-        {
-            "verse_no": 29941,
-            "verse_ref": "Philemon 1:2",
-            "verse_data": [
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " to Apphia ",
-                    "Str Grk": 682.0,
-                    "lemma": "\u1f08\u03c0\u03c6\u03af\u1fb3",
-                    "xlit": "Apphia"
-                },
-                {
-                    "BSB Version": " our ",
-                    "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
-                },
-                {
-                    "BSB Version": " sister ",
-                    "Str Grk": 79.0,
-                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1fc7",
-                    "xlit": "adelph\u0113"
-                },
-                {
-                    "BSB Version": " - ",
-                    "Str Grk": 2532.0,
-                    "lemma": "\u03ba\u03b1\u1f76",
-                    "xlit": "kai"
-                },
-                {
-                    "BSB Version": " to Archippus ",
-                    "Str Grk": 751.0,
-                    "lemma": "\u1f08\u03c1\u03c7\u03af\u03c0\u03c0\u1ff3",
-                    "xlit": "Archipp\u014d"
-                },
-                {
-                    "BSB Version": " our ",
+                    "BSB Version": " [the] ",
                     "Str Grk": 1473.0,
-                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
-                    "xlit": "h\u0113m\u014dn"
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
                 },
                 {
                     "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1ff7",
-                    "xlit": "t\u014d"
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
                 },
                 {
-                    "BSB Version": " fellow soldier ",
-                    "Str Grk": 4961.0,
-                    "lemma": "\u03c3\u03c5\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03ce\u03c4\u1fc3",
-                    "xlit": "systrati\u014dt\u0113"
+                    "BSB Version": " house ",
+                    "Str Grk": 3624.0,
+                    "lemma": "\u03bf\u1f36\u03ba\u03cc\u03bd",
+                    "xlit": "oikon"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3606.0,
+                    "lemma": "\u1f45\u03b8\u03b5\u03bd",
+                    "xlit": "hothen"
+                },
+                {
+                    "BSB Version": " I left ",
+                    "Str Grk": 1831.0,
+                    "lemma": "\u1f10\u03be\u1fc6\u03bb\u03b8\u03bf\u03bd",
+                    "xlit": "ex\u0113lthon"
+                }
+            ],
+            "verse_text": "When the unclean spirit is gone out from the man, it passes through waterless places, seeking rest and not finding <i>any</i>. Then it says, 'I will return to my house, from where I came out.'"
+        },
+        {
+            "verse_no": 30968,
+            "verse_ref": "Revelation 16:13",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " I saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u03b5\u1f36\u03b4\u03bf\u03bd",
+                    "xlit": "eidon"
+                },
+                {
+                    "BSB Version": " three ",
+                    "Str Grk": 5140.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03b1",
+                    "xlit": "tria"
+                },
+                {
+                    "BSB Version": " unclean ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03b1",
+                    "xlit": "akatharta"
+                },
+                {
+                    "BSB Version": " spirits ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "pneumata"
+                },
+                {
+                    "BSB Version": " that looked like ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " frogs ",
+                    "Str Grk": 944.0,
+                    "lemma": "\u03b2\u03ac\u03c4\u03c1\u03b1\u03c7\u03bf\u03b9",
+                    "xlit": "batrachoi"
+                },
+                {
+                    "BSB Version": " [coming] out of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " mouths ",
+                    "Str Grk": 4750.0,
+                    "lemma": "\u03c3\u03c4\u03cc\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "stomatos"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " dragon ",
+                    "Str Grk": 1404.0,
+                    "lemma": "\u03b4\u03c1\u03ac\u03ba\u03bf\u03bd\u03c4\u03bf\u03c2",
+                    "xlit": "drakontos"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 4750.0,
+                    "lemma": "\u03c3\u03c4\u03cc\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "stomatos"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " beast ",
+                    "Str Grk": 2342.0,
+                    "lemma": "\u03b8\u03b7\u03c1\u03af\u03bf\u03c5",
+                    "xlit": "th\u0113riou"
                 },
                 {
                     "BSB Version": " and ",
@@ -377,75 +291,287 @@
                     "xlit": "kai"
                 },
                 {
-                    "BSB Version": " to the ",
+                    "BSB Version": " - ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " - ",
                     "Str Grk": 3588.0,
-                    "lemma": "\u03c4\u1fc7",
-                    "xlit": "t\u0113"
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " church ",
-                    "Str Grk": 1577.0,
-                    "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u1fb3",
-                    "xlit": "ekkl\u0113sia"
+                    "BSB Version": " - ",
+                    "Str Grk": 4750.0,
+                    "lemma": "\u03c3\u03c4\u03cc\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "stomatos"
                 },
                 {
-                    "BSB Version": " [that meets] at ",
-                    "Str Grk": 2596.0,
-                    "lemma": "\u03ba\u03b1\u03c4\u2019",
-                    "xlit": "kat\u2019"
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
                 },
                 {
-                    "BSB Version": " your ",
-                    "Str Grk": 4771.0,
-                    "lemma": "\u03c3\u03bf\u03c5",
-                    "xlit": "sou"
-                },
-                {
-                    "BSB Version": " house ",
-                    "Str Grk": 3624.0,
-                    "lemma": "\u03bf\u1f36\u03ba\u03cc\u03bd",
-                    "xlit": "oikon"
+                    "BSB Version": " false prophet ",
+                    "Str Grk": 5578.0,
+                    "lemma": "\u03c8\u03b5\u03c5\u03b4\u03bf\u03c0\u03c1\u03bf\u03c6\u03ae\u03c4\u03bf\u03c5",
+                    "xlit": "pseudoproph\u0113tou"
                 }
             ],
-            "verse_text": "and to Apphia our sister, and to Archippus our fellow soldier, and to the church at your house:"
+            "verse_text": "And I saw <i>coming</i> out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet, three unclean spirits, like frogs;"
+        },
+        {
+            "verse_no": 27184,
+            "verse_ref": "Acts 8:7",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 994.0,
+                    "lemma": "\u03b2\u03bf\u1ff6\u03bd\u03c4\u03b1",
+                    "xlit": "bo\u014dnta"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3173.0,
+                    "lemma": "\u03bc\u03b5\u03b3\u03ac\u03bb\u1fc3",
+                    "xlit": "megal\u0113"
+                },
+                {
+                    "BSB Version": " With loud shrieks ",
+                    "Str Grk": 5456.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc7",
+                    "xlit": "ph\u014dn\u0113"
+                },
+                {
+                    "BSB Version": " unclean ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03b1",
+                    "xlit": "akatharta"
+                },
+                {
+                    "BSB Version": " spirits ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "pneumata"
+                },
+                {
+                    "BSB Version": " came out of ",
+                    "Str Grk": 1831.0,
+                    "lemma": "\u1f10\u03be\u03ae\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf",
+                    "xlit": "ex\u0113rchonto"
+                },
+                {
+                    "BSB Version": " many ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03bf\u1f76",
+                    "xlit": "polloi"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " were possessed ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f10\u03c7\u03cc\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "echont\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " many ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03bf\u1f76",
+                    "xlit": "polloi"
+                },
+                {
+                    "BSB Version": " [of the] paralyzed ",
+                    "Str Grk": 3886.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03bb\u03b5\u03bb\u03c5\u03bc\u03ad\u03bd\u03bf\u03b9",
+                    "xlit": "paralelymenoi"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " lame ",
+                    "Str Grk": 5560.0,
+                    "lemma": "\u03c7\u03c9\u03bb\u03bf\u1f76",
+                    "xlit": "ch\u014dloi"
+                },
+                {
+                    "BSB Version": " were healed ",
+                    "Str Grk": 2323.0,
+                    "lemma": "\u1f10\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03cd\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "etherapeuth\u0113san"
+                }
+            ],
+            "verse_text": "For from many of those having unclean spirits, they were coming out, crying in a loud voice. And many having been paralyzed and lame were healed."
+        },
+        {
+            "verse_no": 25165,
+            "verse_ref": "Luke 6:18",
+            "verse_data": [
+                {
+                    "BSB Version": " They ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03bf\u1f33",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " had come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f26\u03bb\u03b8\u03bf\u03bd",
+                    "xlit": "\u0113lthon"
+                },
+                {
+                    "BSB Version": " to hear ",
+                    "Str Grk": 191.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u1fe6\u03c3\u03b1\u03b9",
+                    "xlit": "akousai"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " to be healed ",
+                    "Str Grk": 2390.0,
+                    "lemma": "\u1f30\u03b1\u03b8\u1fc6\u03bd\u03b1\u03b9",
+                    "xlit": "iath\u0113nai"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " diseases ",
+                    "Str Grk": 3554.0,
+                    "lemma": "\u03bd\u03cc\u03c3\u03c9\u03bd",
+                    "xlit": "nos\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " those ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " troubled ",
+                    "Str Grk": 1776.0,
+                    "lemma": "\u1f10\u03bd\u03bf\u03c7\u03bb\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "enochloumenoi"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " unclean ",
+                    "Str Grk": 169.0,
+                    "lemma": "\u1f00\u03ba\u03b1\u03b8\u03ac\u03c1\u03c4\u03c9\u03bd",
+                    "xlit": "akathart\u014dn"
+                },
+                {
+                    "BSB Version": " spirits ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03c5\u03bc\u03ac\u03c4\u03c9\u03bd",
+                    "xlit": "pneumat\u014dn"
+                },
+                {
+                    "BSB Version": " were healed ",
+                    "Str Grk": 2323.0,
+                    "lemma": "\u1f10\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03cd\u03bf\u03bd\u03c4\u03bf",
+                    "xlit": "etherapeuonto"
+                }
+            ],
+            "verse_text": "who came to hear Him and to be healed of their diseases. And those troubled with unclean spirits were healed."
         }
     ],
     "other_words": [
         {
-            "number": 1515,
-            "lemma": "\u03b5\u1f30\u03c1\u1f75\u03bd\u03b7",
-            "xlit": "eir\u1e17n\u0113",
-            "pronunciation": "i-ray'-nay",
-            "description": " peace (literally or\n figuratively); by implication, prosperity",
-            "kjv_def": "one, peace, quietness,\n rest, + set at one again.",
-            "pspeech": "N-NFS"
+            "number": 2212,
+            "lemma": "\u03b6\u03b7\u03c4\u1f73\u03c9",
+            "xlit": "z\u0113t\u00e9\u014d",
+            "pronunciation": "dzay-teh'-o",
+            "kjv_def": "be (go) about, desire, endeavour, enquire (for), require, (X\n will) seek (after, for, means).",
+            "pspeech": "V-PNA",
+            "description": " to seek (literally or figuratively); specially, (by Hebraism) to worship (God), or (in a bad sense) to plot (against life)"
         },
         {
-            "number": 2147,
-            "lemma": "\u03b5\u1f51\u03c1\u1f77\u03c3\u03ba\u03c9",
-            "xlit": "heur\u00edsk\u014d",
-            "pronunciation": "hyoo-ris'-ko",
-            "description": "\n\n to find (literally or figuratively)",
-            "kjv_def": "find, get, obtain, perceive,\n see.",
-            "pspeech": "V-AIP-3S"
+            "number": 3708,
+            "lemma": "\u1f41\u03c1\u1f71\u03c9",
+            "xlit": "hor\u00e1\u014d",
+            "pronunciation": "hor-ah'-o",
+            "kjv_def": "behold, perceive, see,\n take heed.",
+            "pspeech": "V-AIA-1P",
+            "description": " by extension, to attend to; by Hebraism, to experience; passively, to appear"
         },
         {
-            "number": 3650,
-            "lemma": "\u1f45\u03bb\u03bf\u03c2",
-            "xlit": "h\u00f3los",
-            "pronunciation": "hol'-os",
-            "description": " \"whole\" or \"all\", i.e. complete (in extent, amount,\n time or degree), especially (neuter) as noun or adverb",
-            "kjv_def": "all,\n altogether, every whit, + throughout, whole.",
-            "pspeech": "Adj-NNS"
+            "number": 2192,
+            "lemma": "\u03c3\u03c7\u1f73\u03c9",
+            "xlit": "sch\u00e9\u014d",
+            "pronunciation": "skheh'-o",
+            "kjv_def": "be (able, X hold, possessed\n with), accompany, + begin to amend, can(+ -not), X conceive, count,\n diseased, do + eat, + enjoy, + fear, following, have, hold, keep, +\n lack, + go to law, lie, + must needs, + of necessity, + need, next, +\n recover, + reign, + rest, + return, X sick, take for, + tremble, +\n uncircumcised, use.",
+            "pspeech": "V-PPA-NFS",
+            "description": " to hold (used in very various applications, literally or figuratively, direct or remote; such as possession; ability, contiuity, relation, or condition)"
         },
         {
-            "number": 1577,
-            "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u1f77\u03b1",
-            "xlit": "ekkl\u0113s\u00eda",
-            "pronunciation": "ek-klay-see'-ah",
-            "description": " a calling out, i.e.\n (concretely) a popular meeting, especially a religious congregation\n (Jewish synagogue, or Christian community of members on earth or\n saints in heaven or both)",
-            "kjv_def": "assembly, church.",
-            "pspeech": "N-AFS"
+            "number": 191,
+            "lemma": "\u1f00\u03ba\u03bf\u1f7b\u03c9",
+            "xlit": "ako\u00fa\u014d",
+            "pronunciation": "ak-oo'-o",
+            "kjv_def": "give (in the) audience\n (of), come (to the ears), (shall) hear(-er, -ken), be noised, be\n reported, understand.",
+            "pspeech": "V-APA-NMS",
+            "description": " to hear (in various senses)"
         }
     ]
 }
