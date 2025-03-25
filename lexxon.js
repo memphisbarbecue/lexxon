@@ -78,13 +78,17 @@ function load_game_state(){
 }
 function recordPuzzleSolvedState(){
   if(this.page_data["play_mode"] == "DAILY"){
-    this.page_data["daily_puzzle_state"]["words_solved"][0] = this.game_state["solved"][0]
-    this.page_data["daily_puzzle_state"]["words_solved"][1] = this.game_state["solved"][1]
-    this.page_data["daily_puzzle_state"]["words_solved"][2] = this.game_state["solved"][2]
-    this.page_data["daily_puzzle_state"]["words_solved"][3] = this.game_state["solved"][3]
-    this.page_data["daily_puzzle_state"]["words_solved"][4] = this.game_state["solved"][4]
+    let i = 0
+    for( i in range(0,5)){
+      this.page_data["daily_puzzle_state"]["words_solved"][i] = this.game_state["solved"][this.game_state["word_index_to_button"][i]]
+    }
+   }
+  else if(this.page_data["play_mode"] == "PRACTICE"){
+    let i = 0
+    for( i in range(0,5)){
+      this.page_data["practice_puzzle_state"]["words_solved"][i] = this.game_state["solved"][this.game_state["word_index_to_button"][i]]
+    }
   }
-  else if(this.page_data["play_mode"] == "PRACTICE")
   update_local_storage()
 }
 function recordGameWin(guess_count){
