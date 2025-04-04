@@ -50,10 +50,9 @@ body{
   top:10px;
 }
 #overlay{
-  height:90vh;
-  width:90vw;
+  height:90%;
+  width:90%;
   top:5%;
-  left:5%;
   position:absolute;
   background-color: rgba(0,0,0,0.7);
   border-radius: 10px;
@@ -65,6 +64,7 @@ body{
   padding-right:10px;
   padding-left: 10px;
   padding-bottom:10px;
+
 }
 .overlay_text{
   overflow-y:scroll;
