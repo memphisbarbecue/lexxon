@@ -177,11 +177,10 @@ body{
   height:8vh;
 }
 .explanation_dot{
-  height: 6vh;
+  height: 100%;
 }
 .dot, .explanation_dot {
   cursor: pointer;
-  height: 8vh;
 
   vertical-align: middle;
   border-radius: 1vh;
@@ -200,11 +199,13 @@ body{
   .nav_div{
     margin:auto;
     width:100%;
+    height:6vh;
+    max-height:75px;
     max-width: 1000px;
     text-align:center; 
     position:relative;
     color:#000;
-    top:10px;
+    top:0px;
   }
   .guessbar{
     text-align:center; 
@@ -314,8 +315,10 @@ body{
 }
 .mySlides {
   display: none;
-  width:100%;
-  height:100%;
+  width:calc(100% - 3px);
+  height:calc(100% - 3px);
+  border-width:3px;
+  border-style: solid;
 }
 .explanationSlide{
   display:none;
@@ -387,9 +390,9 @@ body{
   overflow:scroll;
 }
 .word_indicator{
-  bottom:2px;
+  bottom:4px;
   position:absolute;
-  right:2px;
+  right:4px;
   opacity: 1;
   width:25vw;
   max-width:250px;
@@ -397,9 +400,9 @@ body{
  
 }
 .wotd_indicator{
-  bottom:2px;
+  bottom:4px;
   position:absolute;
-  left:2px;
+  left:4px;
   max-width:250px;
   opacity: 1;
   
@@ -407,7 +410,7 @@ body{
   width:25vw;
   height:5vh;
 }
-#word_indicator_span{
+.word_indicator_span{
   width:100%;
   height:100%; 
   align-content:center;
@@ -419,7 +422,7 @@ body{
   top:0vh;
   width:100%;
   max-width:1000px;
-  height:55vh
+  height:60vh
 }
 .explanation_verse_data_item{
   border-radius: 5px;

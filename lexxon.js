@@ -19,20 +19,10 @@ version = 0.1
 mode  = "DAILY" /* Practice */
 let slideIndex = 1
 this.explanation_slideIndex = 1
-practice_puzzles_loaded = 100 
-var info_text = "<h2>Rules</h2>" +
-  "<img style = 'width:80%; max-width:750px;' src='images/puzzle_diagram.png'/><br/><br/>" +
-  "You are trying to identify, from the English, which of the Greek words you have available is in each verse. " +
-  "<ol><li>Every word is guaranteed to be in at least one verse.</li>" +
-  '<li>One word is guaranteed to be in every verse. That word is the "Word of the Day".</li>' +
-  "<li>You're scored on how many guesses you take to find every occurrance.</li>" +
-  "<li> To make a guess, select a word, indicate whether it is in just the current verse or all verses, and click <i>Submit</i></li>" +
-  "</ol><br/> If you have trouble, try looking at each verse on <a href = 'https://biblehub.com/lexicon/genesis/1-1.htm'>Bible Hub's Lexicon view<a/><br/><br/>" +
-  "All text and Strongs references courtesy of the <a href= 'https://berean.bible/downloads.htm'>Berean Standard Bible</a>.<br/>" +
-  "Strongs lexicon definitions loaded from <a href='https://github.com/openscriptures/strongs'>the OpenScriptures GitHub repository.</a><br/>" +
-  "Logo font from <a href = 'https://actselect.chips.jp/fonts/54.htm'>this font site.</a><br/><br/>" +
-  "<a href = 'https://www.facebook.com/profile.php?id=61573621951149'><img class='reslogo' src='images/facebook.png'/></a>"
+practice_puzzles_loaded = 365 
 
+
+/** Event handlers */
 function pageLoad() {
   //Check if valid. If not, then create a new game state
   let page_data = null
@@ -47,10 +37,12 @@ function pageLoad() {
 
   }
   load_puzzle()
-  load_game_state()
   welcome()
-
 }
+
+
+
+/** Load and store data routines  */
 function set_puzzle_date(){
   this.time = new Date()
   let new_time = new Date()
@@ -63,78 +55,108 @@ function set_puzzle_date(){
     this.page_data["daily_puzzle_stats"]["streak"] = 0
     }
     update_local_storage()
-  
-
 }
 
 
 function load_puzzle(){
   set_puzzle_date()
   temp_puzzle = Promise.resolve(getPuzzle())
-  temp_puzzle.then(function (result) { setPuzzle(result) })
+  temp_puzzle.then(function (result) { setPuzzle(result); load_game_state()  })
+}
+function getPuzzle() {
+  if(this.page_data["play_mode"] == "DAILY"){
+    return $.getJSON("puzzles/daily/" + this.date + "/puzzle.json", function (data) {
+      return data;
+    })
+  }else{
+    return $.getJSON("puzzles/practice/" + this.page_data["practice_puzzle_state"]["current_puzzle_number"] + "/puzzle.json", function (data) {
+      return data;
+    })
+  }
+
+
 }
 function load_game_state(){
+  if(!("guess_ledger" in this.page_data["daily_puzzle_state"])){
+    this.page_data["daily_puzzle_state"]["guess_ledger"] = []
 
+  }
+  if(this.page_data["play_mode"] == "DAILY"){
+    if(("current_puzzle_date" in this.page_data["daily_puzzle_state"])){
+        if(this.page_data["daily_puzzle_state"]["current_puzzle_date"] != this.date){
+          this.page_data["daily_puzzle_state"]["current_puzzle_date"] = this.date
+          this.page_data["daily_puzzle_state"]["guess_ledger"] = []
+          return
+        }
+    }else{
+      this.page_data["daily_puzzle_state"]["current_puzzle_date"] = this.date
+    }
+    resetWordIndicators()
+    let i = 0
+    for(i=0; i < 5; i++){
+      let state = this.page_data["daily_puzzle_state"]["words_solved"][i]
+      this.game_state["solved"][this.game_state["word_index_to_button"][i]] = state
+      if(state == true){
+        removeChoice(this.game_state["word_index_to_button"][i])
+        showWordIndicator(i)
+      }    
+    }
+    this.game_state["guesses_left"] = this.page_data["daily_puzzle_state"]["guesses_left"]  
+    updateGuessCountDisplay()
+
+   }
+  else if(this.page_data["play_mode"] == "PRACTICE"){
+    resetWordIndicators()
+    let i = 0
+    for(i=0; i < 5; i++){
+      let state = this.page_data["practice_puzzle_state"]["words_solved"][i]
+      this.game_state["solved"][this.game_state["word_index_to_button"][i]] = state
+      if(state == true){
+        showWordIndicator(i)
+        removeChoice(this.game_state["word_index_to_button"][i])
+      }
+    }
+    this.game_state["guesses_left"] = this.page_data["practice_puzzle_state"]["guesses_left"]  
+    updateGuessCountDisplay()
+
+  }
+  /*make words which are solved disappear*/
+  /*make words which are solved appear in the slide view*/
+  /*load guesses and update guesses view*/
+
+}
+function update_choices_to_game_state(){
+
+}
+function resetGameState(puzzleType){
+    for(i=0; i < 5; i++){
+      this.game_state["solved"][this.game_state["word_index_to_button"][i]] = false
+    }
+    this.game_state["guesses_left"] = 4
+    if(puzzleType == "DAILY"){
+      this.page_data["daily_puzzle_state"]["guess_ledger"] = []
+    }
+    recordPuzzleSolvedState() 
 }
 function recordPuzzleSolvedState(){
   if(this.page_data["play_mode"] == "DAILY"){
     let i = 0
-    for( i in range(0,5)){
+    for(i=0; i < 5; i++){
       this.page_data["daily_puzzle_state"]["words_solved"][i] = this.game_state["solved"][this.game_state["word_index_to_button"][i]]
     }
+    this.page_data["daily_puzzle_state"]["guesses_left"] = this.game_state["guesses_left"]
    }
   else if(this.page_data["play_mode"] == "PRACTICE"){
     let i = 0
-    for( i in range(0,5)){
+    for(i=0; i < 5; i++){
       this.page_data["practice_puzzle_state"]["words_solved"][i] = this.game_state["solved"][this.game_state["word_index_to_button"][i]]
     }
+    this.page_data["practice_puzzle_state"]["guesses_left"] = this.game_state["guesses_left"]
+
   }
   update_local_storage()
 }
-function recordGameWin(guess_count){
-  let stats_source = ""
-  if(this.page_data["play_mode"] == "DAILY"){
-    stats_source = this.page_data["daily_puzzle_stats"]
-    if(this.date in this.page_data["history"]){
-        return
-    }
-    this.page_data["history"][this.date] = this.puzzle["wotd"]
-    if(stats_source["last_solved"] == this.yesterday){
-      stats_source["streak"] = stats_source["streak"] + 1 
-    }
-    else { 
-      stats_source["streak"] = 1
-    }
-    stats_source["last_solved"] = this.date
-    
-  }else{
-    this.page_data["practice_puzzle_state"]["current_puzzle_number"] = (this.page_data["practice_puzzle_state"]["current_puzzle_number"] + 1) % practice_puzzles_loaded
-    stats_source = this.page_data["practice_puzzle_stats"]
-  }
-  if(guess_count == 4){
-    stats_source["guesses_4"] = stats_source["guesses_4"] + 1
-  }
-  else if(guess_count == 3){
-    stats_source["guesses_3"] = stats_source["guesses_3"] + 1
-  }
-  else if(guess_count == 2){
-    stats_source["guesses_2"] = stats_source["guesses_2"] + 1
-  }
-  else if(guess_count == 1){
-    stats_source["guesses_1"] = stats_source["guesses_1"] + 1
-  }
-  update_local_storage()
-}
-function recordGameLoss(){
-  if(this.page_data["play_mode"] == "DAILY"){
-    stats_source = this.page_data["daily_puzzle_stats"]
-  }
-  else{
-    this.page_data["practice_puzzle_state"]["current_puzzle_number"] = (this.page_data["practice_puzzle_state"][current_puzzle_number] + 1) % practice_puzzles_loaded
-    stats_source = this.page_data["practice_puzzle_stats"]
-  }
-  stats_source["guesses_0"] = stats_source["guesses_0"] + 1
-}
+
 function update_local_storage(){
   localStorage.setItem("page_data", JSON.stringify(this.page_data))
 }
@@ -190,26 +212,7 @@ function create_page_data(){
   }
   return data_dict
 }
-function number_to_light_color(num) {
-  switch (num) {
-    case 0: return "#00a9f0";
-    case 1: return "#0eb17b";
-    case 2: return "#fc77bc";
-    case 3: return "#9480ca";
-    case 5: return "#fcb711";
-    default: return "#ffffff";
-  }
-}
-function number_to_dark_color(num) {
-  switch (num) {
-    case 0: return "#004890";
-    case 1: return "#0d8122";
-    case 2: return "#9c002c";
-    case 3: return "#44408a";
-    case 5: return "#fcb711";
-    default: return "#ffffff";
-  }
-}
+
 function setPuzzle(puzzle) {
   this.puzzle = puzzle
   document.getElementById("dot1").innerHTML = puzzle["verses"][0]["verse_ref"]
@@ -266,171 +269,83 @@ function setPuzzle(puzzle) {
   slides = document.getElementsByClassName("mySlides")
   for (i = 0; i < 4; i++) {
     slides[i].style.borderColor = number_to_light_color(i)
-    slides[i].style.borderWidth = "2px";
     slides[i].style.borderStyle = "solid"
   }
   showSlides(1)
 }
-function welcome() {
-  let innerHTML = ""
-  if(this.page_data["play_mode"] == "DAILY"){
-    innerHTML = "<h1>Lexxon Daily Puzzle for " + this.date + "</h1>"
-  }
-  else if (this.page_data["play_mode"] == "PRACTICE"){
-    innerHTML = "<h1>Lexxon Practice Puzzle " + this.page_data["practice_puzzle_state"]["current_puzzle_number"]+ " </h1>"
-  }
-  innerHTML = innerHTML + info_text
-  overlay = generateOverlayFrameText(innerHTML)
 
-}
-function info() {
-  found_all = true;
-  for (i = 0; i < 5; i++) {
-    if (!this.game_state["solved"][i]) {
-      found_all = false
-    }
-  }
-  if (found_all) {
-    generateExplanationOverlay(winning = true)
-  }
-  else if(this.game_state["guesses_left"] == 0){
-    generateExplanationOverlay(winning = false)
-  }
-  else {
-    generateOverlayFrameText(info_text)
-  }
-}
-function stats() {
-  let title = ""
-  if(this.page_data["play_mode"] == "DAILY"){
-    title = "Daily Puzzle Stats"
-  }
-  else if(this.page_data["play_mode"] == "PRACTICE"){
-    title = "Practice Puzzle Stats"
-  }
-  
-  let master_div = document.createElement("div")
-  master_div.classList.add("stats_master")
-  let title_div = document.createElement("div")
-  title_div.classList.add("stats_title")
-  title_div.innerHTML = "<h2>" + title + "</h2>"
-  master_div.appendChild(title_div)  
-  let bar_chart = document.createElement("div")
-  master_div.appendChild(bar_chart)
-  let streak_count = document.createElement("div")
+
+/** Game state maintenance */
+
+
+function recordGameWin(guess_count){
   let stats_source = ""
   if(this.page_data["play_mode"] == "DAILY"){
     stats_source = this.page_data["daily_puzzle_stats"]
-
-    streak_count.innerHTML = "Streak: " + stats_source["streak"]
-    bar_chart.appendChild(streak_count)
-  }
-  else{
+    if(this.date in this.page_data["history"]){
+        return
+    }
+    this.page_data["history"][this.date] = this.puzzle["wotd"]
+    if(stats_source["last_solved"] == this.yesterday){
+      stats_source["streak"] = stats_source["streak"] + 1 
+    }
+    else { 
+      stats_source["streak"] = 1
+    }
+    stats_source["last_solved"] = this.date
+    
+  }else{
+    this.page_data["practice_puzzle_state"]["current_puzzle_number"] = (this.page_data["practice_puzzle_state"]["current_puzzle_number"] + 1) % practice_puzzles_loaded
     stats_source = this.page_data["practice_puzzle_stats"]
   }
-  let guesses_left_4 = document.createElement("div")
-  guesses_left_4.innerHTML = "<b>4 guesses left:</b> " + stats_source["guesses_4"] + " games"
-  let guesses_left_3 = document.createElement("div")
-  guesses_left_3.innerHTML = "<b>3 guesses left:</b> " + stats_source["guesses_3"] + " games"
-  let guesses_left_2 = document.createElement("div")
-  guesses_left_2.innerHTML = "<b>2 guesses left:</b> " + stats_source["guesses_2"] + " games"
-  let guesses_left_1 = document.createElement("div")
-  guesses_left_1.innerHTML = "<b>1 guess left:</b> " + stats_source["guesses_1"] + " games"
-  bar_chart.appendChild(guesses_left_4)
-  bar_chart.appendChild(guesses_left_3)
-  bar_chart.appendChild(guesses_left_2)
-  bar_chart.appendChild(guesses_left_1)
-  if(this.page_data["play_mode"] == "DAILY"){
-    let last_solved = document.createElement("div")
-    last_solved.innerHTML = "Last solved: " + stats_source["last_solved"]
-    bar_chart.appendChild(last_solved)
+  if(guess_count == 4){
+    stats_source["guesses_4"] = stats_source["guesses_4"] + 1
   }
-  generateOverlayFrameElement(master_div)
+  else if(guess_count == 3){
+    stats_source["guesses_3"] = stats_source["guesses_3"] + 1
+  }
+  else if(guess_count == 2){
+    stats_source["guesses_2"] = stats_source["guesses_2"] + 1
+  }
+  else if(guess_count == 1){
+    stats_source["guesses_1"] = stats_source["guesses_1"] + 1
+  }
+  update_local_storage()
 }
-function settings(){
-  title = "Settings"
-  master_div = document.createElement("div")
-  master_div.classList.add("settings_master")
-  title_div = document.createElement("div")
-  title_div.classList.add("settings_title")
-  title_div.innerHTML = "<h2>" + title + "</h2>"
-  master_div.appendChild(title_div)  
-  toggle_bar = document.createElement("div")
-  daily_puzzle = document.createElement("div")
-  daily_puzzle.innerHTML = "Daily Puzzle"
-  daily_puzzle.id = "daily_puzzle_div"
-  practice = document.createElement("div")
-  practice.innerHTML = "Practice"
-  practice.id = "practice_div"
-  daily_puzzle.classList.add("puzzle_option")
-  practice.classList.add("puzzle_option")
-  daily_puzzle.addEventListener("click", function () { updatePuzzleSelection("DAILY") })
-  practice.addEventListener("click", function(){updatePuzzleSelection("PRACTICE")})
+function recordGameLoss(){
   if(this.page_data["play_mode"] == "DAILY"){
-    daily_puzzle.classList.add("puzzle_option_selected")
-    practice.classList.add("puzzle_option_unselected")
-
+    stats_source = this.page_data["daily_puzzle_stats"]
   }
   else{
-    daily_puzzle.classList.add("puzzle_option_unselected")
-    practice.classList.add("puzzle_option_selected")
-
+    this.page_data["practice_puzzle_state"]["current_puzzle_number"] = (this.page_data["practice_puzzle_state"][current_puzzle_number] + 1) % practice_puzzles_loaded
+    stats_source = this.page_data["practice_puzzle_stats"]
   }
-
-  toggle_bar.appendChild(daily_puzzle)
-  toggle_bar.appendChild(practice)
-  master_div.appendChild(toggle_bar)
-  generateOverlayFrameElement(master_div)
+  stats_source["guesses_0"] = stats_source["guesses_0"] + 1
 }
-function getPuzzle() {
-  if(this.page_data["play_mode"] == "DAILY"){
-    return $.getJSON("puzzles/daily/" + this.date + "/puzzle.json", function (data) {
-      return data;
-    })
-  }else{
-    return $.getJSON("puzzles/practice/" + this.page_data["practice_puzzle_state"]["current_puzzle_number"] + "/puzzle.json", function (data) {
-      return data;
-    })
-  }
 
-
-}
-function generateOverlayFrameText(innerHTML) {
-  destroyOverlayFrame()
-  let new_overlayframe = document.createElement("div")
-  let overlay_text = document.createElement('div')
-  overlay_text.classList.add("overlay_text")
-  overlay_text.innerHTML = innerHTML
-  new_overlayframe.id = "overlay"
-  var close_button = document.createElement("div")
-  close_button.classList.add("closebtn")
-  close_button.addEventListener("click", function () { destroyOverlayFrame() })
-  close_button.innerHTML = "&times;"
-  new_overlayframe.appendChild(close_button)
-  new_overlayframe.appendChild(overlay_text)
-  body.appendChild(new_overlayframe)
-  return new_overlayframe
-}
-function generateOverlayFrameElement(element) {
-  destroyOverlayFrame()
-  var new_overlayframe = document.createElement("div")
-
-  new_overlayframe.id = "overlay"
-  var close_button = document.createElement("span")
-  close_button.classList.add("closebtn")
-  close_button.addEventListener("click", function () { destroyOverlayFrame() })
-  close_button.innerHTML = "&times;"
-  new_overlayframe.appendChild(close_button)
-  new_overlayframe.appendChild(element)
-  body.appendChild(new_overlayframe)
-  return new_overlayframe
-}
-function destroyOverlayFrame() {
-  let overlay = document.getElementById("overlay")
-  if(overlay != null ){
-    overlay.remove()
+/*** UI stuff  */
+function number_to_light_color(num) {
+  switch (num) {
+    case 0: return "#00a9f0";
+    case 1: return "#0eb17b";
+    case 2: return "#fc77bc";
+    case 3: return "#9480ca";
+    case 5: return "#fcb711";
+    default: return "#ffffff";
   }
 }
+function number_to_dark_color(num) {
+  switch (num) {
+    case 0: return "#004890";
+    case 1: return "#0d8122";
+    case 2: return "#9c002c";
+    case 3: return "#44408a";
+    case 5: return "#fcb711";
+    default: return "#ffffff";
+  }
+}
+
+
 function targetSelect(number) {
   if (number == 0) {
     if (this.game_state["target_selections"]["current_verse"]) {
@@ -525,26 +440,6 @@ function showSlides(n) {
   dots[slideIndex - 1].style.backgroundColor = number_to_light_color(slideIndex - 1);
 
   updateButtonsOnGameState()
-}
-function showExplanation(n) {
-  let i;
-  let slides = document.getElementsByClassName("explanationSlide");
-  if (n > slides.length) { this.explanation_slideIndex = 1 }
-  if (n < 1) { this.explanation_slideIndex = slides.length }
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  slides[this.explanation_slideIndex - 1].style.display = "block";
-
-  let dots = document.getElementsByClassName("explanation_dot");
-  for (i = 0; i < dots.length; i++) {
-    dots[i].classList.remove("active");
-    dots[i].classList.add("inactive");
-    dots[i].style.backgroundColor = number_to_dark_color(i);
-  }
-  dots[this.explanation_slideIndex - 1].classList.remove("inactive")
-  dots[this.explanation_slideIndex - 1].classList.add("active")
-  dots[this.explanation_slideIndex - 1].style.backgroundColor = number_to_light_color(this.explanation_slideIndex - 1);
 }
 function define(number) {
   word_to_define = this.game_state["button_to_word_index"][number]
@@ -672,7 +567,18 @@ function getTarget() {
   return -1
 }
 function reset_selections() {
-
+  slots = document.getElementsByClassName("wordslot")
+  let i = 0;
+  for(i = 0; i < slots.length; i++){
+    slots[i].classList.remove("word_disappear")
+  }
+  buttons = document.getElementsByClassName("wordbutton")
+  for(i = 0; i < buttons.length; i++){
+    buttons[i].classList.remove("word_disappear")
+    if(i == 0){
+      buttons[i].innerHTML = ""
+    }
+  }
 }
 function removeChoice(number) {
   slot = document.getElementById("wordslot_" + number)
@@ -720,28 +626,19 @@ function check() {
     if (verse_contains && word_index != 0) {
       this.game_state["solved"][number] = true
       removeChoice(number)
-      slides = document.getElementsByClassName("mySlides")
+      showWordIndicator(word_index)
+      this.page_data["daily_puzzle_state"]["guess_ledger"].push(slideIndex)
 
-      new_word_indicator = document.createElement("div")
-      new_word_indicator.classList.add("word_indicator")
-      new_word_indicator.innerHTML = word["lemma"] + " (" + word["xlit"] + ")"
-      new_word_indicator.style.backgroundColor = number_to_light_color(slideIndex - 1)
       slides[slideIndex - 1].appendChild(new_word_indicator)
       for (i = 0; i < 5; i++) {
         this.game_state["current_word_selections"][i] = false
       }
       this.game_state["target_selections"]["wotd"] = false
       this.game_state["target_selections"]["current_verse"] = false
-
-      /** success here
-       *  record result
-       *  show animation
-       *  display explanation
-       * 
-      */
     }
     else {
       this.game_state["guesses_left"] = this.game_state["guesses_left"] - 1
+      this.page_data["daily_puzzle_state"]["guess_ledger"].push("X")
       if (word_index == 0) {
         notification("This isn't the only verse that contains " + word["lemma"] + "(" + word["xlit"] + ")")
       }
@@ -769,36 +666,24 @@ function check() {
     if (all_verses_contain) {
       this.game_state["solved"][number] = true
       removeChoice(number)
-      slides = document.getElementsByClassName("mySlides")
-      for (slideNo = 0; slideNo < 4; slideNo++) {
-        new_word_indicator = document.createElement("div")
-        new_word_indicator.classList.add("wotd_indicator")
-        new_word_indicator.innerHTML = word["lemma"] + " (" + word["xlit"] + ")"
-        new_word_indicator.style.backgroundColor = number_to_light_color(5)
-        slides[slideNo].appendChild(new_word_indicator)
-
-      }
+      showWordIndicator(word_index)
       for (i = 0; i < 5; i++) {
         this.game_state["current_word_selections"][i] = false
       }
-
+      this.page_data["daily_puzzle_state"]["guess_ledger"].push(5)
       this.game_state["target_selections"]["wotd"] = false
       this.game_state["target_selections"]["current_verse"] = false
       wotd_button = document.getElementById("w_in_wotd_div")
       wotd_button.classList.add("word_disappear")
       wotd_span = document.getElementById("w_in_wotd_span")
       wotd_span.innerHTML = ""
-      /** success here
-       *  display explanation
-       * 
-      */
+  
     }
     else {
 
       this.game_state["guesses_left"] = this.game_state["guesses_left"] - 1
+      this.page_data["daily_puzzle_state"]["guess_ledger"].push("X")
       notification(word["lemma"] + "(" + word["xlit"] + ") isn't the word of the day.")
-      /*explanation
-      */
     }
   }
 
@@ -817,35 +702,103 @@ function check() {
     recordGameLoss()
     info()
   }
-  /*win*/
-  if (false) {
-    text = "Correct! "
-
-    if (found_all) {
-      text = text + "<br/>Congratulations! You finished the puzzle!<br/>"
-    }
-    if (word_index == 0) {
-      text = text + "You found the word of the day, " + this.puzzle["wotd"]["lemma"] + " (" +
-        this.puzzle["wotd"]["xlit"] + ")!"
-    }
-    notification(text, 0)
-  }
-  /*else{
-    this.game_state["guesses_left"] = this.game_state["guesses_left"] - 1
-    if(this.game_state["guesses_left"] == 0){
-      text = "Oh no. That was your last guess.<br/>"
-    }
-    else{ 
-         text = "Keep trying. <br/> "
-    }
-    updateGuessCountDisplay()
-
-    notification(text, 0 )
-  }*/
+  recordPuzzleSolvedState()
   currentSlide(slideIndex)
   updateButtonsOnGameState()
   updateGuessCountDisplay()
 }
+function showWordIndicator(word_index){
+  if(word_index == 0){
+    word = this.puzzle["wotd"]
+    lemma = word["lemma"]
+    xlit = word["xlit"]
+    slides = document.getElementsByClassName("mySlides")
+    for (slideNo = 0; slideNo < 4; slideNo++) {
+      new_word_indicator = document.createElement("div")
+      new_word_indicator.classList.add("wotd_indicator")
+      new_word_indicator.innerHTML = lemma + " (" + xlit + ")"
+      new_word_indicator.style.backgroundColor = number_to_light_color(5)
+      slides[slideNo].appendChild(new_word_indicator)
+
+    }
+    
+  }
+  else{
+    word = this.puzzle["other_words"][word_index-1]
+    lemma = word["lemma"]
+    xlit = word["xlit"]
+    verse = word_index -1
+
+    slides = document.getElementsByClassName("mySlides")
+    new_word_indicator = document.createElement("div")
+    new_word_indicator.classList.add("word_indicator")
+    new_word_indicator.innerHTML = lemma + " (" + xlit + ")"
+    new_word_indicator.style.backgroundColor = number_to_light_color(verse)
+    slides[verse].appendChild(new_word_indicator)
+  }
+}
+function resetWordIndicators(){
+  word_indicators = document.getElementsByClassName("word_indicator")
+  for(word_no = 0; word_no < word_indicators.length; word_no++){
+    word_indicators[word_no].remove()
+  }
+  word_indicators = document.getElementsByClassName("wotd_indicator")
+  for(word_no = 0; word_no < word_indicators.length; word_no++){
+    word_indicators[word_no].remove()
+  }
+}
+function updateWordIndicators(){}
+
+function updateGuessCountDisplay() {
+  guess_elements = document.getElementsByClassName("guessdot")
+  for (i = 0; i < 4; i++) {
+    if (i > this.game_state["guesses_left"] - 1) {
+      guess_elements[i].style.backgroundColor = 'transparent'
+    }
+    else {
+      guess_elements[i].style.backgroundColor = "#000000"
+    }
+  }
+}
+
+
+function updatePuzzleSelection(puzzle_type){
+  if(puzzle_type == "DAILY" && this.page_data["play_mode"] != "DAILY"){
+      this.page_data["play_mode"] = "DAILY"
+      daily_puzzle_div = document.getElementById("daily_puzzle_div")
+      daily_puzzle_div.classList.add("puzzle_option_selected")
+      daily_puzzle_div.classList.remove("puzzle_option_unselected")
+
+      practice_div = document.getElementById("practice_div")
+      practice_div.classList.add("puzzle_option_unselected")
+      practice_div.classList.remove("puzzle_option_selected")
+
+      load_puzzle()
+      reset_selections()
+      load_game_state()
+  }
+  else if(puzzle_type == "PRACTICE" && this.page_data["play_mode"] != "PRACTICE"){
+    this.page_data["play_mode"] = "PRACTICE"
+
+    daily_puzzle_div = document.getElementById("daily_puzzle_div")
+    daily_puzzle_div.classList.add("puzzle_option_unselected")
+    daily_puzzle_div.classList.remove("puzzle_option_selected")
+
+    practice_div = document.getElementById("practice_div")
+    practice_div.classList.add("puzzle_option_selected")
+    practice_div.classList.remove("puzzle_option_unselected")
+    load_puzzle()
+    reset_selections()
+    load_game_state()
+  }
+  update_local_storage()
+}
+
+
+/** Notification-related functions */
+
+
+
 function notification(text, time) {
   body = document.getElementById("body")
   var new_overlayframe = document.createElement("div")
@@ -866,23 +819,80 @@ function destroyNotification() {
     document.getElementById("notification").remove();
   }
 }
-function updateGuessCountDisplay() {
-  guess_elements = document.getElementsByClassName("guessdot")
-  for (i = 0; i < 4; i++) {
-    if (i > this.game_state["guesses_left"] - 1) {
-      guess_elements[i].style.backgroundColor = 'transparent'
-    }
-    else {
-      guess_elements[i].style.backgroundColor = "#000000"
-    }
+
+
+/** Overlays */
+
+
+function generateOverlayFrameText(innerHTML) {
+  destroyOverlayFrame()
+  let new_overlayframe = document.createElement("div")
+  let overlay_text = document.createElement('div')
+  overlay_text.classList.add("overlay_text")
+  overlay_text.innerHTML = innerHTML
+  new_overlayframe.id = "overlay"
+  var close_button = document.createElement("div")
+  close_button.classList.add("closebtn")
+  close_button.addEventListener("click", function () { destroyOverlayFrame() })
+  close_button.innerHTML = "&times;"
+  new_overlayframe.appendChild(close_button)
+  new_overlayframe.appendChild(overlay_text)
+  body.appendChild(new_overlayframe)
+  return new_overlayframe
+}
+function generateOverlayFrameElement(element) {
+  destroyOverlayFrame()
+  var new_overlayframe = document.createElement("div")
+
+  new_overlayframe.id = "overlay"
+  var close_button = document.createElement("span")
+  close_button.classList.add("closebtn")
+  close_button.addEventListener("click", function () { destroyOverlayFrame() })
+  close_button.innerHTML = "&times;"
+  new_overlayframe.appendChild(close_button)
+  new_overlayframe.appendChild(element)
+  body.appendChild(new_overlayframe)
+  return new_overlayframe
+}
+function destroyOverlayFrame() {
+  let overlay = document.getElementById("overlay")
+  if(overlay != null ){
+    overlay.remove()
   }
 }
+
+function generateExplanationOverlay(winning) {
+  
+  if (winning) {
+    let puzzle_name = ""
+    if(this.page_data["play_mode"] == "DAILY"){
+      puzzle_name = "daily puzzle " + this.date
+    }
+    else if(this.page_data["play_mode"] == "PRACTICE"){
+      puzzle_name = "practice puzzle " + (this.page_data["practice_puzzle_state"]["current_puzzle_number"] - 1)
+    }
+    header_text = "Yay! You finished " + puzzle_name + "!"
+  } else {
+    header_text = "Try again tomorrow..."
+  }
+  explanation_div = constructExplanation(header_text)
+  generateOverlayFrameElement(explanation_div)
+  currentExplanation(1)
+}
+
 function constructExplanation(title) {
   master_div = document.createElement("div")
   master_div.classList.add("explanation_master")
   title_div = document.createElement("div")
   title_div.classList.add("explanation_title")
-  title_div.innerHTML = "<h2>" + title + "</h2>"
+
+  if(this.page_data["play_mode"] == "DAILY"){
+    title_div.innerHTML = "<h2>" + title + "</h2>\n<h3>Guesses: " + showHistoryEmojis() + "</h3>"
+  }
+  else{
+    title_div.innerHTML = "<h2>" + title + "</h2>"
+  
+  }
   master_div.appendChild(title_div)
   slideshow_div = document.createElement("div")
   slideshow_div.classList.add("explanation_slideshow")
@@ -901,11 +911,14 @@ function constructExplanation(title) {
     data = document.createElement("div")
     verses[i].classList.add("explanationSlide")
     for(j = 0; j < verse_data["verse_data"].length; j++){
-      data_item = document.createElement("div")
+      let data_item = document.createElement("div")
       data_item.classList.add("explanation_verse_data_item")
-      data_item.innerHTML = verse_data["verse_data"][j]["BSB Version"] + "<br/>" + 
+      let verse_span = document.createElement("span")
+      verse_span.innerHTML = verse_data["verse_data"][j]["BSB Version"] + "<br/>" + 
                           verse_data["verse_data"][j]["lemma"] + "<br/>" +
                           verse_data["verse_data"][j]["xlit"] + "<br/>"
+      verse_span.classList.add("word_indicator_span")
+      data_item.appendChild(verse_span)
       if(verse_data["verse_data"][j]["Str Grk"] == this.puzzle["wotd"]["number"]){
         data_item.style.backgroundColor = number_to_light_color(5)
       }
@@ -941,7 +954,10 @@ function constructExplanation(title) {
     else if(i == 3){
       verse_button.addEventListener("click", function () { currentExplanation(4) })
     }
-    verse_button.innerHTML = reference
+    let verse_button_text_span = document.createElement("span")
+    verse_button_text_span.classList.add("word_indicator_span")
+    verse_button_text_span.innerHTML = reference
+    verse_button.appendChild(verse_button_text_span)
     nav_div.appendChild(verse_button)
   }
 
@@ -958,50 +974,186 @@ function constructExplanation(title) {
 
   slideshow_div.appendChild(backward_button)
   master_div.appendChild(nav_div)
+  bottom_buttons = document.createElement("div")
+  bottom_buttons.classList.add("nav_div")
   next_button = document.createElement("div")
   next_button.innerHTML = "Stats"
   next_button.classList.add("puzzle_option")
   next_button.classList.add("stats_button")
   next_button.style.backgroundColor = "#BBBBBB"
   next_button.addEventListener("click", function () { stats() })
-  master_div.appendChild(next_button)
+  bottom_buttons.appendChild(next_button)
+  master_div.appendChild(bottom_buttons)
   return master_div
 }
-function generateExplanationOverlay(winning) {
+
+function showHistoryEmojis(){
+  let i = 0;
+  emojis = ""
+  for(i = 0; i < this.page_data["daily_puzzle_state"]["guess_ledger"].length; i++){
+    if(this.page_data["daily_puzzle_state"]["guess_ledger"][i] == "X"){
+      emojis = emojis + "&#x274C; "
+    }
+    else if(this.page_data["daily_puzzle_state"]["guess_ledger"][i] == 1){
+      emojis = emojis + "&#x1F7E6; "
+    }
+    else if(this.page_data["daily_puzzle_state"]["guess_ledger"][i] == 2){
+      emojis = emojis + "&#x1F7E9; "
+    }
+    else if(this.page_data["daily_puzzle_state"]["guess_ledger"][i] == 3){
+      emojis = emojis + "&#x1F7E5; "
+    }
+    else if(this.page_data["daily_puzzle_state"]["guess_ledger"][i] == 4){
+      emojis = emojis + "&#x1F7EA; "
+    }
+    else if(this.page_data["daily_puzzle_state"]["guess_ledger"][i] == 5){
+      emojis = emojis + "&#x1F7E8; "
+    }
+  }
+  return emojis
+}
+function showExplanation(n) {
+  let i;
+  let slides = document.getElementsByClassName("explanationSlide");
+  if (n > slides.length) { this.explanation_slideIndex = 1 }
+  if (n < 1) { this.explanation_slideIndex = slides.length }
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slides[this.explanation_slideIndex - 1].style.display = "block";
+
+  let dots = document.getElementsByClassName("explanation_dot");
+  for (i = 0; i < dots.length; i++) {
+    dots[i].classList.remove("active");
+    dots[i].classList.add("inactive");
+    dots[i].style.backgroundColor = number_to_dark_color(i);
+  }
+  dots[this.explanation_slideIndex - 1].classList.remove("inactive")
+  dots[this.explanation_slideIndex - 1].classList.add("active")
+  dots[this.explanation_slideIndex - 1].style.backgroundColor = number_to_light_color(this.explanation_slideIndex - 1);
+}
+
+function welcome() {
+  let innerHTML = ""
+  if(this.page_data["play_mode"] == "DAILY"){
+    innerHTML = "<h1>Lexxon Daily Puzzle for " + this.date + "</h1>"
+  }
+  else if (this.page_data["play_mode"] == "PRACTICE"){
+    innerHTML = "<h1>Lexxon Practice Puzzle " + this.page_data["practice_puzzle_state"]["current_puzzle_number"]+ " </h1>"
+  }
+  innerHTML = innerHTML + info_text
+  overlay = generateOverlayFrameText(innerHTML)
+
+}
+function info() {
+  found_all = true;
+  for (i = 0; i < 5; i++) {
+    if (!this.game_state["solved"][i]) {
+      found_all = false
+    }
+  }
+  if (found_all) {
+    generateExplanationOverlay(winning = true)
+  }
+  else if(this.game_state["guesses_left"] == 0){
+    generateExplanationOverlay(winning = false)
+  }
+  else {
+    generateOverlayFrameText(info_text)
+  }
+}
+function stats() {
+  let title = ""
+  if(this.page_data["play_mode"] == "DAILY"){
+    title = "Daily Puzzle Stats"
+  }
+  else if(this.page_data["play_mode"] == "PRACTICE"){
+    title = "Practice Puzzle Stats"
+  }
   
-  if (winning) {
-    header_text = "Congratulations! You finished with " + this.game_state["guesses_left"] + " guesses left!"
-  } else {
-    header_text = "Try again tomorrow..."
+  let master_div = document.createElement("div")
+  master_div.classList.add("stats_master")
+  let title_div = document.createElement("div")
+  title_div.classList.add("stats_title")
+  title_div.innerHTML = "<h2>" + title + "</h2>"
+  master_div.appendChild(title_div)  
+  let bar_chart = document.createElement("div")
+  master_div.appendChild(bar_chart)
+  let streak_count = document.createElement("div")
+  let stats_source = ""
+  if(this.page_data["play_mode"] == "DAILY"){
+    stats_source = this.page_data["daily_puzzle_stats"]
+
+    streak_count.innerHTML = "Streak: " + stats_source["streak"]
+    bar_chart.appendChild(streak_count)
   }
-  explanation_div = constructExplanation(header_text)
-  generateOverlayFrameElement(explanation_div)
-  currentExplanation(1)
+  else{
+    stats_source = this.page_data["practice_puzzle_stats"]
+  }
+  let guesses_left_4 = document.createElement("div")
+  guesses_left_4.innerHTML = "<b>4 guesses left:</b> " + stats_source["guesses_4"] + " games"
+  let guesses_left_3 = document.createElement("div")
+  guesses_left_3.innerHTML = "<b>3 guesses left:</b> " + stats_source["guesses_3"] + " games"
+  let guesses_left_2 = document.createElement("div")
+  guesses_left_2.innerHTML = "<b>2 guesses left:</b> " + stats_source["guesses_2"] + " games"
+  let guesses_left_1 = document.createElement("div")
+  guesses_left_1.innerHTML = "<b>1 guess left:</b> " + stats_source["guesses_1"] + " games"
+  bar_chart.appendChild(guesses_left_4)
+  bar_chart.appendChild(guesses_left_3)
+  bar_chart.appendChild(guesses_left_2)
+  bar_chart.appendChild(guesses_left_1)
+  if(this.page_data["play_mode"] == "DAILY"){
+    let last_solved = document.createElement("div")
+    last_solved.innerHTML = "Last solved: " + stats_source["last_solved"]
+    bar_chart.appendChild(last_solved)
+  }
+  generateOverlayFrameElement(master_div)
 }
-function updatePuzzleSelection(puzzle_type){
-  if(puzzle_type == "DAILY" && this.page_data["play_mode"] != "DAILY"){
-      this.page_data["play_mode"] = "DAILY"
-      daily_puzzle_div = document.getElementById("daily_puzzle_div")
-      daily_puzzle_div.classList.add("puzzle_option_selected")
-      daily_puzzle_div.classList.remove("puzzle_option_unselected")
+function settings(){
+  title = "Settings"
+  master_div = document.createElement("div")
+  master_div.classList.add("settings_master")
+  title_div = document.createElement("div")
+  title_div.classList.add("settings_title")
+  title_div.innerHTML = "<h2>" + title + "</h2>"
+  master_div.appendChild(title_div)  
+  toggle_bar = document.createElement("div")
+  daily_puzzle = document.createElement("div")
+  daily_puzzle.innerHTML = "Daily Puzzle"
+  daily_puzzle.id = "daily_puzzle_div"
+  practice = document.createElement("div")
+  practice.innerHTML = "Practice"
+  practice.id = "practice_div"
+  daily_puzzle.classList.add("puzzle_option")
+  practice.classList.add("puzzle_option")
+  daily_puzzle.addEventListener("click", function () { updatePuzzleSelection("DAILY") })
+  practice.addEventListener("click", function(){updatePuzzleSelection("PRACTICE")})
+  if(this.page_data["play_mode"] == "DAILY"){
+    daily_puzzle.classList.add("puzzle_option_selected")
+    practice.classList.add("puzzle_option_unselected")
 
-      practice_div = document.getElementById("practice_div")
-      practice_div.classList.add("puzzle_option_unselected")
-      practice_div.classList.remove("puzzle_option_selected")
-
-      load_puzzle()
   }
-  else if(puzzle_type == "PRACTICE" && this.page_data["play_mode"] != "PRACTICE"){
-    this.page_data["play_mode"] = "PRACTICE"
+  else{
+    daily_puzzle.classList.add("puzzle_option_unselected")
+    practice.classList.add("puzzle_option_selected")
 
-    daily_puzzle_div = document.getElementById("daily_puzzle_div")
-    daily_puzzle_div.classList.add("puzzle_option_unselected")
-    daily_puzzle_div.classList.remove("puzzle_option_selected")
-
-    practice_div = document.getElementById("practice_div")
-    practice_div.classList.add("puzzle_option_selected")
-    practice_div.classList.remove("puzzle_option_unselected")
-    load_puzzle()
   }
-  update_local_storage()
+
+  toggle_bar.appendChild(daily_puzzle)
+  toggle_bar.appendChild(practice)
+  master_div.appendChild(toggle_bar)
+  generateOverlayFrameElement(master_div)
 }
+
+var info_text = "<h2>Rules</h2>" +
+  "<img style = 'width:80%; max-width:750px;' src='images/puzzle_diagram.png'/><br/><br/>" +
+  "You are trying to identify, from the English, which of the Greek words you have available is in each verse. " +
+  "<ol><li>Every word is guaranteed to be in at least one verse.</li>" +
+  '<li>One word is guaranteed to be in every verse. That word is the "Word of the Day".</li>' +
+  "<li>You're scored on how many guesses you take to find every occurrance.</li>" +
+  "<li> To make a guess, select a word, indicate whether it is in just the current verse or all verses, and click <i>Submit</i></li>" +
+  "</ol><br/> If you have trouble, try looking at each verse on <a href = 'https://biblehub.com/lexicon/genesis/1-1.htm'>Bible Hub's Lexicon view<a/><br/><br/>" +
+  "All text and Strongs references courtesy of the <a href= 'https://berean.bible/downloads.htm'>Berean Standard Bible</a>.<br/>" +
+  "Strongs lexicon definitions loaded from <a href='https://github.com/openscriptures/strongs'>the OpenScriptures GitHub repository.</a><br/>" +
+  "Logo font from <a href = 'https://actselect.chips.jp/fonts/54.htm'>this font site.</a><br/><br/>" +
+  "<a href = 'https://www.facebook.com/profile.php?id=61573621951149'><img class='reslogo' src='images/facebook.png'/></a>"
