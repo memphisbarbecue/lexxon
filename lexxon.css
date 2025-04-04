@@ -151,7 +151,7 @@ body{
 .prev_explanation, .next_explanation {
   cursor: pointer;
   position: absolute;
-  top: 0%;
+  top: 35px;
   width: auto;
   margin-top: -22px;
   padding: 16px;
