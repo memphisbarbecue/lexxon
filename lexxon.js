@@ -363,7 +363,7 @@ function recordGameLoss(){
     stats_source = this.page_data["daily_puzzle_stats"]
   }
   else{
-    this.page_data["practice_puzzle_state"]["current_puzzle_number"] = (this.page_data["practice_puzzle_state"][current_puzzle_number] + 1) % practice_puzzles_loaded
+    this.page_data["practice_puzzle_state"]["current_puzzle_number"] = (this.page_data["practice_puzzle_state"]["current_puzzle_number"] + 1) % practice_puzzles_loaded
     stats_source = this.page_data["practice_puzzle_stats"]
   }
   stats_source["guesses_0"] = stats_source["guesses_0"] + 1
