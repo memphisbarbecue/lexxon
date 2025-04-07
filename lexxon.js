@@ -77,18 +77,30 @@ function getPuzzle() {
 
 }
 function load_game_state(){
+  reset_selections()
   if(!("guess_ledger" in this.page_data["daily_puzzle_state"])){
     this.page_data["daily_puzzle_state"]["guess_ledger"] = []
 
   }
   if(this.page_data["play_mode"] == "DAILY"){
     if(("current_puzzle_date" in this.page_data["daily_puzzle_state"])){
-        if(this.page_data["daily_puzzle_state"]["current_puzzle_date"] != this.date){
+       //cases where 
+        if(this.page_data["daily_puzzle_state"]["current_puzzle_date"] != this.date ||
+          (this.page_data["daily_puzzle_state"]["current_puzzle_date"] == this.date &&
+            this.page_data["daily_puzzle_state"]["guess_ledger"].length == 0)
+        ){
           this.page_data["daily_puzzle_state"]["current_puzzle_date"] = this.date
           this.page_data["daily_puzzle_state"]["guess_ledger"] = []
+          this.page_data["daily_puzzle_state"]["guesses_left"] = 4
+          let i = 0
+          for(i = 0; i < 5; i++){
+            this.page_data["daily_puzzle_state"]["words_solved"][i] = false
+          }
+          
           return
         }
     }else{
+      //Old version of page data
       this.page_data["daily_puzzle_state"]["current_puzzle_date"] = this.date
     }
     resetWordIndicators()
@@ -96,30 +108,64 @@ function load_game_state(){
     for(i=0; i < 5; i++){
       let state = this.page_data["daily_puzzle_state"]["words_solved"][i]
       this.game_state["solved"][this.game_state["word_index_to_button"][i]] = state
-      if(state == true){
+      if(state){
         removeChoice(this.game_state["word_index_to_button"][i])
         showWordIndicator(i)
-      }    
+      }
+      else{
+
+      }   
     }
     this.game_state["guesses_left"] = this.page_data["daily_puzzle_state"]["guesses_left"]  
     updateGuessCountDisplay()
-
+    if(this.page_data["daily_puzzle_state"]["words_solved"][0]){
+      wotd_button = document.getElementById("w_in_wotd_div")
+      wotd_button.classList.add("word_disappear")
+    }else{
+      wotd_button = document.getElementById("w_in_wotd_div")
+      wotd_button.classList.remove("word_disappear")
+    }
    }
   else if(this.page_data["play_mode"] == "PRACTICE"){
     resetWordIndicators()
+    if((this.page_data["practice_puzzle_state"]["guesses_left"] == 0) ||
+       (this.page_data["practice_puzzle_state"]["words_solved"][0] &&
+        this.page_data["practice_puzzle_state"]["words_solved"][1] &&
+        this.page_data["practice_puzzle_state"]["words_solved"][2] && 
+        this.page_data["practice_puzzle_state"]["words_solved"][3] && 
+        this.page_data["practice_puzzle_state"]["words_solved"][4])
+       ){
+        this.page_data["practice_puzzle_state"]["guesses_left"] = 4
+
+        let i = 0
+        for(i = 0; i < 5; i++){
+          this.page_data["practice_puzzle_state"]["words_solved"][i] = false
+        }
+        
+        return
+       }
     let i = 0
     for(i=0; i < 5; i++){
       let state = this.page_data["practice_puzzle_state"]["words_solved"][i]
       this.game_state["solved"][this.game_state["word_index_to_button"][i]] = state
-      if(state == true){
+      if(state){
         showWordIndicator(i)
         removeChoice(this.game_state["word_index_to_button"][i])
       }
     }
     this.game_state["guesses_left"] = this.page_data["practice_puzzle_state"]["guesses_left"]  
+    if(this.page_data["practice_puzzle_state"]["words_solved"][0]){
+      wotd_button = document.getElementById("w_in_wotd_div")
+      wotd_button.classList.add("word_disappear")
+    }else{
+      wotd_button = document.getElementById("w_in_wotd_div")
+      wotd_button.classList.remove("word_disappear")
+    }
     updateGuessCountDisplay()
+    updateButtonsOnGameState()
 
   }
+
   /*make words which are solved disappear*/
   /*make words which are solved appear in the slide view*/
   /*load guesses and update guesses view*/
@@ -321,6 +367,7 @@ function recordGameLoss(){
     stats_source = this.page_data["practice_puzzle_stats"]
   }
   stats_source["guesses_0"] = stats_source["guesses_0"] + 1
+  update_local_storage()
 }
 
 /*** UI stuff  */
@@ -476,6 +523,7 @@ function updateButtonsOnGameState(number) {
 
       }
       else {
+        wordbuttons[i].style.height = "5vh";
         wordbuttons[i].style.backgroundImage = "none"
         wordbuttons[i].style.backgroundColor = number_to_light_color(slideIndex - 1)
       }
@@ -488,6 +536,7 @@ function updateButtonsOnGameState(number) {
 
       }
       else {
+        wordbuttons[i].style.height = "5vh";
         wordbuttons[i].style.backgroundImage = "none"
         wordbuttons[i].style.backgroundColor = "#FFFFFF";
         wordbuttons[i].style.borderWidth = "2px"
@@ -575,9 +624,6 @@ function reset_selections() {
   buttons = document.getElementsByClassName("wordbutton")
   for(i = 0; i < buttons.length; i++){
     buttons[i].classList.remove("word_disappear")
-    if(i == 0){
-      buttons[i].innerHTML = ""
-    }
   }
 }
 function removeChoice(number) {
@@ -587,6 +633,7 @@ function removeChoice(number) {
   button.classList.add("word_disappear")
   button.innerHTML = ""
 }
+
 function check() {
   number = getSelectedWord()
   target = getTarget()
@@ -627,8 +674,10 @@ function check() {
       this.game_state["solved"][number] = true
       removeChoice(number)
       showWordIndicator(word_index)
-      this.page_data["daily_puzzle_state"]["guess_ledger"].push(slideIndex)
+      if(this.page_data["play_mode"] == "DAILY"){
 
+        this.page_data["daily_puzzle_state"]["guess_ledger"].push(slideIndex)
+      }
       slides[slideIndex - 1].appendChild(new_word_indicator)
       for (i = 0; i < 5; i++) {
         this.game_state["current_word_selections"][i] = false
@@ -670,7 +719,9 @@ function check() {
       for (i = 0; i < 5; i++) {
         this.game_state["current_word_selections"][i] = false
       }
-      this.page_data["daily_puzzle_state"]["guess_ledger"].push(5)
+      if(this.page_data["play_mode"] == "DAILY"){
+        this.page_data["daily_puzzle_state"]["guess_ledger"].push(5)
+      }
       this.game_state["target_selections"]["wotd"] = false
       this.game_state["target_selections"]["current_verse"] = false
       wotd_button = document.getElementById("w_in_wotd_div")
@@ -682,7 +733,9 @@ function check() {
     else {
 
       this.game_state["guesses_left"] = this.game_state["guesses_left"] - 1
-      this.page_data["daily_puzzle_state"]["guess_ledger"].push("X")
+      if(this.page_data["play_mode"] == "DAILY"){
+        this.page_data["daily_puzzle_state"]["guess_ledger"].push("X")
+      }
       notification(word["lemma"] + "(" + word["xlit"] + ") isn't the word of the day.")
     }
   }
@@ -739,12 +792,22 @@ function showWordIndicator(word_index){
 }
 function resetWordIndicators(){
   word_indicators = document.getElementsByClassName("word_indicator")
-  for(word_no = 0; word_no < word_indicators.length; word_no++){
-    word_indicators[word_no].remove()
+  length = word_indicators.length
+  word_indicators_copy = {}
+  for(word_no = 0; word_no < length; word_no++){
+    word_indicators_copy[word_no] = word_indicators[word_no]
+  }
+  for(word_no = 0; word_no < length; word_no++){
+    word_indicators_copy[word_no].remove()
   }
   word_indicators = document.getElementsByClassName("wotd_indicator")
-  for(word_no = 0; word_no < word_indicators.length; word_no++){
-    word_indicators[word_no].remove()
+  length = word_indicators.length
+  word_indicators_copy = {}
+  for(word_no = 0; word_no < length; word_no++){
+    word_indicators_copy[word_no] = word_indicators[word_no]
+  }
+  for(word_no = 0; word_no < length; word_no++){
+    word_indicators_copy[word_no].remove()
   }
 }
 function updateWordIndicators(){}
@@ -774,7 +837,6 @@ function updatePuzzleSelection(puzzle_type){
       practice_div.classList.remove("puzzle_option_selected")
 
       load_puzzle()
-      reset_selections()
       load_game_state()
   }
   else if(puzzle_type == "PRACTICE" && this.page_data["play_mode"] != "PRACTICE"){
@@ -788,7 +850,6 @@ function updatePuzzleSelection(puzzle_type){
     practice_div.classList.add("puzzle_option_selected")
     practice_div.classList.remove("puzzle_option_unselected")
     load_puzzle()
-    reset_selections()
     load_game_state()
   }
   update_local_storage()
@@ -879,7 +940,10 @@ function generateExplanationOverlay(winning) {
   generateOverlayFrameElement(explanation_div)
   currentExplanation(1)
 }
-
+function loadNextPracticePuzzle(){
+  destroyOverlayFrame()
+  load_puzzle()
+}
 function constructExplanation(title) {
   master_div = document.createElement("div")
   master_div.classList.add("explanation_master")
@@ -976,13 +1040,27 @@ function constructExplanation(title) {
   master_div.appendChild(nav_div)
   bottom_buttons = document.createElement("div")
   bottom_buttons.classList.add("nav_div")
-  next_button = document.createElement("div")
-  next_button.innerHTML = "Stats"
-  next_button.classList.add("puzzle_option")
-  next_button.classList.add("stats_button")
-  next_button.style.backgroundColor = "#BBBBBB"
-  next_button.addEventListener("click", function () { stats() })
-  bottom_buttons.appendChild(next_button)
+  let stats_button = document.createElement("div")
+  stats_button.innerHTML = "Stats"
+  stats_button.classList.add("puzzle_option")
+  stats_button.classList.add("stats_button")
+  stats_button.style.backgroundColor = "#BBBBBB"
+  stats_button.addEventListener("click", function () { stats() })
+  bottom_buttons.appendChild(stats_button)
+
+  if(this.page_data["play_mode"] == "PRACTICE"){
+    next_puzzle_button = document.createElement("div")
+    next_puzzle_button.innerHTML = "Next Puzzle"
+    next_puzzle_button.classList.add("puzzle_option")
+    next_puzzle_button.classList.add("stats_button")
+    next_puzzle_button.style.backgroundColor = "#BBBBBB"
+    next_puzzle_button.addEventListener("click", function () { loadNextPracticePuzzle() })
+    bottom_buttons.appendChild(next_puzzle_button)
+
+
+  }
+  
+
   master_div.appendChild(bottom_buttons)
   return master_div
 }
@@ -1059,7 +1137,15 @@ function info() {
     generateExplanationOverlay(winning = false)
   }
   else {
-    generateOverlayFrameText(info_text)
+    let innerHTML = ""
+    if(this.page_data["play_mode"] == "DAILY"){
+      innerHTML = "<h1>Lexxon Daily Puzzle for " + this.date + "</h1>"
+    }
+    else if (this.page_data["play_mode"] == "PRACTICE"){
+      innerHTML = "<h1>Lexxon Practice Puzzle " + this.page_data["practice_puzzle_state"]["current_puzzle_number"]+ " </h1>"
+    }
+    innerHTML = innerHTML + info_text
+    generateOverlayFrameText(innerHTML)
   }
 }
 function stats() {
