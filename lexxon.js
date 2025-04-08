@@ -96,7 +96,7 @@ function load_game_state(){
           for(i = 0; i < 5; i++){
             this.page_data["daily_puzzle_state"]["words_solved"][i] = false
           }
-          
+          updateGuessCountDisplay()
           return
         }
     }else{
@@ -383,10 +383,10 @@ function number_to_light_color(num) {
 }
 function number_to_dark_color(num) {
   switch (num) {
-    case 0: return "#004890";
-    case 1: return "#0d8122";
-    case 2: return "#9c002c";
-    case 3: return "#44408a";
+    case 0: return "#00a9f0";
+    case 1: return "#0eb17b";
+    case 2: return "#fc77bc";
+    case 3: return "#9480ca";
     case 5: return "#fcb711";
     default: return "#ffffff";
   }
@@ -942,6 +942,7 @@ function generateExplanationOverlay(winning) {
 }
 function loadNextPracticePuzzle(){
   destroyOverlayFrame()
+  destroyNotification()
   load_puzzle()
 }
 function constructExplanation(title) {
