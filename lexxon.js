@@ -934,7 +934,14 @@ function generateExplanationOverlay(winning) {
     }
     header_text = "Yay! You finished " + puzzle_name + "!"
   } else {
-    header_text = "Try again tomorrow..."
+    if(this.page_data["play_mode"] == "DAILY"){
+
+       header_text = "Try again tomorrow..."
+    }
+    else if(this.page_data["play_mode"] == "PRACTICE"){
+      header_text = "Out of guesses..."
+
+    }
   }
   explanation_div = constructExplanation(header_text)
   generateOverlayFrameElement(explanation_div)
