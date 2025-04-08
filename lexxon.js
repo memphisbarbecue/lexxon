@@ -687,7 +687,10 @@ function check() {
     }
     else {
       this.game_state["guesses_left"] = this.game_state["guesses_left"] - 1
-      this.page_data["daily_puzzle_state"]["guess_ledger"].push("X")
+      if(this.page_data["play_mode"] == "DAILY"){
+
+        this.page_data["daily_puzzle_state"]["guess_ledger"].push("X")
+      }
       if (word_index == 0) {
         notification("This isn't the only verse that contains " + word["lemma"] + "(" + word["xlit"] + ")")
       }
