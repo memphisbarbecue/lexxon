@@ -1,0 +1,487 @@
+{
+    "wotd": {
+        "number": 5349,
+        "lemma": "\u03c6\u03b8\u03b1\u03c1\u03c4\u1f79\u03c2",
+        "xlit": "phthart\u00f3s",
+        "pronunciation": "fthar-tos'",
+        "kjv_def": "corruptible.",
+        "pspeech": "Adj-GMS",
+        "description": " decayed, i.e. (by implication) perishable"
+    },
+    "verses": [
+        {
+            "verse_no": 28772,
+            "verse_ref": "1 Corinthians 15:53",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " perishable ",
+                    "Str Grk": 5349.0,
+                    "lemma": "\u03c6\u03b8\u03b1\u03c1\u03c4\u1f78\u03bd",
+                    "xlit": "phtharton"
+                },
+                {
+                    "BSB Version": " must ",
+                    "Str Grk": 1163.0,
+                    "lemma": "\u03b4\u03b5\u1fd6",
+                    "xlit": "dei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " be clothed ",
+                    "Str Grk": 1746.0,
+                    "lemma": "\u1f10\u03bd\u03b4\u03cd\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "endysasthai"
+                },
+                {
+                    "BSB Version": " with [the] imperishable ",
+                    "Str Grk": 861.0,
+                    "lemma": "\u1f00\u03c6\u03b8\u03b1\u03c1\u03c3\u03af\u03b1\u03bd",
+                    "xlit": "aphtharsian"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " mortal ",
+                    "Str Grk": 2349.0,
+                    "lemma": "\u03b8\u03bd\u03b7\u03c4\u1f78\u03bd",
+                    "xlit": "thn\u0113ton"
+                },
+                {
+                    "BSB Version": " [with] ",
+                    "Str Grk": 1746.0,
+                    "lemma": "\u1f10\u03bd\u03b4\u03cd\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "endysasthai"
+                },
+                {
+                    "BSB Version": " immortality ",
+                    "Str Grk": 110.0,
+                    "lemma": "\u1f00\u03b8\u03b1\u03bd\u03b1\u03c3\u03af\u03b1\u03bd",
+                    "xlit": "athanasian"
+                }
+            ],
+            "verse_text": "For it behooves this, the perishable to put on <i>the</i> imperishable; and this, the mortal to put on immortality."
+        },
+        {
+            "verse_no": 30393,
+            "verse_ref": "1 Peter 1:18",
+            "verse_data": [
+                {
+                    "BSB Version": " [For] you know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03b5\u1f30\u03b4\u03cc\u03c4\u03b5\u03c2",
+                    "xlit": "eidotes"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " it was not with perishable things ",
+                    "Str Grk": 5349.0,
+                    "lemma": "\u03c6\u03b8\u03b1\u03c1\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "phthartois"
+                },
+                {
+                    "BSB Version": " [such as] silver ",
+                    "Str Grk": 694.0,
+                    "lemma": "\u1f00\u03c1\u03b3\u03c5\u03c1\u03af\u1ff3",
+                    "xlit": "argyri\u014d"
+                },
+                {
+                    "BSB Version": " or ",
+                    "Str Grk": 2228.0,
+                    "lemma": "\u1f22",
+                    "xlit": "\u0113"
+                },
+                {
+                    "BSB Version": " gold ",
+                    "Str Grk": 5553.0,
+                    "lemma": "\u03c7\u03c1\u03c5\u03c3\u03af\u1ff3",
+                    "xlit": "chrysi\u014d"
+                },
+                {
+                    "BSB Version": " that you were redeemed ",
+                    "Str Grk": 3084.0,
+                    "lemma": "\u1f10\u03bb\u03c5\u03c4\u03c1\u03ce\u03b8\u03b7\u03c4\u03b5",
+                    "xlit": "elytr\u014dth\u0113te"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " empty ",
+                    "Str Grk": 3152.0,
+                    "lemma": "\u03bc\u03b1\u03c4\u03b1\u03af\u03b1\u03c2",
+                    "xlit": "mataias"
+                },
+                {
+                    "BSB Version": " way of life ",
+                    "Str Grk": 391.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u1fc6\u03c2",
+                    "xlit": "anastroph\u0113s"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                },
+                {
+                    "BSB Version": " inherited from your forefathers ",
+                    "Str Grk": 3970.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u03c1\u03bf\u03c0\u03b1\u03c1\u03b1\u03b4\u03cc\u03c4\u03bf\u03c5",
+                    "xlit": "patroparadotou"
+                }
+            ],
+            "verse_text": "knowing that you were redeemed from your futile manner of life handed down from <i>your</i> fathers, not by perishable things--by silver or by gold--"
+        },
+        {
+            "verse_no": 28566,
+            "verse_ref": "1 Corinthians 9:25",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " Everyone ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u1fb6\u03c2",
+                    "xlit": "pas"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " competes in the games ",
+                    "Str Grk": 75.0,
+                    "lemma": "\u1f00\u03b3\u03c9\u03bd\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "ag\u014dnizomenos"
+                },
+                {
+                    "BSB Version": " trains with strict discipline ",
+                    "Str Grk": 1467.0,
+                    "lemma": "\u1f10\u03b3\u03ba\u03c1\u03b1\u03c4\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "enkrateuetai"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "panta"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3303.0,
+                    "lemma": "\u03bc\u1f72\u03bd",
+                    "xlit": "men"
+                },
+                {
+                    "BSB Version": " They [do it] ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u1fd6\u03bd\u03bf\u03b9",
+                    "xlit": "ekeinoi"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " [for] ",
+                    "Str Grk": 2983.0,
+                    "lemma": "\u03bb\u03ac\u03b2\u03c9\u03c3\u03b9\u03bd",
+                    "xlit": "lab\u014dsin"
+                },
+                {
+                    "BSB Version": " a crown ",
+                    "Str Grk": 4735.0,
+                    "lemma": "\u03c3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03bd",
+                    "xlit": "stephanon"
+                },
+                {
+                    "BSB Version": " [that is] perishable ",
+                    "Str Grk": 5349.0,
+                    "lemma": "\u03c6\u03b8\u03b1\u03c1\u03c4\u1f78\u03bd",
+                    "xlit": "phtharton"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " we [ do it for a crown ] ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "h\u0113meis"
+                },
+                {
+                    "BSB Version": " [that is] imperishable ",
+                    "Str Grk": 862.0,
+                    "lemma": "\u1f04\u03c6\u03b8\u03b1\u03c1\u03c4\u03bf\u03bd",
+                    "xlit": "aphtharton"
+                }
+            ],
+            "verse_text": "Now everyone striving controls himself in all things; then indeed they, that they might receive a perishable crown; but we, an imperishable."
+        },
+        {
+            "verse_no": 28773,
+            "verse_ref": "1 Corinthians 15:54",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " When ",
+                    "Str Grk": 3752.0,
+                    "lemma": "\u1f4d\u03c4\u03b1\u03bd",
+                    "xlit": "Hotan"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " perishable ",
+                    "Str Grk": 5349.0,
+                    "lemma": "\u03c6\u03b8\u03b1\u03c1\u03c4\u1f78\u03bd",
+                    "xlit": "phtharton"
+                },
+                {
+                    "BSB Version": " has been clothed with ",
+                    "Str Grk": 1746.0,
+                    "lemma": "\u1f10\u03bd\u03b4\u03cd\u03c3\u03b7\u03c4\u03b1\u03b9",
+                    "xlit": "endys\u0113tai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " imperishable ",
+                    "Str Grk": 861.0,
+                    "lemma": "\u1f00\u03c6\u03b8\u03b1\u03c1\u03c3\u03af\u03b1\u03bd",
+                    "xlit": "aphtharsian"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " mortal ",
+                    "Str Grk": 2349.0,
+                    "lemma": "\u03b8\u03bd\u03b7\u03c4\u1f78\u03bd",
+                    "xlit": "thn\u0113ton"
+                },
+                {
+                    "BSB Version": " [with] ",
+                    "Str Grk": 1746.0,
+                    "lemma": "\u1f10\u03bd\u03b4\u03cd\u03c3\u03b7\u03c4\u03b1\u03b9",
+                    "xlit": "endys\u0113tai"
+                },
+                {
+                    "BSB Version": " immortality ",
+                    "Str Grk": 110.0,
+                    "lemma": "\u1f00\u03b8\u03b1\u03bd\u03b1\u03c3\u03af\u03b1\u03bd",
+                    "xlit": "athanasian"
+                },
+                {
+                    "BSB Version": " then ",
+                    "Str Grk": 5119.0,
+                    "lemma": "\u03c4\u03cc\u03c4\u03b5",
+                    "xlit": "tote"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " saying ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c2",
+                    "xlit": "logos"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " is written ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03bd\u03bf\u03c2",
+                    "xlit": "gegrammenos"
+                },
+                {
+                    "BSB Version": " will come to pass ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03ae\u03c3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "gen\u0113setai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Death ",
+                    "Str Grk": 2288.0,
+                    "lemma": "\u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "thanatos"
+                },
+                {
+                    "BSB Version": " has been swallowed up ",
+                    "Str Grk": 2666.0,
+                    "lemma": "\u039a\u03b1\u03c4\u03b5\u03c0\u03cc\u03b8\u03b7",
+                    "xlit": "Katepoth\u0113"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " victory ",
+                    "Str Grk": 3534.0,
+                    "lemma": "\u03bd\u1fd6\u03ba\u03bf\u03c2",
+                    "xlit": "nikos"
+                }
+            ],
+            "verse_text": "Now when this the perishable shall have put on the imperishable, and this, the mortal, shall have put on immortality, then the word having been written will come to pass: \"Death has been swallowed up in victory.\""
+        }
+    ],
+    "other_words": [
+        {
+            "number": 1163,
+            "lemma": "\u03b4\u03b5\u1fd6",
+            "xlit": "de\u00ee",
+            "pronunciation": "die",
+            "kjv_def": "behoved, be meet, must (needs), (be)\n need(-ful), ought, should.",
+            "pspeech": "V-PIA-3S",
+            "description": " also  ; neuter active participle of the same; both used impersonally; it is (was, etc.) necessary (as binding)"
+        },
+        {
+            "number": 3756,
+            "lemma": "\u03bf\u1f50\u03c7",
+            "xlit": "ouch",
+            "pronunciation": "ookh",
+            "kjv_def": "+ long, nay, neither, never, no (X man), none, (can-)not, +\n nothing, + special, un(-worthy), when, + without, + yet but.",
+            "pspeech": "Adv",
+            "description": " the absolute negative (compare \u03bc\u1f75(m\u1e17)) adverb; no or not"
+        },
+        {
+            "number": 75,
+            "lemma": "\u1f00\u03b3\u03c9\u03bd\u1f77\u03b6\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "ag\u014dn\u00edzomai",
+            "pronunciation": "ag-o-nid'-zom-ahee",
+            "kjv_def": "fight, labor fervently, strive.",
+            "pspeech": "V-PMM/P-2P",
+            "description": " to struggle, literally (to compete for a prize), figuratively (to contend with an adversary), or genitive case (to endeavor to accomplish something)"
+        },
+        {
+            "number": 5119,
+            "lemma": "\u03c4\u1f79\u03c4\u03b5",
+            "xlit": "t\u00f3te",
+            "pronunciation": "tot'-eh",
+            "kjv_def": "that time, then.",
+            "pspeech": "Adv",
+            "description": " the when, i.e. at the time that (of the past or future, also in consecution)"
+        }
+    ]
+}

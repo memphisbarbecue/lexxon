@@ -1,0 +1,613 @@
+{
+    "wotd": {
+        "number": 5257,
+        "lemma": "\u1f51\u03c0\u03b7\u03c1\u1f73\u03c4\u03b7\u03c2",
+        "xlit": "hyp\u0113r\u00e9t\u0113s",
+        "pronunciation": "hoop-ay-ret'-ace",
+        "kjv_def": "minister,\n officer, servant.",
+        "pspeech": "N-DMS",
+        "description": " an under-oarsman, i.e. (generally) subordinate (assistant, sexton, constable)"
+    },
+    "verses": [
+        {
+            "verse_no": 26822,
+            "verse_ref": "John 18:36",
+            "verse_data": [
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " answered ",
+                    "Str Grk": 611.0,
+                    "lemma": "\u1f08\u03c0\u03b5\u03ba\u03c1\u03af\u03b8\u03b7",
+                    "xlit": "Apekrith\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1699.0,
+                    "lemma": "\u1f10\u03bc\u1f74",
+                    "xlit": "em\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f29",
+                    "xlit": "H\u0113"
+                },
+                {
+                    "BSB Version": " kingdom ",
+                    "Str Grk": 932.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1",
+                    "xlit": "basileia"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f14\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5",
+                    "xlit": "toutou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " world ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u03bf\u03c5",
+                    "xlit": "kosmou"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u03b5\u1f30",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1699.0,
+                    "lemma": "\u1f10\u03bc\u03ae",
+                    "xlit": "em\u0113"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " [it] ",
+                    "Str Grk": 932.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1",
+                    "xlit": "basileia"
+                },
+                {
+                    "BSB Version": " were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03bd",
+                    "xlit": "\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5",
+                    "xlit": "toutou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u03bf\u03c5",
+                    "xlit": "kosmou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 302.0,
+                    "lemma": "\u1f04\u03bd",
+                    "xlit": "an"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1699.0,
+                    "lemma": "\u1f10\u03bc\u03bf\u1f76",
+                    "xlit": "emoi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " servants ",
+                    "Str Grk": 5257.0,
+                    "lemma": "\u1f51\u03c0\u03b7\u03c1\u03ad\u03c4\u03b1\u03b9",
+                    "xlit": "hyp\u0113retai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " would fight ",
+                    "Str Grk": 75.0,
+                    "lemma": "\u1f20\u03b3\u03c9\u03bd\u03af\u03b6\u03bf\u03bd\u03c4\u03bf",
+                    "xlit": "\u0113g\u014dnizonto"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " prevent My arrest ",
+                    "Str Grk": 3860.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03b8\u1ff6",
+                    "xlit": "paradoth\u014d"
+                },
+                {
+                    "BSB Version": " by the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " Jews ",
+                    "Str Grk": 2453.0,
+                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03bf\u03b9\u03c2",
+                    "xlit": "Ioudaiois"
+                },
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " now ",
+                    "Str Grk": 3568.0,
+                    "lemma": "\u03bd\u1fe6\u03bd",
+                    "xlit": "nyn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1699.0,
+                    "lemma": "\u1f10\u03bc\u1f74",
+                    "xlit": "em\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " kingdom ",
+                    "Str Grk": 932.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1",
+                    "xlit": "basileia"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f14\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " of this realm ",
+                    "Str Grk": 1782.0,
+                    "lemma": "\u1f10\u03bd\u03c4\u03b5\u1fe6\u03b8\u03b5\u03bd",
+                    "xlit": "enteuthen"
+                }
+            ],
+            "verse_text": "Jesus answered, \"My kingdom is not of this world; if My kingdom were of this world, My attendants would fight that I might not be betrayed to the Jews. But now My kingdom is not from here.\""
+        },
+        {
+            "verse_no": 24896,
+            "verse_ref": "Luke 1:2",
+            "verse_data": [
+                {
+                    "BSB Version": " just as ",
+                    "Str Grk": 2531.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+                    "xlit": "kath\u014ds"
+                },
+                {
+                    "BSB Version": " they ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " were handed down ",
+                    "Str Grk": 3860.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ad\u03b4\u03bf\u03c3\u03b1\u03bd",
+                    "xlit": "paredosan"
+                },
+                {
+                    "BSB Version": " to us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u2019",
+                    "xlit": "ap\u2019"
+                },
+                {
+                    "BSB Version": " the initial ",
+                    "Str Grk": 746.0,
+                    "lemma": "\u1f00\u03c1\u03c7\u1fc6\u03c2",
+                    "xlit": "arch\u0113s"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "genomenoi"
+                },
+                {
+                    "BSB Version": " eyewitnesses ",
+                    "Str Grk": 845.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c0\u03c4\u03b1\u03b9",
+                    "xlit": "autoptai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " servants ",
+                    "Str Grk": 5257.0,
+                    "lemma": "\u1f51\u03c0\u03b7\u03c1\u03ad\u03c4\u03b1\u03b9",
+                    "xlit": "hyp\u0113retai"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " word ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c5",
+                    "xlit": "logou"
+                }
+            ],
+            "verse_text": "just as those from <i>the</i> beginning having been eyewitnesses and servants of the word delivered <i>them</i> to us,"
+        },
+        {
+            "verse_no": 25084,
+            "verse_ref": "Luke 4:20",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " He rolled up ",
+                    "Str Grk": 4428.0,
+                    "lemma": "\u03c0\u03c4\u03cd\u03be\u03b1\u03c2",
+                    "xlit": "ptyxas"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " scroll ",
+                    "Str Grk": 975.0,
+                    "lemma": "\u03b2\u03b9\u03b2\u03bb\u03af\u03bf\u03bd",
+                    "xlit": "biblion"
+                },
+                {
+                    "BSB Version": " returned [it] ",
+                    "Str Grk": 591.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03b4\u03bf\u1f7a\u03c2",
+                    "xlit": "apodous"
+                },
+                {
+                    "BSB Version": " to the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " attendant ",
+                    "Str Grk": 5257.0,
+                    "lemma": "\u1f51\u03c0\u03b7\u03c1\u03ad\u03c4\u1fc3",
+                    "xlit": "hyp\u0113ret\u0113"
+                },
+                {
+                    "BSB Version": " [and] sat down ",
+                    "Str Grk": 2523.0,
+                    "lemma": "\u1f10\u03ba\u03ac\u03b8\u03b9\u03c3\u03b5\u03bd",
+                    "xlit": "ekathisen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " eyes ",
+                    "Str Grk": 3788.0,
+                    "lemma": "\u1f40\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u1f76",
+                    "xlit": "ophthalmoi"
+                },
+                {
+                    "BSB Version": " of everyone ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "pant\u014dn"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " synagogue ",
+                    "Str Grk": 4864.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u1fc7",
+                    "xlit": "synag\u014dg\u0113"
+                },
+                {
+                    "BSB Version": " were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03c3\u03b1\u03bd",
+                    "xlit": "\u0113san"
+                },
+                {
+                    "BSB Version": " fixed on ",
+                    "Str Grk": 816.0,
+                    "lemma": "\u1f00\u03c4\u03b5\u03bd\u03af\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "atenizontes"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                }
+            ],
+            "verse_text": "And having rolled up the scroll, having delivered <i>it</i> to the attendant, He sat down, and the eyes of all in the synagogue were fixed upon Him."
+        },
+        {
+            "verse_no": 26798,
+            "verse_ref": "John 18:12",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f29",
+                    "xlit": "H\u0113"
+                },
+                {
+                    "BSB Version": " band of soldiers ",
+                    "Str Grk": 4686.0,
+                    "lemma": "\u03c3\u03c0\u03b5\u1fd6\u03c1\u03b1",
+                    "xlit": "speira"
+                },
+                {
+                    "BSB Version": " [with] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [its] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " commander ",
+                    "Str Grk": 5506.0,
+                    "lemma": "\u03c7\u03b9\u03bb\u03af\u03b1\u03c1\u03c7\u03bf\u03c2",
+                    "xlit": "chiliarchos"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " officers ",
+                    "Str Grk": 5257.0,
+                    "lemma": "\u1f51\u03c0\u03b7\u03c1\u03ad\u03c4\u03b1\u03b9",
+                    "xlit": "hyp\u0113retai"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " Jews ",
+                    "Str Grk": 2453.0,
+                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03c9\u03bd",
+                    "xlit": "Ioudai\u014dn"
+                },
+                {
+                    "BSB Version": " arrested ",
+                    "Str Grk": 4815.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03ad\u03bb\u03b1\u03b2\u03bf\u03bd",
+                    "xlit": "synelabon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03bd",
+                    "xlit": "I\u0113soun"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " bound ",
+                    "Str Grk": 1210.0,
+                    "lemma": "\u1f14\u03b4\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "ed\u0113san"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                }
+            ],
+            "verse_text": "Then the cohort and the commander and the officers of the Jews took hold of Jesus and bound Him."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 1782,
+            "lemma": "\u1f10\u03bd\u03c4\u03b5\u1fe6\u03b8\u03b5\u03bd",
+            "xlit": "ente\u00fbthen",
+            "pronunciation": "ent-yoo'-then",
+            "kjv_def": "(from) hence, on either side.",
+            "pspeech": "Adv",
+            "description": " hence (literally or figuratively); (repeated) on both sides"
+        },
+        {
+            "number": 746,
+            "lemma": "\u1f00\u03c1\u03c7\u1f75",
+            "xlit": "arch\u1e17",
+            "pronunciation": "ar-khay'",
+            "kjv_def": "beginning,\n corner, (at the, the) first (estate), magistrate, power, principality,\n principle, rule.",
+            "pspeech": "N-GFS",
+            "description": " (properly abstract) a commencement, or (concretely) chief (in various applications of order, time, place, or rank)"
+        },
+        {
+            "number": 3956,
+            "lemma": "\u03c0\u1fb6\u03c2",
+            "xlit": "p\u00e2s",
+            "pronunciation": "pas",
+            "kjv_def": "all (manner of, means), alway(-s), any (one),\n X daily, + ever, every (one, way), as many as, + no(-thing), X\n thoroughly, whatsoever, whole, whosoever.",
+            "pspeech": "Adj-NFP",
+            "description": " all, any, every, the whole"
+        },
+        {
+            "number": 4815,
+            "lemma": "\u03c3\u03c5\u03bb\u03bb\u03b1\u03bc\u03b2\u1f71\u03bd\u03c9",
+            "xlit": "syllamb\u00e1n\u014d",
+            "pronunciation": "sool-lam-ban'-o",
+            "kjv_def": "catch, conceive, help, take.",
+            "pspeech": "V-ANA",
+            "description": " to clasp, i.e. seize (arrest, capture); specially, to conceive (literally or figuratively); by implication, to aid"
+        }
+    ]
+}

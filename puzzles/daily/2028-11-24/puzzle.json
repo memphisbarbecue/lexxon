@@ -1,0 +1,475 @@
+{
+    "wotd": {
+        "number": 15,
+        "lemma": "\u1f00\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u1f73\u03c9",
+        "xlit": "agathopoi\u00e9\u014d",
+        "pronunciation": "ag-ath-op-oy-eh'-o",
+        "kjv_def": "(when) do good\n (well).",
+        "pspeech": "V-ANA",
+        "description": " to be a well-doer (as a favor or a duty)"
+    },
+    "verses": [
+        {
+            "verse_no": 30442,
+            "verse_ref": "1 Peter 3:17",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " [it is] better ",
+                    "Str Grk": 2909.0,
+                    "lemma": "\u03ba\u03c1\u03b5\u1fd6\u03c4\u03c4\u03bf\u03bd",
+                    "xlit": "kreitton"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u03b5\u1f30",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " [it is] ",
+                    "Str Grk": 2309.0,
+                    "lemma": "\u03b8\u03ad\u03bb\u03bf\u03b9",
+                    "xlit": "theloi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " God\u2019s ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " will ",
+                    "Str Grk": 2307.0,
+                    "lemma": "\u03b8\u03ad\u03bb\u03b7\u03bc\u03b1",
+                    "xlit": "thel\u0113ma"
+                },
+                {
+                    "BSB Version": " to suffer ",
+                    "Str Grk": 3958.0,
+                    "lemma": "\u03c0\u03ac\u03c3\u03c7\u03b5\u03b9\u03bd",
+                    "xlit": "paschein"
+                },
+                {
+                    "BSB Version": " [for] doing good ",
+                    "Str Grk": 15.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03bf\u1fe6\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "agathopoiountas"
+                },
+                {
+                    "BSB Version": " than ",
+                    "Str Grk": 2228.0,
+                    "lemma": "\u1f22",
+                    "xlit": "\u0113"
+                },
+                {
+                    "BSB Version": " for doing evil ",
+                    "Str Grk": 2554.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u03bf\u03c0\u03bf\u03b9\u03bf\u1fe6\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "kakopoiountas"
+                }
+            ],
+            "verse_text": "For <i>it is</i> better to suffer <i>for</i> doing good, if the will of God wills <i>it</i>, than doing evil,"
+        },
+        {
+            "verse_no": 30670,
+            "verse_ref": "3 John 1:11",
+            "verse_data": [
+                {
+                    "BSB Version": " Beloved ",
+                    "Str Grk": 27.0,
+                    "lemma": "\u1f08\u03b3\u03b1\u03c0\u03b7\u03c4\u03ad",
+                    "xlit": "Agap\u0113te"
+                },
+                {
+                    "BSB Version": " {do} not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " imitate ",
+                    "Str Grk": 3401.0,
+                    "lemma": "\u03bc\u03b9\u03bc\u03bf\u1fe6",
+                    "xlit": "mimou"
+                },
+                {
+                    "BSB Version": " what [is] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " evil ",
+                    "Str Grk": 2556.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u1f78\u03bd",
+                    "xlit": "kakon"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " what [is] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 18.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03cc\u03bd",
+                    "xlit": "agathon"
+                },
+                {
+                    "BSB Version": " The [one who] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " does good ",
+                    "Str Grk": 15.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u1ff6\u03bd",
+                    "xlit": "agathopoi\u014dn"
+                },
+                {
+                    "BSB Version": " is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                },
+                {
+                    "BSB Version": " the [one who] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " does evil ",
+                    "Str Grk": 2554.0,
+                    "lemma": "\u03ba\u03b1\u03ba\u03bf\u03c0\u03bf\u03b9\u1ff6\u03bd",
+                    "xlit": "kakopoi\u014dn"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03c7",
+                    "xlit": "ouch"
+                },
+                {
+                    "BSB Version": " has not seen ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f11\u03ce\u03c1\u03b1\u03ba\u03b5\u03bd",
+                    "xlit": "he\u014draken"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03bd",
+                    "xlit": "Theon"
+                }
+            ],
+            "verse_text": "Beloved, do not imitate what <i>is</i> evil, but what <i>is</i> good. The <i>one</i> doing good is of God; the <i>one</i> doing evil has not seen God."
+        },
+        {
+            "verse_no": 25180,
+            "verse_ref": "Luke 6:33",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " you do good ",
+                    "Str Grk": 15.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u1fc6\u03c4\u03b5",
+                    "xlit": "agathopoi\u0113te"
+                },
+                {
+                    "BSB Version": " to those who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " do good to ",
+                    "Str Grk": 15.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03bf\u1fe6\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "agathopoiountas"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 4169.0,
+                    "lemma": "\u03c0\u03bf\u03af\u03b1",
+                    "xlit": "poia"
+                },
+                {
+                    "BSB Version": " credit ",
+                    "Str Grk": 5485.0,
+                    "lemma": "\u03c7\u03ac\u03c1\u03b9\u03c2",
+                    "xlit": "charis"
+                },
+                {
+                    "BSB Version": " is that ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03af\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " to you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " Even ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " sinners ",
+                    "Str Grk": 268.0,
+                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u03bf\u1f76",
+                    "xlit": "hamart\u014dloi"
+                },
+                {
+                    "BSB Version": " do ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03bf\u1fe6\u03c3\u03b9\u03bd",
+                    "xlit": "poiousin"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " same ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78",
+                    "xlit": "auto"
+                }
+            ],
+            "verse_text": "And indeed, if you do good to those doing good to you, what credit is it to you? For even sinners do the same."
+        },
+        {
+            "verse_no": 30431,
+            "verse_ref": "1 Peter 3:6",
+            "verse_data": [
+                {
+                    "BSB Version": " just as ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " Sarah ",
+                    "Str Grk": 4564.0,
+                    "lemma": "\u03a3\u03ac\u03c1\u03c1\u03b1",
+                    "xlit": "Sarra"
+                },
+                {
+                    "BSB Version": " obeyed ",
+                    "Str Grk": 5219.0,
+                    "lemma": "\u1f51\u03c0\u03ae\u03ba\u03bf\u03c5\u03c3\u03b5\u03bd",
+                    "xlit": "hyp\u0113kousen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u03ac\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " [and] called ",
+                    "Str Grk": 2564.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u03bf\u1fe6\u03c3\u03b1",
+                    "xlit": "kalousa"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03bd",
+                    "xlit": "kyrion"
+                },
+                {
+                    "BSB Version": " [And] you are ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u1f10\u03b3\u03b5\u03bd\u03ae\u03b8\u03b7\u03c4\u03b5",
+                    "xlit": "egen\u0113th\u0113te"
+                },
+                {
+                    "BSB Version": " [her] ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f27\u03c2",
+                    "xlit": "h\u0113s"
+                },
+                {
+                    "BSB Version": " children ",
+                    "Str Grk": 5043.0,
+                    "lemma": "\u03c4\u03ad\u03ba\u03bd\u03b1",
+                    "xlit": "tekna"
+                },
+                {
+                    "BSB Version": " if you do what is right ",
+                    "Str Grk": 15.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03bf\u1fe6\u03c3\u03b1\u03b9",
+                    "xlit": "agathopoiousai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " refuse ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " to give way ",
+                    "Str Grk": 5399.0,
+                    "lemma": "\u03c6\u03bf\u03b2\u03bf\u03cd\u03bc\u03b5\u03bd\u03b1\u03b9",
+                    "xlit": "phoboumenai"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u03b5\u03bc\u03af\u03b1\u03bd",
+                    "xlit": "m\u0113demian"
+                },
+                {
+                    "BSB Version": " to fear ",
+                    "Str Grk": 4423.0,
+                    "lemma": "\u03c0\u03c4\u03cc\u03b7\u03c3\u03b9\u03bd",
+                    "xlit": "pto\u0113sin"
+                }
+            ],
+            "verse_text": "as Sarah obeyed Abraham, calling him lord, of whom you have become children, doing good and not fearing <i>any</i> consternation."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2307,
+            "lemma": "\u03b8\u1f73\u03bb\u03b7\u03bc\u03b1",
+            "xlit": "th\u00e9l\u0113ma",
+            "pronunciation": "thel'-ay-mah",
+            "kjv_def": " desire, pleasure,\n will.",
+            "pspeech": "N-NNS",
+            "description": " a determination (properly, the thing), i.e. (actively) choice (specially, purpose, decree; abstractly, volition) or (passively) inclination"
+        },
+        {
+            "number": 2556,
+            "lemma": "\u03ba\u03b1\u03ba\u1f79\u03c2",
+            "xlit": "kak\u00f3s",
+            "pronunciation": "kak-os'",
+            "kjv_def": "bad, evil, harm, ill, noisome, wicked.",
+            "pspeech": "Adj-AMP",
+            "description": " worthless (intrinsically, such; whereas \u03c0\u03bf\u03bd\u03b7\u03c1\u1f79\u03c2(pon\u0113r\u00f3s) properly refers to effects), i.e. (subjectively) depraved, or (objectively) injurious"
+        },
+        {
+            "number": 268,
+            "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u1f79\u03c2",
+            "xlit": "hamart\u014dl\u00f3s",
+            "pronunciation": "ham-ar-to-los'",
+            "kjv_def": "sinful, sinner.",
+            "pspeech": "Adj-NMP",
+            "description": " sinful, i.e. a sinner"
+        },
+        {
+            "number": 5219,
+            "lemma": "\u1f51\u03c0\u03b1\u03ba\u03bf\u1f7b\u03c9",
+            "xlit": "hypako\u00fa\u014d",
+            "pronunciation": "hoop-ak-oo'-o",
+            "kjv_def": "hearken, be obedient to, obey.",
+            "pspeech": "V-PIA-3P",
+            "description": " to hear under (as a subordinate), i.e. to listen attentively; by implication, to heed or conform to a command or authority"
+        }
+    ]
+}

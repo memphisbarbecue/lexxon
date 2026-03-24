@@ -1,0 +1,505 @@
+{
+    "wotd": {
+        "number": 1777,
+        "lemma": "\u1f14\u03bd\u03bf\u03c7\u03bf\u03c2",
+        "xlit": "\u00e9nochos",
+        "pronunciation": "en'-okh-os",
+        "kjv_def": "in danger\n of, guilty of, subject to.",
+        "pspeech": "Adj-NMS",
+        "description": " liable to (a condition, penalty or imputation)"
+    },
+    "verses": [
+        {
+            "verse_no": 24819,
+            "verse_ref": "Mark 14:64",
+            "verse_data": [
+                {
+                    "BSB Version": " You have heard ",
+                    "Str Grk": 191.0,
+                    "lemma": "\u1f20\u03ba\u03bf\u03cd\u03c3\u03b1\u03c4\u03b5",
+                    "xlit": "\u0113kousate"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " blasphemy ",
+                    "Str Grk": 988.0,
+                    "lemma": "\u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03af\u03b1\u03c2",
+                    "xlit": "blasph\u0113mias"
+                },
+                {
+                    "BSB Version": " What ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03c4\u03af",
+                    "xlit": "ti"
+                },
+                {
+                    "BSB Version": " is your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " verdict ",
+                    "Str Grk": 5316.0,
+                    "lemma": "\u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "phainetai"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u039f\u1f31",
+                    "xlit": "Hoi"
+                },
+                {
+                    "BSB Version": " they all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "pantes"
+                },
+                {
+                    "BSB Version": " condemned ",
+                    "Str Grk": 2632.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03ad\u03ba\u03c1\u03b9\u03bd\u03b1\u03bd",
+                    "xlit": "katekrinan"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " as ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f36\u03bd\u03b1\u03b9",
+                    "xlit": "einai"
+                },
+                {
+                    "BSB Version": " deserving ",
+                    "Str Grk": 1777.0,
+                    "lemma": "\u1f14\u03bd\u03bf\u03c7\u03bf\u03bd",
+                    "xlit": "enochon"
+                },
+                {
+                    "BSB Version": " of death ",
+                    "Str Grk": 2288.0,
+                    "lemma": "\u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5",
+                    "xlit": "thanatou"
+                }
+            ],
+            "verse_text": "You heard the blasphemy. What does it appear to you?\" And all condemned Him to be deserving of death."
+        },
+        {
+            "verse_no": 28628,
+            "verse_ref": "1 Corinthians 11:27",
+            "verse_data": [
+                {
+                    "BSB Version": " Therefore ",
+                    "Str Grk": 5620.0,
+                    "lemma": "\u1f6d\u03c3\u03c4\u03b5",
+                    "xlit": "H\u014dste"
+                },
+                {
+                    "BSB Version": " whoever ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43\u03c2",
+                    "xlit": "hos"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 302.0,
+                    "lemma": "\u1f02\u03bd",
+                    "xlit": "an"
+                },
+                {
+                    "BSB Version": " eats ",
+                    "Str Grk": 2068.0,
+                    "lemma": "\u1f10\u03c3\u03b8\u03af\u1fc3",
+                    "xlit": "esthi\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " bread ",
+                    "Str Grk": 740.0,
+                    "lemma": "\u1f04\u03c1\u03c4\u03bf\u03bd",
+                    "xlit": "arton"
+                },
+                {
+                    "BSB Version": " or ",
+                    "Str Grk": 2228.0,
+                    "lemma": "\u1f22",
+                    "xlit": "\u0113"
+                },
+                {
+                    "BSB Version": " drinks ",
+                    "Str Grk": 4095.0,
+                    "lemma": "\u03c0\u03af\u03bd\u1fc3",
+                    "xlit": "pin\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " cup ",
+                    "Str Grk": 4221.0,
+                    "lemma": "\u03c0\u03bf\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd",
+                    "xlit": "pot\u0113rion"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+                    "xlit": "Kyriou"
+                },
+                {
+                    "BSB Version": " in an unworthy manner ",
+                    "Str Grk": 371.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03be\u03af\u03c9\u03c2",
+                    "xlit": "anaxi\u014ds"
+                },
+                {
+                    "BSB Version": " will be ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f14\u03c3\u03c4\u03b1\u03b9",
+                    "xlit": "estai"
+                },
+                {
+                    "BSB Version": " guilty of sinning ",
+                    "Str Grk": 1777.0,
+                    "lemma": "\u1f14\u03bd\u03bf\u03c7\u03bf\u03c2",
+                    "xlit": "enochos"
+                },
+                {
+                    "BSB Version": " against the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " body ",
+                    "Str Grk": 4983.0,
+                    "lemma": "\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "s\u014dmatos"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " blood ",
+                    "Str Grk": 129.0,
+                    "lemma": "\u03b1\u1f35\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "haimatos"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+                    "xlit": "Kyriou"
+                }
+            ],
+            "verse_text": "Therefore whoever should eat the bread or should drink the cup of the Lord unworthily will be guilty of the body and of the blood of the Lord."
+        },
+        {
+            "verse_no": 24318,
+            "verse_ref": "Mark 3:29",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u2019",
+                    "xlit": "d\u2019"
+                },
+                {
+                    "BSB Version": " whoever ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43\u03c2",
+                    "xlit": "hos"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 302.0,
+                    "lemma": "\u1f02\u03bd",
+                    "xlit": "an"
+                },
+                {
+                    "BSB Version": " blasphemes ",
+                    "Str Grk": 987.0,
+                    "lemma": "\u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03ae\u03c3\u1fc3",
+                    "xlit": "blasph\u0113m\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " against ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Holy ",
+                    "Str Grk": 40.0,
+                    "lemma": "\u1f0d\u03b3\u03b9\u03bf\u03bd",
+                    "xlit": "Hagion"
+                },
+                {
+                    "BSB Version": " Spirit ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03a0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+                    "xlit": "Pneuma"
+                },
+                {
+                    "BSB Version": " {will} never ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 165.0,
+                    "lemma": "\u03b1\u1f30\u1ff6\u03bd\u03b1",
+                    "xlit": "ai\u014dna"
+                },
+                {
+                    "BSB Version": " be ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f14\u03c7\u03b5\u03b9",
+                    "xlit": "echei"
+                },
+                {
+                    "BSB Version": " forgiven ",
+                    "Str Grk": 859.0,
+                    "lemma": "\u1f04\u03c6\u03b5\u03c3\u03b9\u03bd",
+                    "xlit": "aphesin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " he is ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " guilty ",
+                    "Str Grk": 1777.0,
+                    "lemma": "\u1f14\u03bd\u03bf\u03c7\u03cc\u03c2",
+                    "xlit": "enochos"
+                },
+                {
+                    "BSB Version": " [of] eternal ",
+                    "Str Grk": 166.0,
+                    "lemma": "\u03b1\u1f30\u03c9\u03bd\u03af\u03bf\u03c5",
+                    "xlit": "ai\u014dniou"
+                },
+                {
+                    "BSB Version": " sin ",
+                    "Str Grk": 265.0,
+                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "hamart\u0113matos"
+                }
+            ],
+            "verse_text": "But whoever shall blaspheme against the Holy Spirit does not have forgiveness, to the age, but is guilty <i>of</i> eternal sin.\""
+        },
+        {
+            "verse_no": 23256,
+            "verse_ref": "Matthew 5:21",
+            "verse_data": [
+                {
+                    "BSB Version": " You have heard ",
+                    "Str Grk": 191.0,
+                    "lemma": "\u1f28\u03ba\u03bf\u03cd\u03c3\u03b1\u03c4\u03b5",
+                    "xlit": "\u0112kousate"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " it was said ",
+                    "Str Grk": 2046.0,
+                    "lemma": "\u1f10\u03c1\u03c1\u03ad\u03b8\u03b7",
+                    "xlit": "erreth\u0113"
+                },
+                {
+                    "BSB Version": " to the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " ancients ",
+                    "Str Grk": 744.0,
+                    "lemma": "\u1f00\u03c1\u03c7\u03b1\u03af\u03bf\u03b9\u03c2",
+                    "xlit": "archaiois"
+                },
+                {
+                    "BSB Version": " Do not murder ",
+                    "Str Grk": 5407.0,
+                    "lemma": "\u03c6\u03bf\u03bd\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2",
+                    "xlit": "phoneuseis"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u039f\u1f50",
+                    "xlit": "Ou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u2019",
+                    "xlit": "d\u2019"
+                },
+                {
+                    "BSB Version": " Anyone who ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43\u03c2",
+                    "xlit": "hos"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 302.0,
+                    "lemma": "\u1f02\u03bd",
+                    "xlit": "an"
+                },
+                {
+                    "BSB Version": " murders ",
+                    "Str Grk": 5407.0,
+                    "lemma": "\u03c6\u03bf\u03bd\u03b5\u03cd\u03c3\u1fc3",
+                    "xlit": "phoneus\u0113"
+                },
+                {
+                    "BSB Version": " will be ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f14\u03c3\u03c4\u03b1\u03b9",
+                    "xlit": "estai"
+                },
+                {
+                    "BSB Version": " subject ",
+                    "Str Grk": 1777.0,
+                    "lemma": "\u1f14\u03bd\u03bf\u03c7\u03bf\u03c2",
+                    "xlit": "enochos"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " judgment ",
+                    "Str Grk": 2920.0,
+                    "lemma": "\u03ba\u03c1\u03af\u03c3\u03b5\u03b9",
+                    "xlit": "krisei"
+                }
+            ],
+            "verse_text": "You have heard that it was said to the ancients, 'You shall not murder' and 'Whoever shall murder will be liable to the judgment.'"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 5316,
+            "lemma": "\u03c6\u03b1\u1f77\u03bd\u03c9",
+            "xlit": "pha\u00edn\u014d",
+            "pronunciation": "fah'-ee-no",
+            "kjv_def": " appear, seem,\n be seen, shine, X think.",
+            "pspeech": "V-AIP-3S",
+            "description": " to lighten (shine), i.e. show (transitive or intransitive, literal or figurative)"
+        },
+        {
+            "number": 740,
+            "lemma": "\u1f04\u03c1\u03c4\u03bf\u03c2",
+            "xlit": "\u00e1rtos",
+            "pronunciation": "ar'-tos",
+            "kjv_def": "(shew-)bread, loaf.",
+            "pspeech": "N-NMP",
+            "description": " bread (as raised) or a loaf"
+        },
+        {
+            "number": 165,
+            "lemma": "\u03b1\u1f30\u1f7d\u03bd",
+            "xlit": "ai\u1e53n",
+            "pronunciation": "ahee-ohn'",
+            "kjv_def": "age, course, eternal, (for) ever(-more),\n (n-)ever, (beginning of the , while the) world (began, without end).",
+            "pspeech": "N-DMS",
+            "description": " properly, an age; by extension, perpetuity (also past); by implication, the world; specially (Jewish) a Messianic period (present or future)"
+        },
+        {
+            "number": 2046,
+            "lemma": "\u1f10\u03c1\u1f73\u03c9",
+            "xlit": "er\u00e9\u014d",
+            "pronunciation": "er-eh'-o",
+            "kjv_def": "call, say, speak (of), tell.",
+            "pspeech": "V-APP-NNS",
+            "description": " an alternate for \u1f14\u03c0\u03c9(\u00e9p\u014d) in certain tenses; to utter, i.e. speak or say"
+        }
+    ]
+}

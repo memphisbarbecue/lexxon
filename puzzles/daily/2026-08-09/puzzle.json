@@ -1,0 +1,577 @@
+{
+    "wotd": {
+        "number": 565,
+        "lemma": "\u1f00\u03c0\u1f73\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+        "xlit": "ap\u00e9rchomai",
+        "pronunciation": "ap-erkh'-om-ahee",
+        "kjv_def": "come, depart, go\n (aside, away, back, out, \u2026 ways), pass away, be past.",
+        "pspeech": "V-ANA",
+        "description": " to go off (i.e. depart), aside (i.e. apart) or behind (i.e. follow), literally or figuratively"
+    },
+    "verses": [
+        {
+            "verse_no": 23677,
+            "verse_ref": "Matthew 16:4",
+            "verse_data": [
+                {
+                    "BSB Version": " [A] wicked ",
+                    "Str Grk": 4190.0,
+                    "lemma": "\u03c0\u03bf\u03bd\u03b7\u03c1\u1f70",
+                    "xlit": "pon\u0113ra"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " adulterous ",
+                    "Str Grk": 3428.0,
+                    "lemma": "\u03bc\u03bf\u03b9\u03c7\u03b1\u03bb\u1f76\u03c2",
+                    "xlit": "moichalis"
+                },
+                {
+                    "BSB Version": " generation ",
+                    "Str Grk": 1074.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03b5\u1f70",
+                    "xlit": "genea"
+                },
+                {
+                    "BSB Version": " demands ",
+                    "Str Grk": 1934.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03b6\u03b7\u03c4\u03b5\u1fd6",
+                    "xlit": "epiz\u0113tei"
+                },
+                {
+                    "BSB Version": " a sign ",
+                    "Str Grk": 4592.0,
+                    "lemma": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03bf\u03bd",
+                    "xlit": "s\u0113meion"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 4592.0,
+                    "lemma": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03bf\u03bd",
+                    "xlit": "s\u0113meion"
+                },
+                {
+                    "BSB Version": " none ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " will be given ",
+                    "Str Grk": 1325.0,
+                    "lemma": "\u03b4\u03bf\u03b8\u03ae\u03c3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "doth\u0113setai"
+                },
+                {
+                    "BSB Version": " it ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1fc7",
+                    "xlit": "aut\u0113"
+                },
+                {
+                    "BSB Version": " except ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u03b5\u1f30",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " sign ",
+                    "Str Grk": 4592.0,
+                    "lemma": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03bf\u03bd",
+                    "xlit": "s\u0113meion"
+                },
+                {
+                    "BSB Version": " of Jonah ",
+                    "Str Grk": 2495.0,
+                    "lemma": "\u1f38\u03c9\u03bd\u1fb6",
+                    "xlit": "I\u014dna"
+                },
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " He left ",
+                    "Str Grk": 2641.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03bb\u03b9\u03c0\u1f7c\u03bd",
+                    "xlit": "katalip\u014dn"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " [and] went away ",
+                    "Str Grk": 565.0,
+                    "lemma": "\u1f00\u03c0\u1fc6\u03bb\u03b8\u03b5\u03bd",
+                    "xlit": "ap\u0113lthen"
+                }
+            ],
+            "verse_text": "<i>An</i> evil and adulterous generation seeks a sign, but no sign will be given to it except the sign of Jonah.\" And having left them, He went away."
+        },
+        {
+            "verse_no": 24488,
+            "verse_ref": "Mark 7:24",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " [Jesus] left ",
+                    "Str Grk": 450.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c3\u03c4\u1f70\u03c2",
+                    "xlit": "anastas"
+                },
+                {
+                    "BSB Version": " that place ",
+                    "Str Grk": 1564.0,
+                    "lemma": "\u1f18\u03ba\u03b5\u1fd6\u03b8\u03b5\u03bd",
+                    "xlit": "Ekeithen"
+                },
+                {
+                    "BSB Version": " [and] went ",
+                    "Str Grk": 565.0,
+                    "lemma": "\u1f00\u03c0\u1fc6\u03bb\u03b8\u03b5\u03bd",
+                    "xlit": "ap\u0113lthen"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " region ",
+                    "Str Grk": 3725.0,
+                    "lemma": "\u1f45\u03c1\u03b9\u03b1",
+                    "xlit": "horia"
+                },
+                {
+                    "BSB Version": " of Tyre ",
+                    "Str Grk": 5184.0,
+                    "lemma": "\u03a4\u03cd\u03c1\u03bf\u03c5",
+                    "xlit": "Tyrou"
+                },
+                {
+                    "BSB Version": " Not wanting anyone ",
+                    "Str Grk": 2309.0,
+                    "lemma": "\u1f24\u03b8\u03b5\u03bb\u03b5\u03bd",
+                    "xlit": "\u0113thelen"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3762.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u03ad\u03bd\u03b1",
+                    "xlit": "oudena"
+                },
+                {
+                    "BSB Version": " to know [He was there] ",
+                    "Str Grk": 1097.0,
+                    "lemma": "\u03b3\u03bd\u1ff6\u03bd\u03b1\u03b9",
+                    "xlit": "gn\u014dnai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " He entered ",
+                    "Str Grk": 1525.0,
+                    "lemma": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u1f7c\u03bd",
+                    "xlit": "eiselth\u014dn"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " [a] house ",
+                    "Str Grk": 3614.0,
+                    "lemma": "\u03bf\u1f30\u03ba\u03af\u03b1\u03bd",
+                    "xlit": "oikian"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " was unable ",
+                    "Str Grk": 1410.0,
+                    "lemma": "\u1f20\u03b4\u03c5\u03bd\u03ae\u03b8\u03b7",
+                    "xlit": "\u0113dyn\u0113th\u0113"
+                },
+                {
+                    "BSB Version": " to escape their notice ",
+                    "Str Grk": 2990.0,
+                    "lemma": "\u03bb\u03b1\u03b8\u03b5\u1fd6\u03bd",
+                    "xlit": "lathein"
+                }
+            ],
+            "verse_text": "And from there having risen up, He went away into the region of Tyre. And having entered into a house, He was wishing no one to know <i>it</i>, but He was not able to be hidden."
+        },
+        {
+            "verse_no": 30680,
+            "verse_ref": "Jude 1:7",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " In like ",
+                    "Str Grk": 3664.0,
+                    "lemma": "\u1f45\u03bc\u03bf\u03b9\u03bf\u03bd",
+                    "xlit": "homoion"
+                },
+                {
+                    "BSB Version": " manner ",
+                    "Str Grk": 5158.0,
+                    "lemma": "\u03c4\u03c1\u03cc\u03c0\u03bf\u03bd",
+                    "xlit": "tropon"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03bf\u03b9\u03c2",
+                    "xlit": "toutois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " Sodom ",
+                    "Str Grk": 4670.0,
+                    "lemma": "\u03a3\u03cc\u03b4\u03bf\u03bc\u03b1",
+                    "xlit": "Sodoma"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Gomorrah ",
+                    "Str Grk": 1116.0,
+                    "lemma": "\u0393\u03cc\u03bc\u03bf\u03c1\u03c1\u03b1",
+                    "xlit": "Gomorra"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03b1\u1f31",
+                    "xlit": "hai"
+                },
+                {
+                    "BSB Version": " cities ",
+                    "Str Grk": 4172.0,
+                    "lemma": "\u03c0\u03cc\u03bb\u03b5\u03b9\u03c2",
+                    "xlit": "poleis"
+                },
+                {
+                    "BSB Version": " around ",
+                    "Str Grk": 4012.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
+                    "xlit": "peri"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f70\u03c2",
+                    "xlit": "autas"
+                },
+                {
+                    "BSB Version": " who indulged in sexual immorality ",
+                    "Str Grk": 1608.0,
+                    "lemma": "\u1f10\u03ba\u03c0\u03bf\u03c1\u03bd\u03b5\u03cd\u03c3\u03b1\u03c3\u03b1\u03b9",
+                    "xlit": "ekporneusasai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " pursued ",
+                    "Str Grk": 565.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03bb\u03b8\u03bf\u1fe6\u03c3\u03b1\u03b9",
+                    "xlit": "apelthousai"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3694.0,
+                    "lemma": "\u1f40\u03c0\u03af\u03c3\u03c9",
+                    "xlit": "opis\u014d"
+                },
+                {
+                    "BSB Version": " strange ",
+                    "Str Grk": 2087.0,
+                    "lemma": "\u1f11\u03c4\u03ad\u03c1\u03b1\u03c2",
+                    "xlit": "heteras"
+                },
+                {
+                    "BSB Version": " flesh ",
+                    "Str Grk": 4561.0,
+                    "lemma": "\u03c3\u03b1\u03c1\u03ba\u1f78\u03c2",
+                    "xlit": "sarkos"
+                },
+                {
+                    "BSB Version": " are on display ",
+                    "Str Grk": 4295.0,
+                    "lemma": "\u03c0\u03c1\u03cc\u03ba\u03b5\u03b9\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "prokeintai"
+                },
+                {
+                    "BSB Version": " as an example ",
+                    "Str Grk": 1164.0,
+                    "lemma": "\u03b4\u03b5\u1fd6\u03b3\u03bc\u03b1",
+                    "xlit": "deigma"
+                },
+                {
+                    "BSB Version": " of those who sustain ",
+                    "Str Grk": 5254.0,
+                    "lemma": "\u1f51\u03c0\u03ad\u03c7\u03bf\u03c5\u03c3\u03b1\u03b9",
+                    "xlit": "hypechousai"
+                },
+                {
+                    "BSB Version": " [the] punishment ",
+                    "Str Grk": 1349.0,
+                    "lemma": "\u03b4\u03af\u03ba\u03b7\u03bd",
+                    "xlit": "dik\u0113n"
+                },
+                {
+                    "BSB Version": " of eternal ",
+                    "Str Grk": 166.0,
+                    "lemma": "\u03b1\u1f30\u03c9\u03bd\u03af\u03bf\u03c5",
+                    "xlit": "ai\u014dniou"
+                },
+                {
+                    "BSB Version": " fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u1f78\u03c2",
+                    "xlit": "pyros"
+                }
+            ],
+            "verse_text": "just as Sodom and Gomorrah and the cities around them, having indulged in sexual immorality and having gone after strange flesh, in like manner with them are set forth as an example, undergoing <i>the</i> penalty of eternal fire."
+        },
+        {
+            "verse_no": 24932,
+            "verse_ref": "Luke 1:38",
+            "verse_data": [
+                {
+                    "BSB Version": " [I am] ",
+                    "Str Grk": 2400.0,
+                    "lemma": "\u1f38\u03b4\u03bf\u1f7a",
+                    "xlit": "Idou"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " Lord\u2019s ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+                    "xlit": "Kyriou"
+                },
+                {
+                    "BSB Version": " servant ",
+                    "Str Grk": 1399.0,
+                    "lemma": "\u03b4\u03bf\u03cd\u03bb\u03b7",
+                    "xlit": "doul\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " Mary ",
+                    "Str Grk": 3137.0,
+                    "lemma": "\u039c\u03b1\u03c1\u03b9\u03ac\u03bc",
+                    "xlit": "Mariam"
+                },
+                {
+                    "BSB Version": " answered ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u0395\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "Eipen"
+                },
+                {
+                    "BSB Version": " May it happen ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u03b3\u03ad\u03bd\u03bf\u03b9\u03c4\u03cc",
+                    "xlit": "genoito"
+                },
+                {
+                    "BSB Version": " to me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " according to ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u1f70",
+                    "xlit": "kata"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " word ",
+                    "Str Grk": 4487.0,
+                    "lemma": "\u1fe5\u1fc6\u03bc\u03ac",
+                    "xlit": "rh\u0113ma"
+                },
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " angel ",
+                    "Str Grk": 32.0,
+                    "lemma": "\u1f04\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2",
+                    "xlit": "angelos"
+                },
+                {
+                    "BSB Version": " left ",
+                    "Str Grk": 565.0,
+                    "lemma": "\u1f00\u03c0\u1fc6\u03bb\u03b8\u03b5\u03bd",
+                    "xlit": "ap\u0113lthen"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u2019",
+                    "xlit": "ap\u2019"
+                },
+                {
+                    "BSB Version": " her ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1fc6\u03c2",
+                    "xlit": "aut\u0113s"
+                }
+            ],
+            "verse_text": "And Mary said, \"Behold, the Lord's handmaid. May it happen to me according to your word.\" And the angel departed from her."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2641,
+            "lemma": "\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u1f77\u03c0\u03c9",
+            "xlit": "katale\u00edp\u014d",
+            "pronunciation": "kat-al-i'-po",
+            "kjv_def": "forsake, leave, reserve.",
+            "pspeech": "V-APA-NMS",
+            "description": " to leave down, i.e. behind; by implication, to abandon, have remaining"
+        },
+        {
+            "number": 3614,
+            "lemma": "\u03bf\u1f30\u03ba\u1f77\u03b1",
+            "xlit": "oik\u00eda",
+            "pronunciation": "oy-kee'-ah",
+            "kjv_def": "home, house(-hold).",
+            "pspeech": "N-AFS",
+            "description": " properly, residence (abstractly), but usually (concretely) an abode (literally or figuratively); by implication, a family (especially domestics)"
+        },
+        {
+            "number": 3664,
+            "lemma": "\u1f45\u03bc\u03bf\u03b9\u03bf\u03c2",
+            "xlit": "h\u00f3moios",
+            "pronunciation": "hom'-oy-os",
+            "kjv_def": "like, +\n manner.",
+            "pspeech": "Adj-NFS",
+            "description": " similar (in appearance or character)"
+        },
+        {
+            "number": 3137,
+            "lemma": "\u039c\u03b1\u03c1\u03b9\u1f71\u03bc",
+            "xlit": "Mari\u00e1m",
+            "pronunciation": "mar-ee-am'",
+            "kjv_def": " Mary.",
+            "pspeech": "N-GFS",
+            "description": " Maria or Mariam (i.e. Mirjam), the name of six Christian females"
+        }
+    ]
+}

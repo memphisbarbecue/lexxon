@@ -1,0 +1,535 @@
+{
+    "wotd": {
+        "number": 1287,
+        "lemma": "\u03b4\u03b9\u03b1\u03c3\u03ba\u03bf\u03c1\u03c0\u1f77\u03b6\u03c9",
+        "xlit": "diaskorp\u00edz\u014d",
+        "pronunciation": "dee-as-kor-pid'-zo",
+        "kjv_def": "disperse,\n scatter (abroad), strew, waste.",
+        "pspeech": "V-AIA-2S",
+        "description": " to dissipate, i.e. (genitive case) to rout or separate; specially, to winnow; figuratively, to squander"
+    },
+    "verses": [
+        {
+            "verse_no": 27097,
+            "verse_ref": "Acts 5:37",
+            "verse_data": [
+                {
+                    "BSB Version": " After ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
+                    "xlit": "meta"
+                },
+                {
+                    "BSB Version": " [him] ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf\u03bd",
+                    "xlit": "touton"
+                },
+                {
+                    "BSB Version": " Judas ",
+                    "Str Grk": 2455.0,
+                    "lemma": "\u1f38\u03bf\u03cd\u03b4\u03b1\u03c2",
+                    "xlit": "Ioudas"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Galilean ",
+                    "Str Grk": 1057.0,
+                    "lemma": "\u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u1fd6\u03bf\u03c2",
+                    "xlit": "Galilaios"
+                },
+                {
+                    "BSB Version": " appeared ",
+                    "Str Grk": 450.0,
+                    "lemma": "\u1f00\u03bd\u03ad\u03c3\u03c4\u03b7",
+                    "xlit": "anest\u0113"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03b1\u1fd6\u03c2",
+                    "xlit": "tais"
+                },
+                {
+                    "BSB Version": " days ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9\u03c2",
+                    "xlit": "h\u0113merais"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " census ",
+                    "Str Grk": 582.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03b3\u03c1\u03b1\u03c6\u1fc6\u03c2",
+                    "xlit": "apograph\u0113s"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " drew away ",
+                    "Str Grk": 868.0,
+                    "lemma": "\u1f00\u03c0\u03ad\u03c3\u03c4\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "apest\u0113sen"
+                },
+                {
+                    "BSB Version": " people ",
+                    "Str Grk": 2992.0,
+                    "lemma": "\u03bb\u03b1\u1f78\u03bd",
+                    "xlit": "laon"
+                },
+                {
+                    "BSB Version": " after ",
+                    "Str Grk": 3694.0,
+                    "lemma": "\u1f40\u03c0\u03af\u03c3\u03c9",
+                    "xlit": "opis\u014d"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " He too ",
+                    "Str Grk": 2548.0,
+                    "lemma": "\u03ba\u1f00\u03ba\u03b5\u1fd6\u03bd\u03bf\u03c2",
+                    "xlit": "kakeinos"
+                },
+                {
+                    "BSB Version": " perished ",
+                    "Str Grk": 622.0,
+                    "lemma": "\u1f00\u03c0\u03ce\u03bb\u03b5\u03c4\u03bf",
+                    "xlit": "ap\u014dleto"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "pantes"
+                },
+                {
+                    "BSB Version": " his followers ",
+                    "Str Grk": 3745.0,
+                    "lemma": "\u1f45\u03c3\u03bf\u03b9",
+                    "xlit": "hosoi"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3982.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u03af\u03b8\u03bf\u03bd\u03c4\u03bf",
+                    "xlit": "epeithonto"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " were scattered ",
+                    "Str Grk": 1287.0,
+                    "lemma": "\u03b4\u03b9\u03b5\u03c3\u03ba\u03bf\u03c1\u03c0\u03af\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "dieskorpisth\u0113san"
+                }
+            ],
+            "verse_text": "After this man, Judas the Galilean rose up in the days of the registration and drew away people after him. And he perished, and all, as many as were persuaded by him, were scattered."
+        },
+        {
+            "verse_no": 24782,
+            "verse_ref": "Mark 14:27",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " to them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03a0\u03ac\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "Pantes"
+                },
+                {
+                    "BSB Version": " You will all fall away ",
+                    "Str Grk": 4624.0,
+                    "lemma": "\u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03c3\u03b8\u03ae\u03c3\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "skandalisth\u0113sesthe"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " it is written ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03ad\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9",
+                    "xlit": "gegraptai"
+                },
+                {
+                    "BSB Version": " I will strike ",
+                    "Str Grk": 3960.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03ac\u03be\u03c9",
+                    "xlit": "Patax\u014d"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Shepherd ",
+                    "Str Grk": 4166.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03bc\u03ad\u03bd\u03b1",
+                    "xlit": "poimena"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " sheep ",
+                    "Str Grk": 4263.0,
+                    "lemma": "\u03c0\u03c1\u03cc\u03b2\u03b1\u03c4\u03b1",
+                    "xlit": "probata"
+                },
+                {
+                    "BSB Version": " will be scattered ",
+                    "Str Grk": 1287.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03c3\u03ba\u03bf\u03c1\u03c0\u03b9\u03c3\u03b8\u03ae\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "diaskorpisth\u0113sontai"
+                }
+            ],
+            "verse_text": "And Jesus says to them, \"You will all fall away, for it has been written: 'I will strike the shepherd, and the sheep will be scattered.'"
+        },
+        {
+            "verse_no": 24945,
+            "verse_ref": "Luke 1:51",
+            "verse_data": [
+                {
+                    "BSB Version": " He has performed ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u1f18\u03c0\u03bf\u03af\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "Epoi\u0113sen"
+                },
+                {
+                    "BSB Version": " mighty deeds ",
+                    "Str Grk": 2904.0,
+                    "lemma": "\u03ba\u03c1\u03ac\u03c4\u03bf\u03c2",
+                    "xlit": "kratos"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " His ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " arm ",
+                    "Str Grk": 1023.0,
+                    "lemma": "\u03b2\u03c1\u03b1\u03c7\u03af\u03bf\u03bd\u03b9",
+                    "xlit": "brachioni"
+                },
+                {
+                    "BSB Version": " He has scattered ",
+                    "Str Grk": 1287.0,
+                    "lemma": "\u03b4\u03b9\u03b5\u03c3\u03ba\u03cc\u03c1\u03c0\u03b9\u03c3\u03b5\u03bd",
+                    "xlit": "dieskorpisen"
+                },
+                {
+                    "BSB Version": " [those who are] proud ",
+                    "Str Grk": 5244.0,
+                    "lemma": "\u1f51\u03c0\u03b5\u03c1\u03b7\u03c6\u03ac\u03bd\u03bf\u03c5\u03c2",
+                    "xlit": "hyper\u0113phanous"
+                },
+                {
+                    "BSB Version": " in [the] thoughts ",
+                    "Str Grk": 1271.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03bd\u03bf\u03af\u1fb3",
+                    "xlit": "dianoia"
+                },
+                {
+                    "BSB Version": " of their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " hearts ",
+                    "Str Grk": 2588.0,
+                    "lemma": "\u03ba\u03b1\u03c1\u03b4\u03af\u03b1\u03c2",
+                    "xlit": "kardias"
+                }
+            ],
+            "verse_text": "He has shown strength with His arm, He has scattered <i>the</i> proud in <i>the</i> thought of their heart."
+        },
+        {
+            "verse_no": 24086,
+            "verse_ref": "Matthew 26:31",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 5119.0,
+                    "lemma": "\u03a4\u03cc\u03c4\u03b5",
+                    "xlit": "Tote"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " to them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " This ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03b1\u03cd\u03c4\u1fc3",
+                    "xlit": "taut\u0113"
+                },
+                {
+                    "BSB Version": " very ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " night ",
+                    "Str Grk": 3571.0,
+                    "lemma": "\u03bd\u03c5\u03ba\u03c4\u1f76",
+                    "xlit": "nykti"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "hymeis"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03a0\u03ac\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "Pantes"
+                },
+                {
+                    "BSB Version": " will all fall away ",
+                    "Str Grk": 4624.0,
+                    "lemma": "\u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03c3\u03b8\u03ae\u03c3\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "skandalisth\u0113sesthe"
+                },
+                {
+                    "BSB Version": " on account of ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u03bf\u1f76",
+                    "xlit": "emoi"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u03ac\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " it is written ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03ad\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9",
+                    "xlit": "gegraptai"
+                },
+                {
+                    "BSB Version": " I will strike ",
+                    "Str Grk": 3960.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03ac\u03be\u03c9",
+                    "xlit": "Patax\u014d"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Shepherd ",
+                    "Str Grk": 4166.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03bc\u03ad\u03bd\u03b1",
+                    "xlit": "poimena"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " sheep ",
+                    "Str Grk": 4263.0,
+                    "lemma": "\u03c0\u03c1\u03cc\u03b2\u03b1\u03c4\u03b1",
+                    "xlit": "probata"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " flock ",
+                    "Str Grk": 4167.0,
+                    "lemma": "\u03c0\u03bf\u03af\u03bc\u03bd\u03b7\u03c2",
+                    "xlit": "poimn\u0113s"
+                },
+                {
+                    "BSB Version": " will be scattered ",
+                    "Str Grk": 1287.0,
+                    "lemma": "\u03b4\u03b9\u03b1\u03c3\u03ba\u03bf\u03c1\u03c0\u03b9\u03c3\u03b8\u03ae\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "diaskorpisth\u0113sontai"
+                }
+            ],
+            "verse_text": "Then Jesus says to them, \"You all will fall away because of Me during this night. For it has been written: 'I will strike the shepherd, and the sheep of the flock will be scattered.'"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 1057,
+            "lemma": "\u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u1fd6\u03bf\u03c2",
+            "xlit": "Galila\u00eeos",
+            "pronunciation": "gal-ee-lah'-yos",
+            "kjv_def": "Galilean, of Galilee.",
+            "pspeech": "N-GMS",
+            "description": " Galilean or belonging to Galilea"
+        },
+        {
+            "number": 4263,
+            "lemma": "\u03c0\u03c1\u1f79\u03b2\u03b1\u03c4\u03bf\u03bd",
+            "xlit": "pr\u00f3baton",
+            "pronunciation": "prob'-at-on",
+            "kjv_def": "sheep(-fold).",
+            "pspeech": "N-GNP",
+            "description": " something that walks forward (a quadruped), i.e. (specially), a sheep (literally or figuratively)"
+        },
+        {
+            "number": 4160,
+            "lemma": "\u03c0\u03bf\u03b9\u1f73\u03c9",
+            "xlit": "poi\u00e9\u014d",
+            "pronunciation": "poy-eh'-o",
+            "kjv_def": "abide, + agree,\n appoint, X avenge, + band together, be, bear, + bewray, bring (forth),\n cast out, cause, commit, + content, continue, deal, + without any\n delay, (would) do(-ing), execute, exercise, fulfil, gain, give, have,\n hold, X journeying, keep, + lay wait, + lighten the ship, make, X\n mean, + none of these things move me, observe, ordain, perform,\n provide, + have purged, purpose, put, + raising up, X secure, shew, X\n shoot out, spend, take, tarry, + transgress the law, work, yield.",
+            "pspeech": "V-AIA-3S",
+            "description": " to make or do (in a very wide application, more or less direct)"
+        },
+        {
+            "number": 5119,
+            "lemma": "\u03c4\u1f79\u03c4\u03b5",
+            "xlit": "t\u00f3te",
+            "pronunciation": "tot'-eh",
+            "kjv_def": "that time, then.",
+            "pspeech": "Adv",
+            "description": " the when, i.e. at the time that (of the past or future, also in consecution)"
+        }
+    ]
+}

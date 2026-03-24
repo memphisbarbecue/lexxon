@@ -1,0 +1,571 @@
+{
+    "wotd": {
+        "number": 1085,
+        "lemma": "\u03b3\u1f73\u03bd\u03bf\u03c2",
+        "xlit": "g\u00e9nos",
+        "pronunciation": "ghen'-os",
+        "kjv_def": "born, country(-man), diversity,\n generation, kind(-red), nation, offspring, stock.",
+        "pspeech": "N-GNS",
+        "description": " \"kin\" (abstract or concrete, literal or figurative, individual or collective)"
+    },
+    "verses": [
+        {
+            "verse_no": 28663,
+            "verse_ref": "1 Corinthians 12:28",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03bf\u1f53\u03c2",
+                    "xlit": "hous"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3303.0,
+                    "lemma": "\u03bc\u1f72\u03bd",
+                    "xlit": "men"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " church ",
+                    "Str Grk": 1577.0,
+                    "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u1fb3",
+                    "xlit": "ekkl\u0113sia"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " has appointed ",
+                    "Str Grk": 5087.0,
+                    "lemma": "\u1f14\u03b8\u03b5\u03c4\u03bf",
+                    "xlit": "etheto"
+                },
+                {
+                    "BSB Version": " first of all ",
+                    "Str Grk": 4412.0,
+                    "lemma": "\u03c0\u03c1\u1ff6\u03c4\u03bf\u03bd",
+                    "xlit": "pr\u014dton"
+                },
+                {
+                    "BSB Version": " apostles ",
+                    "Str Grk": 652.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03c3\u03c4\u03cc\u03bb\u03bf\u03c5\u03c2",
+                    "xlit": "apostolous"
+                },
+                {
+                    "BSB Version": " second ",
+                    "Str Grk": 1208.0,
+                    "lemma": "\u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03bd",
+                    "xlit": "deuteron"
+                },
+                {
+                    "BSB Version": " prophets ",
+                    "Str Grk": 4396.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c6\u03ae\u03c4\u03b1\u03c2",
+                    "xlit": "proph\u0113tas"
+                },
+                {
+                    "BSB Version": " third ",
+                    "Str Grk": 5154.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03c4\u03bf\u03bd",
+                    "xlit": "triton"
+                },
+                {
+                    "BSB Version": " teachers ",
+                    "Str Grk": 1320.0,
+                    "lemma": "\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03ac\u03bb\u03bf\u03c5\u03c2",
+                    "xlit": "didaskalous"
+                },
+                {
+                    "BSB Version": " then ",
+                    "Str Grk": 1899.0,
+                    "lemma": "\u1f14\u03c0\u03b5\u03b9\u03c4\u03b1",
+                    "xlit": "epeita"
+                },
+                {
+                    "BSB Version": " [workers of] miracles ",
+                    "Str Grk": 1411.0,
+                    "lemma": "\u03b4\u03c5\u03bd\u03ac\u03bc\u03b5\u03b9\u03c2",
+                    "xlit": "dynameis"
+                },
+                {
+                    "BSB Version": " [and] ",
+                    "Str Grk": 1899.0,
+                    "lemma": "\u1f14\u03c0\u03b5\u03b9\u03c4\u03b1",
+                    "xlit": "epeita"
+                },
+                {
+                    "BSB Version": " [those with] gifts ",
+                    "Str Grk": 5486.0,
+                    "lemma": "\u03c7\u03b1\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "charismata"
+                },
+                {
+                    "BSB Version": " of healing ",
+                    "Str Grk": 2386.0,
+                    "lemma": "\u1f30\u03b1\u03bc\u03ac\u03c4\u03c9\u03bd",
+                    "xlit": "iamat\u014dn"
+                },
+                {
+                    "BSB Version": " helping ",
+                    "Str Grk": 484.0,
+                    "lemma": "\u1f00\u03bd\u03c4\u03b9\u03bb\u03ae\u03bc\u03c8\u03b5\u03b9\u03c2",
+                    "xlit": "antil\u0113mpseis"
+                },
+                {
+                    "BSB Version": " administration ",
+                    "Str Grk": 2941.0,
+                    "lemma": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2",
+                    "xlit": "kybern\u0113seis"
+                },
+                {
+                    "BSB Version": " [and] various ",
+                    "Str Grk": 1085.0,
+                    "lemma": "\u03b3\u03ad\u03bd\u03b7",
+                    "xlit": "gen\u0113"
+                },
+                {
+                    "BSB Version": " tongues ",
+                    "Str Grk": 1100.0,
+                    "lemma": "\u03b3\u03bb\u03c9\u03c3\u03c3\u1ff6\u03bd",
+                    "xlit": "gl\u014dss\u014dn"
+                }
+            ],
+            "verse_text": "And some indeed God has appointed in the church, first apostles, secondly prophets, third teachers, then miracles, then gifts of healing, helping, administrating, various kinds of tongues."
+        },
+        {
+            "verse_no": 27552,
+            "verse_ref": "Acts 17:28",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f18\u03bd",
+                    "xlit": "En"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " we live ",
+                    "Str Grk": 2198.0,
+                    "lemma": "\u03b6\u1ff6\u03bc\u03b5\u03bd",
+                    "xlit": "z\u014dmen"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " move ",
+                    "Str Grk": 2795.0,
+                    "lemma": "\u03ba\u03b9\u03bd\u03bf\u03cd\u03bc\u03b5\u03b8\u03b1",
+                    "xlit": "kinoumetha"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " have our being ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03bc\u03ad\u03bd",
+                    "xlit": "esmen"
+                },
+                {
+                    "BSB Version": " As ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u03af",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " some ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03bd\u03b5\u03c2",
+                    "xlit": "tines"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u2019",
+                    "xlit": "kath\u2019"
+                },
+                {
+                    "BSB Version": " of your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " [own] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " poets ",
+                    "Str Grk": 4163.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u03b7\u03c4\u1ff6\u03bd",
+                    "xlit": "poi\u0113t\u014dn"
+                },
+                {
+                    "BSB Version": " have said ",
+                    "Str Grk": 2046.0,
+                    "lemma": "\u03b5\u1f30\u03c1\u03ae\u03ba\u03b1\u03c3\u03b9\u03bd",
+                    "xlit": "eir\u0113kasin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " We are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03bc\u03ad\u03bd",
+                    "xlit": "esmen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " [His] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03a4\u03bf\u1fe6",
+                    "xlit": "Tou"
+                },
+                {
+                    "BSB Version": " offspring ",
+                    "Str Grk": 1085.0,
+                    "lemma": "\u03b3\u03ad\u03bd\u03bf\u03c2",
+                    "xlit": "genos"
+                }
+            ],
+            "verse_text": "For in Him we live and move and are.' As also some of the poets among you have said, 'For we are also <i>His</i> offspring.'"
+        },
+        {
+            "verse_no": 27130,
+            "verse_ref": "Acts 7:13",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " On ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [their] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " second [visit] ",
+                    "Str Grk": 1208.0,
+                    "lemma": "\u03b4\u03b5\u03c5\u03c4\u03ad\u03c1\u1ff3",
+                    "xlit": "deuter\u014d"
+                },
+                {
+                    "BSB Version": " Joseph ",
+                    "Str Grk": 2501.0,
+                    "lemma": "\u1f38\u03c9\u03c3\u1f74\u03c6",
+                    "xlit": "I\u014ds\u0113ph"
+                },
+                {
+                    "BSB Version": " revealed his identity ",
+                    "Str Grk": 319.0,
+                    "lemma": "\u1f00\u03bd\u03b5\u03b3\u03bd\u03c9\u03c1\u03af\u03c3\u03b8\u03b7",
+                    "xlit": "anegn\u014dristh\u0113"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " brothers ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u03bf\u1fd6\u03c2",
+                    "xlit": "adelphois"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " [his] ",
+                    "Str Grk": 2501.0,
+                    "lemma": "\u1f38\u03c9\u03c3\u03ae\u03c6",
+                    "xlit": "I\u014ds\u0113ph"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " family ",
+                    "Str Grk": 1085.0,
+                    "lemma": "\u03b3\u03ad\u03bd\u03bf\u03c2",
+                    "xlit": "genos"
+                },
+                {
+                    "BSB Version": " became ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u1f10\u03b3\u03ad\u03bd\u03b5\u03c4\u03bf",
+                    "xlit": "egeneto"
+                },
+                {
+                    "BSB Version": " known ",
+                    "Str Grk": 5318.0,
+                    "lemma": "\u03c6\u03b1\u03bd\u03b5\u03c1\u1f78\u03bd",
+                    "xlit": "phaneron"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " to Pharaoh ",
+                    "Str Grk": 5328.0,
+                    "lemma": "\u03a6\u03b1\u03c1\u03b1\u1f7c",
+                    "xlit": "Phara\u014d"
+                }
+            ],
+            "verse_text": "And on the second time, Joseph was made known to his brothers, and the family of Joseph became known to Pharaoh."
+        },
+        {
+            "verse_no": 27389,
+            "verse_ref": "Acts 13:26",
+            "verse_data": [
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 435.0,
+                    "lemma": "\u1f0c\u03bd\u03b4\u03c1\u03b5\u03c2",
+                    "xlit": "Andres"
+                },
+                {
+                    "BSB Version": " Brothers ",
+                    "Str Grk": 80.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u03bf\u03af",
+                    "xlit": "adelphoi"
+                },
+                {
+                    "BSB Version": " children ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03c5\u1f31\u03bf\u1f76",
+                    "xlit": "huioi"
+                },
+                {
+                    "BSB Version": " of Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u1f70\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1085.0,
+                    "lemma": "\u03b3\u03ad\u03bd\u03bf\u03c5\u03c2",
+                    "xlit": "genous"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " you [ Gentiles ] who ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " fear ",
+                    "Str Grk": 5399.0,
+                    "lemma": "\u03c6\u03bf\u03b2\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "phoboumenoi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03bd",
+                    "xlit": "Theon"
+                },
+                {
+                    "BSB Version": " [it is] to us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                },
+                {
+                    "BSB Version": " [that] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03b1\u03cd\u03c4\u03b7\u03c2",
+                    "xlit": "taut\u0113s"
+                },
+                {
+                    "BSB Version": " message ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c2",
+                    "xlit": "logos"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " salvation ",
+                    "Str Grk": 4991.0,
+                    "lemma": "\u03c3\u03c9\u03c4\u03b7\u03c1\u03af\u03b1\u03c2",
+                    "xlit": "s\u014dt\u0113rias"
+                },
+                {
+                    "BSB Version": " has been sent ",
+                    "Str Grk": 1821.0,
+                    "lemma": "\u1f10\u03be\u03b1\u03c0\u03b5\u03c3\u03c4\u03ac\u03bb\u03b7",
+                    "xlit": "exapestal\u0113"
+                }
+            ],
+            "verse_text": "Men, brothers, sons of <i>the</i> family of Abraham, and those among you fearing God, to us the message of this salvation has been sent."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 5154,
+            "lemma": "\u03c4\u03c1\u1f77\u03c4\u03bf\u03c2",
+            "xlit": "tr\u00edtos",
+            "pronunciation": "tree'-tos",
+            "kjv_def": "third(-ly).",
+            "pspeech": "Adj-DFS",
+            "description": " third; neuter (as noun) a third part, or (as adverb) a (or the) third time, thirdly"
+        },
+        {
+            "number": 5613,
+            "lemma": "\u1f61\u03c2",
+            "xlit": "h\u014ds",
+            "pronunciation": "hoce",
+            "kjv_def": "about, after (that),\n (according) as (it had been, it were), as soon (as), even as (like),\n for, how (greatly), like (as, unto), since, so (that), that, to wit,\n unto, when(-soever), while, X with all speed.",
+            "pspeech": "Adv",
+            "description": " which how, i.e. in that manner (very variously used, as follows)"
+        },
+        {
+            "number": 5318,
+            "lemma": "\u03c6\u03b1\u03bd\u03b5\u03c1\u1f79\u03c2",
+            "xlit": "phaner\u00f3s",
+            "pronunciation": "fan-er-os'",
+            "kjv_def": "abroad, + appear, known, manifest,\n open (+ -ly), outward (+ -ly).",
+            "pspeech": "Adj-AMS",
+            "description": " shining, i.e. apparent (literally or figuratively); neuter (as adverb) publicly, externally"
+        },
+        {
+            "number": 1821,
+            "lemma": "\u1f10\u03be\u03b1\u03c0\u03bf\u03c3\u03c4\u1f73\u03bb\u03bb\u03c9",
+            "xlit": "exapost\u00e9ll\u014d",
+            "pronunciation": "ex-ap-os-tel'-lo",
+            "kjv_def": "send (away, forth, out).",
+            "pspeech": "V-AIA-3S",
+            "description": " to send away forth, i.e. (on a mission) to despatch, or (peremptorily) to dismiss"
+        }
+    ]
+}

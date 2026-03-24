@@ -1,0 +1,541 @@
+{
+    "wotd": {
+        "number": 73,
+        "lemma": "\u1f00\u03b3\u1f7d\u03bd",
+        "xlit": "ag\u1e53n",
+        "pronunciation": "ag-one'",
+        "kjv_def": "conflict, contention, fight, race.",
+        "pspeech": "N-AMS",
+        "description": " properly, a place of assembly (as if led), i.e. (by implication) a contest (held there); figuratively, an effort or anxiety"
+    },
+    "verses": [
+        {
+            "verse_no": 29878,
+            "verse_ref": "2 Timothy 4:7",
+            "verse_data": [
+                {
+                    "BSB Version": " I have fought ",
+                    "Str Grk": 75.0,
+                    "lemma": "\u1f20\u03b3\u03ce\u03bd\u03b9\u03c3\u03bc\u03b1\u03b9",
+                    "xlit": "\u0113g\u014dnismai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 2570.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u1f78\u03bd",
+                    "xlit": "kalon"
+                },
+                {
+                    "BSB Version": " fight ",
+                    "Str Grk": 73.0,
+                    "lemma": "\u1f00\u03b3\u1ff6\u03bd\u03b1",
+                    "xlit": "ag\u014dna"
+                },
+                {
+                    "BSB Version": " I have finished ",
+                    "Str Grk": 5055.0,
+                    "lemma": "\u03c4\u03b5\u03c4\u03ad\u03bb\u03b5\u03ba\u03b1",
+                    "xlit": "teteleka"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " race ",
+                    "Str Grk": 1408.0,
+                    "lemma": "\u03b4\u03c1\u03cc\u03bc\u03bf\u03bd",
+                    "xlit": "dromon"
+                },
+                {
+                    "BSB Version": " I have kept ",
+                    "Str Grk": 5083.0,
+                    "lemma": "\u03c4\u03b5\u03c4\u03ae\u03c1\u03b7\u03ba\u03b1",
+                    "xlit": "tet\u0113r\u0113ka"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " faith ",
+                    "Str Grk": 4102.0,
+                    "lemma": "\u03c0\u03af\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "pistin"
+                }
+            ],
+            "verse_text": "I have fought the good fight, I have finished the race, I have kept the faith."
+        },
+        {
+            "verse_no": 29801,
+            "verse_ref": "1 Timothy 6:12",
+            "verse_data": [
+                {
+                    "BSB Version": " Fight ",
+                    "Str Grk": 75.0,
+                    "lemma": "\u1f00\u03b3\u03c9\u03bd\u03af\u03b6\u03bf\u03c5",
+                    "xlit": "ag\u014dnizou"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 2570.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u1f78\u03bd",
+                    "xlit": "kalon"
+                },
+                {
+                    "BSB Version": " fight ",
+                    "Str Grk": 73.0,
+                    "lemma": "\u1f00\u03b3\u1ff6\u03bd\u03b1",
+                    "xlit": "ag\u014dna"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " faith ",
+                    "Str Grk": 4102.0,
+                    "lemma": "\u03c0\u03af\u03c3\u03c4\u03b5\u03c9\u03c2",
+                    "xlit": "piste\u014ds"
+                },
+                {
+                    "BSB Version": " Take hold ",
+                    "Str Grk": 1949.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03bb\u03b1\u03b2\u03bf\u1fe6",
+                    "xlit": "epilabou"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " eternal ",
+                    "Str Grk": 166.0,
+                    "lemma": "\u03b1\u1f30\u03c9\u03bd\u03af\u03bf\u03c5",
+                    "xlit": "ai\u014dniou"
+                },
+                {
+                    "BSB Version": " life ",
+                    "Str Grk": 2222.0,
+                    "lemma": "\u03b6\u03c9\u1fc6\u03c2",
+                    "xlit": "z\u014d\u0113s"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f23\u03bd",
+                    "xlit": "h\u0113n"
+                },
+                {
+                    "BSB Version": " you were called ",
+                    "Str Grk": 2564.0,
+                    "lemma": "\u1f10\u03ba\u03bb\u03ae\u03b8\u03b7\u03c2",
+                    "xlit": "ekl\u0113th\u0113s"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [when you made] ",
+                    "Str Grk": 3670.0,
+                    "lemma": "\u1f61\u03bc\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b1\u03c2",
+                    "xlit": "h\u014dmolog\u0113sas"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " good ",
+                    "Str Grk": 2570.0,
+                    "lemma": "\u03ba\u03b1\u03bb\u1f74\u03bd",
+                    "xlit": "kal\u0113n"
+                },
+                {
+                    "BSB Version": " confession ",
+                    "Str Grk": 3671.0,
+                    "lemma": "\u1f41\u03bc\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03bd",
+                    "xlit": "homologian"
+                },
+                {
+                    "BSB Version": " before ",
+                    "Str Grk": 1799.0,
+                    "lemma": "\u1f10\u03bd\u03ce\u03c0\u03b9\u03bf\u03bd",
+                    "xlit": "en\u014dpion"
+                },
+                {
+                    "BSB Version": " many ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1ff6\u03bd",
+                    "xlit": "poll\u014dn"
+                },
+                {
+                    "BSB Version": " witnesses ",
+                    "Str Grk": 3144.0,
+                    "lemma": "\u03bc\u03b1\u03c1\u03c4\u03cd\u03c1\u03c9\u03bd",
+                    "xlit": "martyr\u014dn"
+                }
+            ],
+            "verse_text": "Fight the good fight of the faith. Lay hold of the eternal life to which you were called, and also did confess the good confession before many witnesses."
+        },
+        {
+            "verse_no": 30214,
+            "verse_ref": "Hebrews 12:1",
+            "verse_data": [
+                {
+                    "BSB Version": " Therefore ",
+                    "Str Grk": 5105.0,
+                    "lemma": "\u03a4\u03bf\u03b9\u03b3\u03b1\u03c1\u03bf\u1fe6\u03bd",
+                    "xlit": "Toigaroun"
+                },
+                {
+                    "BSB Version": " [since] we ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "h\u0113meis"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " are ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f14\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "echontes"
+                },
+                {
+                    "BSB Version": " surrounded by ",
+                    "Str Grk": 4029.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf\u03bd",
+                    "xlit": "perikeimenon"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                },
+                {
+                    "BSB Version": " such a great ",
+                    "Str Grk": 5118.0,
+                    "lemma": "\u03c4\u03bf\u03c3\u03bf\u1fe6\u03c4\u03bf\u03bd",
+                    "xlit": "tosouton"
+                },
+                {
+                    "BSB Version": " cloud ",
+                    "Str Grk": 3509.0,
+                    "lemma": "\u03bd\u03ad\u03c6\u03bf\u03c2",
+                    "xlit": "nephos"
+                },
+                {
+                    "BSB Version": " of witnesses ",
+                    "Str Grk": 3144.0,
+                    "lemma": "\u03bc\u03b1\u03c1\u03c4\u03cd\u03c1\u03c9\u03bd",
+                    "xlit": "martyr\u014dn"
+                },
+                {
+                    "BSB Version": " let us throw off ",
+                    "Str Grk": 659.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03b8\u03ad\u03bc\u03b5\u03bd\u03bf\u03b9",
+                    "xlit": "apothemenoi"
+                },
+                {
+                    "BSB Version": " every ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "panta"
+                },
+                {
+                    "BSB Version": " encumbrance ",
+                    "Str Grk": 3591.0,
+                    "lemma": "\u1f44\u03b3\u03ba\u03bf\u03bd",
+                    "xlit": "onkon"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " sin [that] ",
+                    "Str Grk": 266.0,
+                    "lemma": "\u1f01\u03bc\u03b1\u03c1\u03c4\u03af\u03b1\u03bd",
+                    "xlit": "hamartian"
+                },
+                {
+                    "BSB Version": " so easily entangles ",
+                    "Str Grk": 2139.0,
+                    "lemma": "\u03b5\u1f50\u03c0\u03b5\u03c1\u03af\u03c3\u03c4\u03b1\u03c4\u03bf\u03bd",
+                    "xlit": "euperistaton"
+                },
+                {
+                    "BSB Version": " [and] let us run ",
+                    "Str Grk": 5143.0,
+                    "lemma": "\u03c4\u03c1\u03ad\u03c7\u03c9\u03bc\u03b5\u03bd",
+                    "xlit": "trech\u014dmen"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u2019",
+                    "xlit": "di\u2019"
+                },
+                {
+                    "BSB Version": " endurance ",
+                    "Str Grk": 5281.0,
+                    "lemma": "\u1f51\u03c0\u03bf\u03bc\u03bf\u03bd\u1fc6\u03c2",
+                    "xlit": "hypomon\u0113s"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " race ",
+                    "Str Grk": 73.0,
+                    "lemma": "\u1f00\u03b3\u1ff6\u03bd\u03b1",
+                    "xlit": "ag\u014dna"
+                },
+                {
+                    "BSB Version": " set out for ",
+                    "Str Grk": 4295.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf\u03bd",
+                    "xlit": "prokeimenon"
+                },
+                {
+                    "BSB Version": " us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                }
+            ],
+            "verse_text": "Therefore we also, having such a great cloud of witnesses encompassing us, having laid aside every weight and the sin easily entangling, should run with endurance the race lying before us,"
+        },
+        {
+            "verse_no": 29573,
+            "verse_ref": "1 Thessalonians 2:2",
+            "verse_data": [
+                {
+                    "BSB Version": " As ",
+                    "Str Grk": 2531.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+                    "xlit": "kath\u014ds"
+                },
+                {
+                    "BSB Version": " you are aware ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03bf\u1f34\u03b4\u03b1\u03c4\u03b5",
+                    "xlit": "oidate"
+                },
+                {
+                    "BSB Version": " we had already endured suffering ",
+                    "Str Grk": 4310.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c0\u03b1\u03b8\u03cc\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "propathontes"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " shameful treatment ",
+                    "Str Grk": 5195.0,
+                    "lemma": "\u1f51\u03b2\u03c1\u03b9\u03c3\u03b8\u03ad\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "hybristhentes"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Philippi ",
+                    "Str Grk": 5375.0,
+                    "lemma": "\u03a6\u03b9\u03bb\u03af\u03c0\u03c0\u03bf\u03b9\u03c2",
+                    "xlit": "Philippois"
+                },
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " in the face of ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " strong ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1ff7",
+                    "xlit": "poll\u014d"
+                },
+                {
+                    "BSB Version": " opposition ",
+                    "Str Grk": 73.0,
+                    "lemma": "\u1f00\u03b3\u1ff6\u03bd\u03b9",
+                    "xlit": "ag\u014dni"
+                },
+                {
+                    "BSB Version": " we were bold ",
+                    "Str Grk": 3955.0,
+                    "lemma": "\u1f10\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1\u03c3\u03ac\u03bc\u03b5\u03b8\u03b1",
+                    "xlit": "eparr\u0113siasametha"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " our ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1ff7",
+                    "xlit": "The\u014d"
+                },
+                {
+                    "BSB Version": " to speak ",
+                    "Str Grk": 2980.0,
+                    "lemma": "\u03bb\u03b1\u03bb\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "lal\u0113sai"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " gospel ",
+                    "Str Grk": 2098.0,
+                    "lemma": "\u03b5\u1f50\u03b1\u03b3\u03b3\u03ad\u03bb\u03b9\u03bf\u03bd",
+                    "xlit": "euangelion"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                }
+            ],
+            "verse_text": "But having previously suffered and having been mistreated in Philippi, just as you know, we had boldness in our God to speak to you the gospel of God amid much conflict."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 5083,
+            "lemma": "\u03c4\u03b7\u03c1\u1f73\u03c9",
+            "xlit": "t\u0113r\u00e9\u014d",
+            "pronunciation": "tay-reh'-o",
+            "kjv_def": "hold fast, keep(- er), (pre-, re-)serve, watch.",
+            "pspeech": "V-AMA-2S",
+            "description": " to guard (from loss or injury, properly, by keeping the eye upon; and thus differing from \u03c6\u03c5\u03bb\u1f71\u03c3\u03c3\u03c9(phyl\u00e1ss\u014d), which is properly to prevent escaping; and from \u03ba\u03bf\u03c5\u03c3\u03c4\u03c9\u03b4\u1f77\u03b1(koust\u014dd\u00eda), which implies a fortress or full military lines of apparatus), i.e. to note (a prophecy; figuratively, to fulfil a command); by implication, to detain (in custody; figuratively, to maintain); by extension, to withhold (for personal ends; figuratively, to keep unmarried); by extension, to withhold (for personal ends; figuratively, to keep unmarried)"
+        },
+        {
+            "number": 3670,
+            "lemma": "\u1f41\u03bc\u03bf\u03bb\u03bf\u03b3\u1f73\u03c9",
+            "xlit": "homolog\u00e9\u014d",
+            "pronunciation": "hom-ol-og-eh'-o",
+            "kjv_def": "con- (pro-)fess, confession is made, give\n thanks, promise.",
+            "pspeech": "V-FIA-1S",
+            "description": " to assent, i.e. covenant, acknowledge"
+        },
+        {
+            "number": 3956,
+            "lemma": "\u03c0\u1fb6\u03c2",
+            "xlit": "p\u00e2s",
+            "pronunciation": "pas",
+            "kjv_def": "all (manner of, means), alway(-s), any (one),\n X daily, + ever, every (one, way), as many as, + no(-thing), X\n thoroughly, whatsoever, whole, whosoever.",
+            "pspeech": "Adj-NFP",
+            "description": " all, any, every, the whole"
+        },
+        {
+            "number": 3955,
+            "lemma": "\u03c0\u03b1\u1fe4\u1fe5\u03b7\u03c3\u03b9\u1f71\u03b6\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "parrh\u0113si\u00e1zomai",
+            "pronunciation": "par-hray-see-ad'-zom-ahee",
+            "kjv_def": "be (wax) bold, (preach, speak) boldly.",
+            "pspeech": "V-AIM-3S",
+            "description": " to be frank in utterance, or confident in spirit and demeanor"
+        }
+    ]
+}

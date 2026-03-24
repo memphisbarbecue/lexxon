@@ -1,0 +1,619 @@
+{
+    "wotd": {
+        "number": 2545,
+        "lemma": "\u03ba\u03b1\u1f77\u03c9",
+        "xlit": "ka\u00ed\u014d",
+        "pronunciation": "kah'-yo",
+        "kjv_def": "burn, light.",
+        "pspeech": "V-PIA-3P",
+        "description": " to set on fire, i.e. kindle or (by implication) consume"
+    },
+    "verses": [
+        {
+            "verse_no": 23250,
+            "verse_ref": "Matthew 5:15",
+            "verse_data": [
+                {
+                    "BSB Version": " Neither ",
+                    "Str Grk": 3761.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u1f72",
+                    "xlit": "oude"
+                },
+                {
+                    "BSB Version": " do [people] light ",
+                    "Str Grk": 2545.0,
+                    "lemma": "\u03ba\u03b1\u03af\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "kaiousin"
+                },
+                {
+                    "BSB Version": " a lamp ",
+                    "Str Grk": 3088.0,
+                    "lemma": "\u03bb\u03cd\u03c7\u03bd\u03bf\u03bd",
+                    "xlit": "lychnon"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " put ",
+                    "Str Grk": 5087.0,
+                    "lemma": "\u03c4\u03b9\u03b8\u03ad\u03b1\u03c3\u03b9\u03bd",
+                    "xlit": "titheasin"
+                },
+                {
+                    "BSB Version": " it ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " under ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u1f78",
+                    "xlit": "hypo"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " a basket ",
+                    "Str Grk": 3426.0,
+                    "lemma": "\u03bc\u03cc\u03b4\u03b9\u03bf\u03bd",
+                    "xlit": "modion"
+                },
+                {
+                    "BSB Version": " Instead ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u2019",
+                    "xlit": "all\u2019"
+                },
+                {
+                    "BSB Version": " [they set it] on ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " a stand ",
+                    "Str Grk": 3087.0,
+                    "lemma": "\u03bb\u03c5\u03c7\u03bd\u03af\u03b1\u03bd",
+                    "xlit": "lychnian"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " it gives light ",
+                    "Str Grk": 2989.0,
+                    "lemma": "\u03bb\u03ac\u03bc\u03c0\u03b5\u03b9",
+                    "xlit": "lampei"
+                },
+                {
+                    "BSB Version": " to everyone ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u1fb6\u03c3\u03b9\u03bd",
+                    "xlit": "pasin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " house ",
+                    "Str Grk": 3614.0,
+                    "lemma": "\u03bf\u1f30\u03ba\u03af\u1fb3",
+                    "xlit": "oikia"
+                }
+            ],
+            "verse_text": "Nor do they light a lamp and put it under a basket, but upon the lampstand, and it gives light to all those in the house."
+        },
+        {
+            "verse_no": 30774,
+            "verse_ref": "Revelation 4:5",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " From ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " throne ",
+                    "Str Grk": 2362.0,
+                    "lemma": "\u03b8\u03c1\u03cc\u03bd\u03bf\u03c5",
+                    "xlit": "thronou"
+                },
+                {
+                    "BSB Version": " came ",
+                    "Str Grk": 1607.0,
+                    "lemma": "\u1f10\u03ba\u03c0\u03bf\u03c1\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "ekporeuontai"
+                },
+                {
+                    "BSB Version": " flashes of lightning ",
+                    "Str Grk": 796.0,
+                    "lemma": "\u1f00\u03c3\u03c4\u03c1\u03b1\u03c0\u03b1\u1f76",
+                    "xlit": "astrapai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " rumblings ",
+                    "Str Grk": 5456.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u03b1\u1f76",
+                    "xlit": "ph\u014dnai"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " peals of thunder ",
+                    "Str Grk": 1027.0,
+                    "lemma": "\u03b2\u03c1\u03bf\u03bd\u03c4\u03b1\u03af",
+                    "xlit": "brontai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Before ",
+                    "Str Grk": 1799.0,
+                    "lemma": "\u1f10\u03bd\u03ce\u03c0\u03b9\u03bf\u03bd",
+                    "xlit": "en\u014dpion"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " throne ",
+                    "Str Grk": 2362.0,
+                    "lemma": "\u03b8\u03c1\u03cc\u03bd\u03bf\u03c5",
+                    "xlit": "thronou"
+                },
+                {
+                    "BSB Version": " burned ",
+                    "Str Grk": 2545.0,
+                    "lemma": "\u03ba\u03b1\u03b9\u03cc\u03bc\u03b5\u03bd\u03b1\u03b9",
+                    "xlit": "kaiomenai"
+                },
+                {
+                    "BSB Version": " seven ",
+                    "Str Grk": 2033.0,
+                    "lemma": "\u1f11\u03c0\u03c4\u1f70",
+                    "xlit": "hepta"
+                },
+                {
+                    "BSB Version": " torches ",
+                    "Str Grk": 2985.0,
+                    "lemma": "\u03bb\u03b1\u03bc\u03c0\u03ac\u03b4\u03b5\u03c2",
+                    "xlit": "lampades"
+                },
+                {
+                    "BSB Version": " of fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u1f78\u03c2",
+                    "xlit": "pyros"
+                },
+                {
+                    "BSB Version": " These ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f05",
+                    "xlit": "ha"
+                },
+                {
+                    "BSB Version": " are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f30\u03c3\u03b9\u03bd",
+                    "xlit": "eisin"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " seven ",
+                    "Str Grk": 2033.0,
+                    "lemma": "\u1f11\u03c0\u03c4\u1f70",
+                    "xlit": "hepta"
+                },
+                {
+                    "BSB Version": " spirits ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03a0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "Pneumata"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                }
+            ],
+            "verse_text": "And out of the throne come flashes of lightning, and voices, and thunderings. And <i>there were</i> seven lamps of fire burning before the throne, which are the seven Spirits of God."
+        },
+        {
+            "verse_no": 30836,
+            "verse_ref": "Revelation 8:8",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " second ",
+                    "Str Grk": 1208.0,
+                    "lemma": "\u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2",
+                    "xlit": "deuteros"
+                },
+                {
+                    "BSB Version": " angel ",
+                    "Str Grk": 32.0,
+                    "lemma": "\u1f04\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2",
+                    "xlit": "angelos"
+                },
+                {
+                    "BSB Version": " sounded [his] trumpet ",
+                    "Str Grk": 4537.0,
+                    "lemma": "\u1f10\u03c3\u03ac\u03bb\u03c0\u03b9\u03c3\u03b5\u03bd",
+                    "xlit": "esalpisen"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [something] like ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " a great ",
+                    "Str Grk": 3173.0,
+                    "lemma": "\u03bc\u03ad\u03b3\u03b1",
+                    "xlit": "mega"
+                },
+                {
+                    "BSB Version": " mountain ",
+                    "Str Grk": 3735.0,
+                    "lemma": "\u1f44\u03c1\u03bf\u03c2",
+                    "xlit": "oros"
+                },
+                {
+                    "BSB Version": " burning ",
+                    "Str Grk": 2545.0,
+                    "lemma": "\u03ba\u03b1\u03b9\u03cc\u03bc\u03b5\u03bd\u03bf\u03bd",
+                    "xlit": "kaiomenon"
+                },
+                {
+                    "BSB Version": " with fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u03c5\u03c1\u1f76",
+                    "xlit": "pyri"
+                },
+                {
+                    "BSB Version": " was thrown ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f10\u03b2\u03bb\u03ae\u03b8\u03b7",
+                    "xlit": "ebl\u0113th\u0113"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " sea ",
+                    "Str Grk": 2281.0,
+                    "lemma": "\u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1\u03bd",
+                    "xlit": "thalassan"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " A ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " third ",
+                    "Str Grk": 5154.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03c4\u03bf\u03bd",
+                    "xlit": "triton"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " sea ",
+                    "Str Grk": 2281.0,
+                    "lemma": "\u03b8\u03b1\u03bb\u03ac\u03c3\u03c3\u03b7\u03c2",
+                    "xlit": "thalass\u0113s"
+                },
+                {
+                    "BSB Version": " turned to ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u1f10\u03b3\u03ad\u03bd\u03b5\u03c4\u03bf",
+                    "xlit": "egeneto"
+                },
+                {
+                    "BSB Version": " blood ",
+                    "Str Grk": 129.0,
+                    "lemma": "\u03b1\u1f37\u03bc\u03b1",
+                    "xlit": "haima"
+                }
+            ],
+            "verse_text": "And the second angel sounded <i>his</i> trumpet, and <i>something</i> like a great mountain burning with fire was cast into the sea. And a third of the sea became blood,"
+        },
+        {
+            "verse_no": 26706,
+            "verse_ref": "John 15:6",
+            "verse_data": [
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " anyone ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03c2",
+                    "xlit": "tis"
+                },
+                {
+                    "BSB Version": " {does} not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u03ae",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " remain ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u03bc\u03ad\u03bd\u1fc3",
+                    "xlit": "men\u0113"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u03bf\u03af",
+                    "xlit": "emoi"
+                },
+                {
+                    "BSB Version": " {he is} like ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " a ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " branch ",
+                    "Str Grk": 2814.0,
+                    "lemma": "\u03ba\u03bb\u1fc6\u03bc\u03b1",
+                    "xlit": "kl\u0113ma"
+                },
+                {
+                    "BSB Version": " that is thrown ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u1f10\u03b2\u03bb\u03ae\u03b8\u03b7",
+                    "xlit": "ebl\u0113th\u0113"
+                },
+                {
+                    "BSB Version": " away ",
+                    "Str Grk": 1854.0,
+                    "lemma": "\u1f14\u03be\u03c9",
+                    "xlit": "ex\u014d"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " withers ",
+                    "Str Grk": 3583.0,
+                    "lemma": "\u1f10\u03be\u03b7\u03c1\u03ac\u03bd\u03b8\u03b7",
+                    "xlit": "ex\u0113ranth\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [Such branches] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f70",
+                    "xlit": "auta"
+                },
+                {
+                    "BSB Version": " are gathered up ",
+                    "Str Grk": 4863.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03ac\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "synagousin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " thrown ",
+                    "Str Grk": 906.0,
+                    "lemma": "\u03b2\u03ac\u03bb\u03bb\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "ballousin"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " fire ",
+                    "Str Grk": 4442.0,
+                    "lemma": "\u03c0\u1fe6\u03c1",
+                    "xlit": "pyr"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " burned ",
+                    "Str Grk": 2545.0,
+                    "lemma": "\u03ba\u03b1\u03af\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "kaietai"
+                }
+            ],
+            "verse_text": "If anyone does not abide in Me, he is thrown out like the branch and is dried up, and they gather them and cast <i>them</i> into the fire, and it is burned."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 5087,
+            "lemma": "\u03c4\u1f77\u03b8\u03b7\u03bc\u03b9",
+            "xlit": "t\u00edth\u0113mi",
+            "pronunciation": "tith'-ay-mee",
+            "kjv_def": "+ advise,\n appoint, bow, commit, conceive, give,\n X kneel down, lay (aside, down, up), make, ordain, purpose,\n put, set (forth), settle, sink down.",
+            "pspeech": "V-PIA-3P",
+            "description": " to place (in the widest application, literally and figuratively; properly, in a passive or horizontal posture, and thus different from \u1f35\u03c3\u03c4\u03b7\u03bc\u03b9(h\u00edst\u0113mi), which properly denotes an upright and active position, while \u03ba\u03b5\u1fd6\u03bc\u03b1\u03b9(ke\u00eemai) is properly reflexive and utterly  prostrate)"
+        },
+        {
+            "number": 796,
+            "lemma": "\u1f00\u03c3\u03c4\u03c1\u03b1\u03c0\u1f75",
+            "xlit": "astrap\u1e17",
+            "pronunciation": "as-trap-ay'",
+            "kjv_def": "lightning, bright shining.",
+            "pspeech": "N-NFS",
+            "description": " lightning; by analogy, glare"
+        },
+        {
+            "number": 1096,
+            "lemma": "\u03b3\u1f77\u03bd\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "g\u00ednomai",
+            "pronunciation": "ghin'-om-ahee",
+            "kjv_def": "arise, be\n assembled, be(-come, -fall, -have self), be brought (to pass), (be)\n come (to pass), continue, be divided, draw, be ended, fall, be\n finished, follow, be found, be fulfilled, + God forbid, grow, happen,\n have, be kept, be made, be married, be ordained to be, partake, pass,\n be performed, be published, require, seem, be showed, X soon as it\n was, sound, be taken, be turned, use, wax, will, would, be wrought.",
+            "pspeech": "V-RIA-3S",
+            "description": " to cause to be (\"gen\"-erate), i.e. (reflexively) to become (come into being), used with great latitude (literal, figurative, intensive, etc.)"
+        },
+        {
+            "number": 1854,
+            "lemma": "\u1f14\u03be\u03c9",
+            "xlit": "\u00e9x\u014d",
+            "pronunciation": "ex'-o",
+            "kjv_def": "away, forth, (with-)out (of, -ward), strange.",
+            "pspeech": "Adv",
+            "description": " out(-side, of doors), literally or figuratively"
+        }
+    ]
+}

@@ -1,0 +1,463 @@
+{
+    "wotd": {
+        "number": 3037,
+        "lemma": "\u03bb\u1f77\u03b8\u03bf\u03c2",
+        "xlit": "l\u00edthos",
+        "pronunciation": "lee'-thos",
+        "kjv_def": "(mill-, stumbling-)stone.",
+        "pspeech": "N-GMP",
+        "description": " a stone (literally or figuratively)"
+    },
+    "verses": [
+        {
+            "verse_no": 24196,
+            "verse_ref": "Matthew 27:66",
+            "verse_data": [
+                {
+                    "BSB Version": " So ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " they went [and] ",
+                    "Str Grk": 4198.0,
+                    "lemma": "\u03c0\u03bf\u03c1\u03b5\u03c5\u03b8\u03ad\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "poreuthentes"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 5028.0,
+                    "lemma": "\u03c4\u03ac\u03c6\u03bf\u03bd",
+                    "xlit": "taphon"
+                },
+                {
+                    "BSB Version": " secured the tomb ",
+                    "Str Grk": 805.0,
+                    "lemma": "\u1f20\u03c3\u03c6\u03b1\u03bb\u03af\u03c3\u03b1\u03bd\u03c4\u03bf",
+                    "xlit": "\u0113sphalisanto"
+                },
+                {
+                    "BSB Version": " by sealing ",
+                    "Str Grk": 4972.0,
+                    "lemma": "\u03c3\u03c6\u03c1\u03b1\u03b3\u03af\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "sphragisantes"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " stone ",
+                    "Str Grk": 3037.0,
+                    "lemma": "\u03bb\u03af\u03b8\u03bf\u03bd",
+                    "xlit": "lithon"
+                },
+                {
+                    "BSB Version": " [and posting] ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
+                    "xlit": "meta"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " guard ",
+                    "Str Grk": 2892.0,
+                    "lemma": "\u03ba\u03bf\u03c5\u03c3\u03c4\u03c9\u03b4\u03af\u03b1\u03c2",
+                    "xlit": "koust\u014ddias"
+                }
+            ],
+            "verse_text": "And having gone with the guard, they made the tomb secure, having sealed the stone."
+        },
+        {
+            "verse_no": 23202,
+            "verse_ref": "Matthew 3:9",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " {do} not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " presume ",
+                    "Str Grk": 1380.0,
+                    "lemma": "\u03b4\u03cc\u03be\u03b7\u03c4\u03b5",
+                    "xlit": "dox\u0113te"
+                },
+                {
+                    "BSB Version": " to say ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9\u03bd",
+                    "xlit": "legein"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " yourselves ",
+                    "Str Grk": 1438.0,
+                    "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "heautois"
+                },
+                {
+                    "BSB Version": " We have ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f14\u03c7\u03bf\u03bc\u03b5\u03bd",
+                    "xlit": "echomen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u03ac\u03bc",
+                    "xlit": "Abraam"
+                },
+                {
+                    "BSB Version": " [as our] father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1",
+                    "xlit": "Patera"
+                },
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " I tell ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+                    "xlit": "leg\u014d"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " out of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " these ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03c9\u03bd",
+                    "xlit": "tout\u014dn"
+                },
+                {
+                    "BSB Version": " stones ",
+                    "Str Grk": 3037.0,
+                    "lemma": "\u03bb\u03af\u03b8\u03c9\u03bd",
+                    "xlit": "lith\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " can ",
+                    "Str Grk": 1410.0,
+                    "lemma": "\u03b4\u03cd\u03bd\u03b1\u03c4\u03b1\u03b9",
+                    "xlit": "dynatai"
+                },
+                {
+                    "BSB Version": " raise up ",
+                    "Str Grk": 1453.0,
+                    "lemma": "\u1f10\u03b3\u03b5\u1fd6\u03c1\u03b1\u03b9",
+                    "xlit": "egeirai"
+                },
+                {
+                    "BSB Version": " children ",
+                    "Str Grk": 5043.0,
+                    "lemma": "\u03c4\u03ad\u03ba\u03bd\u03b1",
+                    "xlit": "tekna"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " Abraham ",
+                    "Str Grk": 11.0,
+                    "lemma": "\u1f08\u03b2\u03c1\u03b1\u03ac\u03bc",
+                    "xlit": "Abraam"
+                }
+            ],
+            "verse_text": "And do not presume to say within yourselves, 'We have Abraham <i>as</i> father.' For I say to you that out of these stones God is able to raise up children unto Abraham."
+        },
+        {
+            "verse_no": 25994,
+            "verse_ref": "Luke 24:2",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " They found ",
+                    "Str Grk": 2147.0,
+                    "lemma": "\u03b5\u1f57\u03c1\u03bf\u03bd",
+                    "xlit": "heuron"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " stone ",
+                    "Str Grk": 3037.0,
+                    "lemma": "\u03bb\u03af\u03b8\u03bf\u03bd",
+                    "xlit": "lithon"
+                },
+                {
+                    "BSB Version": " rolled away ",
+                    "Str Grk": 617.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03bd",
+                    "xlit": "apokekylismenon"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " tomb ",
+                    "Str Grk": 3419.0,
+                    "lemma": "\u03bc\u03bd\u03b7\u03bc\u03b5\u03af\u03bf\u03c5",
+                    "xlit": "mn\u0113meiou"
+                }
+            ],
+            "verse_text": "and they found the stone having been rolled away from the tomb."
+        },
+        {
+            "verse_no": 26563,
+            "verse_ref": "John 11:39",
+            "verse_data": [
+                {
+                    "BSB Version": " Take away ",
+                    "Str Grk": 142.0,
+                    "lemma": "\u1f0c\u03c1\u03b1\u03c4\u03b5",
+                    "xlit": "Arate"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " stone ",
+                    "Str Grk": 3037.0,
+                    "lemma": "\u03bb\u03af\u03b8\u03bf\u03bd",
+                    "xlit": "lithon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03b5",
+                    "xlit": "Kyrie"
+                },
+                {
+                    "BSB Version": " by now ",
+                    "Str Grk": 2235.0,
+                    "lemma": "\u1f24\u03b4\u03b7",
+                    "xlit": "\u0113d\u0113"
+                },
+                {
+                    "BSB Version": " he stinks ",
+                    "Str Grk": 3605.0,
+                    "lemma": "\u1f44\u03b6\u03b5\u03b9",
+                    "xlit": "ozei"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u039b\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "Legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " Martha ",
+                    "Str Grk": 3136.0,
+                    "lemma": "\u039c\u03ac\u03c1\u03b8\u03b1",
+                    "xlit": "Martha"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " sister ",
+                    "Str Grk": 79.0,
+                    "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u1f74",
+                    "xlit": "adelph\u0113"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " dead [man] ",
+                    "Str Grk": 5053.0,
+                    "lemma": "\u03c4\u03b5\u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b7\u03ba\u03cc\u03c4\u03bf\u03c2",
+                    "xlit": "teteleut\u0113kotos"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u03ac\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " It has already been ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " four days ",
+                    "Str Grk": 5066.0,
+                    "lemma": "\u03c4\u03b5\u03c4\u03b1\u03c1\u03c4\u03b1\u1fd6\u03bf\u03c2",
+                    "xlit": "tetartaios"
+                }
+            ],
+            "verse_text": "Jesus says, \"Take away the stone.\" Martha, the sister of the <i>one</i> having died, says to Him, \"Lord, he stinks already, for it is four days.\""
+        }
+    ],
+    "other_words": [
+        {
+            "number": 4198,
+            "lemma": "\u03c0\u03bf\u03c1\u03b5\u1f7b\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "pore\u00faomai",
+            "pronunciation": "por-yoo'-om-ahee",
+            "kjv_def": "--depart, go (away, forth, one's way, up), (make a,\n take a) journey, walk.",
+            "pspeech": "V-APP-NMP",
+            "description": " to traverse, i.e. travel (literally or figuratively; especially to remove (figuratively, die), live, etc.); "
+        },
+        {
+            "number": 1410,
+            "lemma": "\u03b4\u1f7b\u03bd\u03b1\u03bc\u03b1\u03b9",
+            "xlit": "d\u00fdnamai",
+            "pronunciation": "doo'-nam-ahee",
+            "kjv_def": "be able, can (do, +\n -not), could, may, might, be possible, be of power.",
+            "pspeech": "V-PIM/P-3S",
+            "description": " to be able or possible"
+        },
+        {
+            "number": 3419,
+            "lemma": "\u03bc\u03bd\u03b7\u03bc\u03b5\u1fd6\u03bf\u03bd",
+            "xlit": "mn\u0113me\u00eeon",
+            "pronunciation": "mnay-mi'-on",
+            "kjv_def": "grave,\n sepulchre, tomb.",
+            "pspeech": "N-GNP",
+            "description": " a remembrance, i.e. cenotaph (place of interment)"
+        },
+        {
+            "number": 1510,
+            "lemma": "\u03b5\u1f30\u03bc\u1f77",
+            "xlit": "eim\u00ed",
+            "pronunciation": "i-mee'",
+            "kjv_def": "am,\n have been, X it is I, was.",
+            "pspeech": "V-IIA-3S",
+            "description": " I exist (used only when emphatic)"
+        }
+    ]
+}

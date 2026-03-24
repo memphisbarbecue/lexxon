@@ -1,0 +1,511 @@
+{
+    "wotd": {
+        "number": 5290,
+        "lemma": "\u1f51\u03c0\u03bf\u03c3\u03c4\u03c1\u1f73\u03c6\u03c9",
+        "xlit": "hypostr\u00e9ph\u014d",
+        "pronunciation": "hoop-os-tref'-o",
+        "kjv_def": "come again, return (again, back again), turn back\n (again).",
+        "pspeech": "V-AIA-3S",
+        "description": " to turn under (behind), i.e. to return (literally or figuratively)"
+    },
+    "verses": [
+        {
+            "verse_no": 25285,
+            "verse_ref": "Luke 8:39",
+            "verse_data": [
+                {
+                    "BSB Version": " Return ",
+                    "Str Grk": 5290.0,
+                    "lemma": "\u1f59\u03c0\u03cc\u03c3\u03c4\u03c1\u03b5\u03c6\u03b5",
+                    "xlit": "Hypostrephe"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " home ",
+                    "Str Grk": 3624.0,
+                    "lemma": "\u03bf\u1f36\u03ba\u03cc\u03bd",
+                    "xlit": "oikon"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " describe ",
+                    "Str Grk": 1334.0,
+                    "lemma": "\u03b4\u03b9\u03b7\u03b3\u03bf\u1fe6",
+                    "xlit": "di\u0113gou"
+                },
+                {
+                    "BSB Version": " how much ",
+                    "Str Grk": 3745.0,
+                    "lemma": "\u1f45\u03c3\u03b1",
+                    "xlit": "hosa"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " has done ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "epoi\u0113sen"
+                },
+                {
+                    "BSB Version": " for you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03b9",
+                    "xlit": "soi"
+                },
+                {
+                    "BSB Version": " So ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [the man] went away ",
+                    "Str Grk": 565.0,
+                    "lemma": "\u1f00\u03c0\u1fc6\u03bb\u03b8\u03b5\u03bd",
+                    "xlit": "ap\u0113lthen"
+                },
+                {
+                    "BSB Version": " [and] proclaimed ",
+                    "Str Grk": 2784.0,
+                    "lemma": "\u03ba\u03b7\u03c1\u03cd\u03c3\u03c3\u03c9\u03bd",
+                    "xlit": "k\u0113ryss\u014dn"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3650.0,
+                    "lemma": "\u1f45\u03bb\u03b7\u03bd",
+                    "xlit": "hol\u0113n"
+                },
+                {
+                    "BSB Version": " over ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u2019",
+                    "xlit": "kath\u2019"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " town ",
+                    "Str Grk": 4172.0,
+                    "lemma": "\u03c0\u03cc\u03bb\u03b9\u03bd",
+                    "xlit": "polin"
+                },
+                {
+                    "BSB Version": " how much ",
+                    "Str Grk": 3745.0,
+                    "lemma": "\u1f45\u03c3\u03b1",
+                    "xlit": "hosa"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " had done ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "epoi\u0113sen"
+                },
+                {
+                    "BSB Version": " for him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                }
+            ],
+            "verse_text": "\"Return to your house, and relate all that God has done for you.\" And he departed, proclaiming through the whole city all that Jesus had done for him."
+        },
+        {
+            "verse_no": 29075,
+            "verse_ref": "Galatians 1:17",
+            "verse_data": [
+                {
+                    "BSB Version": " nor ",
+                    "Str Grk": 3761.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u1f72",
+                    "xlit": "oude"
+                },
+                {
+                    "BSB Version": " did I go up ",
+                    "Str Grk": 424.0,
+                    "lemma": "\u1f00\u03bd\u1fc6\u03bb\u03b8\u03bf\u03bd",
+                    "xlit": "an\u0113lthon"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " Jerusalem ",
+                    "Str Grk": 2414.0,
+                    "lemma": "\u1f39\u03b5\u03c1\u03bf\u03c3\u03cc\u03bb\u03c5\u03bc\u03b1",
+                    "xlit": "Hierosolyma"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " apostles ",
+                    "Str Grk": 652.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03c3\u03c4\u03cc\u03bb\u03bf\u03c5\u03c2",
+                    "xlit": "apostolous"
+                },
+                {
+                    "BSB Version": " [who came] before ",
+                    "Str Grk": 4253.0,
+                    "lemma": "\u03c0\u03c1\u1f78",
+                    "xlit": "pro"
+                },
+                {
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03bc\u03bf\u1fe6",
+                    "xlit": "emou"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " I went ",
+                    "Str Grk": 565.0,
+                    "lemma": "\u1f00\u03c0\u1fc6\u03bb\u03b8\u03bf\u03bd",
+                    "xlit": "ap\u0113lthon"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " Arabia ",
+                    "Str Grk": 688.0,
+                    "lemma": "\u1f08\u03c1\u03b1\u03b2\u03af\u03b1\u03bd",
+                    "xlit": "Arabian"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [later] ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " returned ",
+                    "Str Grk": 5290.0,
+                    "lemma": "\u1f51\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1",
+                    "xlit": "hypestrepsa"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " Damascus ",
+                    "Str Grk": 1154.0,
+                    "lemma": "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03cc\u03bd",
+                    "xlit": "Damaskon"
+                }
+            ],
+            "verse_text": "nor did I go up to Jerusalem to the apostles before me, but I went away into Arabia and returned again to Damascus."
+        },
+        {
+            "verse_no": 27205,
+            "verse_ref": "Acts 8:28",
+            "verse_data": [
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 5037.0,
+                    "lemma": "\u03c4\u03b5",
+                    "xlit": "te"
+                },
+                {
+                    "BSB Version": " on his return ",
+                    "Str Grk": 5290.0,
+                    "lemma": "\u1f51\u03c0\u03bf\u03c3\u03c4\u03c1\u03ad\u03c6\u03c9\u03bd",
+                    "xlit": "hypostreph\u014dn"
+                },
+                {
+                    "BSB Version": " was ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03bd",
+                    "xlit": "\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " sitting ",
+                    "Str Grk": 2521.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u03ae\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "kath\u0113menos"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " chariot ",
+                    "Str Grk": 716.0,
+                    "lemma": "\u1f05\u03c1\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "harmatos"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " reading ",
+                    "Str Grk": 314.0,
+                    "lemma": "\u1f00\u03bd\u03b5\u03b3\u03af\u03bd\u03c9\u03c3\u03ba\u03b5\u03bd",
+                    "xlit": "anegin\u014dsken"
+                },
+                {
+                    "BSB Version": " Isaiah ",
+                    "Str Grk": 2268.0,
+                    "lemma": "\u1f28\u03c3\u03b1\u0390\u03b1\u03bd",
+                    "xlit": "\u0112saian"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " prophet ",
+                    "Str Grk": 4396.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c6\u03ae\u03c4\u03b7\u03bd",
+                    "xlit": "proph\u0113t\u0113n"
+                }
+            ],
+            "verse_text": "And he was returning and sitting in his chariot, and he was reading the prophet Isaiah."
+        },
+        {
+            "verse_no": 27722,
+            "verse_ref": "Acts 22:17",
+            "verse_data": [
+                {
+                    "BSB Version": " Later ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u03ad",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u1f18\u03b3\u03ad\u03bd\u03b5\u03c4\u03bf",
+                    "xlit": "Egeneto"
+                },
+                {
+                    "BSB Version": " [when] I ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                },
+                {
+                    "BSB Version": " had returned ",
+                    "Str Grk": 5290.0,
+                    "lemma": "\u1f51\u03c0\u03bf\u03c3\u03c4\u03c1\u03ad\u03c8\u03b1\u03bd\u03c4\u03b9",
+                    "xlit": "hypostrepsanti"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " Jerusalem ",
+                    "Str Grk": 2419.0,
+                    "lemma": "\u1f38\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u1f74\u03bc",
+                    "xlit": "Ierousal\u0113m"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " was praying ",
+                    "Str Grk": 4336.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5",
+                    "xlit": "proseuchomenou"
+                },
+                {
+                    "BSB Version": " at ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " temple ",
+                    "Str Grk": 2411.0,
+                    "lemma": "\u1f31\u03b5\u03c1\u1ff7",
+                    "xlit": "hier\u014d"
+                },
+                {
+                    "BSB Version": " I ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " fell ",
+                    "Str Grk": 1096.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "genesthai"
+                },
+                {
+                    "BSB Version": " into ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " a trance ",
+                    "Str Grk": 1611.0,
+                    "lemma": "\u1f10\u03ba\u03c3\u03c4\u03ac\u03c3\u03b5\u03b9",
+                    "xlit": "ekstasei"
+                }
+            ],
+            "verse_text": "And it happened to me, having returned to Jerusalem and of my praying in the temple, I fell into a trance"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2316,
+            "lemma": "\u03b8\u03b5\u1f79\u03c2",
+            "xlit": "the\u00f3s",
+            "pronunciation": "theh'-os",
+            "kjv_def": "X exceeding,\n God, god(-ly, -ward).",
+            "pspeech": "N-NMS",
+            "description": " a deity, especially (with \u03c4\u1f79(t\u00f3)) the supreme Divinity; figuratively, a magistrate; by Hebraism, very"
+        },
+        {
+            "number": 652,
+            "lemma": "\u1f00\u03c0\u1f79\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2",
+            "xlit": "ap\u00f3stolos",
+            "pronunciation": "ap-os'-tol-os",
+            "kjv_def": "apostle, messenger, he that is sent.",
+            "pspeech": "N-GMP",
+            "description": " a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ (\"apostle\") (with miraculous powers)"
+        },
+        {
+            "number": 1510,
+            "lemma": "\u03b5\u1f30\u03bc\u1f77",
+            "xlit": "eim\u00ed",
+            "pronunciation": "i-mee'",
+            "kjv_def": "am,\n have been, X it is I, was.",
+            "pspeech": "V-IIA-3S",
+            "description": " I exist (used only when emphatic)"
+        },
+        {
+            "number": 4336,
+            "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u1f7b\u03c7\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "prose\u00fachomai",
+            "pronunciation": "pros-yoo'-khom-ahee",
+            "kjv_def": "pray (X\n earnestly, for), make prayer.",
+            "pspeech": "V-PMM/P-2P",
+            "description": " to pray to God, i.e. supplicate, worship"
+        }
+    ]
+}

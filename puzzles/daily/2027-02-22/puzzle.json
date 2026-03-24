@@ -1,0 +1,583 @@
+{
+    "wotd": {
+        "number": 363,
+        "lemma": "\u1f00\u03bd\u03b1\u03bc\u03b9\u03bc\u03bd\u1f75\u03c3\u03ba\u03c9",
+        "xlit": "anamimn\u1e17sk\u014d",
+        "pronunciation": "an-am-im-nace'-ko",
+        "kjv_def": "call to\n mind, (bring to , call to, put in), remember(-brance).",
+        "pspeech": "V-APP-NMS",
+        "description": " to remind; (reflexively) to recollect"
+    },
+    "verses": [
+        {
+            "verse_no": 24827,
+            "verse_ref": "Mark 14:72",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " immediately ",
+                    "Str Grk": 2112.0,
+                    "lemma": "\u03b5\u1f50\u03b8\u1f7a\u03c2",
+                    "xlit": "euthys"
+                },
+                {
+                    "BSB Version": " [the] rooster ",
+                    "Str Grk": 220.0,
+                    "lemma": "\u1f00\u03bb\u03ad\u03ba\u03c4\u03c9\u03c1",
+                    "xlit": "alekt\u014dr"
+                },
+                {
+                    "BSB Version": " crowed ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u1f10\u03c6\u03ce\u03bd\u03b7\u03c3\u03b5\u03bd",
+                    "xlit": "eph\u014dn\u0113sen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " a second time ",
+                    "Str Grk": 1208.0,
+                    "lemma": "\u03b4\u03b5\u03c5\u03c4\u03ad\u03c1\u03bf\u03c5",
+                    "xlit": "deuterou"
+                },
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2",
+                    "xlit": "Petros"
+                },
+                {
+                    "BSB Version": " remembered ",
+                    "Str Grk": 363.0,
+                    "lemma": "\u1f00\u03bd\u03b5\u03bc\u03bd\u03ae\u03c3\u03b8\u03b7",
+                    "xlit": "anemn\u0113sth\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " word ",
+                    "Str Grk": 4487.0,
+                    "lemma": "\u1fe5\u1fc6\u03bc\u03b1",
+                    "xlit": "rh\u0113ma"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " had spoken ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " to him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " Before ",
+                    "Str Grk": 4250.0,
+                    "lemma": "\u03a0\u03c1\u1f76\u03bd",
+                    "xlit": "Prin"
+                },
+                {
+                    "BSB Version": " [the] rooster ",
+                    "Str Grk": 220.0,
+                    "lemma": "\u1f00\u03bb\u03ad\u03ba\u03c4\u03bf\u03c1\u03b1",
+                    "xlit": "alektora"
+                },
+                {
+                    "BSB Version": " crows ",
+                    "Str Grk": 5455.0,
+                    "lemma": "\u03c6\u03c9\u03bd\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "ph\u014dn\u0113sai"
+                },
+                {
+                    "BSB Version": " twice ",
+                    "Str Grk": 1364.0,
+                    "lemma": "\u03b4\u1f76\u03c2",
+                    "xlit": "dis"
+                },
+                {
+                    "BSB Version": " you will deny ",
+                    "Str Grk": 533.0,
+                    "lemma": "\u1f00\u03c0\u03b1\u03c1\u03bd\u03ae\u03c3\u1fc3",
+                    "xlit": "aparn\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                },
+                {
+                    "BSB Version": " three times ",
+                    "Str Grk": 5151.0,
+                    "lemma": "\u03c4\u03c1\u03af\u03c2",
+                    "xlit": "tris"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " he broke down ",
+                    "Str Grk": 1911.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03b2\u03b1\u03bb\u1f7c\u03bd",
+                    "xlit": "epibal\u014dn"
+                },
+                {
+                    "BSB Version": " [and] wept ",
+                    "Str Grk": 2799.0,
+                    "lemma": "\u1f14\u03ba\u03bb\u03b1\u03b9\u03b5\u03bd",
+                    "xlit": "eklaien"
+                }
+            ],
+            "verse_text": "And immediately a rooster crowed for the second time. And Peter remembered the word that Jesus had said to him, \"Before <i>the</i> rooster crows twice, you will deny Me three times.\" And having broken down, he began to weep."
+        },
+        {
+            "verse_no": 30166,
+            "verse_ref": "Hebrews 10:32",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " Remember ",
+                    "Str Grk": 363.0,
+                    "lemma": "\u1f08\u03bd\u03b1\u03bc\u03b9\u03bc\u03bd\u1fc4\u03c3\u03ba\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "Anamimn\u0113skesthe"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " early ",
+                    "Str Grk": 4386.0,
+                    "lemma": "\u03c0\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf\u03bd",
+                    "xlit": "proteron"
+                },
+                {
+                    "BSB Version": " days ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
+                    "xlit": "h\u0113meras"
+                },
+                {
+                    "BSB Version": " that you were in the light ",
+                    "Str Grk": 5461.0,
+                    "lemma": "\u03c6\u03c9\u03c4\u03b9\u03c3\u03b8\u03ad\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "ph\u014dtisthentes"
+                },
+                {
+                    "BSB Version": " In ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [those days] ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03b1\u1f37\u03c2",
+                    "xlit": "hais"
+                },
+                {
+                    "BSB Version": " you endured ",
+                    "Str Grk": 5278.0,
+                    "lemma": "\u1f51\u03c0\u03b5\u03bc\u03b5\u03af\u03bd\u03b1\u03c4\u03b5",
+                    "xlit": "hypemeinate"
+                },
+                {
+                    "BSB Version": " a great ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u1f74\u03bd",
+                    "xlit": "poll\u0113n"
+                },
+                {
+                    "BSB Version": " conflict ",
+                    "Str Grk": 119.0,
+                    "lemma": "\u1f04\u03b8\u03bb\u03b7\u03c3\u03b9\u03bd",
+                    "xlit": "athl\u0113sin"
+                },
+                {
+                    "BSB Version": " in the face of suffering ",
+                    "Str Grk": 3804.0,
+                    "lemma": "\u03c0\u03b1\u03b8\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd",
+                    "xlit": "path\u0113mat\u014dn"
+                }
+            ],
+            "verse_text": "But remember the former days in which, having been enlightened, you endured a great conflict of sufferings,"
+        },
+        {
+            "verse_no": 24662,
+            "verse_ref": "Mark 11:21",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2",
+                    "xlit": "Petros"
+                },
+                {
+                    "BSB Version": " remembered [it] ",
+                    "Str Grk": 363.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03bc\u03bd\u03b7\u03c3\u03b8\u03b5\u1f76\u03c2",
+                    "xlit": "anamn\u0113stheis"
+                },
+                {
+                    "BSB Version": " [and] said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " Look ",
+                    "Str Grk": 2400.0,
+                    "lemma": "\u1f34\u03b4\u03b5",
+                    "xlit": "ide"
+                },
+                {
+                    "BSB Version": " Rabbi ",
+                    "Str Grk": 4461.0,
+                    "lemma": "\u1fec\u03b1\u03b2\u03b2\u03af",
+                    "xlit": "Rhabbi"
+                },
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " fig tree ",
+                    "Str Grk": 4808.0,
+                    "lemma": "\u03c3\u03c5\u03ba\u1fc6",
+                    "xlit": "syk\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f23\u03bd",
+                    "xlit": "h\u0113n"
+                },
+                {
+                    "BSB Version": " You cursed ",
+                    "Str Grk": 2672.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b7\u03c1\u03ac\u03c3\u03c9",
+                    "xlit": "kat\u0113ras\u014d"
+                },
+                {
+                    "BSB Version": " has withered ",
+                    "Str Grk": 3583.0,
+                    "lemma": "\u1f10\u03be\u03ae\u03c1\u03b1\u03bd\u03c4\u03b1\u03b9",
+                    "xlit": "ex\u0113rantai"
+                }
+            ],
+            "verse_text": "And Peter having remembered, says to Him, \"Rabbi, look, the fig tree that You cursed is dried up.\""
+        },
+        {
+            "verse_no": 28451,
+            "verse_ref": "1 Corinthians 4:17",
+            "verse_data": [
+                {
+                    "BSB Version": " That is why ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u0394\u03b9\u1f70",
+                    "xlit": "Dia"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78",
+                    "xlit": "auto"
+                },
+                {
+                    "BSB Version": " I have sent ",
+                    "Str Grk": 3992.0,
+                    "lemma": "\u1f14\u03c0\u03b5\u03bc\u03c8\u03b1",
+                    "xlit": "epempsa"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " Timothy ",
+                    "Str Grk": 5095.0,
+                    "lemma": "\u03a4\u03b9\u03bc\u03cc\u03b8\u03b5\u03bf\u03bd",
+                    "xlit": "Timotheon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f45\u03c2",
+                    "xlit": "hos"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03af\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " my ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " beloved ",
+                    "Str Grk": 27.0,
+                    "lemma": "\u1f00\u03b3\u03b1\u03c0\u03b7\u03c4\u1f78\u03bd",
+                    "xlit": "agap\u0113ton"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " faithful ",
+                    "Str Grk": 4103.0,
+                    "lemma": "\u03c0\u03b9\u03c3\u03c4\u1f78\u03bd",
+                    "xlit": "piston"
+                },
+                {
+                    "BSB Version": " child ",
+                    "Str Grk": 5043.0,
+                    "lemma": "\u03c4\u03ad\u03ba\u03bd\u03bf\u03bd",
+                    "xlit": "teknon"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [the] Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u1ff3",
+                    "xlit": "Kyri\u014d"
+                },
+                {
+                    "BSB Version": " [He] ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43\u03c2",
+                    "xlit": "hos"
+                },
+                {
+                    "BSB Version": " will remind ",
+                    "Str Grk": 363.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03bc\u03bd\u03ae\u03c3\u03b5\u03b9",
+                    "xlit": "anamn\u0113sei"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " of my ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " way of life ",
+                    "Str Grk": 3598.0,
+                    "lemma": "\u1f41\u03b4\u03bf\u03cd\u03c2",
+                    "xlit": "hodous"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70\u03c2",
+                    "xlit": "tas"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1ff7",
+                    "xlit": "Christ\u014d"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " which is exactly what ",
+                    "Str Grk": 2531.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+                    "xlit": "kath\u014ds"
+                },
+                {
+                    "BSB Version": " I teach ",
+                    "Str Grk": 1321.0,
+                    "lemma": "\u03b4\u03b9\u03b4\u03ac\u03c3\u03ba\u03c9",
+                    "xlit": "didask\u014d"
+                },
+                {
+                    "BSB Version": " everywhere ",
+                    "Str Grk": 3837.0,
+                    "lemma": "\u03c0\u03b1\u03bd\u03c4\u03b1\u03c7\u03bf\u1fe6",
+                    "xlit": "pantachou"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " every ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03c3\u1fc3",
+                    "xlit": "pas\u0113"
+                },
+                {
+                    "BSB Version": " church ",
+                    "Str Grk": 1577.0,
+                    "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u1fb3",
+                    "xlit": "ekkl\u0113sia"
+                }
+            ],
+            "verse_text": "On account of this I sent to you Timothy, who is my beloved and faithful child in <i>the</i> Lord, who will remind of you my ways that <i>are</i> in Christ Jesus, as I teach everywhere in every church."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 1208,
+            "lemma": "\u03b4\u03b5\u1f7b\u03c4\u03b5\u03c1\u03bf\u03c2",
+            "xlit": "de\u00fateros",
+            "pronunciation": "dyoo'-ter-os",
+            "kjv_def": "afterward, again, second(-arily, time).",
+            "pspeech": "Adj-DMS",
+            "description": " (ordinal) second (in time, place, or rank; also adverb)"
+        },
+        {
+            "number": 5461,
+            "lemma": "\u03c6\u03c9\u03c4\u1f77\u03b6\u03c9",
+            "xlit": "ph\u014dt\u00edz\u014d",
+            "pronunciation": "fo-tid'-zo",
+            "kjv_def": "enlighten, illuminate, (bring to,\n give) light, make to see.",
+            "pspeech": "V-PSA-3S",
+            "description": " to shed rays, i.e. to shine or (transitively) to brighten up (literally or figuratively)"
+        },
+        {
+            "number": 2400,
+            "lemma": "\u1f30\u03b4\u03bf\u1f7b",
+            "xlit": "ido\u00fa",
+            "pronunciation": "id-oo'",
+            "kjv_def": "--behold, lo, see.",
+            "pspeech": "V-AMA-2S",
+            "description": " used as imperative lo!; "
+        },
+        {
+            "number": 2531,
+            "lemma": "\u03ba\u03b1\u03b8\u1f7d\u03c2",
+            "xlit": "kath\u1e53s",
+            "pronunciation": "kath-oce'",
+            "kjv_def": "according to,\n (according, even) as, how, when.",
+            "pspeech": "Adv",
+            "description": " just (or inasmuch) as, that"
+        }
+    ]
+}

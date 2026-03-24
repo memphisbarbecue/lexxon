@@ -1,0 +1,493 @@
+{
+    "wotd": {
+        "number": 4229,
+        "lemma": "\u03c0\u03c1\u1fb6\u03b3\u03bc\u03b1",
+        "xlit": "pr\u00e2gma",
+        "pronunciation": "prag'-mah",
+        "kjv_def": "business, matter, thing, work.",
+        "pspeech": "N-GNS",
+        "description": " a deed; by implication, an affair; by extension, an object (material)"
+    },
+    "verses": [
+        {
+            "verse_no": 24895,
+            "verse_ref": "Luke 1:1",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1895.0,
+                    "lemma": "\u1f18\u03c0\u03b5\u03b9\u03b4\u03ae\u03c0\u03b5\u03c1",
+                    "xlit": "Epeid\u0113per"
+                },
+                {
+                    "BSB Version": " Many ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03bf\u1f76",
+                    "xlit": "polloi"
+                },
+                {
+                    "BSB Version": " have undertaken ",
+                    "Str Grk": 2021.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u03c7\u03b5\u03af\u03c1\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "epecheir\u0113san"
+                },
+                {
+                    "BSB Version": " to compose ",
+                    "Str Grk": 392.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c4\u03ac\u03be\u03b1\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "anataxasthai"
+                },
+                {
+                    "BSB Version": " an account ",
+                    "Str Grk": 1335.0,
+                    "lemma": "\u03b4\u03b9\u03ae\u03b3\u03b7\u03c3\u03b9\u03bd",
+                    "xlit": "di\u0113g\u0113sin"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 4012.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
+                    "xlit": "peri"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " things that ",
+                    "Str Grk": 4229.0,
+                    "lemma": "\u03c0\u03c1\u03b1\u03b3\u03bc\u03ac\u03c4\u03c9\u03bd",
+                    "xlit": "pragmat\u014dn"
+                },
+                {
+                    "BSB Version": " have been fulfilled ",
+                    "Str Grk": 4135.0,
+                    "lemma": "\u03c0\u03b5\u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b7\u03bc\u03ad\u03bd\u03c9\u03bd",
+                    "xlit": "pepl\u0113rophor\u0113men\u014dn"
+                },
+                {
+                    "BSB Version": " among ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                }
+            ],
+            "verse_text": "Inasmuch as many have undertaken to draw up a narration concerning the things having been accomplished among us,"
+        },
+        {
+            "verse_no": 30063,
+            "verse_ref": "Hebrews 6:18",
+            "verse_data": [
+                {
+                    "BSB Version": " Thus ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " two ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
+                },
+                {
+                    "BSB Version": " unchangeable ",
+                    "Str Grk": 276.0,
+                    "lemma": "\u1f00\u03bc\u03b5\u03c4\u03b1\u03b8\u03ad\u03c4\u03c9\u03bd",
+                    "xlit": "ametathet\u014dn"
+                },
+                {
+                    "BSB Version": " things ",
+                    "Str Grk": 4229.0,
+                    "lemma": "\u03c0\u03c1\u03b1\u03b3\u03bc\u03ac\u03c4\u03c9\u03bd",
+                    "xlit": "pragmat\u014dn"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03bf\u1f37\u03c2",
+                    "xlit": "hois"
+                },
+                {
+                    "BSB Version": " [it is] impossible ",
+                    "Str Grk": 102.0,
+                    "lemma": "\u1f00\u03b4\u03cd\u03bd\u03b1\u03c4\u03bf\u03bd",
+                    "xlit": "adynaton"
+                },
+                {
+                    "BSB Version": " [for] God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03bd",
+                    "xlit": "Theon"
+                },
+                {
+                    "BSB Version": " to lie ",
+                    "Str Grk": 5574.0,
+                    "lemma": "\u03c8\u03b5\u03cd\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "pseusasthai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " we who have fled ",
+                    "Str Grk": 2703.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03c6\u03c5\u03b3\u03cc\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "kataphygontes"
+                },
+                {
+                    "BSB Version": " to take hold ",
+                    "Str Grk": 2902.0,
+                    "lemma": "\u03ba\u03c1\u03b1\u03c4\u1fc6\u03c3\u03b1\u03b9",
+                    "xlit": "krat\u0113sai"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " hope ",
+                    "Str Grk": 1680.0,
+                    "lemma": "\u1f10\u03bb\u03c0\u03af\u03b4\u03bf\u03c2",
+                    "xlit": "elpidos"
+                },
+                {
+                    "BSB Version": " set before [us] ",
+                    "Str Grk": 4295.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03b7\u03c2",
+                    "xlit": "prokeimen\u0113s"
+                },
+                {
+                    "BSB Version": " may be ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f14\u03c7\u03c9\u03bc\u03b5\u03bd",
+                    "xlit": "ech\u014dmen"
+                },
+                {
+                    "BSB Version": " strongly ",
+                    "Str Grk": 2478.0,
+                    "lemma": "\u1f30\u03c3\u03c7\u03c5\u03c1\u1f70\u03bd",
+                    "xlit": "ischyran"
+                },
+                {
+                    "BSB Version": " encouraged ",
+                    "Str Grk": 3874.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ac\u03ba\u03bb\u03b7\u03c3\u03b9\u03bd",
+                    "xlit": "parakl\u0113sin"
+                }
+            ],
+            "verse_text": "so that by two unchangeable things, in which <i>it is</i> impossible <i>for</i> God to lie, we may have strong encouragement, having fled for refuge, to take hold of the hope being set before <i>us</i>,"
+        },
+        {
+            "verse_no": 30336,
+            "verse_ref": "James 3:16",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " where ",
+                    "Str Grk": 3699.0,
+                    "lemma": "\u1f45\u03c0\u03bf\u03c5",
+                    "xlit": "hopou"
+                },
+                {
+                    "BSB Version": " jealousy ",
+                    "Str Grk": 2205.0,
+                    "lemma": "\u03b6\u1fc6\u03bb\u03bf\u03c2",
+                    "xlit": "z\u0113los"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " selfish ambition [exist] ",
+                    "Str Grk": 2052.0,
+                    "lemma": "\u1f10\u03c1\u03b9\u03b8\u03b5\u03af\u03b1",
+                    "xlit": "eritheia"
+                },
+                {
+                    "BSB Version": " there [ will be ] ",
+                    "Str Grk": 1563.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u1fd6",
+                    "xlit": "ekei"
+                },
+                {
+                    "BSB Version": " disorder ",
+                    "Str Grk": 181.0,
+                    "lemma": "\u1f00\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03c3\u03af\u03b1",
+                    "xlit": "akatastasia"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " every ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u1fb6\u03bd",
+                    "xlit": "pan"
+                },
+                {
+                    "BSB Version": " evil ",
+                    "Str Grk": 5337.0,
+                    "lemma": "\u03c6\u03b1\u1fe6\u03bb\u03bf\u03bd",
+                    "xlit": "phaulon"
+                },
+                {
+                    "BSB Version": " practice ",
+                    "Str Grk": 4229.0,
+                    "lemma": "\u03c0\u03c1\u1fb6\u03b3\u03bc\u03b1",
+                    "xlit": "pragma"
+                }
+            ],
+            "verse_text": "For where jealousy and self-interest <i>exist</i>, there <i>will be</i> disorder and every evil thing."
+        },
+        {
+            "verse_no": 27064,
+            "verse_ref": "Acts 5:4",
+            "verse_data": [
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3780.0,
+                    "lemma": "\u03bf\u1f50\u03c7\u1f76",
+                    "xlit": "ouchi"
+                },
+                {
+                    "BSB Version": " Did it not belong ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u1f14\u03bc\u03b5\u03bd\u03b5\u03bd",
+                    "xlit": "emenen"
+                },
+                {
+                    "BSB Version": " to you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u1f76",
+                    "xlit": "soi"
+                },
+                {
+                    "BSB Version": " before it was sold ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u03bc\u03ad\u03bd\u03bf\u03bd",
+                    "xlit": "menon"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " after it was sold ",
+                    "Str Grk": 4097.0,
+                    "lemma": "\u03c0\u03c1\u03b1\u03b8\u1f72\u03bd",
+                    "xlit": "prathen"
+                },
+                {
+                    "BSB Version": " was it [not] ",
+                    "Str Grk": 5225.0,
+                    "lemma": "\u1f51\u03c0\u1fc6\u03c1\u03c7\u03b5\u03bd",
+                    "xlit": "hyp\u0113rchen"
+                },
+                {
+                    "BSB Version": " at ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " [your] ",
+                    "Str Grk": 4674.0,
+                    "lemma": "\u03c3\u1fc7",
+                    "xlit": "s\u0113"
+                },
+                {
+                    "BSB Version": " disposal ",
+                    "Str Grk": 1849.0,
+                    "lemma": "\u1f10\u03be\u03bf\u03c5\u03c3\u03af\u1fb3",
+                    "xlit": "exousia"
+                },
+                {
+                    "BSB Version": " How ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03c4\u03af",
+                    "xlit": "ti"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " could you conceive ",
+                    "Str Grk": 5087.0,
+                    "lemma": "\u1f14\u03b8\u03bf\u03c5",
+                    "xlit": "ethou"
+                },
+                {
+                    "BSB Version": " such ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " a deed ",
+                    "Str Grk": 4229.0,
+                    "lemma": "\u03c0\u03c1\u1fb6\u03b3\u03bc\u03b1",
+                    "xlit": "pragma"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " heart ",
+                    "Str Grk": 2588.0,
+                    "lemma": "\u03ba\u03b1\u03c1\u03b4\u03af\u1fb3",
+                    "xlit": "kardia"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " You have not lied ",
+                    "Str Grk": 5574.0,
+                    "lemma": "\u1f10\u03c8\u03b5\u03cd\u03c3\u03c9",
+                    "xlit": "epseus\u014d"
+                },
+                {
+                    "BSB Version": " to men ",
+                    "Str Grk": 444.0,
+                    "lemma": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9\u03c2",
+                    "xlit": "anthr\u014dpois"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " to God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1ff7",
+                    "xlit": "The\u014d"
+                }
+            ],
+            "verse_text": "Remaining, did not it remain yours? And having been sold, was it <i>not</i> in the own authority? Why did you purpose this deed in your heart? You have not lied to men, but to God!\""
+        }
+    ],
+    "other_words": [
+        {
+            "number": 4183,
+            "lemma": "\u03c0\u03bf\u03bb\u1f7b\u03c2",
+            "xlit": "pol\u00fds",
+            "pronunciation": "pol-oos'",
+            "kjv_def": "abundant, +\n altogether, common, + far (passed, spent), (+ be of a) great (age,\n deal, -ly, while), long, many, much, oft(-en (-times)), plenteous,\n sore, straitly.",
+            "pspeech": "Adj-NMS",
+            "description": " (singular) much (in any respect) or (plural) many; neuter (singular) as adverbial, largely; neuter (plural) as adverb or noun often, mostly, largely"
+        },
+        {
+            "number": 2192,
+            "lemma": "\u03c3\u03c7\u1f73\u03c9",
+            "xlit": "sch\u00e9\u014d",
+            "pronunciation": "skheh'-o",
+            "kjv_def": "be (able, X hold, possessed\n with), accompany, + begin to amend, can(+ -not), X conceive, count,\n diseased, do + eat, + enjoy, + fear, following, have, hold, keep, +\n lack, + go to law, lie, + must needs, + of necessity, + need, next, +\n recover, + reign, + rest, + return, X sick, take for, + tremble, +\n uncircumcised, use.",
+            "pspeech": "V-PPA-NFS",
+            "description": " to hold (used in very various applications, literally or figuratively, direct or remote; such as possession; ability, contiuity, relation, or condition)"
+        },
+        {
+            "number": 2205,
+            "lemma": "\u03b6\u1fc6\u03bb\u03bf\u03c2",
+            "xlit": "z\u0113los",
+            "pronunciation": "dzay'-los",
+            "kjv_def": "emulation, envy(-ing),\n fervent mind, indignation, jealousy, zeal.",
+            "pspeech": "N-NMS",
+            "description": " properly, heat, i.e. (figuratively) \"zeal\" (in a favorable sense, ardor; in an unfavorable one, jealousy, as of a husband (figuratively, of God), or an enemy, malice)"
+        },
+        {
+            "number": 2588,
+            "lemma": "\u03ba\u03b1\u03c1\u03b4\u1f77\u03b1",
+            "xlit": "kard\u00eda",
+            "pronunciation": "kar-dee'-ah",
+            "kjv_def": "(+ broken-)heart(-ed).",
+            "pspeech": "N-DFS",
+            "description": " the heart, i.e. (figuratively) the thoughts or feelings (mind); also (by analogy) the middle"
+        }
+    ]
+}

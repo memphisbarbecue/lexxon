@@ -1,0 +1,445 @@
+{
+    "wotd": {
+        "number": 106,
+        "lemma": "\u1f04\u03b6\u03c5\u03bc\u03bf\u03c2",
+        "xlit": "\u00e1zymos",
+        "pronunciation": "ad'-zoo-mos",
+        "kjv_def": "unleavened (bread).",
+        "pspeech": "Adj-GNP",
+        "description": " unleavened, i.e. (figuratively) uncorrupted; (in the neutral plural) specially (by implication) the Passover week"
+    },
+    "verses": [
+        {
+            "verse_no": 24756,
+            "verse_ref": "Mark 14:1",
+            "verse_data": [
+                {
+                    "BSB Version": " Now ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Passover ",
+                    "Str Grk": 3957.0,
+                    "lemma": "\u03c0\u03ac\u03c3\u03c7\u03b1",
+                    "xlit": "pascha"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " [Feast of] Unleavened Bread ",
+                    "Str Grk": 106.0,
+                    "lemma": "\u1f04\u03b6\u03c5\u03bc\u03b1",
+                    "xlit": "azyma"
+                },
+                {
+                    "BSB Version": " were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f2e\u03bd",
+                    "xlit": "\u0112n"
+                },
+                {
+                    "BSB Version": " two ",
+                    "Str Grk": 1417.0,
+                    "lemma": "\u03b4\u03cd\u03bf",
+                    "xlit": "dyo"
+                },
+                {
+                    "BSB Version": " days ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
+                    "xlit": "h\u0113meras"
+                },
+                {
+                    "BSB Version": " away ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
+                    "xlit": "meta"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " chief priests ",
+                    "Str Grk": 749.0,
+                    "lemma": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1fd6\u03c2",
+                    "xlit": "archiereis"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " scribes ",
+                    "Str Grk": 1122.0,
+                    "lemma": "\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b5\u1fd6\u03c2",
+                    "xlit": "grammateis"
+                },
+                {
+                    "BSB Version": " were looking for ",
+                    "Str Grk": 2212.0,
+                    "lemma": "\u1f10\u03b6\u03ae\u03c4\u03bf\u03c5\u03bd",
+                    "xlit": "ez\u0113toun"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [a] covert ",
+                    "Str Grk": 1388.0,
+                    "lemma": "\u03b4\u03cc\u03bb\u1ff3",
+                    "xlit": "dol\u014d"
+                },
+                {
+                    "BSB Version": " way ",
+                    "Str Grk": 4459.0,
+                    "lemma": "\u03c0\u1ff6\u03c2",
+                    "xlit": "p\u014ds"
+                },
+                {
+                    "BSB Version": " to arrest ",
+                    "Str Grk": 2902.0,
+                    "lemma": "\u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "krat\u0113santes"
+                },
+                {
+                    "BSB Version": " [Jesus] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " [and] kill [Him] ",
+                    "Str Grk": 615.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03c4\u03b5\u03af\u03bd\u03c9\u03c3\u03b9\u03bd",
+                    "xlit": "apoktein\u014dsin"
+                }
+            ],
+            "verse_text": "And after two days it would be the Passover and the <i>Feast of</i> Unleavened Bread. And the chief priests and the scribes were seeking how, having taken Him by stealth, they might kill <i>Him</i>."
+        },
+        {
+            "verse_no": 25872,
+            "verse_ref": "Luke 22:7",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " came ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f2e\u03bb\u03b8\u03b5\u03bd",
+                    "xlit": "\u0112lthen"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " day ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1",
+                    "xlit": "h\u0113mera"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " Unleavened [Bread] ",
+                    "Str Grk": 106.0,
+                    "lemma": "\u1f00\u03b6\u03cd\u03bc\u03c9\u03bd",
+                    "xlit": "azym\u014dn"
+                },
+                {
+                    "BSB Version": " on ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f97",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Passover lamb ",
+                    "Str Grk": 3957.0,
+                    "lemma": "\u03c0\u03ac\u03c3\u03c7\u03b1",
+                    "xlit": "pascha"
+                },
+                {
+                    "BSB Version": " was to ",
+                    "Str Grk": 1163.0,
+                    "lemma": "\u1f14\u03b4\u03b5\u03b9",
+                    "xlit": "edei"
+                },
+                {
+                    "BSB Version": " be sacrificed ",
+                    "Str Grk": 2380.0,
+                    "lemma": "\u03b8\u03cd\u03b5\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "thyesthai"
+                }
+            ],
+            "verse_text": "And the day of Unleavened <i>Bread</i> came, on which it was necessary for the Passover lamb to be sacrificed."
+        },
+        {
+            "verse_no": 25866,
+            "verse_ref": "Luke 22:1",
+            "verse_data": [
+                {
+                    "BSB Version": " Now ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " Feast ",
+                    "Str Grk": 1859.0,
+                    "lemma": "\u1f11\u03bf\u03c1\u03c4\u1f74",
+                    "xlit": "heort\u0113"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " Unleavened [Bread] ",
+                    "Str Grk": 106.0,
+                    "lemma": "\u1f00\u03b6\u03cd\u03bc\u03c9\u03bd",
+                    "xlit": "azym\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " called ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03b5\u03b3\u03bf\u03bc\u03ad\u03bd\u03b7",
+                    "xlit": "legomen\u0113"
+                },
+                {
+                    "BSB Version": " [the] Passover ",
+                    "Str Grk": 3957.0,
+                    "lemma": "\u03a0\u03ac\u03c3\u03c7\u03b1",
+                    "xlit": "Pascha"
+                },
+                {
+                    "BSB Version": " was approaching ",
+                    "Str Grk": 1448.0,
+                    "lemma": "\u1f2c\u03b3\u03b3\u03b9\u03b6\u03b5\u03bd",
+                    "xlit": "\u0112ngizen"
+                }
+            ],
+            "verse_text": "And the Feast of Unleavened <i>Bread</i>, called Passover, was drawing near."
+        },
+        {
+            "verse_no": 27341,
+            "verse_ref": "Acts 12:3",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " seeing ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f30\u03b4\u1f7c\u03bd",
+                    "xlit": "id\u014dn"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " [this] ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+                    "xlit": "estin"
+                },
+                {
+                    "BSB Version": " pleased ",
+                    "Str Grk": 701.0,
+                    "lemma": "\u1f00\u03c1\u03b5\u03c3\u03c4\u03cc\u03bd",
+                    "xlit": "areston"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " Jews ",
+                    "Str Grk": 2453.0,
+                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03bf\u03b9\u03c2",
+                    "xlit": "Ioudaiois"
+                },
+                {
+                    "BSB Version": " [Herod] proceeded ",
+                    "Str Grk": 4369.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03ad\u03b8\u03b5\u03c4\u03bf",
+                    "xlit": "prosetheto"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " to seize ",
+                    "Str Grk": 4815.0,
+                    "lemma": "\u03c3\u03c5\u03bb\u03bb\u03b1\u03b2\u03b5\u1fd6\u03bd",
+                    "xlit": "syllabein"
+                },
+                {
+                    "BSB Version": " Peter ",
+                    "Str Grk": 4074.0,
+                    "lemma": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03bd",
+                    "xlit": "Petron"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " during ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03c3\u03b1\u03bd",
+                    "xlit": "\u0113san"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03b1\u1f31",
+                    "xlit": "hai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9",
+                    "xlit": "h\u0113merai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " Feast of Unleavened [Bread] ",
+                    "Str Grk": 106.0,
+                    "lemma": "\u1f00\u03b6\u03cd\u03bc\u03c9\u03bd",
+                    "xlit": "azym\u014dn"
+                }
+            ],
+            "verse_text": "And having seen that it is pleasing to the Jews, he proceeded to take Peter also--now these were the days of the Unleavened <i>Bread</i>--"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 4459,
+            "lemma": "\u03c0\u1ff6\u03c2",
+            "xlit": "p\u014ds",
+            "pronunciation": "poce",
+            "kjv_def": "how, after (by) what manner (means), that.",
+            "pspeech": "Adv",
+            "description": " an interrogative particle of manner; in what way? (sometimes the question is indirect, how?); also as exclamation, how much!"
+        },
+        {
+            "number": 2380,
+            "lemma": "\u03b8\u1f7b\u03c9",
+            "xlit": "th\u00fd\u014d",
+            "pronunciation": "thoo'-o",
+            "kjv_def": "kill, (do)\n sacrifice, slay.",
+            "pspeech": "V-RPM/P-NNP",
+            "description": " properly, to rush (breathe hard, blow, smoke), i.e. (by implication) to sacrifice (properly, by fire, but genitive case); by extension to immolate (slaughter for any purpose)"
+        },
+        {
+            "number": 3004,
+            "lemma": "\u03bb\u1f73\u03b3\u03c9",
+            "xlit": "l\u00e9g\u014d",
+            "pronunciation": "leg'-o",
+            "kjv_def": "ask,\n bid, boast, call, describe, give out, name, put forth, say(-ing, on),\n shew, speak, tell, utter.",
+            "pspeech": "V-PPM/P-NMS",
+            "description": " properly, to \"lay\" forth, i.e. (figuratively) relate (in words (usually of systematic or set discourse; whereas \u1f14\u03c0\u03c9(\u00e9p\u014d) and \u03c6\u03b7\u03bc\u1f77(ph\u0113m\u00ed) generally refer to an individual expression or speech respectively; while \u1f10\u03c1\u1f73\u03c9(er\u00e9\u014d) is properly to break silence merely, and \u03bb\u03b1\u03bb\u1f73\u03c9(lal\u00e9\u014d) means an extended or random harangue)); by implication, to mean"
+        },
+        {
+            "number": 3708,
+            "lemma": "\u1f41\u03c1\u1f71\u03c9",
+            "xlit": "hor\u00e1\u014d",
+            "pronunciation": "hor-ah'-o",
+            "kjv_def": "behold, perceive, see,\n take heed.",
+            "pspeech": "V-AIA-1P",
+            "description": " by extension, to attend to; by Hebraism, to experience; passively, to appear"
+        }
+    ]
+}

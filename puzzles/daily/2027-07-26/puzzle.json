@@ -1,0 +1,427 @@
+{
+    "wotd": {
+        "number": 3004,
+        "lemma": "\u03bb\u1f73\u03b3\u03c9",
+        "xlit": "l\u00e9g\u014d",
+        "pronunciation": "leg'-o",
+        "kjv_def": "ask,\n bid, boast, call, describe, give out, name, put forth, say(-ing, on),\n shew, speak, tell, utter.",
+        "pspeech": "V-PPM/P-NMS",
+        "description": " properly, to \"lay\" forth, i.e. (figuratively) relate (in words (usually of systematic or set discourse; whereas \u1f14\u03c0\u03c9(\u00e9p\u014d) and \u03c6\u03b7\u03bc\u1f77(ph\u0113m\u00ed) generally refer to an individual expression or speech respectively; while \u1f10\u03c1\u1f73\u03c9(er\u00e9\u014d) is properly to break silence merely, and \u03bb\u03b1\u03bb\u1f73\u03c9(lal\u00e9\u014d) means an extended or random harangue)); by implication, to mean"
+    },
+    "verses": [
+        {
+            "verse_no": 27183,
+            "verse_ref": "Acts 8:6",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " The ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " crowds ",
+                    "Str Grk": 3793.0,
+                    "lemma": "\u1f44\u03c7\u03bb\u03bf\u03b9",
+                    "xlit": "ochloi"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3661.0,
+                    "lemma": "\u1f41\u03bc\u03bf\u03b8\u03c5\u03bc\u03b1\u03b4\u1f78\u03bd",
+                    "xlit": "homothymadon"
+                },
+                {
+                    "BSB Version": " paid close attention ",
+                    "Str Grk": 4337.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u1fd6\u03c7\u03bf\u03bd",
+                    "xlit": "proseichon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u1f78",
+                    "xlit": "hypo"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " to Philip\u2019s ",
+                    "Str Grk": 5376.0,
+                    "lemma": "\u03a6\u03b9\u03bb\u03af\u03c0\u03c0\u03bf\u03c5",
+                    "xlit": "Philippou"
+                },
+                {
+                    "BSB Version": " message ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03b5\u03b3\u03bf\u03bc\u03ad\u03bd\u03bf\u03b9\u03c2",
+                    "xlit": "legomenois"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 191.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03cd\u03b5\u03b9\u03bd",
+                    "xlit": "akouein"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " to the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " signs ",
+                    "Str Grk": 4592.0,
+                    "lemma": "\u03c3\u03b7\u03bc\u03b5\u1fd6\u03b1",
+                    "xlit": "s\u0113meia"
+                },
+                {
+                    "BSB Version": " they saw ",
+                    "Str Grk": 991.0,
+                    "lemma": "\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\u03bd",
+                    "xlit": "blepein"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f03",
+                    "xlit": "ha"
+                },
+                {
+                    "BSB Version": " him perform ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b5\u03b9",
+                    "xlit": "epoiei"
+                }
+            ],
+            "verse_text": "And the crowds with one accord were giving heed to the things being spoken by Philip in the <i>time</i> for them to hear and to see the signs that he was performing."
+        },
+        {
+            "verse_no": 23410,
+            "verse_ref": "Matthew 9:30",
+            "verse_data": [
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " eyes ",
+                    "Str Grk": 3788.0,
+                    "lemma": "\u1f40\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u03af",
+                    "xlit": "ophthalmoi"
+                },
+                {
+                    "BSB Version": " were opened ",
+                    "Str Grk": 455.0,
+                    "lemma": "\u1f20\u03bd\u03b5\u1ff4\u03c7\u03b8\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "\u0113ne\u014dchth\u0113san"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " warned them sternly ",
+                    "Str Grk": 1690.0,
+                    "lemma": "\u1f10\u03bd\u03b5\u03b2\u03c1\u03b9\u03bc\u03ae\u03b8\u03b7",
+                    "xlit": "enebrim\u0113th\u0113"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03c9\u03bd",
+                    "xlit": "leg\u014dn"
+                },
+                {
+                    "BSB Version": " See that ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f49\u03c1\u1fb6\u03c4\u03b5",
+                    "xlit": "Horate"
+                },
+                {
+                    "BSB Version": " no one ",
+                    "Str Grk": 3367.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u03b5\u1f76\u03c2",
+                    "xlit": "m\u0113deis"
+                },
+                {
+                    "BSB Version": " finds out about this ",
+                    "Str Grk": 1097.0,
+                    "lemma": "\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03ad\u03c4\u03c9",
+                    "xlit": "gin\u014dsket\u014d"
+                }
+            ],
+            "verse_text": "And their eyes were opened. And Jesus strictly instructed them, saying, \"See that no one knows!\""
+        },
+        {
+            "verse_no": 26854,
+            "verse_ref": "John 19:28",
+            "verse_data": [
+                {
+                    "BSB Version": " After ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u039c\u03b5\u03c4\u1f70",
+                    "xlit": "Meta"
+                },
+                {
+                    "BSB Version": " this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " knowing ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03b5\u1f30\u03b4\u1f7c\u03c2",
+                    "xlit": "eid\u014ds"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " everything ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "panta"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2235.0,
+                    "lemma": "\u1f24\u03b4\u03b7",
+                    "xlit": "\u0113d\u0113"
+                },
+                {
+                    "BSB Version": " had now been accomplished ",
+                    "Str Grk": 5055.0,
+                    "lemma": "\u03c4\u03b5\u03c4\u03ad\u03bb\u03b5\u03c3\u03c4\u03b1\u03b9",
+                    "xlit": "tetelestai"
+                },
+                {
+                    "BSB Version": " [and] to ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " fulfill ",
+                    "Str Grk": 5048.0,
+                    "lemma": "\u03c4\u03b5\u03bb\u03b5\u03b9\u03c9\u03b8\u1fc7",
+                    "xlit": "telei\u014dth\u0113"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " Scripture ",
+                    "Str Grk": 1124.0,
+                    "lemma": "\u03b3\u03c1\u03b1\u03c6\u1f74",
+                    "xlit": "graph\u0113"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " I am thirsty ",
+                    "Str Grk": 1372.0,
+                    "lemma": "\u0394\u03b9\u03c8\u1ff6",
+                    "xlit": "Dips\u014d"
+                }
+            ],
+            "verse_text": "After this, Jesus, knowing that now all things had been accomplished, so that Scripture might be fulfilled, says, \"I thirst.\""
+        },
+        {
+            "verse_no": 28314,
+            "verse_ref": "Romans 15:10",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " Again ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " it says ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " Rejoice ",
+                    "Str Grk": 2165.0,
+                    "lemma": "\u0395\u1f50\u03c6\u03c1\u03ac\u03bd\u03b8\u03b7\u03c4\u03b5",
+                    "xlit": "Euphranth\u0113te"
+                },
+                {
+                    "BSB Version": " O Gentiles ",
+                    "Str Grk": 1484.0,
+                    "lemma": "\u1f14\u03b8\u03bd\u03b7",
+                    "xlit": "ethn\u0113"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03c4\u1f70",
+                    "xlit": "meta"
+                },
+                {
+                    "BSB Version": " His ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " people ",
+                    "Str Grk": 2992.0,
+                    "lemma": "\u03bb\u03b1\u03bf\u1fe6",
+                    "xlit": "laou"
+                }
+            ],
+            "verse_text": "And again it says: \"Rejoice you Gentiles, with His people.\""
+        }
+    ],
+    "other_words": [
+        {
+            "number": 5376,
+            "lemma": "\u03a6\u1f77\u03bb\u03b9\u03c0\u03c0\u03bf\u03c2",
+            "xlit": "Ph\u00edlippos",
+            "pronunciation": "fil'-ip-pos",
+            "kjv_def": "Philip.",
+            "pspeech": "N-NMS",
+            "description": " fond of horses; Philippus, the name of four Israelites"
+        },
+        {
+            "number": 3788,
+            "lemma": "\u1f40\u03c6\u03b8\u03b1\u03bb\u03bc\u1f79\u03c2",
+            "xlit": "ophthalm\u00f3s",
+            "pronunciation": "of-thal-mos'",
+            "kjv_def": "eye,\n sight.",
+            "pspeech": "N-NMS",
+            "description": " the eye (literally or figuratively); by implication, vision; figuratively, envy (from the jealous side-glance)"
+        },
+        {
+            "number": 1124,
+            "lemma": "\u03b3\u03c1\u03b1\u03c6\u1f75",
+            "xlit": "graph\u1e17",
+            "pronunciation": "graf-ay'",
+            "kjv_def": "scripture.",
+            "pspeech": "N-DFP",
+            "description": " a document, i.e. holy Writ (or its contents or a statement in it)"
+        },
+        {
+            "number": 2992,
+            "lemma": "\u03bb\u03b1\u1f79\u03c2",
+            "xlit": "la\u00f3s",
+            "pronunciation": "lah-os'",
+            "kjv_def": "people.",
+            "pspeech": "N-AMS",
+            "description": " a people (in general; thus differing from \u03b4\u1fc6\u03bc\u03bf\u03c2(d\u0113mos), which denotes one's own populace)"
+        }
+    ]
+}

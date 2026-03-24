@@ -1,0 +1,487 @@
+{
+    "wotd": {
+        "number": 2470,
+        "lemma": "\u1f34\u03c3\u03bf\u03c2",
+        "xlit": "\u00edsos",
+        "pronunciation": "ee'-sos",
+        "kjv_def": "+ agree, as much, equal, like.",
+        "pspeech": "Adj-AMP",
+        "description": " similar (in amount and kind)"
+    },
+    "verses": [
+        {
+            "verse_no": 26229,
+            "verse_ref": "John 5:18",
+            "verse_data": [
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " Because of ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u0394\u03b9\u1f70",
+                    "xlit": "Dia"
+                },
+                {
+                    "BSB Version": " this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+                    "xlit": "touto"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " Jews ",
+                    "Str Grk": 2453.0,
+                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u1fd6\u03bf\u03b9",
+                    "xlit": "Ioudaioi"
+                },
+                {
+                    "BSB Version": " tried ",
+                    "Str Grk": 2212.0,
+                    "lemma": "\u1f10\u03b6\u03ae\u03c4\u03bf\u03c5\u03bd",
+                    "xlit": "ez\u0113toun"
+                },
+                {
+                    "BSB Version": " all the harder ",
+                    "Str Grk": 3123.0,
+                    "lemma": "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd",
+                    "xlit": "mallon"
+                },
+                {
+                    "BSB Version": " to kill ",
+                    "Str Grk": 615.0,
+                    "lemma": "\u1f00\u03c0\u03bf\u03ba\u03c4\u03b5\u1fd6\u03bd\u03b1\u03b9",
+                    "xlit": "apokteinai"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " Not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " only ",
+                    "Str Grk": 3440.0,
+                    "lemma": "\u03bc\u03cc\u03bd\u03bf\u03bd",
+                    "xlit": "monon"
+                },
+                {
+                    "BSB Version": " was He breaking ",
+                    "Str Grk": 3089.0,
+                    "lemma": "\u1f14\u03bb\u03c5\u03b5\u03bd",
+                    "xlit": "elyen"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Sabbath ",
+                    "Str Grk": 4521.0,
+                    "lemma": "\u03c3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf\u03bd",
+                    "xlit": "sabbaton"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " He was even calling ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u1f14\u03bb\u03b5\u03b3\u03b5\u03bd",
+                    "xlit": "elegen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03cc\u03bd",
+                    "xlit": "Theon"
+                },
+                {
+                    "BSB Version": " His own ",
+                    "Str Grk": 2398.0,
+                    "lemma": "\u1f34\u03b4\u03b9\u03bf\u03bd",
+                    "xlit": "idion"
+                },
+                {
+                    "BSB Version": " Father ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1",
+                    "xlit": "Patera"
+                },
+                {
+                    "BSB Version": " making ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u03c0\u03bf\u03b9\u1ff6\u03bd",
+                    "xlit": "poi\u014dn"
+                },
+                {
+                    "BSB Version": " Himself ",
+                    "Str Grk": 1438.0,
+                    "lemma": "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd",
+                    "xlit": "heauton"
+                },
+                {
+                    "BSB Version": " equal ",
+                    "Str Grk": 2470.0,
+                    "lemma": "\u1f34\u03c3\u03bf\u03bd",
+                    "xlit": "ison"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1ff7",
+                    "xlit": "The\u014d"
+                }
+            ],
+            "verse_text": "Therefore because of this, the Jews were seeking the more to kill Him, because not only was He breaking the Sabbath, but also He was calling God His own Father, making Himself equal to God."
+        },
+        {
+            "verse_no": 23805,
+            "verse_ref": "Matthew 20:12",
+            "verse_data": [
+                {
+                    "BSB Version": " These ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u039f\u1f57\u03c4\u03bf\u03b9",
+                    "xlit": "Houtoi"
+                },
+                {
+                    "BSB Version": " [men who were hired] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " last ",
+                    "Str Grk": 2078.0,
+                    "lemma": "\u1f14\u03c3\u03c7\u03b1\u03c4\u03bf\u03b9",
+                    "xlit": "eschatoi"
+                },
+                {
+                    "BSB Version": " worked ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b7\u03c3\u03b1\u03bd",
+                    "xlit": "epoi\u0113san"
+                },
+                {
+                    "BSB Version": " only one ",
+                    "Str Grk": 1520.0,
+                    "lemma": "\u03bc\u03af\u03b1\u03bd",
+                    "xlit": "mian"
+                },
+                {
+                    "BSB Version": " hour ",
+                    "Str Grk": 5610.0,
+                    "lemma": "\u1f65\u03c1\u03b1\u03bd",
+                    "xlit": "h\u014dran"
+                },
+                {
+                    "BSB Version": " they said ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "legontes"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " you have made ",
+                    "Str Grk": 4160.0,
+                    "lemma": "\u1f10\u03c0\u03bf\u03af\u03b7\u03c3\u03b1\u03c2",
+                    "xlit": "epoi\u0113sas"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " equal ",
+                    "Str Grk": 2470.0,
+                    "lemma": "\u1f34\u03c3\u03bf\u03c5\u03c2",
+                    "xlit": "isous"
+                },
+                {
+                    "BSB Version": " to us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " have borne ",
+                    "Str Grk": 941.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03c4\u03ac\u03c3\u03b1\u03c3\u03b9",
+                    "xlit": "bastasasi"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " burden ",
+                    "Str Grk": 922.0,
+                    "lemma": "\u03b2\u03ac\u03c1\u03bf\u03c2",
+                    "xlit": "baros"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " scorching heat ",
+                    "Str Grk": 2742.0,
+                    "lemma": "\u03ba\u03b1\u03cd\u03c3\u03c9\u03bd\u03b1",
+                    "xlit": "kaus\u014dna"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " day ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
+                    "xlit": "h\u0113meras"
+                }
+            ],
+            "verse_text": "saying, 'These the last have worked one hour, and you have made them equal to us, the <i>ones</i> having borne the burden of the day and the scorching heat.'"
+        },
+        {
+            "verse_no": 29398,
+            "verse_ref": "Philippians 2:6",
+            "verse_data": [
+                {
+                    "BSB Version": " Who ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f4b\u03c2",
+                    "xlit": "Hos"
+                },
+                {
+                    "BSB Version": " existing ",
+                    "Str Grk": 5225.0,
+                    "lemma": "\u1f51\u03c0\u03ac\u03c1\u03c7\u03c9\u03bd",
+                    "xlit": "hyparch\u014dn"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [the] form ",
+                    "Str Grk": 3444.0,
+                    "lemma": "\u03bc\u03bf\u03c1\u03c6\u1fc7",
+                    "xlit": "morph\u0113"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                },
+                {
+                    "BSB Version": " {did} not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03c7",
+                    "xlit": "ouch"
+                },
+                {
+                    "BSB Version": " consider ",
+                    "Str Grk": 2233.0,
+                    "lemma": "\u1f21\u03b3\u03ae\u03c3\u03b1\u03c4\u03bf",
+                    "xlit": "h\u0113g\u0113sato"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u03b5\u1f36\u03bd\u03b1\u03b9",
+                    "xlit": "einai"
+                },
+                {
+                    "BSB Version": " equality ",
+                    "Str Grk": 2470.0,
+                    "lemma": "\u1f34\u03c3\u03b1",
+                    "xlit": "isa"
+                },
+                {
+                    "BSB Version": " with God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1ff7",
+                    "xlit": "The\u014d"
+                },
+                {
+                    "BSB Version": " something to be grasped ",
+                    "Str Grk": 725.0,
+                    "lemma": "\u1f01\u03c1\u03c0\u03b1\u03b3\u03bc\u1f78\u03bd",
+                    "xlit": "harpagmon"
+                }
+            ],
+            "verse_text": "Who, existing in <i>the</i> form of God, did not consider to be equal with God something to be grasped,"
+        },
+        {
+            "verse_no": 24814,
+            "verse_ref": "Mark 14:59",
+            "verse_data": [
+                {
+                    "BSB Version": " But even ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " their ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+                    "xlit": "aut\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " testimony ",
+                    "Str Grk": 3141.0,
+                    "lemma": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1",
+                    "xlit": "martyria"
+                },
+                {
+                    "BSB Version": " was ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03bd",
+                    "xlit": "\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3779.0,
+                    "lemma": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+                    "xlit": "hout\u014ds"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3761.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u1f72",
+                    "xlit": "oude"
+                },
+                {
+                    "BSB Version": " inconsistent ",
+                    "Str Grk": 2470.0,
+                    "lemma": "\u1f34\u03c3\u03b7",
+                    "xlit": "is\u0113"
+                }
+            ],
+            "verse_text": "And their testimony was thus not alike."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 615,
+            "lemma": "\u1f00\u03c0\u03bf\u03ba\u03c4\u03b5\u1f77\u03bd\u03c9",
+            "xlit": "apokte\u00edn\u014d",
+            "pronunciation": "ap-ok-ti'-no",
+            "kjv_def": "put to death, kill, slay.",
+            "pspeech": "V-PPA-GMP",
+            "description": " to kill outright; figuratively, to destroy"
+        },
+        {
+            "number": 941,
+            "lemma": "\u03b2\u03b1\u03c3\u03c4\u1f71\u03b6\u03c9",
+            "xlit": "bast\u00e1z\u014d",
+            "pronunciation": "bas-tad'-zo",
+            "kjv_def": "bear, carry, take up.",
+            "pspeech": "V-ANA",
+            "description": " to lift, literally or figuratively (endure, declare, sustain, receive, etc.)"
+        },
+        {
+            "number": 2233,
+            "lemma": "\u1f21\u03b3\u1f73\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "h\u0113g\u00e9omai",
+            "pronunciation": "hayg-eh'-om-ahee",
+            "kjv_def": "account, (be) chief, count, esteem, governor, judge, have\n the rule over, suppose, think.",
+            "pspeech": "V-PPM/P-NMS",
+            "description": " to lead, i.e. command (with official authority); figuratively, to deem, i.e. consider"
+        },
+        {
+            "number": 3141,
+            "lemma": "\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u1f77\u03b1",
+            "xlit": "martyr\u00eda",
+            "pronunciation": "mar-too-ree'-ah",
+            "kjv_def": "record,\n report, testimony, witness.",
+            "pspeech": "N-AFS",
+            "description": " evidence given (judicially or genitive case)"
+        }
+    ]
+}

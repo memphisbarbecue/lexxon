@@ -1,0 +1,511 @@
+{
+    "wotd": {
+        "number": 3306,
+        "lemma": "\u03bc\u1f73\u03bd\u03c9",
+        "xlit": "m\u00e9n\u014d",
+        "pronunciation": "men'-o",
+        "kjv_def": "abide, continue, dwell, endure, be present, remain,\n stand, tarry (for), X thine own.",
+        "pspeech": "V-AMA-2P",
+        "description": " to stay (in a given place, state, relation or expectancy)"
+    },
+    "verses": [
+        {
+            "verse_no": 26083,
+            "verse_ref": "John 1:38",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " turned ",
+                    "Str Grk": 4762.0,
+                    "lemma": "\u03a3\u03c4\u03c1\u03b1\u03c6\u03b5\u1f76\u03c2",
+                    "xlit": "Strapheis"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " saw ",
+                    "Str Grk": 2300.0,
+                    "lemma": "\u03b8\u03b5\u03b1\u03c3\u03ac\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "theasamenos"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " following ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u1fe6\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "akolouthountas"
+                },
+                {
+                    "BSB Version": " What ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03a4\u03af",
+                    "xlit": "Ti"
+                },
+                {
+                    "BSB Version": " do you want ",
+                    "Str Grk": 2212.0,
+                    "lemma": "\u03b6\u03b7\u03c4\u03b5\u1fd6\u03c4\u03b5",
+                    "xlit": "z\u0113teite"
+                },
+                {
+                    "BSB Version": " He asked ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u039f\u1f31",
+                    "xlit": "Hoi"
+                },
+                {
+                    "BSB Version": " They said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b1\u03bd",
+                    "xlit": "eipan"
+                },
+                {
+                    "BSB Version": " to Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " Rabbi ",
+                    "Str Grk": 4461.0,
+                    "lemma": "\u1fec\u03b1\u03b2\u03b2\u03af",
+                    "xlit": "Rhabbi"
+                },
+                {
+                    "BSB Version": " (which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " means ",
+                    "Str Grk": 3177.0,
+                    "lemma": "\u03bc\u03b5\u03b8\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03c5\u03cc\u03bc\u03b5\u03bd\u03bf\u03bd",
+                    "xlit": "metherm\u0113neuomenon"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "legetai"
+                },
+                {
+                    "BSB Version": " Teacher) ",
+                    "Str Grk": 1320.0,
+                    "lemma": "\u0394\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03b5",
+                    "xlit": "Didaskale"
+                },
+                {
+                    "BSB Version": " where ",
+                    "Str Grk": 4226.0,
+                    "lemma": "\u03a0\u03bf\u1fe6",
+                    "xlit": "Pou"
+                },
+                {
+                    "BSB Version": " are You staying ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u03bc\u03ad\u03bd\u03b5\u03b9\u03c2",
+                    "xlit": "meneis"
+                }
+            ],
+            "verse_text": "Then Jesus having turned and having beheld them following, says to them, \"What do you seek?\" And they said to Him, \"Rabbi\" (which being translated is to say Teacher), \"where are You staying?\""
+        },
+        {
+            "verse_no": 26413,
+            "verse_ref": "John 8:31",
+            "verse_data": [
+                {
+                    "BSB Version": " So ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " [He] ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u1f1c\u03bb\u03b5\u03b3\u03b5\u03bd",
+                    "xlit": "Elegen"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " Jews ",
+                    "Str Grk": 2453.0,
+                    "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u03af\u03bf\u03c5\u03c2",
+                    "xlit": "Ioudaious"
+                },
+                {
+                    "BSB Version": " [who] had believed ",
+                    "Str Grk": 4100.0,
+                    "lemma": "\u03c0\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03ba\u03cc\u03c4\u03b1\u03c2",
+                    "xlit": "pepisteukotas"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f18\u1f70\u03bd",
+                    "xlit": "Ean"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "hymeis"
+                },
+                {
+                    "BSB Version": " continue ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u03bc\u03b5\u03af\u03bd\u03b7\u03c4\u03b5",
+                    "xlit": "mein\u0113te"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1699.0,
+                    "lemma": "\u1f10\u03bc\u1ff7",
+                    "xlit": "em\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " word ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u1ff3",
+                    "xlit": "log\u014d"
+                },
+                {
+                    "BSB Version": " you are ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f10\u03c3\u03c4\u03b5",
+                    "xlit": "este"
+                },
+                {
+                    "BSB Version": " truly ",
+                    "Str Grk": 230.0,
+                    "lemma": "\u1f00\u03bb\u03b7\u03b8\u1ff6\u03c2",
+                    "xlit": "al\u0113th\u014ds"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03cd",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " disciples ",
+                    "Str Grk": 3101.0,
+                    "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03af",
+                    "xlit": "math\u0113tai"
+                }
+            ],
+            "verse_text": "Therefore Jesus was saying to the Jews having believed in Him, \"If you abide in My word, you are truly My disciples."
+        },
+        {
+            "verse_no": 26084,
+            "verse_ref": "John 1:39",
+            "verse_data": [
+                {
+                    "BSB Version": " Come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f1c\u03c1\u03c7\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "Erchesthe"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " see ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f44\u03c8\u03b5\u03c3\u03b8\u03b5",
+                    "xlit": "opsesthe"
+                },
+                {
+                    "BSB Version": " He replied ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u039b\u03ad\u03b3\u03b5\u03b9",
+                    "xlit": "Legei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " So ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " they went ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f26\u03bb\u03b8\u03b1\u03bd",
+                    "xlit": "\u0113lthan"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u03b5\u1f36\u03b4\u03b1\u03bd",
+                    "xlit": "eidan"
+                },
+                {
+                    "BSB Version": " where ",
+                    "Str Grk": 4225.0,
+                    "lemma": "\u03c0\u03bf\u1fe6",
+                    "xlit": "pou"
+                },
+                {
+                    "BSB Version": " He was staying ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u03bc\u03ad\u03bd\u03b5\u03b9",
+                    "xlit": "menei"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " spent ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u1f14\u03bc\u03b5\u03b9\u03bd\u03b1\u03bd",
+                    "xlit": "emeinan"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u03b7\u03bd",
+                    "xlit": "ekein\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " day ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03bd",
+                    "xlit": "h\u0113meran"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3844.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u2019",
+                    "xlit": "par\u2019"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " It was ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03bd",
+                    "xlit": "\u0113n"
+                },
+                {
+                    "BSB Version": " about ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " [the] tenth ",
+                    "Str Grk": 1182.0,
+                    "lemma": "\u03b4\u03b5\u03ba\u03ac\u03c4\u03b7",
+                    "xlit": "dekat\u0113"
+                },
+                {
+                    "BSB Version": " hour ",
+                    "Str Grk": 5610.0,
+                    "lemma": "\u1f65\u03c1\u03b1",
+                    "xlit": "h\u014dra"
+                }
+            ],
+            "verse_text": "He says to them, \"Come, and you will see.\" So they went and saw where He abides, and they stayed with Him that day. It was about <i>the</i> tenth hour."
+        },
+        {
+            "verse_no": 26694,
+            "verse_ref": "John 14:25",
+            "verse_data": [
+                {
+                    "BSB Version": " All this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03a4\u03b1\u1fe6\u03c4\u03b1",
+                    "xlit": "Tauta"
+                },
+                {
+                    "BSB Version": " I have spoken ",
+                    "Str Grk": 2980.0,
+                    "lemma": "\u03bb\u03b5\u03bb\u03ac\u03bb\u03b7\u03ba\u03b1",
+                    "xlit": "lelal\u0113ka"
+                },
+                {
+                    "BSB Version": " to you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " [while] I am still ",
+                    "Str Grk": 3306.0,
+                    "lemma": "\u03bc\u03ad\u03bd\u03c9\u03bd",
+                    "xlit": "men\u014dn"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3844.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u2019",
+                    "xlit": "par\u2019"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                }
+            ],
+            "verse_text": "These things I have said to you <i>while</i> abiding with you."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2300,
+            "lemma": "\u03b8\u03b5\u1f71\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "the\u00e1omai",
+            "pronunciation": "theh-ah'-om-ahee",
+            "kjv_def": "behold, look (upon), see.",
+            "pspeech": "V-ANP",
+            "description": " to look closely at, i.e. (by implication) perceive (literally or figuratively); by extension to visit"
+        },
+        {
+            "number": 2453,
+            "lemma": "\u1f38\u03bf\u03c5\u03b4\u03b1\u1fd6\u03bf\u03c2",
+            "xlit": "Iouda\u00eeos",
+            "pronunciation": "ee-oo-dah'-yos",
+            "kjv_def": "Jew(-ess), of Jud\u00e6a.",
+            "pspeech": "Adj-GMP",
+            "description": " Jud\u00e6an, i.e. belonging to Jehudah"
+        },
+        {
+            "number": 2250,
+            "lemma": "\u1f21\u03bc\u1f73\u03c1\u03b1",
+            "xlit": "h\u0113m\u00e9ra",
+            "pronunciation": "hay-mer'-ah",
+            "kjv_def": "age, + alway, (mid-)day (by day, (-ly)), +\n for ever, judgment, (day) time, while, years.",
+            "pspeech": "N-DFP",
+            "description": " day, i.e. (literally) the time space between dawn and dark, or the whole 24 hours (but several days were usually reckoned by the Jews as inclusive of the parts of both extremes); figuratively, a period (always defined more or less clearly by the context)"
+        },
+        {
+            "number": 2980,
+            "lemma": "\u03bb\u03b1\u03bb\u1f73\u03c9",
+            "xlit": "lal\u00e9\u014d",
+            "pronunciation": "lal-eh'-o",
+            "kjv_def": "preach, say, speak (after), talk, tell, utter.",
+            "pspeech": "V-PPA-GMS",
+            "description": " to talk, i.e. utter words"
+        }
+    ]
+}

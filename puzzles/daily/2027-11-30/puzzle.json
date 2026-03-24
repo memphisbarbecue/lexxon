@@ -1,0 +1,505 @@
+{
+    "wotd": {
+        "number": 378,
+        "lemma": "\u1f00\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u1f79\u03c9",
+        "xlit": "anapl\u0113r\u00f3\u014d",
+        "pronunciation": "an-ap-lay-ro'-o",
+        "kjv_def": "fill up,\n fulfill, occupy, supply.",
+        "pspeech": "V-PIM/P-3S",
+        "description": " to complete; by implication, to occupy, supply; figuratively, to accomplish (by coincidence ot obedience)"
+    },
+    "verses": [
+        {
+            "verse_no": 28695,
+            "verse_ref": "1 Corinthians 14:16",
+            "verse_data": [
+                {
+                    "BSB Version": " Otherwise ",
+                    "Str Grk": 1893.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u1f76",
+                    "xlit": "epei"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " you speak a blessing ",
+                    "Str Grk": 2127.0,
+                    "lemma": "\u03b5\u1f50\u03bb\u03bf\u03b3\u1fc7\u03c2",
+                    "xlit": "eulog\u0113s"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " spirit ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b9",
+                    "xlit": "pneumati"
+                },
+                {
+                    "BSB Version": " how ",
+                    "Str Grk": 4459.0,
+                    "lemma": "\u03c0\u1ff6\u03c2",
+                    "xlit": "p\u014ds"
+                },
+                {
+                    "BSB Version": " {can} [someone] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 378.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u1ff6\u03bd",
+                    "xlit": "anapl\u0113r\u014dn"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 5117.0,
+                    "lemma": "\u03c4\u03cc\u03c0\u03bf\u03bd",
+                    "xlit": "topon"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " who is uninstructed ",
+                    "Str Grk": 2399.0,
+                    "lemma": "\u1f30\u03b4\u03b9\u03ce\u03c4\u03bf\u03c5",
+                    "xlit": "idi\u014dtou"
+                },
+                {
+                    "BSB Version": " say ",
+                    "Str Grk": 2046.0,
+                    "lemma": "\u1f10\u03c1\u03b5\u1fd6",
+                    "xlit": "erei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " Amen ",
+                    "Str Grk": 281.0,
+                    "lemma": "\u1f08\u03bc\u03ae\u03bd",
+                    "xlit": "Am\u0113n"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4674.0,
+                    "lemma": "\u03c3\u1fc7",
+                    "xlit": "s\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " thanksgiving ",
+                    "Str Grk": 2169.0,
+                    "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u1fb3",
+                    "xlit": "eucharistia"
+                },
+                {
+                    "BSB Version": " since ",
+                    "Str Grk": 1894.0,
+                    "lemma": "\u1f10\u03c0\u03b5\u03b9\u03b4\u1f74",
+                    "xlit": "epeid\u0113"
+                },
+                {
+                    "BSB Version": " he does not know ",
+                    "Str Grk": 1492.0,
+                    "lemma": "\u03bf\u1f36\u03b4\u03b5\u03bd",
+                    "xlit": "oiden"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03c4\u03af",
+                    "xlit": "ti"
+                },
+                {
+                    "BSB Version": " you are saying ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9\u03c2",
+                    "xlit": "legeis"
+                }
+            ],
+            "verse_text": "Otherwise if you bless with the spirit, how will the <i>one</i> filling the place of the uninstructed say the \"Amen\" at your thanksgiving, since he knows not what you say?"
+        },
+        {
+            "verse_no": 28794,
+            "verse_ref": "1 Corinthians 16:17",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " I am glad that ",
+                    "Str Grk": 5463.0,
+                    "lemma": "\u03a7\u03b1\u03af\u03c1\u03c9",
+                    "xlit": "Chair\u014d"
+                },
+                {
+                    "BSB Version": " Stephanas ",
+                    "Str Grk": 4734.0,
+                    "lemma": "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u1fb6",
+                    "xlit": "Stephana"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Fortunatus ",
+                    "Str Grk": 5415.0,
+                    "lemma": "\u03a6\u03bf\u03c1\u03c4\u03bf\u03c5\u03bd\u03ac\u03c4\u03bf\u03c5",
+                    "xlit": "Phortounatou"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Achaicus ",
+                    "Str Grk": 883.0,
+                    "lemma": "\u1f08\u03c7\u03b1\u03ca\u03ba\u03bf\u1fe6",
+                    "xlit": "Achaikou"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " have arrived ",
+                    "Str Grk": 3952.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u1fb3",
+                    "xlit": "parousia"
+                },
+                {
+                    "BSB Version": " because ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " they ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03bf\u1f57\u03c4\u03bf\u03b9",
+                    "xlit": "houtoi"
+                },
+                {
+                    "BSB Version": " have supplied ",
+                    "Str Grk": 378.0,
+                    "lemma": "\u1f00\u03bd\u03b5\u03c0\u03bb\u03ae\u03c1\u03c9\u03c3\u03b1\u03bd",
+                    "xlit": "anepl\u0113r\u014dsan"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " was lacking ",
+                    "Str Grk": 5303.0,
+                    "lemma": "\u1f51\u03c3\u03c4\u03ad\u03c1\u03b7\u03bc\u03b1",
+                    "xlit": "hyster\u0113ma"
+                },
+                {
+                    "BSB Version": " from you ",
+                    "Str Grk": 5212.0,
+                    "lemma": "\u1f51\u03bc\u03ad\u03c4\u03b5\u03c1\u03bf\u03bd",
+                    "xlit": "hymeteron"
+                }
+            ],
+            "verse_text": "Now I rejoice at the coming of Stephanas and Fortunatus and Achaicus, because these have filled up your deficiency."
+        },
+        {
+            "verse_no": 29422,
+            "verse_ref": "Philippians 2:30",
+            "verse_data": [
+                {
+                    "BSB Version": " because ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " he nearly ",
+                    "Str Grk": 1448.0,
+                    "lemma": "\u1f24\u03b3\u03b3\u03b9\u03c3\u03b5\u03bd",
+                    "xlit": "\u0113ngisen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3360.0,
+                    "lemma": "\u03bc\u03ad\u03c7\u03c1\u03b9",
+                    "xlit": "mechri"
+                },
+                {
+                    "BSB Version": " died ",
+                    "Str Grk": 2288.0,
+                    "lemma": "\u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5",
+                    "xlit": "thanatou"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " work ",
+                    "Str Grk": 2041.0,
+                    "lemma": "\u1f14\u03c1\u03b3\u03bf\u03bd",
+                    "xlit": "ergon"
+                },
+                {
+                    "BSB Version": " of Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+                    "xlit": "Christou"
+                },
+                {
+                    "BSB Version": " risking ",
+                    "Str Grk": 3851.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03b2\u03bf\u03bb\u03b5\u03c5\u03c3\u03ac\u03bc\u03b5\u03bd\u03bf\u03c2",
+                    "xlit": "paraboleusamenos"
+                },
+                {
+                    "BSB Version": " [his] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " life ",
+                    "Str Grk": 5590.0,
+                    "lemma": "\u03c8\u03c5\u03c7\u1fc7",
+                    "xlit": "psych\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " to make up for ",
+                    "Str Grk": 378.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03ce\u03c3\u1fc3",
+                    "xlit": "anapl\u0113r\u014ds\u0113"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " deficit ",
+                    "Str Grk": 5303.0,
+                    "lemma": "\u1f51\u03c3\u03c4\u03ad\u03c1\u03b7\u03bc\u03b1",
+                    "xlit": "hyster\u0113ma"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " service ",
+                    "Str Grk": 3009.0,
+                    "lemma": "\u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1\u03c2",
+                    "xlit": "leitourgias"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u03cc\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03b5",
+                    "xlit": "me"
+                }
+            ],
+            "verse_text": "because for the sake of the work of Christ he came near unto death, having disregarded <i>his</i> life so that he might fill up your deficit of service toward me."
+        },
+        {
+            "verse_no": 29191,
+            "verse_ref": "Galatians 6:2",
+            "verse_data": [
+                {
+                    "BSB Version": " Carry ",
+                    "Str Grk": 941.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03c4\u03ac\u03b6\u03b5\u03c4\u03b5",
+                    "xlit": "bastazete"
+                },
+                {
+                    "BSB Version": " one another\u2019s ",
+                    "Str Grk": 240.0,
+                    "lemma": "\u1f08\u03bb\u03bb\u03ae\u03bb\u03c9\u03bd",
+                    "xlit": "All\u0113l\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " burdens ",
+                    "Str Grk": 922.0,
+                    "lemma": "\u03b2\u03ac\u03c1\u03b7",
+                    "xlit": "bar\u0113"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " in this way ",
+                    "Str Grk": 3779.0,
+                    "lemma": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+                    "xlit": "hout\u014ds"
+                },
+                {
+                    "BSB Version": " you will fulfill ",
+                    "Str Grk": 378.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03ce\u03c3\u03b5\u03c4\u03b5",
+                    "xlit": "anapl\u0113r\u014dsete"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " law ",
+                    "Str Grk": 3551.0,
+                    "lemma": "\u03bd\u03cc\u03bc\u03bf\u03bd",
+                    "xlit": "nomon"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of Christ ",
+                    "Str Grk": 5547.0,
+                    "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+                    "xlit": "Christou"
+                }
+            ],
+            "verse_text": "Bear one another's burdens and thus you will fulfill the law of Christ."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2046,
+            "lemma": "\u1f10\u03c1\u1f73\u03c9",
+            "xlit": "er\u00e9\u014d",
+            "pronunciation": "er-eh'-o",
+            "kjv_def": "call, say, speak (of), tell.",
+            "pspeech": "V-APP-NNS",
+            "description": " an alternate for \u1f14\u03c0\u03c9(\u00e9p\u014d) in certain tenses; to utter, i.e. speak or say"
+        },
+        {
+            "number": 5463,
+            "lemma": "\u03c7\u03b1\u1f77\u03c1\u03c9",
+            "xlit": "cha\u00edr\u014d",
+            "pronunciation": "khah'-ee-ro",
+            "kjv_def": "farewell, be glad, God speed, greeting, hall, joy(- fully),\n rejoice.",
+            "pspeech": "V-AIP-3P",
+            "description": " to be \"cheer\"ful, i.e. calmly happy or well-off; impersonally, especially as salutation (on meeting or parting), be well"
+        },
+        {
+            "number": 2288,
+            "lemma": "\u03b8\u1f71\u03bd\u03b1\u03c4\u03bf\u03c2",
+            "xlit": "th\u00e1natos",
+            "pronunciation": "than'-at-os",
+            "kjv_def": "X deadly, (be\u2026) death.",
+            "pspeech": "N-GMS",
+            "description": " (properly, an adjective used as a noun) death (literally or figuratively)"
+        },
+        {
+            "number": 941,
+            "lemma": "\u03b2\u03b1\u03c3\u03c4\u1f71\u03b6\u03c9",
+            "xlit": "bast\u00e1z\u014d",
+            "pronunciation": "bas-tad'-zo",
+            "kjv_def": "bear, carry, take up.",
+            "pspeech": "V-ANA",
+            "description": " to lift, literally or figuratively (endure, declare, sustain, receive, etc.)"
+        }
+    ]
+}

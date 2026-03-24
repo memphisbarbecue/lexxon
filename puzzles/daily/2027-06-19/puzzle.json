@@ -1,0 +1,535 @@
+{
+    "wotd": {
+        "number": 5339,
+        "lemma": "\u03c6\u03b5\u1f77\u03b4\u03bf\u03bc\u03b1\u03b9",
+        "xlit": "phe\u00eddomai",
+        "pronunciation": "fi'-dom-ahee",
+        "kjv_def": "forbear, spare.",
+        "pspeech": "V-PPM/P-NMP",
+        "description": " to be chary of, i.e. (subjectively) to abstain or (objectively) to treat leniently"
+    },
+    "verses": [
+        {
+            "verse_no": 28231,
+            "verse_ref": "Romans 11:21",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u03b5\u1f30",
+                    "xlit": "ei"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " {did} not ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " spare ",
+                    "Str Grk": 5339.0,
+                    "lemma": "\u1f10\u03c6\u03b5\u03af\u03c3\u03b1\u03c4\u03bf",
+                    "xlit": "epheisato"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u1f70",
+                    "xlit": "kata"
+                },
+                {
+                    "BSB Version": " natural ",
+                    "Str Grk": 5449.0,
+                    "lemma": "\u03c6\u03cd\u03c3\u03b9\u03bd",
+                    "xlit": "physin"
+                },
+                {
+                    "BSB Version": " branches ",
+                    "Str Grk": 2798.0,
+                    "lemma": "\u03ba\u03bb\u03ac\u03b4\u03c9\u03bd",
+                    "xlit": "klad\u014dn"
+                },
+                {
+                    "BSB Version": " {He will} certainly not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f75",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 4459.0,
+                    "lemma": "\u03c0\u03c9\u03c2",
+                    "xlit": "p\u014ds"
+                },
+                {
+                    "BSB Version": " spare ",
+                    "Str Grk": 5339.0,
+                    "lemma": "\u03c6\u03b5\u03af\u03c3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "pheisetai"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u1fe6",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " [either] ",
+                    "Str Grk": 3761.0,
+                    "lemma": "\u03bf\u1f50\u03b4\u1f72",
+                    "xlit": "oude"
+                }
+            ],
+            "verse_text": "For if God did not at all spare the natural branches, neither will He spare you."
+        },
+        {
+            "verse_no": 28149,
+            "verse_ref": "Romans 8:32",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1065.0,
+                    "lemma": "\u03b3\u03b5",
+                    "xlit": "ge"
+                },
+                {
+                    "BSB Version": " He who ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f45\u03c2",
+                    "xlit": "hos"
+                },
+                {
+                    "BSB Version": " did not spare ",
+                    "Str Grk": 5339.0,
+                    "lemma": "\u1f10\u03c6\u03b5\u03af\u03c3\u03b1\u03c4\u03bf",
+                    "xlit": "epheisato"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " [His] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " own ",
+                    "Str Grk": 2398.0,
+                    "lemma": "\u1f30\u03b4\u03af\u03bf\u03c5",
+                    "xlit": "idiou"
+                },
+                {
+                    "BSB Version": " Son ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03a5\u1f31\u03bf\u1fe6",
+                    "xlit": "Huiou"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " gave ",
+                    "Str Grk": 3860.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03ba\u03b5\u03bd",
+                    "xlit": "pared\u014dken"
+                },
+                {
+                    "BSB Version": " Him up ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " for ",
+                    "Str Grk": 5228.0,
+                    "lemma": "\u1f51\u03c0\u1f72\u03c1",
+                    "xlit": "hyper"
+                },
+                {
+                    "BSB Version": " us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
+                    "xlit": "pant\u014dn"
+                },
+                {
+                    "BSB Version": " how ",
+                    "Str Grk": 4459.0,
+                    "lemma": "\u03c0\u1ff6\u03c2",
+                    "xlit": "p\u014ds"
+                },
+                {
+                    "BSB Version": " {will He} not ",
+                    "Str Grk": 3780.0,
+                    "lemma": "\u03bf\u1f50\u03c7\u1f76",
+                    "xlit": "ouchi"
+                },
+                {
+                    "BSB Version": " also ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " along with ",
+                    "Str Grk": 4862.0,
+                    "lemma": "\u03c3\u1f7a\u03bd",
+                    "xlit": "syn"
+                },
+                {
+                    "BSB Version": " Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " freely give ",
+                    "Str Grk": 5483.0,
+                    "lemma": "\u03c7\u03b1\u03c1\u03af\u03c3\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "charisetai"
+                },
+                {
+                    "BSB Version": " us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                },
+                {
+                    "BSB Version": " all ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+                    "xlit": "panta"
+                },
+                {
+                    "BSB Version": " things ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                }
+            ],
+            "verse_text": "For He who spared not the own Son, but gave Him up for us all, how will He not also, with Him, grant us all things?"
+        },
+        {
+            "verse_no": 30506,
+            "verse_ref": "2 Peter 2:5",
+            "verse_data": [
+                {
+                    "BSB Version": " [if] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " He did not spare ",
+                    "Str Grk": 5339.0,
+                    "lemma": "\u1f10\u03c6\u03b5\u03af\u03c3\u03b1\u03c4\u03bf",
+                    "xlit": "epheisato"
+                },
+                {
+                    "BSB Version": " [the] ancient ",
+                    "Str Grk": 744.0,
+                    "lemma": "\u1f00\u03c1\u03c7\u03b1\u03af\u03bf\u03c5",
+                    "xlit": "archaiou"
+                },
+                {
+                    "BSB Version": " world ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u03bf\u03c5",
+                    "xlit": "kosmou"
+                },
+                {
+                    "BSB Version": " when He brought ",
+                    "Str Grk": 1863.0,
+                    "lemma": "\u1f10\u03c0\u03ac\u03be\u03b1\u03c2",
+                    "xlit": "epaxas"
+                },
+                {
+                    "BSB Version": " [the] flood ",
+                    "Str Grk": 2627.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03b1\u03ba\u03bb\u03c5\u03c3\u03bc\u1f78\u03bd",
+                    "xlit": "kataklysmon"
+                },
+                {
+                    "BSB Version": " [on its] ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u1ff3",
+                    "xlit": "kosm\u014d"
+                },
+                {
+                    "BSB Version": " ungodly [people] ",
+                    "Str Grk": 765.0,
+                    "lemma": "\u1f00\u03c3\u03b5\u03b2\u1ff6\u03bd",
+                    "xlit": "aseb\u014dn"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " preserved ",
+                    "Str Grk": 5442.0,
+                    "lemma": "\u1f10\u03c6\u03cd\u03bb\u03b1\u03be\u03b5\u03bd",
+                    "xlit": "ephylaxen"
+                },
+                {
+                    "BSB Version": " Noah ",
+                    "Str Grk": 3575.0,
+                    "lemma": "\u039d\u1ff6\u03b5",
+                    "xlit": "N\u014de"
+                },
+                {
+                    "BSB Version": " a preacher ",
+                    "Str Grk": 2783.0,
+                    "lemma": "\u03ba\u03ae\u03c1\u03c5\u03ba\u03b1",
+                    "xlit": "k\u0113ryka"
+                },
+                {
+                    "BSB Version": " of righteousness ",
+                    "Str Grk": 1343.0,
+                    "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u03b7\u03c2",
+                    "xlit": "dikaiosyn\u0113s"
+                },
+                {
+                    "BSB Version": " among the eight ",
+                    "Str Grk": 3590.0,
+                    "lemma": "\u1f44\u03b3\u03b4\u03bf\u03bf\u03bd",
+                    "xlit": "ogdoon"
+                }
+            ],
+            "verse_text": "and He did not spare <i>the</i> ancient world, but preserved Noah, a herald of righteousness, one of eight, having brought <i>the</i> flood upon <i>the</i> world of <i>the</i> ungodly;"
+        },
+        {
+            "verse_no": 28516,
+            "verse_ref": "1 Corinthians 7:28",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " you do marry ",
+                    "Str Grk": 1060.0,
+                    "lemma": "\u03b3\u03b1\u03bc\u03ae\u03c3\u1fc3\u03c2",
+                    "xlit": "gam\u0113s\u0113s"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03c7",
+                    "xlit": "ouch"
+                },
+                {
+                    "BSB Version": " you have not sinned ",
+                    "Str Grk": 264.0,
+                    "lemma": "\u1f25\u03bc\u03b1\u03c1\u03c4\u03b5\u03c2",
+                    "xlit": "h\u0113martes"
+                },
+                {
+                    "BSB Version": " And ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " a virgin ",
+                    "Str Grk": 3933.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b8\u03ad\u03bd\u03bf\u03c2",
+                    "xlit": "parthenos"
+                },
+                {
+                    "BSB Version": " marries ",
+                    "Str Grk": 1060.0,
+                    "lemma": "\u03b3\u03ae\u03bc\u1fc3",
+                    "xlit": "g\u0113m\u0113"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03c7",
+                    "xlit": "ouch"
+                },
+                {
+                    "BSB Version": " she has not sinned ",
+                    "Str Grk": 264.0,
+                    "lemma": "\u1f25\u03bc\u03b1\u03c1\u03c4\u03b5\u03bd",
+                    "xlit": "h\u0113marten"
+                },
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " [those who marry] ",
+                    "Str Grk": 5108.0,
+                    "lemma": "\u03c4\u03bf\u03b9\u03bf\u1fe6\u03c4\u03bf\u03b9",
+                    "xlit": "toioutoi"
+                },
+                {
+                    "BSB Version": " will face ",
+                    "Str Grk": 2192.0,
+                    "lemma": "\u1f15\u03be\u03bf\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "hexousin"
+                },
+                {
+                    "BSB Version": " troubles ",
+                    "Str Grk": 2347.0,
+                    "lemma": "\u03b8\u03bb\u1fd6\u03c8\u03b9\u03bd",
+                    "xlit": "thlipsin"
+                },
+                {
+                    "BSB Version": " in [this] ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " life ",
+                    "Str Grk": 4561.0,
+                    "lemma": "\u03c3\u03b1\u03c1\u03ba\u1f76",
+                    "xlit": "sarki"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " I ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f10\u03b3\u1f7c",
+                    "xlit": "eg\u014d"
+                },
+                {
+                    "BSB Version": " [want to] spare ",
+                    "Str Grk": 5339.0,
+                    "lemma": "\u03c6\u03b5\u03af\u03b4\u03bf\u03bc\u03b1\u03b9",
+                    "xlit": "pheidomai"
+                },
+                {
+                    "BSB Version": " you [this] ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                }
+            ],
+            "verse_text": "But if also you shall have married, you did not sin; and if the virgin shall have married, she did not sin. But such will have tribulation in the flesh, and I am sparing you."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 5449,
+            "lemma": "\u03c6\u1f7b\u03c3\u03b9\u03c2",
+            "xlit": "ph\u00fdsis",
+            "pronunciation": "foo'-sis",
+            "kjv_def": "(man-)kind,\n nature(-al).",
+            "pspeech": "N-AFS",
+            "description": " growth (by germination or expansion), i.e. (by implication) natural production (lineal descent); by extension, a genus or sort; figuratively, native disposition, constitution or usage"
+        },
+        {
+            "number": 5483,
+            "lemma": "\u03c7\u03b1\u03c1\u1f77\u03b6\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "char\u00edzomai",
+            "pronunciation": "khar-id'-zom-ahee",
+            "kjv_def": "deliver, (frankly) forgive, (freely)\n give, grant.",
+            "pspeech": "V-AIM-3S",
+            "description": " to grant as a favor, i.e. gratuitously, in kindness, pardon or rescue"
+        },
+        {
+            "number": 765,
+            "lemma": "\u1f00\u03c3\u03b5\u03b2\u1f75\u03c2",
+            "xlit": "aseb\u1e17s",
+            "pronunciation": "as-eb-ace'",
+            "kjv_def": " ungodly (man).",
+            "pspeech": "Adj-AMS",
+            "description": " irreverent, i.e. (by extension) impious or wicked"
+        },
+        {
+            "number": 4561,
+            "lemma": "\u03c3\u1f71\u03c1\u03be",
+            "xlit": "s\u00e1rx",
+            "pronunciation": "sarx",
+            "kjv_def": "carnal(-ly, + -ly minded),\n flesh(-ly).",
+            "pspeech": "N-NFS",
+            "description": " flesh (as stripped of the skin), i.e. (strictly) the meat of an animal (as food), or (by extension) the body (as opposed to the soul (or spirit), or as the symbol of what is external, or as the means of kindred), or (by implication) human nature (with its frailties (physically or morally) and passions), or (specially), a human being (as such)"
+        }
+    ]
+}

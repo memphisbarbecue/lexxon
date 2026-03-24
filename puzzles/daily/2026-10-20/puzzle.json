@@ -1,0 +1,493 @@
+{
+    "wotd": {
+        "number": 543,
+        "lemma": "\u1f00\u03c0\u03b5\u1f77\u03b8\u03b5\u03b9\u03b1",
+        "xlit": "ape\u00edtheia",
+        "pronunciation": "ap-i'-thi-ah",
+        "kjv_def": "disobedience,\n unbelief.",
+        "pspeech": "N-DFS",
+        "description": " disbelief (obstinate and rebellious)"
+    },
+    "verses": [
+        {
+            "verse_no": 29232,
+            "verse_ref": "Ephesians 2:2",
+            "verse_data": [
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " which ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u03b1\u1f37\u03c2",
+                    "xlit": "hais"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 4218.0,
+                    "lemma": "\u03c0\u03bf\u03c4\u03b5",
+                    "xlit": "pote"
+                },
+                {
+                    "BSB Version": " you used to walk ",
+                    "Str Grk": 4043.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u03b9\u03b5\u03c0\u03b1\u03c4\u03ae\u03c3\u03b1\u03c4\u03b5",
+                    "xlit": "periepat\u0113sate"
+                },
+                {
+                    "BSB Version": " when you conformed to ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u1f70",
+                    "xlit": "kata"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " ways ",
+                    "Str Grk": 165.0,
+                    "lemma": "\u03b1\u1f30\u1ff6\u03bd\u03b1",
+                    "xlit": "ai\u014dna"
+                },
+                {
+                    "BSB Version": " of this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5",
+                    "xlit": "toutou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " world ",
+                    "Str Grk": 2889.0,
+                    "lemma": "\u03ba\u03cc\u03c3\u03bc\u03bf\u03c5",
+                    "xlit": "kosmou"
+                },
+                {
+                    "BSB Version": " [and] ",
+                    "Str Grk": 2596.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u1f70",
+                    "xlit": "kata"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " ruler ",
+                    "Str Grk": 758.0,
+                    "lemma": "\u1f04\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1",
+                    "xlit": "archonta"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " power ",
+                    "Str Grk": 1849.0,
+                    "lemma": "\u1f10\u03be\u03bf\u03c5\u03c3\u03af\u03b1\u03c2",
+                    "xlit": "exousias"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " air ",
+                    "Str Grk": 109.0,
+                    "lemma": "\u1f00\u03ad\u03c1\u03bf\u03c2",
+                    "xlit": "aeros"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " spirit [who is] ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "pneumatos"
+                },
+                {
+                    "BSB Version": " now ",
+                    "Str Grk": 3568.0,
+                    "lemma": "\u03bd\u1fe6\u03bd",
+                    "xlit": "nyn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " at work ",
+                    "Str Grk": 1754.0,
+                    "lemma": "\u1f10\u03bd\u03b5\u03c1\u03b3\u03bf\u1fe6\u03bd\u03c4\u03bf\u03c2",
+                    "xlit": "energountos"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " sons ",
+                    "Str Grk": 5207.0,
+                    "lemma": "\u03c5\u1f31\u03bf\u1fd6\u03c2",
+                    "xlit": "huiois"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " of disobedience ",
+                    "Str Grk": 543.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03b9\u03b8\u03b5\u03af\u03b1\u03c2",
+                    "xlit": "apeitheias"
+                }
+            ],
+            "verse_text": "in which once you walked according to the age of this world, according to the ruler of the authority of the air, the spirit now working in the sons of disobedience,"
+        },
+        {
+            "verse_no": 28242,
+            "verse_ref": "Romans 11:32",
+            "verse_data": [
+                {
+                    "BSB Version": " For ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1f78\u03c2",
+                    "xlit": "Theos"
+                },
+                {
+                    "BSB Version": " has consigned ",
+                    "Str Grk": 4788.0,
+                    "lemma": "\u03c3\u03c5\u03bd\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5\u03bd",
+                    "xlit": "synekleisen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " everyone ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "pantas"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " disobedience ",
+                    "Str Grk": 543.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03af\u03b8\u03b5\u03b9\u03b1\u03bd",
+                    "xlit": "apeitheian"
+                },
+                {
+                    "BSB Version": " so that ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " He may have mercy on ",
+                    "Str Grk": 1653.0,
+                    "lemma": "\u1f10\u03bb\u03b5\u03ae\u03c3\u1fc3",
+                    "xlit": "ele\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " everyone ",
+                    "Str Grk": 3956.0,
+                    "lemma": "\u03c0\u03ac\u03bd\u03c4\u03b1\u03c2",
+                    "xlit": "pantas"
+                }
+            ],
+            "verse_text": "For God has bound up all in disobedience, that He may show mercy to all."
+        },
+        {
+            "verse_no": 28240,
+            "verse_ref": "Romans 11:30",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1063.0,
+                    "lemma": "\u03b3\u1f70\u03c1",
+                    "xlit": "gar"
+                },
+                {
+                    "BSB Version": " Just as ",
+                    "Str Grk": 5618.0,
+                    "lemma": "\u1f6d\u03c3\u03c0\u03b5\u03c1",
+                    "xlit": "H\u014dsper"
+                },
+                {
+                    "BSB Version": " you [who] ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+                    "xlit": "hymeis"
+                },
+                {
+                    "BSB Version": " formerly ",
+                    "Str Grk": 4218.0,
+                    "lemma": "\u03c0\u03bf\u03c4\u03b5",
+                    "xlit": "pote"
+                },
+                {
+                    "BSB Version": " disobeyed ",
+                    "Str Grk": 544.0,
+                    "lemma": "\u1f20\u03c0\u03b5\u03b9\u03b8\u03ae\u03c3\u03b1\u03c4\u03b5",
+                    "xlit": "\u0113peith\u0113sate"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u1ff7",
+                    "xlit": "The\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3568.0,
+                    "lemma": "\u03bd\u1fe6\u03bd",
+                    "xlit": "nyn"
+                },
+                {
+                    "BSB Version": " have now received mercy ",
+                    "Str Grk": 1653.0,
+                    "lemma": "\u1f20\u03bb\u03b5\u03ae\u03b8\u03b7\u03c4\u03b5",
+                    "xlit": "\u0113le\u0113th\u0113te"
+                },
+                {
+                    "BSB Version": " through their ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03c9\u03bd",
+                    "xlit": "tout\u014dn"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " disobedience ",
+                    "Str Grk": 543.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03b9\u03b8\u03b5\u03af\u1fb3",
+                    "xlit": "apeitheia"
+                }
+            ],
+            "verse_text": "For just as you once were disobedient to God, but now have been shown mercy by the disobedience of these,"
+        },
+        {
+            "verse_no": 30026,
+            "verse_ref": "Hebrews 4:11",
+            "verse_data": [
+                {
+                    "BSB Version": " Let us, therefore, make every effort ",
+                    "Str Grk": 4704.0,
+                    "lemma": "\u03a3\u03c0\u03bf\u03c5\u03b4\u03ac\u03c3\u03c9\u03bc\u03b5\u03bd",
+                    "xlit": "Spoudas\u014dmen"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " to enter ",
+                    "Str Grk": 1525.0,
+                    "lemma": "\u03b5\u1f30\u03c3\u03b5\u03bb\u03b8\u03b5\u1fd6\u03bd",
+                    "xlit": "eiselthein"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u03b7\u03bd",
+                    "xlit": "ekein\u0113n"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " rest ",
+                    "Str Grk": 2663.0,
+                    "lemma": "\u03ba\u03b1\u03c4\u03ac\u03c0\u03b1\u03c5\u03c3\u03b9\u03bd",
+                    "xlit": "katapausin"
+                },
+                {
+                    "BSB Version": " so that ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " no ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " one ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03c2",
+                    "xlit": "tis"
+                },
+                {
+                    "BSB Version": " will fall ",
+                    "Str Grk": 4098.0,
+                    "lemma": "\u03c0\u03ad\u03c3\u1fc3",
+                    "xlit": "pes\u0113"
+                },
+                {
+                    "BSB Version": " by [following] ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " same ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " pattern ",
+                    "Str Grk": 5262.0,
+                    "lemma": "\u1f51\u03c0\u03bf\u03b4\u03b5\u03af\u03b3\u03bc\u03b1\u03c4\u03b9",
+                    "xlit": "hypodeigmati"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " of disobedience ",
+                    "Str Grk": 543.0,
+                    "lemma": "\u1f00\u03c0\u03b5\u03b9\u03b8\u03b5\u03af\u03b1\u03c2",
+                    "xlit": "apeitheias"
+                }
+            ],
+            "verse_text": "Therefore we should be diligent to enter into that rest, so that no one should fall by the same example of disobedience."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 758,
+            "lemma": "\u1f04\u03c1\u03c7\u03c9\u03bd",
+            "xlit": "\u00e1rch\u014dn",
+            "pronunciation": "ar'-khone",
+            "kjv_def": "chief (ruler),\n magistrate, prince, ruler.",
+            "pspeech": "N-NMS",
+            "description": " a first (in rank or power)"
+        },
+        {
+            "number": 2316,
+            "lemma": "\u03b8\u03b5\u1f79\u03c2",
+            "xlit": "the\u00f3s",
+            "pronunciation": "theh'-os",
+            "kjv_def": "X exceeding,\n God, god(-ly, -ward).",
+            "pspeech": "N-NMS",
+            "description": " a deity, especially (with \u03c4\u1f79(t\u00f3)) the supreme Divinity; figuratively, a magistrate; by Hebraism, very"
+        },
+        {
+            "number": 5618,
+            "lemma": "\u1f65\u03c3\u03c0\u03b5\u03c1",
+            "xlit": "h\u1e53sper",
+            "pronunciation": "hoce'-per",
+            "kjv_def": "(even, like) as.",
+            "pspeech": "Adv",
+            "description": " just as, i.e. exactly like"
+        },
+        {
+            "number": 4704,
+            "lemma": "\u03c3\u03c0\u03bf\u03c5\u03b4\u1f71\u03b6\u03c9",
+            "xlit": "spoud\u00e1z\u014d",
+            "pronunciation": "spoo-dad'-zo",
+            "kjv_def": "do (give) diligence, be diligent (forward), endeavour,\n labour, study.",
+            "pspeech": "V-AIA-1S",
+            "description": " to use speed, i.e. to make effort, be prompt or earnest"
+        }
+    ]
+}

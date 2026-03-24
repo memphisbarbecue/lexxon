@@ -1,0 +1,643 @@
+{
+    "wotd": {
+        "number": 190,
+        "lemma": "\u1f00\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u1f73\u03c9",
+        "xlit": "akolouth\u00e9\u014d",
+        "pronunciation": "ak-ol-oo-theh'-o",
+        "kjv_def": "follow, reach.",
+        "pspeech": "V-AIA-3P",
+        "description": " properly, to be in the same way with, i.e. to accompany (specially, as a disciple)"
+    },
+    "verses": [
+        {
+            "verse_no": 24621,
+            "verse_ref": "Mark 10:32",
+            "verse_data": [
+                {
+                    "BSB Version": " [As] ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " they were ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f2e\u03c3\u03b1\u03bd",
+                    "xlit": "\u0112san"
+                },
+                {
+                    "BSB Version": " going up ",
+                    "Str Grk": 305.0,
+                    "lemma": "\u1f00\u03bd\u03b1\u03b2\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "anabainontes"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " road ",
+                    "Str Grk": 3598.0,
+                    "lemma": "\u1f41\u03b4\u1ff7",
+                    "xlit": "hod\u014d"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " Jerusalem ",
+                    "Str Grk": 2414.0,
+                    "lemma": "\u1f39\u03b5\u03c1\u03bf\u03c3\u03cc\u03bb\u03c5\u03bc\u03b1",
+                    "xlit": "Hierosolyma"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " was ",
+                    "Str Grk": 1510.0,
+                    "lemma": "\u1f26\u03bd",
+                    "xlit": "\u0113n"
+                },
+                {
+                    "BSB Version": " walking ahead of ",
+                    "Str Grk": 4254.0,
+                    "lemma": "\u03c0\u03c1\u03bf\u03ac\u03b3\u03c9\u03bd",
+                    "xlit": "proag\u014dn"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "autous"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " [The disciples] were amazed ",
+                    "Str Grk": 2284.0,
+                    "lemma": "\u1f10\u03b8\u03b1\u03bc\u03b2\u03bf\u1fe6\u03bd\u03c4\u03bf",
+                    "xlit": "ethambounto"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " those who ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " followed ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2",
+                    "xlit": "akolouthountes"
+                },
+                {
+                    "BSB Version": " were afraid ",
+                    "Str Grk": 5399.0,
+                    "lemma": "\u1f10\u03c6\u03bf\u03b2\u03bf\u1fe6\u03bd\u03c4\u03bf",
+                    "xlit": "ephobounto"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Again ",
+                    "Str Grk": 3825.0,
+                    "lemma": "\u03c0\u03ac\u03bb\u03b9\u03bd",
+                    "xlit": "palin"
+                },
+                {
+                    "BSB Version": " [Jesus] took ",
+                    "Str Grk": 3880.0,
+                    "lemma": "\u03c0\u03b1\u03c1\u03b1\u03bb\u03b1\u03b2\u1f7c\u03bd",
+                    "xlit": "paralab\u014dn"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1f7a\u03c2",
+                    "xlit": "tous"
+                },
+                {
+                    "BSB Version": " Twelve {aside} ",
+                    "Str Grk": 1427.0,
+                    "lemma": "\u03b4\u03ce\u03b4\u03b5\u03ba\u03b1",
+                    "xlit": "d\u014ddeka"
+                },
+                {
+                    "BSB Version": " [and] began ",
+                    "Str Grk": 756.0,
+                    "lemma": "\u1f24\u03c1\u03be\u03b1\u03c4\u03bf",
+                    "xlit": "\u0113rxato"
+                },
+                {
+                    "BSB Version": " to tell ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03b5\u03b9\u03bd",
+                    "xlit": "legein"
+                },
+                {
+                    "BSB Version": " them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " was going ",
+                    "Str Grk": 3195.0,
+                    "lemma": "\u03bc\u03ad\u03bb\u03bb\u03bf\u03bd\u03c4\u03b1",
+                    "xlit": "mellonta"
+                },
+                {
+                    "BSB Version": " to happen ",
+                    "Str Grk": 4819.0,
+                    "lemma": "\u03c3\u03c5\u03bc\u03b2\u03b1\u03af\u03bd\u03b5\u03b9\u03bd",
+                    "xlit": "symbainein"
+                },
+                {
+                    "BSB Version": " to Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                }
+            ],
+            "verse_text": "And they were on the way, going up to Jerusalem, and Jesus was going on before them. And they were astonished, and those following were afraid. And having taken to <i>Him</i> the Twelve again, He began to tell them the things being about to happen to Him:"
+        },
+        {
+            "verse_no": 24577,
+            "verse_ref": "Mark 9:38",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " John ",
+                    "Str Grk": 2491.0,
+                    "lemma": "\u1f38\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2",
+                    "xlit": "I\u014dann\u0113s"
+                },
+                {
+                    "BSB Version": " said ",
+                    "Str Grk": 5346.0,
+                    "lemma": "\u1f1c\u03c6\u03b7",
+                    "xlit": "Eph\u0113"
+                },
+                {
+                    "BSB Version": " to Him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " Teacher ",
+                    "Str Grk": 1320.0,
+                    "lemma": "\u0394\u03b9\u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03b5",
+                    "xlit": "Didaskale"
+                },
+                {
+                    "BSB Version": " we saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u03b5\u1f34\u03b4\u03bf\u03bc\u03ad\u03bd",
+                    "xlit": "eidomen"
+                },
+                {
+                    "BSB Version": " someone ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03bd\u03b1",
+                    "xlit": "tina"
+                },
+                {
+                    "BSB Version": " else ",
+                    "Str Grk": 3739.0,
+                    "lemma": "\u1f43\u03c2",
+                    "xlit": "hos"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u1fd6",
+                    "xlit": "akolouthei"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                },
+                {
+                    "BSB Version": " driving out ",
+                    "Str Grk": 1544.0,
+                    "lemma": "\u1f10\u03ba\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03b1",
+                    "xlit": "ekballonta"
+                },
+                {
+                    "BSB Version": " demons ",
+                    "Str Grk": 1140.0,
+                    "lemma": "\u03b4\u03b1\u03b9\u03bc\u03cc\u03bd\u03b9\u03b1",
+                    "xlit": "daimonia"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " Your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff7",
+                    "xlit": "t\u014d"
+                },
+                {
+                    "BSB Version": " name ",
+                    "Str Grk": 3686.0,
+                    "lemma": "\u1f40\u03bd\u03cc\u03bc\u03b1\u03c4\u03af",
+                    "xlit": "onomati"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " we tried to stop ",
+                    "Str Grk": 2967.0,
+                    "lemma": "\u1f10\u03ba\u03c9\u03bb\u03cd\u03bf\u03bc\u03b5\u03bd",
+                    "xlit": "ek\u014dlyomen"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03cc\u03bd",
+                    "xlit": "auton"
+                },
+                {
+                    "BSB Version": " because ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50\u03ba",
+                    "xlit": "ouk"
+                },
+                {
+                    "BSB Version": " he does not accompany ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f20\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b5\u03b9",
+                    "xlit": "\u0113kolouthei"
+                },
+                {
+                    "BSB Version": " us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1fd6\u03bd",
+                    "xlit": "h\u0113min"
+                }
+            ],
+            "verse_text": "John answered Him, \"Teacher, we saw someone who does not follow us casting out demons in Your name, and we were forbidding him, because he was not following us.\""
+        },
+        {
+            "verse_no": 24409,
+            "verse_ref": "Mark 6:1",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u039a\u03b1\u1f76",
+                    "xlit": "Kai"
+                },
+                {
+                    "BSB Version": " [Jesus] went on ",
+                    "Str Grk": 1831.0,
+                    "lemma": "\u1f10\u03be\u1fc6\u03bb\u03b8\u03b5\u03bd",
+                    "xlit": "ex\u0113lthen"
+                },
+                {
+                    "BSB Version": " from there ",
+                    "Str Grk": 1564.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u1fd6\u03b8\u03b5\u03bd",
+                    "xlit": "ekeithen"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " came ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+                    "xlit": "erchetai"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " His ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " hometown ",
+                    "Str Grk": 3968.0,
+                    "lemma": "\u03c0\u03b1\u03c4\u03c1\u03af\u03b4\u03b1",
+                    "xlit": "patrida"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " accompanied by ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u1fe6\u03c3\u03b9\u03bd",
+                    "xlit": "akolouthousin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " His ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03bf\u1f31",
+                    "xlit": "hoi"
+                },
+                {
+                    "BSB Version": " disciples ",
+                    "Str Grk": 3101.0,
+                    "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u1f76",
+                    "xlit": "math\u0113tai"
+                }
+            ],
+            "verse_text": "And He went out from there and came into His hometown; and His disciples follow Him."
+        },
+        {
+            "verse_no": 23697,
+            "verse_ref": "Matthew 16:24",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 5119.0,
+                    "lemma": "\u03a4\u03cc\u03c4\u03b5",
+                    "xlit": "Tote"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+                    "xlit": "I\u0113sous"
+                },
+                {
+                    "BSB Version": " told ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " His ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " disciples ",
+                    "Str Grk": 3101.0,
+                    "lemma": "\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u1fd6\u03c2",
+                    "xlit": "math\u0113tais"
+                },
+                {
+                    "BSB Version": " If ",
+                    "Str Grk": 1487.0,
+                    "lemma": "\u0395\u1f34",
+                    "xlit": "Ei"
+                },
+                {
+                    "BSB Version": " anyone ",
+                    "Str Grk": 5100.0,
+                    "lemma": "\u03c4\u03b9\u03c2",
+                    "xlit": "tis"
+                },
+                {
+                    "BSB Version": " wants ",
+                    "Str Grk": 2309.0,
+                    "lemma": "\u03b8\u03ad\u03bb\u03b5\u03b9",
+                    "xlit": "thelei"
+                },
+                {
+                    "BSB Version": " to come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f10\u03bb\u03b8\u03b5\u1fd6\u03bd",
+                    "xlit": "elthein"
+                },
+                {
+                    "BSB Version": " after ",
+                    "Str Grk": 3694.0,
+                    "lemma": "\u1f40\u03c0\u03af\u03c3\u03c9",
+                    "xlit": "opis\u014d"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " he must deny ",
+                    "Str Grk": 533.0,
+                    "lemma": "\u1f00\u03c0\u03b1\u03c1\u03bd\u03b7\u03c3\u03ac\u03c3\u03b8\u03c9",
+                    "xlit": "aparn\u0113sasth\u014d"
+                },
+                {
+                    "BSB Version": " himself ",
+                    "Str Grk": 1438.0,
+                    "lemma": "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd",
+                    "xlit": "heauton"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " take up ",
+                    "Str Grk": 142.0,
+                    "lemma": "\u1f00\u03c1\u03ac\u03c4\u03c9",
+                    "xlit": "arat\u014d"
+                },
+                {
+                    "BSB Version": " his ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " cross ",
+                    "Str Grk": 4716.0,
+                    "lemma": "\u03c3\u03c4\u03b1\u03c5\u03c1\u1f78\u03bd",
+                    "xlit": "stauron"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " follow ",
+                    "Str Grk": 190.0,
+                    "lemma": "\u1f00\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af\u03c4\u03c9",
+                    "xlit": "akoloutheit\u014d"
+                },
+                {
+                    "BSB Version": " Me ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03b9",
+                    "xlit": "moi"
+                }
+            ],
+            "verse_text": "Then Jesus said His to disciples, \"If anyone desires to come after Me, let him deny himself, and take up his cross, and follow Me."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 1427,
+            "lemma": "\u03b4\u1f7d\u03b4\u03b5\u03ba\u03b1",
+            "xlit": "d\u1e53deka",
+            "pronunciation": "do'-dek-ah",
+            "kjv_def": "twelve.",
+            "pspeech": "Adj-ANP",
+            "description": " two and ten, i.e. a dozen"
+        },
+        {
+            "number": 3708,
+            "lemma": "\u1f41\u03c1\u1f71\u03c9",
+            "xlit": "hor\u00e1\u014d",
+            "pronunciation": "hor-ah'-o",
+            "kjv_def": "behold, perceive, see,\n take heed.",
+            "pspeech": "V-AIA-1P",
+            "description": " by extension, to attend to; by Hebraism, to experience; passively, to appear"
+        },
+        {
+            "number": 1564,
+            "lemma": "\u1f10\u03ba\u03b5\u1fd6\u03b8\u03b5\u03bd",
+            "xlit": "eke\u00eethen",
+            "pronunciation": "ek-i'-then",
+            "kjv_def": "from that place, (from) thence, there.",
+            "pspeech": "Adv",
+            "description": " thence"
+        },
+        {
+            "number": 4716,
+            "lemma": "\u03c3\u03c4\u03b1\u03c5\u03c1\u1f79\u03c2",
+            "xlit": "staur\u00f3s",
+            "pronunciation": "stow-ros'",
+            "kjv_def": "cross.",
+            "pspeech": "N-AMS",
+            "description": " a stake or post (as set upright), i.e. (specially), a pole or cross (as an instrument of capital punishment); figuratively, exposure to death, i.e. self-denial; by implication, the atonement of Christ"
+        }
+    ]
+}

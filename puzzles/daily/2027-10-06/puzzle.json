@@ -1,0 +1,583 @@
+{
+    "wotd": {
+        "number": 5030,
+        "lemma": "\u03c4\u03b1\u03c7\u1f73\u03c9\u03c2",
+        "xlit": "tach\u00e9\u014ds",
+        "pronunciation": "takh-eh'-oce",
+        "kjv_def": "hastily, quickly, shortly, soon, suddenly.",
+        "pspeech": "Adv",
+        "description": " briefly, i.e. (in time) speedily, or (in manner) rapidly"
+    },
+    "verses": [
+        {
+            "verse_no": 29411,
+            "verse_ref": "Philippians 2:19",
+            "verse_data": [
+                {
+                    "BSB Version": " Now ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " I hope ",
+                    "Str Grk": 1679.0,
+                    "lemma": "\u1f18\u03bb\u03c0\u03af\u03b6\u03c9",
+                    "xlit": "Elpiz\u014d"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " [the] Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u1ff3",
+                    "xlit": "Kyri\u014d"
+                },
+                {
+                    "BSB Version": " Jesus ",
+                    "Str Grk": 2424.0,
+                    "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+                    "xlit": "I\u0113sou"
+                },
+                {
+                    "BSB Version": " to send ",
+                    "Str Grk": 3992.0,
+                    "lemma": "\u03c0\u03ad\u03bc\u03c8\u03b1\u03b9",
+                    "xlit": "pempsai"
+                },
+                {
+                    "BSB Version": " Timothy ",
+                    "Str Grk": 5095.0,
+                    "lemma": "\u03a4\u03b9\u03bc\u03cc\u03b8\u03b5\u03bf\u03bd",
+                    "xlit": "Timotheon"
+                },
+                {
+                    "BSB Version": " to you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " soon ",
+                    "Str Grk": 5030.0,
+                    "lemma": "\u03c4\u03b1\u03c7\u03ad\u03c9\u03c2",
+                    "xlit": "tache\u014ds"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 2443.0,
+                    "lemma": "\u1f35\u03bd\u03b1",
+                    "xlit": "hina"
+                },
+                {
+                    "BSB Version": " I also ",
+                    "Str Grk": 2504.0,
+                    "lemma": "\u03ba\u1f00\u03b3\u1f7c",
+                    "xlit": "kag\u014d"
+                },
+                {
+                    "BSB Version": " may be cheered ",
+                    "Str Grk": 2174.0,
+                    "lemma": "\u03b5\u1f50\u03c8\u03c5\u03c7\u1ff6",
+                    "xlit": "eupsych\u014d"
+                },
+                {
+                    "BSB Version": " when I learn ",
+                    "Str Grk": 1097.0,
+                    "lemma": "\u03b3\u03bd\u03bf\u1f7a\u03c2",
+                    "xlit": "gnous"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " how ",
+                    "Str Grk": 4012.0,
+                    "lemma": "\u03c0\u03b5\u03c1\u1f76",
+                    "xlit": "peri"
+                },
+                {
+                    "BSB Version": " you {are doing} ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                }
+            ],
+            "verse_text": "But I hope in <i>the</i> Lord Jesus to send Timothy to you soon, that I also may be encouraged, having known the things concerning you."
+        },
+        {
+            "verse_no": 25627,
+            "verse_ref": "Luke 16:6",
+            "verse_data": [
+                {
+                    "BSB Version": " A hundred ",
+                    "Str Grk": 1540.0,
+                    "lemma": "\u1f19\u03ba\u03b1\u03c4\u1f78\u03bd",
+                    "xlit": "Hekaton"
+                },
+                {
+                    "BSB Version": " [measures] ",
+                    "Str Grk": 943.0,
+                    "lemma": "\u03b2\u03ac\u03c4\u03bf\u03c5\u03c2",
+                    "xlit": "batous"
+                },
+                {
+                    "BSB Version": " of olive oil ",
+                    "Str Grk": 1637.0,
+                    "lemma": "\u1f10\u03bb\u03b1\u03af\u03bf\u03c5",
+                    "xlit": "elaiou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f49",
+                    "xlit": "Ho"
+                },
+                {
+                    "BSB Version": " he answered ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " Take ",
+                    "Str Grk": 1209.0,
+                    "lemma": "\u0394\u03ad\u03be\u03b1\u03b9",
+                    "xlit": "Dexai"
+                },
+                {
+                    "BSB Version": " your ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u03c3\u03bf\u03c5",
+                    "xlit": "sou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f70",
+                    "xlit": "ta"
+                },
+                {
+                    "BSB Version": " bill ",
+                    "Str Grk": 1121.0,
+                    "lemma": "\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "grammata"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f49",
+                    "xlit": "Ho"
+                },
+                {
+                    "BSB Version": " said [the manager] ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1ff7",
+                    "xlit": "aut\u014d"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " sit down ",
+                    "Str Grk": 2523.0,
+                    "lemma": "\u03ba\u03b1\u03b8\u03af\u03c3\u03b1\u03c2",
+                    "xlit": "kathisas"
+                },
+                {
+                    "BSB Version": " quickly ",
+                    "Str Grk": 5030.0,
+                    "lemma": "\u03c4\u03b1\u03c7\u03ad\u03c9\u03c2",
+                    "xlit": "tache\u014ds"
+                },
+                {
+                    "BSB Version": " [and] write ",
+                    "Str Grk": 1125.0,
+                    "lemma": "\u03b3\u03c1\u03ac\u03c8\u03bf\u03bd",
+                    "xlit": "grapson"
+                },
+                {
+                    "BSB Version": " fifty ",
+                    "Str Grk": 4004.0,
+                    "lemma": "\u03c0\u03b5\u03bd\u03c4\u03ae\u03ba\u03bf\u03bd\u03c4\u03b1",
+                    "xlit": "pent\u0113konta"
+                }
+            ],
+            "verse_text": "And he said, 'A hundred baths of oil.' And he said to him, 'Take your bill, and having sat down quickly, write fifty.'"
+        },
+        {
+            "verse_no": 28453,
+            "verse_ref": "1 Corinthians 4:19",
+            "verse_data": [
+                {
+                    "BSB Version": " But ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " I will come ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f10\u03bb\u03b5\u03cd\u03c3\u03bf\u03bc\u03b1\u03b9",
+                    "xlit": "eleusomai"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 4314.0,
+                    "lemma": "\u03c0\u03c1\u1f78\u03c2",
+                    "xlit": "pros"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " shortly ",
+                    "Str Grk": 5030.0,
+                    "lemma": "\u03c4\u03b1\u03c7\u03ad\u03c9\u03c2",
+                    "xlit": "tache\u014ds"
+                },
+                {
+                    "BSB Version": " if ",
+                    "Str Grk": 1437.0,
+                    "lemma": "\u1f10\u1f70\u03bd",
+                    "xlit": "ean"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f41",
+                    "xlit": "ho"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03cd\u03c1\u03b9\u03bf\u03c2",
+                    "xlit": "Kyrios"
+                },
+                {
+                    "BSB Version": " is willing ",
+                    "Str Grk": 2309.0,
+                    "lemma": "\u03b8\u03b5\u03bb\u03ae\u03c3\u1fc3",
+                    "xlit": "thel\u0113s\u0113"
+                },
+                {
+                    "BSB Version": " and [then] ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " I will find out ",
+                    "Str Grk": 1097.0,
+                    "lemma": "\u03b3\u03bd\u03ce\u03c3\u03bf\u03bc\u03b1\u03b9",
+                    "xlit": "gn\u014dsomai"
+                },
+                {
+                    "BSB Version": " not [only] ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78\u03bd",
+                    "xlit": "ton"
+                },
+                {
+                    "BSB Version": " these ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " arrogant [people] ",
+                    "Str Grk": 5448.0,
+                    "lemma": "\u03c0\u03b5\u03c6\u03c5\u03c3\u03b9\u03c9\u03bc\u03ad\u03bd\u03c9\u03bd",
+                    "xlit": "pephysi\u014dmen\u014dn"
+                },
+                {
+                    "BSB Version": " are saying ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03bd",
+                    "xlit": "logon"
+                },
+                {
+                    "BSB Version": " but ",
+                    "Str Grk": 235.0,
+                    "lemma": "\u1f00\u03bb\u03bb\u1f70",
+                    "xlit": "alla"
+                },
+                {
+                    "BSB Version": " what ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f74\u03bd",
+                    "xlit": "t\u0113n"
+                },
+                {
+                    "BSB Version": " power [they have] ",
+                    "Str Grk": 1411.0,
+                    "lemma": "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b9\u03bd",
+                    "xlit": "dynamin"
+                }
+            ],
+            "verse_text": "But I will come to you shortly, if the Lord wills, and I will find out not the talk of those being puffed up, but <i>their</i> power."
+        },
+        {
+            "verse_no": 29664,
+            "verse_ref": "2 Thessalonians 2:2",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1519.0,
+                    "lemma": "\u03b5\u1f30\u03c2",
+                    "xlit": "eis"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fb6\u03c2",
+                    "xlit": "hymas"
+                },
+                {
+                    "BSB Version": " not ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 5030.0,
+                    "lemma": "\u03c4\u03b1\u03c7\u03ad\u03c9\u03c2",
+                    "xlit": "tache\u014ds"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " to be easily disconcerted ",
+                    "Str Grk": 4531.0,
+                    "lemma": "\u03c3\u03b1\u03bb\u03b5\u03c5\u03b8\u1fc6\u03bd\u03b1\u03b9",
+                    "xlit": "saleuth\u0113nai"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3563.0,
+                    "lemma": "\u03bd\u03bf\u1f78\u03c2",
+                    "xlit": "noos"
+                },
+                {
+                    "BSB Version": " [or] ",
+                    "Str Grk": 3366.0,
+                    "lemma": "\u03bc\u03b7\u03b4\u1f72",
+                    "xlit": "m\u0113de"
+                },
+                {
+                    "BSB Version": " alarmed ",
+                    "Str Grk": 2360.0,
+                    "lemma": "\u03b8\u03c1\u03bf\u03b5\u1fd6\u03c3\u03b8\u03b1\u03b9",
+                    "xlit": "throeisthai"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3383.0,
+                    "lemma": "\u03bc\u03ae\u03c4\u03b5",
+                    "xlit": "m\u0113te"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " [any] spirit ",
+                    "Str Grk": 4151.0,
+                    "lemma": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "pneumatos"
+                },
+                {
+                    "BSB Version": " [or] ",
+                    "Str Grk": 3383.0,
+                    "lemma": "\u03bc\u03ae\u03c4\u03b5",
+                    "xlit": "m\u0113te"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u1f70",
+                    "xlit": "dia"
+                },
+                {
+                    "BSB Version": " message ",
+                    "Str Grk": 3056.0,
+                    "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c5",
+                    "xlit": "logou"
+                },
+                {
+                    "BSB Version": " [or] ",
+                    "Str Grk": 3383.0,
+                    "lemma": "\u03bc\u03ae\u03c4\u03b5",
+                    "xlit": "m\u0113te"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u2019",
+                    "xlit": "di\u2019"
+                },
+                {
+                    "BSB Version": " letter ",
+                    "Str Grk": 1992.0,
+                    "lemma": "\u1f10\u03c0\u03b9\u03c3\u03c4\u03bf\u03bb\u1fc6\u03c2",
+                    "xlit": "epistol\u0113s"
+                },
+                {
+                    "BSB Version": " seeming ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " [to be] from ",
+                    "Str Grk": 1223.0,
+                    "lemma": "\u03b4\u03b9\u2019",
+                    "xlit": "di\u2019"
+                },
+                {
+                    "BSB Version": " us ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u1f21\u03bc\u1ff6\u03bd",
+                    "xlit": "h\u0113m\u014dn"
+                },
+                {
+                    "BSB Version": " [alleging] ",
+                    "Str Grk": 5613.0,
+                    "lemma": "\u1f61\u03c2",
+                    "xlit": "h\u014ds"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u1f21",
+                    "xlit": "h\u0113"
+                },
+                {
+                    "BSB Version": " Day ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1",
+                    "xlit": "h\u0113mera"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " Lord ",
+                    "Str Grk": 2962.0,
+                    "lemma": "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+                    "xlit": "Kyriou"
+                },
+                {
+                    "BSB Version": " has already come ",
+                    "Str Grk": 1764.0,
+                    "lemma": "\u1f10\u03bd\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5\u03bd",
+                    "xlit": "enest\u0113ken"
+                }
+            ],
+            "verse_text": "for you not quickly to be shaken in mind, nor to be troubled, neither by spirit, nor by word, nor by letter as if by us, as that day of the Lord is present."
+        }
+    ],
+    "other_words": [
+        {
+            "number": 2424,
+            "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+            "xlit": "I\u0113so\u00fbs",
+            "pronunciation": "ee-ay-sooce'",
+            "kjv_def": "Jesus.",
+            "pspeech": "N-GMS",
+            "description": " Jesus (i.e. Jehoshua), the name of our Lord and two (three) other Israelites"
+        },
+        {
+            "number": 1540,
+            "lemma": "\u1f11\u03ba\u03b1\u03c4\u1f79\u03bd",
+            "xlit": "hekat\u00f3n",
+            "pronunciation": "hek-at-on'",
+            "kjv_def": "hundred.",
+            "pspeech": "Adj-ANP",
+            "description": " a hundred"
+        },
+        {
+            "number": 2309,
+            "lemma": "\u1f10\u03b8\u03b5\u03bb\u1f73\u03c9",
+            "xlit": "ethel\u00e9\u014d",
+            "pronunciation": "eth-el-eh'-o",
+            "kjv_def": "desire, be disposed (forward), intend, list, love, mean,\n please, have rather, (be) will (have, -ling, - ling(-ly)).",
+            "pspeech": "V-PPA-NMS",
+            "description": " to determine (as an active option from subjective impulse; whereas \u03b2\u03bf\u1f7b\u03bb\u03bf\u03bc\u03b1\u03b9(bo\u00falomai) properly denotes rather a passive acquiescence in objective considerations), i.e. choose or prefer (literally or figuratively); by implication, to wish, i.e. be inclined to (sometimes adverbially, gladly); impersonally for the future tense, to be about to; by Hebraism, to delight in"
+        },
+        {
+            "number": 4531,
+            "lemma": "\u03c3\u03b1\u03bb\u03b5\u1f7b\u03c9",
+            "xlit": "sale\u00fa\u014d",
+            "pronunciation": "sal-yoo'-o",
+            "kjv_def": "move, shake (together),\n which can(-not) be shaken, stir up.",
+            "pspeech": "V-PPM/P-AMS",
+            "description": " to waver, i.e. agitate, rock, topple or (by implication) destroy; figuratively, to disturb, incite"
+        }
+    ]
+}

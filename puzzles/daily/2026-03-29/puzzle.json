@@ -1,0 +1,667 @@
+{
+    "wotd": {
+        "number": 1081,
+        "lemma": "\u03b3\u1f73\u03bd\u03bd\u03b7\u03bc\u03b1",
+        "xlit": "g\u00e9nn\u0113ma",
+        "pronunciation": "ghen'-nay-mah",
+        "kjv_def": "fruit, generation.",
+        "pspeech": "N-VNP",
+        "description": " offspring; by analogy, produce (literally or figuratively)"
+    },
+    "verses": [
+        {
+            "verse_no": 23200,
+            "verse_ref": "Matthew 3:7",
+            "verse_data": [
+                {
+                    "BSB Version": " But when ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " [John] saw ",
+                    "Str Grk": 3708.0,
+                    "lemma": "\u1f38\u03b4\u1f7c\u03bd",
+                    "xlit": "Id\u014dn"
+                },
+                {
+                    "BSB Version": " many ",
+                    "Str Grk": 4183.0,
+                    "lemma": "\u03c0\u03bf\u03bb\u03bb\u03bf\u1f7a\u03c2",
+                    "xlit": "pollous"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1ff6\u03bd",
+                    "xlit": "t\u014dn"
+                },
+                {
+                    "BSB Version": " Pharisees ",
+                    "Str Grk": 5330.0,
+                    "lemma": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03af\u03c9\u03bd",
+                    "xlit": "Pharisai\u014dn"
+                },
+                {
+                    "BSB Version": " and ",
+                    "Str Grk": 2532.0,
+                    "lemma": "\u03ba\u03b1\u1f76",
+                    "xlit": "kai"
+                },
+                {
+                    "BSB Version": " Sadducees ",
+                    "Str Grk": 4523.0,
+                    "lemma": "\u03a3\u03b1\u03b4\u03b4\u03bf\u03c5\u03ba\u03b1\u03af\u03c9\u03bd",
+                    "xlit": "Saddoukai\u014dn"
+                },
+                {
+                    "BSB Version": " coming ",
+                    "Str Grk": 2064.0,
+                    "lemma": "\u1f10\u03c1\u03c7\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+                    "xlit": "erchomenous"
+                },
+                {
+                    "BSB Version": " to ",
+                    "Str Grk": 1909.0,
+                    "lemma": "\u1f10\u03c0\u1f76",
+                    "xlit": "epi"
+                },
+                {
+                    "BSB Version": " his [place of] ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1f78",
+                    "xlit": "to"
+                },
+                {
+                    "BSB Version": " baptism ",
+                    "Str Grk": 908.0,
+                    "lemma": "\u03b2\u03ac\u03c0\u03c4\u03b9\u03c3\u03bc\u03b1",
+                    "xlit": "baptisma"
+                },
+                {
+                    "BSB Version": " he said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u03b5\u1f36\u03c0\u03b5\u03bd",
+                    "xlit": "eipen"
+                },
+                {
+                    "BSB Version": " to them ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "autois"
+                },
+                {
+                    "BSB Version": " [You] brood ",
+                    "Str Grk": 1081.0,
+                    "lemma": "\u0393\u03b5\u03bd\u03bd\u03ae\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "Genn\u0113mata"
+                },
+                {
+                    "BSB Version": " of vipers ",
+                    "Str Grk": 2191.0,
+                    "lemma": "\u1f10\u03c7\u03b9\u03b4\u03bd\u1ff6\u03bd",
+                    "xlit": "echidn\u014dn"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03c4\u03af\u03c2",
+                    "xlit": "tis"
+                },
+                {
+                    "BSB Version": " warned ",
+                    "Str Grk": 5263.0,
+                    "lemma": "\u1f51\u03c0\u03ad\u03b4\u03b5\u03b9\u03be\u03b5\u03bd",
+                    "xlit": "hypedeixen"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " to flee ",
+                    "Str Grk": 5343.0,
+                    "lemma": "\u03c6\u03c5\u03b3\u03b5\u1fd6\u03bd",
+                    "xlit": "phygein"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " coming ",
+                    "Str Grk": 3195.0,
+                    "lemma": "\u03bc\u03b5\u03bb\u03bb\u03bf\u03cd\u03c3\u03b7\u03c2",
+                    "xlit": "mellous\u0113s"
+                },
+                {
+                    "BSB Version": " wrath ",
+                    "Str Grk": 3709.0,
+                    "lemma": "\u1f40\u03c1\u03b3\u1fc6\u03c2",
+                    "xlit": "org\u0113s"
+                }
+            ],
+            "verse_text": "But having seen many of the Pharisees and Sadducees coming to his baptism, he said to them, \"Brood of vipers, who warned you to flee from the coming wrath?"
+        },
+        {
+            "verse_no": 24780,
+            "verse_ref": "Mark 14:25",
+            "verse_data": [
+                {
+                    "BSB Version": " Truly ",
+                    "Str Grk": 281.0,
+                    "lemma": "\u1f00\u03bc\u1f74\u03bd",
+                    "xlit": "am\u0113n"
+                },
+                {
+                    "BSB Version": " I tell ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+                    "xlit": "leg\u014d"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3754.0,
+                    "lemma": "\u1f45\u03c4\u03b9",
+                    "xlit": "hoti"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " I will no longer drink ",
+                    "Str Grk": 4095.0,
+                    "lemma": "\u03c0\u03af\u03c9",
+                    "xlit": "pi\u014d"
+                },
+                {
+                    "BSB Version": " . . . ",
+                    "Str Grk": 3765.0,
+                    "lemma": "\u03bf\u1f50\u03ba\u03ad\u03c4\u03b9",
+                    "xlit": "ouketi"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " fruit ",
+                    "Str Grk": 1081.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "gen\u0113matos"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " vine ",
+                    "Str Grk": 288.0,
+                    "lemma": "\u1f00\u03bc\u03c0\u03ad\u03bb\u03bf\u03c5",
+                    "xlit": "ampelou"
+                },
+                {
+                    "BSB Version": " until ",
+                    "Str Grk": 2193.0,
+                    "lemma": "\u1f15\u03c9\u03c2",
+                    "xlit": "he\u014ds"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u03b7\u03c2",
+                    "xlit": "ekein\u0113s"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " day ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
+                    "xlit": "h\u0113meras"
+                },
+                {
+                    "BSB Version": " when ",
+                    "Str Grk": 3752.0,
+                    "lemma": "\u1f45\u03c4\u03b1\u03bd",
+                    "xlit": "hotan"
+                },
+                {
+                    "BSB Version": " I drink ",
+                    "Str Grk": 4095.0,
+                    "lemma": "\u03c0\u03af\u03bd\u03c9",
+                    "xlit": "pin\u014d"
+                },
+                {
+                    "BSB Version": " it ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78",
+                    "xlit": "auto"
+                },
+                {
+                    "BSB Version": " anew ",
+                    "Str Grk": 2537.0,
+                    "lemma": "\u03ba\u03b1\u03b9\u03bd\u1f78\u03bd",
+                    "xlit": "kainon"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " kingdom ",
+                    "Str Grk": 932.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u1fb3",
+                    "xlit": "basileia"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " of God ",
+                    "Str Grk": 2316.0,
+                    "lemma": "\u0398\u03b5\u03bf\u1fe6",
+                    "xlit": "Theou"
+                }
+            ],
+            "verse_text": "Truly I say to you that never will I drink of the fruit of the vine <i>again</i>, until that day when I drink it anew in the kingdom of God.\""
+        },
+        {
+            "verse_no": 24084,
+            "verse_ref": "Matthew 26:29",
+            "verse_data": [
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 1161.0,
+                    "lemma": "\u03b4\u1f72",
+                    "xlit": "de"
+                },
+                {
+                    "BSB Version": " I tell ",
+                    "Str Grk": 3004.0,
+                    "lemma": "\u03bb\u03ad\u03b3\u03c9",
+                    "xlit": "leg\u014d"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3756.0,
+                    "lemma": "\u03bf\u1f50",
+                    "xlit": "ou"
+                },
+                {
+                    "BSB Version": " vvv ",
+                    "Str Grk": 3361.0,
+                    "lemma": "\u03bc\u1f74",
+                    "xlit": "m\u0113"
+                },
+                {
+                    "BSB Version": " I will not drink ",
+                    "Str Grk": 4095.0,
+                    "lemma": "\u03c0\u03af\u03c9",
+                    "xlit": "pi\u014d"
+                },
+                {
+                    "BSB Version": " of ",
+                    "Str Grk": 1537.0,
+                    "lemma": "\u1f10\u03ba",
+                    "xlit": "ek"
+                },
+                {
+                    "BSB Version": " this ",
+                    "Str Grk": 3778.0,
+                    "lemma": "\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5",
+                    "xlit": "toutou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " fruit ",
+                    "Str Grk": 1081.0,
+                    "lemma": "\u03b3\u03b5\u03bd\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+                    "xlit": "gen\u0113matos"
+                },
+                {
+                    "BSB Version": " of the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " vine ",
+                    "Str Grk": 288.0,
+                    "lemma": "\u1f00\u03bc\u03c0\u03ad\u03bb\u03bf\u03c5",
+                    "xlit": "ampelou"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u2019",
+                    "xlit": "ap\u2019"
+                },
+                {
+                    "BSB Version": " now on ",
+                    "Str Grk": 737.0,
+                    "lemma": "\u1f04\u03c1\u03c4\u03b9",
+                    "xlit": "arti"
+                },
+                {
+                    "BSB Version": " until ",
+                    "Str Grk": 2193.0,
+                    "lemma": "\u1f15\u03c9\u03c2",
+                    "xlit": "he\u014ds"
+                },
+                {
+                    "BSB Version": " that ",
+                    "Str Grk": 1565.0,
+                    "lemma": "\u1f10\u03ba\u03b5\u03af\u03bd\u03b7\u03c2",
+                    "xlit": "ekein\u0113s"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " day ",
+                    "Str Grk": 2250.0,
+                    "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03c2",
+                    "xlit": "h\u0113meras"
+                },
+                {
+                    "BSB Version": " when ",
+                    "Str Grk": 3752.0,
+                    "lemma": "\u1f45\u03c4\u03b1\u03bd",
+                    "xlit": "hotan"
+                },
+                {
+                    "BSB Version": " I drink ",
+                    "Str Grk": 4095.0,
+                    "lemma": "\u03c0\u03af\u03bd\u03c9",
+                    "xlit": "pin\u014d"
+                },
+                {
+                    "BSB Version": " it ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u1f78",
+                    "xlit": "auto"
+                },
+                {
+                    "BSB Version": " anew ",
+                    "Str Grk": 2537.0,
+                    "lemma": "\u03ba\u03b1\u03b9\u03bd\u1f78\u03bd",
+                    "xlit": "kainon"
+                },
+                {
+                    "BSB Version": " with ",
+                    "Str Grk": 3326.0,
+                    "lemma": "\u03bc\u03b5\u03b8\u2019",
+                    "xlit": "meth\u2019"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1ff6\u03bd",
+                    "xlit": "hym\u014dn"
+                },
+                {
+                    "BSB Version": " in ",
+                    "Str Grk": 1722.0,
+                    "lemma": "\u1f10\u03bd",
+                    "xlit": "en"
+                },
+                {
+                    "BSB Version": " My ",
+                    "Str Grk": 1473.0,
+                    "lemma": "\u03bc\u03bf\u03c5",
+                    "xlit": "mou"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fe6",
+                    "xlit": "tou"
+                },
+                {
+                    "BSB Version": " Father\u2019s ",
+                    "Str Grk": 3962.0,
+                    "lemma": "\u03a0\u03b1\u03c4\u03c1\u03cc\u03c2",
+                    "xlit": "Patros"
+                },
+                {
+                    "BSB Version": " - ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc7",
+                    "xlit": "t\u0113"
+                },
+                {
+                    "BSB Version": " kingdom ",
+                    "Str Grk": 932.0,
+                    "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u1fb3",
+                    "xlit": "basileia"
+                }
+            ],
+            "verse_text": "And I say to you, I will not drink of this fruit of the vine from now until that the day when I drink it anew with you in the kingdom of My Father.\""
+        },
+        {
+            "verse_no": 25033,
+            "verse_ref": "Luke 3:7",
+            "verse_data": [
+                {
+                    "BSB Version": " Then ",
+                    "Str Grk": 3767.0,
+                    "lemma": "\u03bf\u1f56\u03bd",
+                    "xlit": "oun"
+                },
+                {
+                    "BSB Version": " [John] said ",
+                    "Str Grk": 2036.0,
+                    "lemma": "\u1f1c\u03bb\u03b5\u03b3\u03b5\u03bd",
+                    "xlit": "Elegen"
+                },
+                {
+                    "BSB Version": " to the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u03bf\u1fd6\u03c2",
+                    "xlit": "tois"
+                },
+                {
+                    "BSB Version": " crowds ",
+                    "Str Grk": 3793.0,
+                    "lemma": "\u1f44\u03c7\u03bb\u03bf\u03b9\u03c2",
+                    "xlit": "ochlois"
+                },
+                {
+                    "BSB Version": " coming out ",
+                    "Str Grk": 1607.0,
+                    "lemma": "\u1f10\u03ba\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03ad\u03bd\u03bf\u03b9\u03c2",
+                    "xlit": "ekporeuomenois"
+                },
+                {
+                    "BSB Version": " to be baptized ",
+                    "Str Grk": 907.0,
+                    "lemma": "\u03b2\u03b1\u03c0\u03c4\u03b9\u03c3\u03b8\u1fc6\u03bd\u03b1\u03b9",
+                    "xlit": "baptisth\u0113nai"
+                },
+                {
+                    "BSB Version": " by ",
+                    "Str Grk": 5259.0,
+                    "lemma": "\u1f51\u03c0\u2019",
+                    "xlit": "hyp\u2019"
+                },
+                {
+                    "BSB Version": " him ",
+                    "Str Grk": 846.0,
+                    "lemma": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+                    "xlit": "autou"
+                },
+                {
+                    "BSB Version": " You brood ",
+                    "Str Grk": 1081.0,
+                    "lemma": "\u0393\u03b5\u03bd\u03bd\u03ae\u03bc\u03b1\u03c4\u03b1",
+                    "xlit": "Genn\u0113mata"
+                },
+                {
+                    "BSB Version": " of vipers ",
+                    "Str Grk": 2191.0,
+                    "lemma": "\u1f10\u03c7\u03b9\u03b4\u03bd\u1ff6\u03bd",
+                    "xlit": "echidn\u014dn"
+                },
+                {
+                    "BSB Version": " who ",
+                    "Str Grk": 5101.0,
+                    "lemma": "\u03c4\u03af\u03c2",
+                    "xlit": "tis"
+                },
+                {
+                    "BSB Version": " warned ",
+                    "Str Grk": 5263.0,
+                    "lemma": "\u1f51\u03c0\u03ad\u03b4\u03b5\u03b9\u03be\u03b5\u03bd",
+                    "xlit": "hypedeixen"
+                },
+                {
+                    "BSB Version": " you ",
+                    "Str Grk": 4771.0,
+                    "lemma": "\u1f51\u03bc\u1fd6\u03bd",
+                    "xlit": "hymin"
+                },
+                {
+                    "BSB Version": " to flee ",
+                    "Str Grk": 5343.0,
+                    "lemma": "\u03c6\u03c5\u03b3\u03b5\u1fd6\u03bd",
+                    "xlit": "phygein"
+                },
+                {
+                    "BSB Version": " from ",
+                    "Str Grk": 575.0,
+                    "lemma": "\u1f00\u03c0\u1f78",
+                    "xlit": "apo"
+                },
+                {
+                    "BSB Version": " the ",
+                    "Str Grk": 3588.0,
+                    "lemma": "\u03c4\u1fc6\u03c2",
+                    "xlit": "t\u0113s"
+                },
+                {
+                    "BSB Version": " coming ",
+                    "Str Grk": 3195.0,
+                    "lemma": "\u03bc\u03b5\u03bb\u03bb\u03bf\u03cd\u03c3\u03b7\u03c2",
+                    "xlit": "mellous\u0113s"
+                },
+                {
+                    "BSB Version": " wrath ",
+                    "Str Grk": 3709.0,
+                    "lemma": "\u1f40\u03c1\u03b3\u1fc6\u03c2",
+                    "xlit": "org\u0113s"
+                }
+            ],
+            "verse_text": "So he was saying to the crowds coming out to be baptized by him, \"Offspring of vipers, who forewarned you to flee from the coming wrath?"
+        }
+    ],
+    "other_words": [
+        {
+            "number": 5330,
+            "lemma": "\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u1fd6\u03bf\u03c2",
+            "xlit": "Pharisa\u00eeos",
+            "pronunciation": "far-is-ah'-yos",
+            "kjv_def": "Pharisee.",
+            "pspeech": "N-GMP",
+            "description": " a separatist, i.e. exclusively religious; a Pharisean, i.e. Jewish sectary"
+        },
+        {
+            "number": 2316,
+            "lemma": "\u03b8\u03b5\u1f79\u03c2",
+            "xlit": "the\u00f3s",
+            "pronunciation": "theh'-os",
+            "kjv_def": "X exceeding,\n God, god(-ly, -ward).",
+            "pspeech": "N-NMS",
+            "description": " a deity, especially (with \u03c4\u1f79(t\u00f3)) the supreme Divinity; figuratively, a magistrate; by Hebraism, very"
+        },
+        {
+            "number": 3962,
+            "lemma": "\u03c0\u03b1\u03c4\u1f75\u03c1",
+            "xlit": "pat\u1e17r",
+            "pronunciation": "pat-ayr'",
+            "kjv_def": "father, parent.",
+            "pspeech": "N-GMS",
+            "description": " a \"father\" (literally or figuratively, near or more remote)"
+        },
+        {
+            "number": 1607,
+            "lemma": "\u1f10\u03ba\u03c0\u03bf\u03c1\u03b5\u1f7b\u03bf\u03bc\u03b1\u03b9",
+            "xlit": "ekpore\u00faomai",
+            "pronunciation": "ek-por-yoo'-om-ahee",
+            "kjv_def": "come\n (forth, out of), depart, go (forth, out), issue, proceed (out of).",
+            "pspeech": "V-IIM/P-3S",
+            "description": " to depart, be discharged, proceed, project"
+        }
+    ]
+}
